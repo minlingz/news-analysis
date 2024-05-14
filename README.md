@@ -1,2 +1,2 @@
 # news-analysis
-new analysis using LLM
+Global news analysis using LLM
