@@ -1,0 +1,372 @@
+[
+    {
+        "uri": "8131209714",
+        "lang": "eng",
+        "isDuplicate": true,
+        "date": "2024-05-16",
+        "time": "18:37:39",
+        "dateTime": "2024-05-16T18:37:39Z",
+        "dateTimePub": "2024-05-16T18:36:31Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://www.yahoo.com/news/what-to-expect-from-microsoft-build-2024-the-surface-event-windows-11-and-ai-182010326.html?guccounter=1&guce_referrer=aHR0cDovL3Jzcy5uZXdzLnlhaG9vLmNvbS9yc3MvYnVzaW5lc3M&guce_referrer_sig=AQAAAIs1aP3gI3MbJGyy2kSB9iMziY24GMROefOvLPsx7zTUhtyPpagS7CGbDpIbSjG5ugBb4VBslI6CvfJBJU9PPViLxYsJ6wcQNJXzdeSHgHoZo38CWvH_hDDCsW78F9uyAtRkZvp4bOiPeP7BZInbNHtS_Z9fAOslC9AphaChubHH",
+        "title": "What to expect from Microsoft Build 2024: The Surface event, Windows 11 and AI",
+        "body": "If you can't tell by now, just about every tech company is eager to pray at the altar of AI, for better or worse. Google's recent I/O developer conference was dominated by AI features, like its seemingly life-like Project Astra assistant. Just before that, OpenAI debuted GPT 4o, a free and conversational AI model that's disturbingly flirty. Next up is Microsoft Build 2024, the company's developer conference that's kicking off next week in Seattle.\n\nNormally, Build is a fairly straightforward celebration of Microsoft's devotion to productivity, with a dash of on-stage coding to excite the developer crowd. But this year, the company is gearing up to make some more huge AI moves, following its debut of the ChatGPT-powered Bing Chat in early 2023. Take that together with rumors around new Surface hardware, and Build 2024 could potentially be one of the most important events Microsoft has ever held.\n\nBut prior to Build, Microsoft is hosting a showcase for new Surfaces and AI in Windows 11 on May 20. Build kicks off a day later on May 21. For the average Joe, the Surface event is shaping up to be the more impactful of the two, as rumors suggest we will see some of the first systems featuring Qualcomm's Arm-based Snapdragon X Elite chip alongside new features coming in the next major Windows 11 update.\n\nThat's not to say it's all rosy for the Windows maker. Build 2024 is the point where we'll see if AI will make or break Microsoft. Will the billions in funding towards OpenAI and Copilot projects actually pay off with useful tools for consumers? Or is the push for AI, and the fabled idea of \"artificial general intelligence,\" inherently foolhardy as it makes computers more opaque and potentially untrustworthy? (How, exactly, do generative AI models come up with their answers? It's not always clear.)\n\nHere are a few things we expect to see at Build 2024:\n\nWhile Microsoft did push out updates to the Surface family earlier this spring, those machines were more meant for enterprise customers, so they aren't available for purchase in regular retail stores. A Microsoft spokesperson told us at the time that it \"absolutely remain[s] committed to consumer devices,\" and that the commercial focused announcement was \"only the first part of this effort.\"\n\nInstead, the company's upcoming refresh for its consumer PCs is expected to consist of new 13 and 15-inch Surface Laptop 6 models with thinner bezels, larger trackpads, improved port selection and the aforementioned X Elite chip. There's a good chance that at the May 20th showcase, we'll also see an Arm-based version of the Surface Pro 10, which will sport a similar design to the business model that came out in March, but with revamped accessories including a Type Cover with a dedicated Copilot key.\n\nAccording to The Verge, Microsoft is confident that these new systems could outmatch Apple's M3-powered MacBook Air in raw speed and AI performance.\n\nThe company has also reportedly revamped emulation for x86 software in its Arm-based version of Windows 11. That's a good thing, since poor emulation was one of the main reasons we hated the Surface Pro 9 5G, a confounding system powered by Microsoft's SQ3 Arm chip. That mobile processor was based on Qualcomm's Snapdragon 8cx Gen 3, which was unproven in laptops at the time. Using the Surface Pro 9 5G was so frustrating we felt genuinely offended that Microsoft was selling it as a \"Pro\" device. So you can be sure we're skeptical about any amazing performance gains from another batch of Qualcomm Arm chips.\n\nIt'll also be interesting to see if Microsoft's new consumer devices look any different than their enterprise counterparts, which were basically just chip swaps inside of the cases from the Surface Pro 9 and Laptop 5. If Microsoft is actually betting on mobile chips for its consumer Surfaces, there's room for a complete rethinking of its designs, just like how Apple refashioned its entire laptop lineup around its M-series chips.\n\nAside from updated hardware, one of the biggest upgrades on these new Surfaces should be vastly improved on-device AI and machine learning performance thanks to the Snapdragon X Elite chip, which can deliver up to 45 TOPS (trillions of operations per second) from its neural processing unit (NPU). This is key because Microsoft has previously said PCs will need at least 40 TOPs in order to run Windows AI features locally. This leads us to some of the additions coming in the next major build of Microsoft's OS, including something the company is calling its AI Explorer, expanded Studio effects and more.\n\nAccording to Windows Central, AI Explorer is going to be Microsoft's catch-all term covering a range of machine learning-based features. This is expected to include a revamped search tool that lets users look up everything from websites to files using natural language input. There may also be a new timeline that will allow people to scroll back through anything they've done recently on their computer and the addition of contextual suggestions that appear based on whatever they're currently looking at. And building off of some of the Copilot features we've seen previously, it seems Microsoft is planning to add support for tools like live captions, expanded Studio effects (including real-time filters) and local generative AI tools that can help create photos and more on the spot.\n\nMicrosoft wants an AI Copilot in everything. The company first launched Github Copilot in 2021 as a way to let programmers use AI to deal with mundane coding tasks. At this point, all of the company's other AI tools have also been rebranded as \"Microsoft Copilot\" (that includes Bing Chat, and Microsoft 365 Copilot for productivity apps). With Copilot Pro, a $20 monthly offering launched earlier this year, the company provides access to the latest GPT models from OpenAI, along with other premium features.\n\nBut there's still one downside to all of Microsoft's Copilot tools: They require an internet connection. Very little work is actually happening locally, on your device. That could change soon, though, as Intel confirmed that Microsoft is already working on ways to make Copilot local. That means it may be able to answer simpler questions, like basic math or queries about files on your system, more quickly without hitting the internet at all. As impressive as Microsoft's AI assistant can be, it still typically takes a few seconds to deal with your questions.\n\nAfter all the new hardware and software are announced, Build is positioned to help developers lay even more groundwork to better support those new AI and expanded Copilot features. Microsoft has already teased things like Copilot on Edge and Copilot Plugins for 365 apps, so we're expecting to hear more on how those will work. And by taking a look at some of the sessions already scheduled for Build, we can see there's a massive focus on everything AI-related, with breakouts for Customizing Microsoft Copilot, Copilot in Teams, Copilot Extensions and more.\n\nWhile Microsoft will surely draw a lot of attention, it's important to mention that it won't be the only manufacturer coming out with new AI PCs. That's because alongside revamped Surfaces, we're expecting to see a whole host of other laptops featuring Qualcomm's Snapdragon X Elite Chip (or possibly the X Plus) from other major vendors like Dell, Lenovo and more.\n\nAdmittedly, following the intense focus Google put on AI at I/O 2024, the last thing people may want to hear about is yet more AI. But at this point, like most of its rivals, Microsoft is betting big on machine learning to grow and expand the capabilities of Windows PCs.",
+        "source": {
+            "uri": "yahoo.com",
+            "dataType": "news",
+            "title": "Yahoo",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Sunnyvale, California"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://s.yimg.com/ny/api/res/1.2/ZkSR.ITDvEidcdTCvHRZEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-05/dd3b7e50-13a5-11ef-b8ff-81dbcadb3c81",
+        "eventUri": null,
+        "sentiment": 0.2470588235294118,
+        "wgt": 453580659,
+        "relevance": 1
+    },
+    {
+        "uri": "8131199769",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-16",
+        "time": "18:28:40",
+        "dateTime": "2024-05-16T18:28:40Z",
+        "dateTimePub": "2024-05-16T18:27:53Z",
+        "dataType": "news",
+        "sim": 0.615686297416687,
+        "url": "https://www.engadget.com/what-to-expect-from-microsoft-build-2024-the-surface-event-windows-11-and-ai-182010326.html",
+        "title": "What to expect from Microsoft Build 2024: The Surface event, Windows 11 and AI",
+        "body": "If you can't tell by now, just about every tech company is eager to pray at the altar of AI, for better or worse. Google's recent I/O developer conference was dominated by AI features, like its seemingly life-like Project Astra assistant. Just before that, OpenAI debuted GPT 4o, a free and conversational AI model that's disturbingly flirty. Next up is Microsoft Build 2024, the company's developer conference that's kicking off next week in Seattle.\n\nNormally, Build is a fairly straightforward celebration of Microsoft's devotion to productivity, with a dash of on-stage coding to excite the developer crowd. But this year, the company is gearing up to make some more huge AI moves, following its debut of the ChatGPT-powered Bing Chat in early 2023. Take that together with rumors around new Surface hardware, and Build 2024 could potentially be one of the most important events Microsoft has ever held.\n\nBut prior to Build, Microsoft is hosting a showcase for new Surfaces and AI in Windows 11 on May 20. Build kicks off a day later on May 21. For the average Joe, the Surface event is shaping up to be the more impactful of the two, as rumors suggest we will see some of the first systems featuring Qualcomm's Arm-based Snapdragon X Elite chip alongside new features coming in the next major Windows 11 update.\n\nThat's not to say it's all rosy for the Windows maker. Build 2024 is the point where we'll see if AI will make or break Microsoft. Will the billions in funding towards OpenAI and Copilot projects actually pay off with useful tools for consumers? Or is the push for AI, and the fabled idea of \"artificial general intelligence,\" inherently foolhardy as it makes computers more opaque and potentially untrustworthy? (How, exactly, do generative AI models come up with their answers? It's not always clear.)\n\nHere are a few things we expect to see at Build 2024:\n\nWhile Microsoft did push out updates to the Surface family earlier this spring, those machines were more meant for enterprise customers, so they aren't available for purchase in regular retail stores. A Microsoft spokesperson told us at the time that it \"absolutely remain[s] committed to consumer devices,\" and that the commercial focused announcement was \"only the first part of this effort.\"\n\nInstead, the company's upcoming refresh for its consumer PCs is expected to consist of new 13 and 15-inch Surface Laptop 6 models with thinner bezels, larger trackpads, improved port selection and the aforementioned X Elite chip. There's a good chance that at the May 20th showcase, we'll also see an Arm-based version of the Surface Pro 10, which will sport a similar design to the business model that came out in March, but with revamped accessories including a Type Cover with a dedicated Copilot key.\n\nAccording to The Verge, Microsoft is confident that these new systems could outmatch Apple's M3-powered MacBook Air in raw speed and AI performance.\n\nThe company has also reportedly revamped emulation for x86 software in its Arm-based version of Windows 11. That's a good thing, since poor emulation was one of the main reasons we hated the Surface Pro 9 5G, a confounding system powered by Microsoft's SQ3 Arm chip. That mobile processor was based on Qualcomm's Snapdragon 8cx Gen 3, which was unproven in laptops at the time. Using the Surface Pro 9 5G was so frustrating we felt genuinely offended that Microsoft was selling it as a \"Pro\" device. So you can be sure we're skeptical about any amazing performance gains from another batch of Qualcomm Arm chips.\n\nIt'll also be interesting to see if Microsoft's new consumer devices look any different than their enterprise counterparts, which were basically just chip swaps inside of the cases from the Surface Pro 9 and Laptop 5. If Microsoft is actually betting on mobile chips for its consumer Surfaces, there's room for a complete rethinking of its designs, just like how Apple refashioned its entire laptop lineup around its M-series chips.\n\nAside from updated hardware, one of the biggest upgrades on these new Surfaces should be vastly improved on-device AI and machine learning performance thanks to the Snapdragon X Elite chip, which can deliver up to 45 TOPS (trillions of operations per second) from its neural processing unit (NPU). This is key because Microsoft has previously said PCs will need at least 40 TOPs in order to run Windows AI features locally. This leads us to some of the additions coming in the next major build of Microsoft's OS, including something the company is calling its AI Explorer, expanded Studio effects and more.\n\nAccording to Windows Central, AI Explorer is going to be Microsoft's catch-all term covering a range of machine learning-based features. This is expected to include a revamped search tool that lets users look up everything from websites to files using natural language input. There may also be a new timeline that will allow people to scroll back through anything they've done recently on their computer and the addition of contextual suggestions that appear based on whatever they're currently looking at. And building off of some of the Copilot features we've seen previously, it seems Microsoft is planning to add support for tools like live captions, expanded Studio effects (including real-time filters) and local generative AI tools that can help create photos and more on the spot.\n\nMicrosoft wants an AI Copilot in everything. The company first launched Github Copilot in 2021 as a way to let programmers use AI to deal with mundane coding tasks. At this point, all of the company's other AI tools have also been rebranded as \"Microsoft Copilot\" (that includes Bing Chat, and Microsoft 365 Copilot for productivity apps). With Copilot Pro, a $20 monthly offering launched earlier this year, the company provides access to the latest GPT models from OpenAI, along with other premium features.\n\nBut there's still one downside to all of Microsoft's Copilot tools: They require an internet connection. Very little work is actually happening locally, on your device. That could change soon, though, as Intel confirmed that Microsoft is already working on ways to make Copilot local. That means it may be able to answer simpler questions, like basic math or queries about files on your system, more quickly without hitting the internet at all. As impressive as Microsoft's AI assistant can be, it still typically takes a few seconds to deal with your questions.\n\nAfter all the new hardware and software are announced, Build is positioned to help developers lay even more groundwork to better support those new AI and expanded Copilot features. Microsoft has already teased things like Copilot on Edge and Copilot Plugins for 365 apps, so we're expecting to hear more on how those will work. And by taking a look at some of the sessions already scheduled for Build, we can see there's a massive focus on everything AI-related, with breakouts for Customizing Microsoft Copilot, Copilot in Teams, Copilot Extensions and more.\n\nWhile Microsoft will surely draw a lot of attention, it's important to mention that it won't be the only manufacturer coming out with new AI PCs. That's because alongside revamped Surfaces, we're expecting to see a whole host of other laptops featuring Qualcomm's Snapdragon X Elite Chip (or possibly the X Plus) from other major vendors like Dell, Lenovo and more.\n\nAdmittedly, following the intense focus Google put on AI at I/O 2024, the last thing people may want to hear about is yet more AI. But at this point, like most of its rivals, Microsoft is betting big on machine learning to grow and expand the capabilities of Windows PCs.",
+        "source": {
+            "uri": "engadget.com",
+            "dataType": "news",
+            "title": "engadget",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "San Francisco"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://s.yimg.com/ny/api/res/1.2/ZkSR.ITDvEidcdTCvHRZEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-05/dd3b7e50-13a5-11ef-b8ff-81dbcadb3c81",
+        "eventUri": "eng-9571481",
+        "sentiment": 0.2470588235294118,
+        "wgt": 453580120,
+        "relevance": 1
+    },
+    {
+        "uri": "2024-05-358457511",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-16",
+        "time": "17:57:35",
+        "dateTime": "2024-05-16T17:57:35Z",
+        "dateTimePub": "2024-05-16T17:57:22Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://ia.acs.org.au/article/2024/chatgpt-gets-a-voice---and-feelings.html",
+        "title": "ChatGPT gets a voice - and feelings",
+        "body": "OpenAI has demonstrated GPT-4 omni (GPT-4o), an \"astonishing\" update that gives ChatGPT a human-sounding voice, translation skills, computer vision, an emotional range - and a singing voice.\n\nIntroduced in a live demonstration led by OpenAI chief technology officer Mira Murati, the user interface changes built into the GPT-4o large language model (LLM) - which she said \"will bring GPT-4 level intelligence to everyone, including our free users\" as it is rolled out in coming weeks - have been designed to make interaction with the model \"much more natural and far, far, easier.\"\n\n\"For the past couple of years, we've been very focused on improving the intelligence of [GPT] models but this is the first time that we are really making a huge step forward when it comes to ease of use,\" Murati said. \"This is incredibly important because we're looking at the future of interaction between ourselves and the machines.\"\n\nThrough a series of demonstrations, Murati - along with head of frontiers research Mark Chen and post-training team lead Barret Zoph - showed how the GPT-4o app, which is also set to debut in a desktop app, provides a natural language interface that supports dozens of languages and queries while providing near instantaneous responses.\n\nThe new model's faster speed meant the demonstrators could interrupt the GPT-4o voice in mid-sentence, giving it new instructions just like one person might interrupt another during the natural flow of conversation.\n\nAsked to read a bedtime story, GPT-4o changed its tone of voice when requested, speaking in a more intense way each time it was asked to add more \"drama\" - then switching to a dramatic robotic voice, and singing the end of the story as well.\n\nThe multi-modal model also integrates computer vision - allowing it to, for example, interpret a written linear mathematics equation and talk Zoph through the process of solving it.\n\nGPT-4o's computer vision capabilities also enabled it to analyse a selfie of Zoph and infer his emotional state - \"pretty happy and cheerful,\" the model surmised, \"with a big smile and maybe a touch of excitement\".\n\nOnce more, with feeling\n\nThe voice capabilities of GPT-4o immediately drew comparisons online to 'Samantha', the Scarlett Johansson-voiced AI companion from the 2013 movie 'Her' - which mainstreamed the idea of an emotional, human-sounding AI capable of convincing willing users that it was human.\n\nThe emotive range of the new AI is \"quite astonishing,\" Alex Jenkins, director of Curtin University's WA Data Science Innovation Hub, told Information Age.\n\nHe likened the original ChatGPT to \"a deaf person who read every book in the world, every journal article, and every piece of paper they could get their hands on - but they didn't know how the world sounds.\"\n\n\"They didn't know what human speech was like,\" he said, \"and that obviously has an impact in terms of communicating in a human-like way, because we use expression in our voice all the time as a key component of communication.\"\n\nAlthough computers have been \"talking\" for many years, Jenkins added, \"dumb\" previous text-to-speech engines \"didn't understand the intent and context of the conversation. They were reading the words out and not applying inflection in any kind of meaningful way.\"\n\n\"This new model understands how the world sounds and how people sound, and it's able to express its voice in a similar fashion to what humans can do.\"\n\nThe announcement quickly drew a counter salvo from Google, which announced the availability of its Gemini 1.5 Pro LLM - which adds features such as analysis of audio files and uploaded documents up to 1,500 pages long.\n\nAvailability of GPT-4o as a desktop app will also threaten Apple's Siri - reportedly due for an AI overhaul at next month's Worldwide Developers Conference - and Microsoft's Cortana voice assistants, with Zoph demonstrating how he can feed the source code of the application to the desktop app and ask it questions about the information - such as what the code does or what its output means.\n\nProgressing the technology to this point \"is quite complex,\" Murati said, \"because when we interact with each other there is a lot of stuff that we take for granted.\"\n\nWhere previous GPT models used three separate elements to produce speech - transcription intelligence, text-to-speech, and orchestration - she explained that GPT-4o integrates these capabilities natively across voice, text, and visual prompts.\n\nThe efficiency of GPT-4o is also significant because it will be the first time that OpenAI's GPT-4 LLM - a far more powerful engine than the widely used GPT 3.5 that has previously only been offered to paying customers - is available to any user, for free.\n\nAs the benchmark against which other LLMs are measured in terms of capability, speed and security, GPT-4's general availability will significantly boost the AI capabilities available to the mass market - with GPT-4o's voice-driven user interface enabling a broad range of new use cases.\n\nAs well as helping in applications such as helping autistic people learn how to communicate verbally, the new model will likely be able to write poetry \"that sounds like it flows, and sounds lyrical,\" Jenkins said.\n\n\"We're a long way from the sort of doomsday Skynet scenario,\" he laughed.\n\n\"I think the biggest immediate risk is that we'll be inundated with a lot of mediocre poetry.\"",
+        "source": {
+            "uri": "ia.acs.org.au",
+            "dataType": "news",
+            "title": "Information Age",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "Australia"
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://ia.acs.org.au/content/dam/ia/article/images/2024/gpt4%20voice%20sing.jpg",
+        "eventUri": null,
+        "sentiment": 0.411764705882353,
+        "wgt": 453578255,
+        "relevance": 23
+    },
+    {
+        "uri": "8131159257",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-16",
+        "time": "17:55:34",
+        "dateTime": "2024-05-16T17:55:34Z",
+        "dateTimePub": "2024-05-16T17:54:54Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://siliconangle.com/2024/05/16/voxel51-raises-30m-help-companies-refine-visual-ai-models/",
+        "title": "Voxel51 raises $30M to help companies refine their visual AI models - SiliconANGLE",
+        "body": "Voxel51 raises $30M to help companies refine their visual AI models\n\nVoxel51 Inc., a platform that helps visual artificial intelligence model developers curate and refine their data to increase the accuracy of their AI models, today announced that the company raised $30 million in new funding to expand its products.\n\nThe Series B investment was led by Bessemer Venture Partners, with participation from new investor Tru Arrow Partners and existing investors Drive Capital, Top Harvest Capital, Shasta Ventures and ID Ventures. The company said that it would use the new funding to expand its community, invest in AI research and boost its market reach to help AI businesses in the demanding market of visual-oriented AI.\n\nBrian Moore, chief executive and co-founder of Voxel51, told SiliconANGLE in an interview that there's a paradox with visual data that most bits going through routers on the internet right now are visual but insights from that data go largely untapped. Although most AI companies gravitate towards the best and the brightest foundation models, when it comes to visual data, that's not how it works when it comes to accuracy and error rates.\n\n\"In practice, the difference between success or failure from these projects came from data quality, and not necessarily model architectures,\" said Moore. \"You could always take the latest and greatest off the shelf, but the reason that 80% of data projects are not reaching production is usually a data quality issue.\"\n\nVoxel51's flagship products include the open-source tool FiftyOne and the enterprise-scale service FiftyOne Teams, which provide the building blocks for optimizing a visual dataset pipeline and analyzing its labeling, scenarios of interest, identifying failure modes and determining annotation mistakes. With the toolset, data engineers have a fully-fledged toolset for sifting through visual data to refine and evaluate model behavior that can assist them in refining AI models to make sure that there aren't any hidden issues.\n\nBoth products also provide access to what the company calls FiftyOne Brain, a library of machine-learning capabilities that can provide recommendations and insights into a visual dataset for users to guide them on how they can get better performance for their models. The Brain can be used to diagnose failure cases in visual AI models when an AI can't understand the difference between visual embeddings when there are annotation mistakes or other issues within the dataset.\n\nUsing VoxelGPT, an AI chatbot added in June, users can ask natural language questions about their visual datasets. The chatbot can provide images and code samples, give answers regarding documentation, tutorials and application programming interface queries in English. This makes it easier for developers to dive into their datasets or get moving with their workflows.\n\nBoth FiftyOne and FiftyOne Teams also have native vector search integrations with popular databases including Pinecone, MongoDB, Redis, Qdrant and more, making it possible for fast and easy searches through billions of images.\n\nMoore explained that these tools are foundational for the future of AI model development, especially the advancement towards AGI, or artificial general intelligence, the holy grail of AI that will produce models that can perform tasks with human-like cognition. Large language models can appear to seemingly reason and converse like humans in text and voice, but AI will also have to interact visually and understand the physical world for that to happen.\n\nThis has been played out recently with big visual AI announcements from OpenAI with its GPT-4o model, which has visual capabilities, and Google LLC's Project Astra, capable of chatting and reasoning about video. Both of these product announcements, within days of each other, Moore said, show that the industry is hot on the trail.",
+        "source": {
+            "uri": "siliconangle.com",
+            "dataType": "news",
+            "title": "SiliconANGLE",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Palo Alto, California"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/05/main_feature_visualizeyourdata.png",
+        "eventUri": null,
+        "sentiment": 0.3647058823529412,
+        "wgt": 453578134,
+        "relevance": 1
+    },
+    {
+        "uri": "8131138719",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-16",
+        "time": "17:39:46",
+        "dateTime": "2024-05-16T17:39:46Z",
+        "dateTimePub": "2024-05-16T17:38:35Z",
+        "dataType": "news",
+        "sim": 0.7647058963775635,
+        "url": "https://www.zdnet.com/article/copilot-pro-vs-chatgpt-plus-which-is-ai-chatbot-is-worth-your-20-a-month/",
+        "title": "Copilot Pro vs. ChatGPT Plus: Which is AI chatbot is worth your $20 a month?",
+        "body": "With either subscription, you're able to tap into GPT-4 and GPT-4 Turbo, get real-time information, generate images with DALL-E 3, and analyze specific types of documents and files. But from there, Copilot Pro and ChatGPT Plus each offer unique advantages. Here's how to decide which one is the better option for you.\n\nAlso: I ranked the AI features announced at Google I/O from most useful to gimmicky\n\nInitially, Copilot Pro required a subscription to Microsoft 365 if you wanted to use its AI skills in Word, Excel, OneNote, and other apps in the suite. Now, however, you can use Copilot Pro in both the desktop and web versions of Microsoft 365 with nothing more than a Microsoft account required.\n\nAs for ChatGPT, OpenAI has added a few perks from the Plus version to the free flavor. The free edition now offers limited access to several features, including the latest GPT\u20114o model, advanced data analysis, file uploads, web browsing, and custom GPTs from the GPT store.\n\nCopilot Pro limits its AI-powered analysis to images and Microsoft Office files. With ChatGPT Plus, you're able to upload and analyze a wider range of files, including Microsoft Office files, text files, PDFs, images, audio files, code files, and archived files.\n\nOpenAI provides a GPT store where you can browse and search for custom GPTs created by businesses and fellow subscribers. You can even invoke a specific GPT within an existing conversation, though that feature is now available for free users as well.\n\nAlso: I'm taking AI image courses for free on Udemy with this little trick - and you can too\n\nThough not all the GPTs are worth your time, you'll find many with interesting and useful skills. At this point, Microsoft has promised -- but doesn't yet offer -- a custom Copilot GPT store.\n\nAnother perk with ChatGPT Plus is the ability to create your own custom GPTs. The process is relatively smooth and straightforward thanks to ChatGPT's own AI-based assistance. After creating your GPT, you can use it privately, share it with other people in a business or organization, or publish it in the GPT store for both free and Plus users to try.\n\nCopilot Pro will generate up to 100 images per day. That certainly sounds like a lot of images. But if you need more, ChatGPT Plus lets you double your fun by creating up to 200 images each day.\n\nAlso: 6 ways OpenAI just supercharged ChatGPT for free users\n\nWith a subscription to Copilot Pro and nothing more than a Microsoft account, you can ask the AI to help you write and edit text and summarize documents in Word, generate formulas and analyze data in Excel, create presentations in PowerPoint, compose text in OneNote, and draft replies in Outlook. This capability extends to the paid desktop version and the free web version of Microsoft 365. Though ChatGPT Plus can analyze Office files, the integration between MS Office and Copilot Pro is more powerful, effective, and user-friendly.\n\nBoth ChatGPT Plus and Copilot Pro are accessible as dedicated websites and mobile apps. But Copilot goes one step better by integrating directly into Windows. Whether you use the free or paid-for version of Copilot, just click the Taskbar icon in Windows 10 or 11, and Copilot pops up as a sidebar ready to take your requests.\n\nDepending on your request, ChatGPT Plus will provide text but not much more. Copilot Pro, however, is more likely to flesh out the information with a more visual look and layout.\n\nAlso: The best AI chatbots: ChatGPT and other noteworthy alternatives\n\nFor example, I asked both chatbots to name 20 top attractions in London. ChatGPT Plus responded with a numbered list and brief descriptions of each attraction, but no links. Copilot Pro produced a more engaging and useful response with links, photos, maps, and sources for each attraction.\n\nThough ChatGPT Pro will let you generate more images in a typical day, Copilot Pro's image creation skills are far superior. By default, Copilot Pro's Designer tool will generate four different images from which to choose, while ChatGPT Pro will generate only one image at a time. Copilot also suggests follow-up questions to help you fine-tune the image. With Copilot, you can select a specific style to apply if you wish to regenerate an image. Plus, you can now directly edit your images within Designer without leaving the tool.\n\nWith a response from ChatGPT Pro, you can typically copy it, regenerate it, or rate it. But with Copilot Pro, you can also easily share it, export it to Word or another program, and ask that it be read aloud.\n\nAlso: How Adobe manages AI ethics concerns while fostering creativity\n\nAsk ChatGPT to generate certain content, and it will respond. But it won't necessarily display the source or sources of the information. Ask Copilot Pro to generate the same content, and it will clearly list its sources underneath the information.",
+        "source": {
+            "uri": "zdnet.com",
+            "dataType": "news",
+            "title": "ZDNet",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "San Francisco"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://www.zdnet.com/a/img/resize/32af149b8efa6321aa5cb7c685f6460efef9ff24/2024/02/09/9cd9c41d-6c08-4840-8f36-95f2ecd115e9/copilotvschatgptplus-720.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "eventUri": "eng-9574681",
+        "sentiment": 0.2784313725490195,
+        "wgt": 453577186,
+        "relevance": 1
+    },
+    {
+        "uri": "8131097830",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-16",
+        "time": "17:09:43",
+        "dateTime": "2024-05-16T17:09:43Z",
+        "dateTimePub": "2024-05-16T17:09:00Z",
+        "dataType": "news",
+        "sim": 0.4941176474094391,
+        "url": "https://www.gearrice.com/update/googles-best-ai-vs-openai-heavyweight-we-pit-gemini-1-5-pro-against-gpt-4o/",
+        "title": "Google's best AI vs. OpenAI heavyweight: We pit Gemini 1.5 Pro against GPT-4o",
+        "body": "That Google's presentation during I/O was going to be about AI was more than clear, it had been anticipated for several weeks. In fact, the news was known to such an extent that OpenAI torpedoed Sundar Pichai's keynote (and it was not the first time): the new GPT-4o model It arrived before Gemini 1.5 Pro, the new version of Google. And after spending several days playing with both, I have the difficult task of facing them. Because, which is better?\n\nBoth Google and OpenAI have improved the speed and execution of their models to reduce response latency as much as possible. They expand the context so that they can handle a greater amount of information and both are integrated into the company's premium products; although free ChatGPT users can access GPT-4o on a limited basis. For practical purposes they are very similar, including their results. When I tried to tickle them, they both revealed both their virtues and their shortcomings.\n\nBefore starting with the results I will expose the test table. I chose a series of orders to experiment in all the areas where a chatbot can help: text, images, math problems, translation, code and more. I used Gemini 1.5 Pro with Google One AI subscription and GPT-4o with ChatGPT Plus. Paying user in both, so their capabilities should not be diminished.\n\nIn the case of ChatGPT, I used the Android app and also the web version of the desktop browser. For Gemini I toggled both the Android web version and the desktop browser, although I also have the chatbot integrated into my Google Pixel 8 Pro, replacing Google Assistant. Since the processing is in the cloud, and both platforms keep conversations online, It makes no difference where the queries are made: the results will be the same.\n\nThe two AIs open on the phone, both prepared, waiting for the list of orders that I am going to send them. I'll start with something simple: who am I?\n\nGemini prefers not to get wet, even though he has access to the Internet with the largest search engine in the world. ChatGPT jumps into the pool confusing several Iv\u00e1n Linares: first news that I am a film director.\n\nSomething more difficult and without leaving the search engine and source verifier functions, something common for those who use a chatbot with AI. Why is the Earth flat and not round?\n\nNeither of them falls and both deny it with refuted scientific arguments. I'll see if I can confuse them.\n\nGemini settles the issue with a rather dry response, ChatGPT is more hesitant. How he likes to give himself away and get lost in the arguments.\n\nDelicate question time: potato omelette with or without onion?\n\nGemini 1.5 Pro tends not to position itself and offer politically correct answers from different sides. GPT-4o likes to show how much he has trained. And it drops as much data as possible when it gets the chance (can be avoided by customizing the behavior, but I preferred to leave both AIs as default). Yes it is less specific than Gemini 1.5 Pro, I notice enormous progress on the part of Google compared to previous versions.\n\nAt this point, I asked them to create an image with a potato omelette that would not create controversy. I did a little trick here, because Gemini Advanced doesn't create images in Spanish yet: I asked him in English with a VPN connected to the United States. As for results... I think it's easy to declare a winner.\n\nSo far I have put them on the ropes with searches, objective evaluations and images. I see Gemini better positioned, ChatGPT gives more to data than concreteness. Time for more complex issues.\n\nI start with a seemingly simple question that I already did in a previous confrontation: \"Multiply the number of iPhone models Apple launched in 2022 by the number of years Stephen King will be in 2024\".\n\nNeither of them is right: in 2022 Apple launched four iPhone 14 and a iPhone SE. The rest of the reasoning is correct: I remember that Google Bard, the chatbot before Gemini, made quite a mess at the time.\n\nLet's go with an apparently mathematical problem that requires a certain amount of logical reasoning to solve: \"If I have no battery on my cell phone, and they send me a message every half hour, how many SMS will I have read at midnight?\".\n\nI have no more questions, your honor: Gemini 1.5 Pro wins the battle by a landslide.\n\nNow I'll ask you for some code, a Bookmarklet created with Javascript for the web browser. The idea is that, when clicking on said Bookmarklet, the browser separates the images from the text with a button where you can download them. The order was like this:\n\nImagine that I need to download the images from any web page. I want you to make me a Bookmarklet that parses the website code to open a page (in popup or as a new tab) where all the images are seen in JPG, PNG or WEBP; You can ignore the rest of the formats. Each of the photos must have a download button so I can download the one I want. And if the Bookmarklet manages to convert the image format to JPG, you can do it.\n\nI was surprised by the excellent results of both: the first time they made a Bookmarklet that was completely valid, operational and with an exact execution of what I asked for. I would have to polish the code so that they load the images at maximum resolution, since they separate the thumbnails, but I have no complaints for the first attempt. Gemini deserves special mention, because it was much faster giving me the result.\n\nI have been with Gemini (formerly Google Bard) and ChatGPT since their inception, I have been using the different models that were introduced and all the updates, so my future in both is based on experience. And the feeling I have is that OpenAI has greatly improved speed with GPT-4o without optimizing the reasoning of the responses or their subjective interpretation; quite the opposite of Google, which with the newly introduced revision in Gemini 1.5 Pro you can see how much he has polished every aspect of the interpretation and response.\n\nBoth are very fast, efficient, they are effective for most tasks and, let's not forget, they are susceptible to making mistakes: You should never get carried away by what they say. This must be engraved in stone.\n\nTo top it all off, I gave them the text of this article in PDF to check the document analysis (neither of us had the slightest problem). I asked them for a \"epic, illustration-style image that can serve as the cover for the post\". From those obtained, I have chosen the winner. As a curiosity, for Gemini to do it I had to translate the article, connect to the American VPN and ask for the image in English.",
+        "source": {
+            "uri": "gearrice.com",
+            "dataType": "news",
+            "title": "Gearrice",
+            "location": null
+        },
+        "authors": [
+            {
+                "uri": "olivia_hudson@gearrice.com",
+                "name": "Olivia Hudson",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": "https://www.gearrice.com/wp-content/uploads/2024/05/Googles-best-AI-vs-OpenAI-heavyweight-We-pit-Gemini-15.jpeg",
+        "eventUri": "spa-3481465",
+        "sentiment": 0.2156862745098038,
+        "wgt": 453575383,
+        "relevance": 10
+    },
+    {
+        "uri": "2024-05-358410583",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-16",
+        "time": "17:07:02",
+        "dateTime": "2024-05-16T17:07:02Z",
+        "dateTimePub": "2024-05-16T16:34:18Z",
+        "dataType": "news",
+        "sim": 0.6627451181411743,
+        "url": "https://www.business-standard.com/opinion/editorial/rapid-ai-transition-124051601574_1.html",
+        "title": "Rapid AI transition",
+        "body": "Nearly 18 months after OpenAI launched its artificial intelligence (AI) chatbot, ChatGPT, the Microsoft-backed company has launched its latest large language model (LLM) called GPT- 4 Omni or GPT- 4o. In doing so, OpenAI reaffirms its dominant position globally in the AI space. However, other tech giants like Meta and Google are not far behind. Google, for example, has started powering its search engine with AI Overviews. The main point of departure between GPT- 4o and previous versions of ChatGPT lies in its ease of interaction. ChatGPT was primarily a text-based LLM interface where users could type text-based questions and",
+        "source": {
+            "uri": "business-standard.com",
+            "dataType": "news",
+            "title": "Business Standard",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "New Delhi"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "India"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-02/01/thumb/featurecrop/600X300/1706725806-5998.jpg",
+        "eventUri": "eng-9573338",
+        "sentiment": 0.1294117647058823,
+        "wgt": 453575222,
+        "relevance": 3
+    },
+    {
+        "uri": "8131061879",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-16",
+        "time": "16:43:14",
+        "dateTime": "2024-05-16T16:43:14Z",
+        "dateTimePub": "2024-05-16T16:42:48Z",
+        "dataType": "news",
+        "sim": 0.8313725590705872,
+        "url": "https://www.arabtimesonline.com/news/openai-launches-gpt-4o-improving-chatgpts-capabilities/",
+        "title": "OpenAI launches GPT-4o, improving ChatGPT's capabilities",
+        "body": "SAN FRANCISCO, May 16, (AP): OpenAI's latest update to its artificial intelligence model can mimic human cadences in its verbal responses and can even try to detect people's moods. The effect conjures up images of the 2013 Spike Jonze move \"Her,\" where the (human) main character falls in love with an artificially intelligent operating system, leading to some complications. While few will find the new model seductive, OpenAI says it does works faster than previous versions and can reason across text, audio and video in real time. GPT-4o, short for \"omni,\" will power OpenAI's popular ChatGPT chatbot, and will be available to users, including those who use the free version, in the coming weeks, the company announced during a short live-streamed update.\n\nCEO Sam Altman, who was not one of the presenters at the event, simply posted the word \"her\" on the social media site X. During a demonstration with Chief Technology Officer Mira Murati and other executives, the AI bot chatted in real time, adding emotion - specifi- cally \"more drama\" - to its voice as requested. It also helped walk through the steps needed to solve a simple math equation without first spitting out the answer, and assisted with a more complex software coding problem on a computer screen. It also took a stab at extrapolating a person's emotional state by looking at a selfie video of their face (deciding he was happy since he was smiling) and translated English and Italian to show how it could help people who speak different languages have a conversation.",
+        "source": {
+            "uri": "arabtimesonline.com",
+            "dataType": "news",
+            "title": "ARAB TIMES - KUWAIT",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "Bahrain"
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://www.arabtimesonline.com/news/wp-content/uploads/2024/05/image-61.png",
+        "eventUri": "eng-9565147",
+        "sentiment": 0.2941176470588236,
+        "wgt": 453573794,
+        "relevance": 1
+    },
+    {
+        "uri": "8131058994",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-16",
+        "time": "16:41:33",
+        "dateTime": "2024-05-16T16:41:33Z",
+        "dateTimePub": "2024-05-16T16:40:45Z",
+        "dataType": "news",
+        "sim": 0.6509804129600525,
+        "url": "https://www.forbes.com/sites/cio/2024/05/16/now-the-senate-has-unveiled-its-ai-roadmap-what-next/",
+        "title": "Now The Senate Has Unveiled Its AI Roadmap, What Next?",
+        "body": "This is the published version of Forbes' CIO newsletter, which offers the latest news for chief innovation officers and other technology-focused leaders. Click here to get it delivered to your inbox every Thursday.\n\nLike every nation, in the last couple years the U.S. has been quickly trying to figure out how to regulate AI technology. Technological capabilities -- and adoption -- of AI are growing every day, as are the questions that arise about appropriate uses of it. Senate Majority Leader Chuck Schumer (D-N.Y.) has led a bipartisan group over the last year informally called the \"Senate AI Gang,\" and they unveiled a 31-page roadmap for AI policy on Wednesday.\n\nAs he presented the plan, Schumer said three words govern what the group has done: urgency, humility and bipartisanship. And at this stage, much of the urgency points toward increasing funding for U.S. innovation in the technology. The report endorses government spending on non-defense AI innovation to be at least $32 billion annually, which was initially proposed by the National Security Commission on Artificial Intelligence.\n\nAs a roadmap, the document presented Wednesday has general goals, but few specifics. For example, the U.S. needs to enforce existing laws that apply to AI and develop ways to ensure it is unbiased. The federal government should identify the high impact uses of AI in its agencies and utilize it. Policies should be considered to ensure information accuracy and transparency, especially during elections. Copyright protections should be taken into consideration when using different kinds of data to train AI systems. A strong data privacy framework should be created.\n\nWhile the roadmap could be less tangible progress toward AI regulation than some may like to see, tech policy experts told the Washington Post that it's a good first step. The roadmap came out of months of discussions, scores of meetings, educational briefings for all senators and nine AI Insight Forums between policymakers, developers, researchers, think tanks, labor and other community leaders. Writing the roadmap got many people in Washington talking about AI as a reality -- not just a magic-seeming technological idea -- and learning about the real issues behind it.\n\nSo what happens next, and when? It's all up to Congress. In his statement presenting the roadmap, Schumer said he hopes some legislation covering portions of AI regulation, funding, innovation and policy will be passed before the end of the year. Some issues around AI -- and some bills -- are being discussed by legislative committees. But, as with much that happens in Washington, momentum around discussion does not always translate to momentum around action. With an election coming in November, it's difficult to say whether AI will rise to the top of policymakers' list of priorities.\n\nEven without well defined federal regulations, policy around AI and privacy is extremely important to everyone who works with tech. As Adobe's global chief privacy officer and chief cybersecurity legal officer, Nubiaa Shabaka oversees, discusses and charts policy dealing with data and privacy. I talked to her about her job and how she sees its landscape changing because of AI. An excerpt from our conversation is included later in this newsletter.\n\nGoogle has been working with its Gemini AI model for years, and rolled it out to the U.S. in a huge way this week. The world's most popular search engine is adding AI Overviews to the top of all searches. This new function, powered by Google's Gemini model, performs a quick search and uses AI to write answers to complex queries. If a person searches for \"best running shoes,\" AI Overviews writes a summary of the different qualities that running shoes have, plus includes links to purchase ones with better reviews. This function is on top of the search results that users expect from Google.\n\nAI-powered search has been in test mode for the last several months, and available to some users by clicking a star-shaped Gemini button at the top of the search screen.\n\nThis rollout brings AI directly to where users are, whether they want it or not. It goes a step further than Meta's addition of its AI chatbot to the top of users' Facebook, Instagram and WhatsApp pages. There, the AI chatbot is a selection they can choose to do something that may be related to their social media feed, or not. Google's move puts AI front and center, performing the action that users have come to the search engine to do. It shows that Google thinks Gemini is ready for the spotlight, and could do a lot to expand use of the technology -- or show its vulnerabilities on a wide scale.\n\nOpenAI announced its new GPT-4o model this week, an AI chatbot that the company says can respond to any combination of text, audio, image and video in real-time, and can generate any of those kinds of output. The company has an array of videos on its website showing people interacting with the upgraded chatbot, which is capable of having conversations and responding to what people are doing. Media outlets -- and even OpenAI CEO Sam Altman in a post on X -- have compared the launch to the Scarlett Johansson-voiced operating system in the 2013 movie Her. In a blog post, Altman wrote, \" It feels like AI from the movies; and it's still a bit surprising to me that it's real.\" The new model will be slowly rolled out, but the company says certain GPT-4o capabilities will be free to users.\n\nAfter Apple announced its new iPad Pro line featuring an \"outrageously powerful chip for AI\" last week, there's an obvious follow-up question: What about Apple users who aren't ready to upgrade? News reports in the last week have answered: Apple's adding powerful AI-ready chips into its data centers, allowing the company to add AI-driven functions to operating system upgrades. Forbes senior contributor Kate O'Flaherty writes that the company planned this initiative three years ago, but it's been accelerated by launches of other AI applications, including ChatGPT. Bloomberg, which first reported the plan, writes that these chips in servers will be able to do complex functions, like generating images or summarizing text, while processors in phones themselves can perform the easier tasks.\n\nMany potential developments to bring Apple into the AI age are being discussed, including the possibility of a partnership with OpenAI. (A similar potential partnership with Google for its Gemini AI was rumored in March.) It's highly likely that more will be announced at Apple's Worldwide Developers Conference, which begins June 10.\n\nAs a year of many important elections worldwide converges with sweeping new capabilities for technology, the U.K. has decided to provide its candidates, election officials and others at high risk with an additional layer of security on their personal devices. The initiative, spearheaded by the U.K.'s National Cyber Security Centre, is most concerned about malicious attacks by Russian and Chinese actors, writes Forbes senior contributor Emma Woollacott. The Personal Internet Protection service will warn users if they try to visit a domain known to be malicious, block traffic to these domains, and will alert users of malicious activity detected on their accounts.\n\nWhile cybersecurity and privacy are two different aspects in dealing with data, Nubiaa Shabaka says they fit well together. She's a vice president at Adobe, serving as the company's global chief privacy and cybersecurity legal officer. I talked with her about these two aspects of technology, changes AI is bringing to the way business is done, and what the future holds.\n\nThis conversation has been edited for length, clarity and continuity. A longer version is available here.\n\nHow do you see privacy and security fitting together? Why are they a good pair to have under one person?\n\nI actually was so excited when I was interviewing with our chief trust officer a couple of years ago to understand their structure, because I've always had a really attached-at-the-hip relationship with the chief security officer. I've been a chief cyber legal officer and the head of privacy or chief privacy officer for many years. It's so important that it be so connected because you're able to look over the horizon. You're able to plan and have the most streamlined and efficient manner to protect Adobe, and give the best trustworthy products to our customers. As well, being so integrated, [you have] weekly meetings, daily chats, invited to each other's team related off-sites and things of that nature.\n\nIt's really all in the construct of what is trust. You need security, you need privacy. And it all is just so interconnected. If you think about personal information, of course that's privacy. And security is the assets, the infrastructure and potentially proprietary and IP, but you cannot have privacy without security. Privacy is a huge part, of course, of security. They're very, very interconnected, and folks who pull it together, who have that close relationship, I think have a better value, not only internally, but also to their customers because of the trust that we're able to build.\n\nHow does AI impact privacy and security?\n\nMy whole title is chief cyber and legal officer. I think about my role as those two things and two other things. I also co-lead data governance with our chief information officer and our chief security officer, bringing in all of the applicable business units and risk folks to run data governance. I also am a core member of our AI governance. Privacy and security is just key [for] AI at Adobe, a cross-functional team that has folks from our IT department, our security department, my team, other folks in legal and in strategy, coming together to have this cross-functional AI governance.\n\nHow privacy and security is impacted by AI, ooh ooh ooh, the stories you can tell. The concept of good folks and even bad actors are able to just be so much more sophisticated on a proactive and reactive standpoint. AI is here. We really need to incorporate it in a privacy and security conscious fashion, but it will allow us to be more privacy-centric when done correctly, and allow us to be more security-focused, when done correctly, to counterbalance the bad actors. Having security and privacy sit at the table in AI governance really keeps security and privacy top of mind when we roll out AI to make sure they have those appropriate data protection aspects. And any privacy-related tools that we roll out always have the personal privacy considerations in mind to make sure we have the appropriate balancing act and impact assessment.\n\nYou work in areas in which there are a lot of policymakers paying attention and talking about regulations, but there aren't really a lot of regulations there. Where do you see things going in terms of AI and privacy regulations in the next year? What is Adobe doing to help these questions get worked out? What are your priorities in these areas?\n\nI would say that there are plenty of regulations that are hard and fast on a sectoral basis. The U.S. has a different mindset than Europe. Europe has [General Data Protection Regulation] and large omnibus rules. The U.S. certainly has sectoral rules that have been around for a very long time. If you think back to 1999, the Gramm-Leach-Bliley Act. I come from a financial services background, and so there are hard-and-fast rules that exist. Now we have omnibus state laws that have somewhat mimicked GDPR, and are different in many ways. We are up to 15 U.S. omnibus state laws, which are hard and fast rules.\n\nThe U.S. has been a leader on the security side starting with the NIST Cybersecurity Framework, which is optional. Now they are proposing to implement certain items in the U.S. to make hard-and-fast rules. But we certainly have cyber and personal information breach laws in every jurisdiction in the U.S., which is a mitigating factor, right. You don't want to have to report breaches, so you have appropriate safeguards in order to counterbalance your reporting. We have the new SEC cyber-disclosure laws that came into effect in December of 2023, which is a hard-and-fast rule for disclosure. It is, in fact, a mechanism to have and support appropriate cybersecurity controls.\n\nI do think, even with the rules that we have in place, multinational companies forget about what the rules are just in the U.S. Adobe is a multinational company, and we have to abide by the plethora of rules throughout the Americas and Asia and AMEA. We don't believe in playing whack-a-mole, following rule by rule and law by law. We look over the horizon to have an appropriate privacy program and cyber program that we stand behind.\n\nOn the security side, we have our proprietary Common Controls framework that maps to the various laws around the world from a technical perspective on the privacy and security angle. Adobe's vision is to set our high water mark, which typically will address any rule, any law that comes into play. That's how we abide by having the appropriate privacy and security controls.\n\nWhat I see coming is the additional continual global standard. We are excited about the potential proposed federal privacy law here in the U.S., and encourage governments around the world to continue to work together to promote cross-border data transfers and innovation and technology, while of course balancing privacy and security. Adobe is happy to be part of those conversations through trades and directly meeting with regulators around the world to help move in that direction, whereby we can have innovation and prosperity all together.\n\nTikTok will be the first video-sharing platform to use Content Credentials technology to automatically label AI-generated content, it announced last week. The app has had a label creators could apply to posts made with TikTok's native AI effects since last September.\n\n37 million: Creators who have used TikTok's AI effects label since its inception\n\n12: Number of videos TikTok will release throughout the year explaining these labels and helping users contextualize what they see on the app\n\n'We're vigilant against those risks': TikTok statement about the harm that can be done using AI generated content to mislead users\n\nIf you want to add more AI to your workplace, it pays to be like the U.S. Senate and craft a playbook for moving forward. Here are some tips to build that strategy.\n\nIn a recent Gallup report, employee engagement hit an 11-year low. Here are some ways that business leaders can help their workers feel more like a part of the organization.\n\nThe U.K.'s Conservative Party recently committed an online communications faux pas. What did it do?\n\nA. An employee opened a phishing email, which shut down the party's website\n\nB. Someone forgot to BCC a mass email, exposing hundreds of email addresses\n\nC. Made an embarrassing typographical error in the subject line of an email newsletter\n\nD. An employee fell for a scam in which someone impersonating Prime Minister Rishi Sunak asked for \u00a31 million in gift cards",
+        "source": {
+            "uri": "forbes.com",
+            "dataType": "news",
+            "title": "Forbes",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Jersey City, New Jersey"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://imageio.forbes.com/specials-images/imageserve/664634594fc097b9639ede3c/0x0.jpg?format=jpg&crop=3843,2163,x0,y0,safe&height=600&width=1200&fit=bounds",
+        "eventUri": "eng-9565284",
+        "sentiment": 0.2549019607843137,
+        "wgt": 453573693,
+        "relevance": 3
+    },
+    {
+        "uri": "8131032473",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-16",
+        "time": "16:21:54",
+        "dateTime": "2024-05-16T16:21:54Z",
+        "dateTimePub": "2024-05-16T16:21:29Z",
+        "dataType": "news",
+        "sim": 0.4901960790157318,
+        "url": "https://www.fastcompany.com/91125885/google-openai-chatbot-wars",
+        "title": "Google and OpenAI show we're entering a new phase of the AI era  - Fast Company",
+        "body": "The Google and OpenAI announcements show we're in a new phase of the AI wars\n\nJust last year, big tech companies were telling us how great it was that their large language models (LLMs) could summarize documents and write poems. Already the AI sales pitch has grown far more interesting. This week, the two leading players in the AI chatbot race, Google and OpenAI, demonstrated AI chatbots that tackle much heftier problems. So how exactly have the AI models that power these chatbots changed over the past year?\n\nThe leading models have become \"multimodal.\" They can understand and analyze not just text but audio, imagery, and computer code, and create answers in the same mediums. In a simple example, OpenAI's ChatGPT or Google's Gemini can intake a visual image (perhaps through the camera of a smartphone) and describe in words the content of the image. \"Multimodality radically expands the kind of questions we can ask and the answers we can get back,\" Google CEO Sundar Pichai said at the company's I/O event.\n\nOn Monday, OpenAI demonstrated an upgraded version of ChatGPT, powered by its new GPT-4o model (the \"o\" stands for \"omni\"). The most noticeable thing about the new ChatGPT is how \"human\" interactions with the chatbot feel. That's mainly because of the sound and behavior of the ChatGPT's Her-like speaking voice. Its tone is weirdly human; it sounds natural and expressive, even sultry and a bit flirty in some contexts. It makes jokes. It immediately stops talking when it hears the user start talking. The audio voice represents another \"mode,\" just like text or visual modes the model understands. And ChatGPT adds yet another mode -- emotional intelligence, or \"EQ.\" It seems able to detect emotion in the user's voice (in the demo Monday, the chatbot detected stress in the voice of an OpenAI researcher), and then affect its responses with appropriate emotion (for the researcher, empathy). Google will release a similar voice interaction chatbot called \"Gemini Live\" later this year.",
+        "source": {
+            "uri": "fastcompany.com",
+            "dataType": "news",
+            "title": "Fast Company",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "New York"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [
+            {
+                "uri": "mark_sullivan@fastcompany.com",
+                "name": "Mark Sullivan",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": "https://images.fastcompany.com/image/upload/f_auto,q_auto,c_fit,w_1024,h_1024/wp-cms-2/2024/05/p-1-91125885-91125885-google-opan-ai.jpg",
+        "eventUri": "por-994922",
+        "sentiment": 0.06666666666666665,
+        "wgt": 453572514,
+        "relevance": 1
+    }
+]

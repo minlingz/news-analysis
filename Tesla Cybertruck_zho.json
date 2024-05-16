@@ -15,7 +15,14 @@
         "source": {
             "uri": "ent.ltn.com.tw",
             "dataType": "news",
-            "title": "\u81ea\u7531\u6642\u5831\u96fb\u5b50\u5831"
+            "title": "\u81ea\u7531\u6642\u5831\u96fb\u5b50\u5831",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "Taiwan"
+                }
+            },
+            "locationValidated": false
         },
         "authors": [],
         "image": "https://img.ltn.com.tw/Upload/ent/page/800/2024/05/11/phpXzzrIr.jpg",
@@ -40,7 +47,20 @@
         "source": {
             "uri": "chinatimes.com",
             "dataType": "news",
-            "title": "\u4e2d\u6642\u65b0\u805e\u7db2"
+            "title": "\u4e2d\u6642\u65b0\u805e\u7db2",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Taipei"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "Taiwan"
+                    }
+                }
+            },
+            "locationValidated": false
         },
         "authors": [],
         "image": "https://images.chinatimes.com/newsphoto/2024-05-09/656/20240509000939.jpg",
@@ -65,7 +85,14 @@
         "source": {
             "uri": "bastillepost.com",
             "dataType": "news",
-            "title": "bastillepost.com"
+            "title": "bastillepost.com",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "Hong Kong"
+                }
+            },
+            "locationValidated": false
         },
         "authors": [],
         "image": "https://image.bastillepost.com/640x/wp-content/uploads/hongkong/2024/04/%E6%AF%9B%E6%8B%8D%E6%89%8B_FB.png",
@@ -90,7 +117,20 @@
         "source": {
             "uri": "chinatimes.com",
             "dataType": "news",
-            "title": "\u4e2d\u6642\u65b0\u805e\u7db2"
+            "title": "\u4e2d\u6642\u65b0\u805e\u7db2",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Taipei"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "Taiwan"
+                    }
+                }
+            },
+            "locationValidated": false
         },
         "authors": [],
         "image": "https://images.chinatimes.com/newsphoto/2024-04-26/656/20240426004622.jpg",
@@ -115,7 +155,20 @@
         "source": {
             "uri": "chinatimes.com",
             "dataType": "news",
-            "title": "\u4e2d\u6642\u65b0\u805e\u7db2"
+            "title": "\u4e2d\u6642\u65b0\u805e\u7db2",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Taipei"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "Taiwan"
+                    }
+                }
+            },
+            "locationValidated": false
         },
         "authors": [],
         "image": "https://images.chinatimes.com/newsphoto/2024-04-23/656/20240423001743.jpg",
@@ -140,7 +193,20 @@
         "source": {
             "uri": "chinatimes.com",
             "dataType": "news",
-            "title": "\u4e2d\u6642\u65b0\u805e\u7db2"
+            "title": "\u4e2d\u6642\u65b0\u805e\u7db2",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Taipei"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "Taiwan"
+                    }
+                }
+            },
+            "locationValidated": false
         },
         "authors": [],
         "image": "https://images.chinatimes.com/newsphoto/2024-04-22/656/20240422003500.jpg",
@@ -165,7 +231,8 @@
         "source": {
             "uri": "rti.org.tw",
             "dataType": "news",
-            "title": "Rti \u4e2d\u592e\u5ee3\u64ad\u96fb\u81fa"
+            "title": "Rti \u4e2d\u592e\u5ee3\u64ad\u96fb\u81fa",
+            "location": null
         },
         "authors": [],
         "image": "https://static.rti.org.tw/assets/thumbnails/2023/01/27/105274e89241b7146b955737fbc348ee.jpg",
@@ -190,7 +257,14 @@
         "source": {
             "uri": "nownews.com",
             "dataType": "news",
-            "title": "NOWnews \u4eca\u65e5\u65b0\u805e"
+            "title": "NOWnews \u4eca\u65e5\u65b0\u805e",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "Taiwan"
+                }
+            },
+            "locationValidated": false
         },
         "authors": [],
         "image": "https://media.nownews.com/nn_media/thumbnail/2021/01/1611820400096-fc56a624e7124b7aa6fa617102939dfd-980x550.jpg?unShow=false",
@@ -215,7 +289,8 @@
         "source": {
             "uri": "rti.org.tw",
             "dataType": "news",
-            "title": "Rti \u4e2d\u592e\u5ee3\u64ad\u96fb\u81fa"
+            "title": "Rti \u4e2d\u592e\u5ee3\u64ad\u96fb\u81fa",
+            "location": null
         },
         "authors": [],
         "image": "https://static.rti.org.tw/assets/thumbnails/2019/11/26/20191126000015M.jpg",
@@ -240,7 +315,20 @@
         "source": {
             "uri": "chinatimes.com",
             "dataType": "news",
-            "title": "\u4e2d\u6642\u65b0\u805e\u7db2"
+            "title": "\u4e2d\u6642\u65b0\u805e\u7db2",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Taipei"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "Taiwan"
+                    }
+                }
+            },
+            "locationValidated": false
         },
         "authors": [],
         "image": "https://images.chinatimes.com/newsphoto/2024-04-17/656/20240417004556.jpg",

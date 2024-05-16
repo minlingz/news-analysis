@@ -1,0 +1,419 @@
+[
+    {
+        "uri": "8131149170",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-16",
+        "time": "17:47:38",
+        "dateTime": "2024-05-16T17:47:38Z",
+        "dateTimePub": "2024-05-16T17:47:10Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://www.techtimes.com/articles/304730/20240516/look-tesla-model-3-prototype-spotted-new-camera-setup.htm",
+        "title": "[LOOK] Tesla Model 3 Prototype Spotted With New Camera Setup",
+        "body": "Tesla has been hinting at innovative advancements in autonomous driving and robotaxis, with a major unveiling set for August. Before we see this in the next three months, an unusual camera setup was spotted on the prototype model of Model 3 -- a new subject of intrigue.\n\nDuring Tesla's Q1 2024 earnings call, the company disclosed that its future driverless vehicles would utilize a next-generation vehicle architecture and an unboxed vehicle manufacturing process. However, these innovations are likely to debut in a later model, not necessarily in the robotaxi set for the August 8 reveal.\n\nUntil then, the automaker suggests a blend of current model characteristics with next-gen features to facilitate production on existing lines.\n\nRelated Article: Tesla Cybertruck Spotted with New Digital Camouflage Wrap\n\nThis blending approach hints at two possibilities. First, existing Tesla models might receive upgrades incorporating next-gen elements like the 48-volt electrical system, steer-by-wire technology, and Etherloop.\n\nThe anticipated Model Y refresh could be the first to feature these enhancements. Second, the forthcoming robotaxi might resemble current models rather than being an entirely new design, suggesting that prototypes already spotted in Palo Alto might be indicative of the final product.\n\nOne intriguing prototype, seen without side mirrors, has fueled speculation. The absence of side mirrors implies reliance on side cameras or full autonomous operation.\n\nSurprisingly, this aligns with Tesla's philosophy, shared by Elon Musk, that rearview mirrors will eventually become obsolete. The Cybertruck already features removable side mirrors, showcasing Tesla's commitment to this vision.\n\nThe prototype's unusual camera placements have also caught attention, according to Electrek. A conspicuous camera behind the rear window and covered or missing B-pillar cameras suggest experimental setups for autonomous driving features.\n\nSide-repeater cameras sticking out unusually and a new rear camera above the license plate area further add to the mystery. These placements might be for calibration purposes, possibly hinting at a smaller, more compact vehicle design.\n\nWhile it's unclear what these test setups signify, it's evident that Tesla is innovating its camera and sensor configurations. The pictures came from @MrSaltyP and were shared by @niccruzpatane.\n\nThe lack of a LiDAR sensor, which many autonomous vehicle developers use for precise mapping, indicates Tesla's confidence in its camera-based approach. This is related to Musk's long-standing position against LiDAR, favoring camera and AI-driven solutions.\n\nBy this time, the cameras could also mean that there will be a revamped model designed for urban transport. It's also possible that the EV giant is setting a new standard for autonomous vehicles.\n\nAs always, Tesla's approach keeps the automotive world guessing, ensuring that the future of transportation remains exciting and unpredictable.\n\nBack in March 2023, a Tesla dummy camera appeared in a photo. At the time, the company was purported to change its cameras for both Model X and Model S.",
+        "source": {
+            "uri": "techtimes.com",
+            "dataType": "news",
+            "title": "Tech Times",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "New York City"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [
+            {
+                "uri": "joseph_henry@techtimes.com",
+                "name": "Joseph Henry",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": "https://1734811051.rsc.cdn77.org/data/thumbs/full/447261/820/0/0/0/look-tesla-model-3-prototype-spotted-with-new-camera-setup.png",
+        "eventUri": null,
+        "sentiment": 0.08235294117647052,
+        "wgt": 453577658,
+        "relevance": 51,
+        "summary_3.5_eng": "Tesla is hinting at innovative advancements in autonomous driving and robotaxis, with a major unveiling set for August. A new camera setup was spotted on the prototype model of Model 3, sparking intrigue. Tesla's future driverless vehicles will utilize next-generation architecture and manufacturing processes, but these innovations may not be present in the upcoming robotaxi reveal. The automaker suggests blending current model characteristics with next-gen features until then. The prototype models spotted in Palo Alto may give clues about the final product, with unusual camera placements hinting at experimental setups for autonomous driving features. Tesla's camera-based approach, without LiDAR sensors, indicates confidence in their technology. The company's innovative approach keeps the automotive world guessing and ensures an exciting and unpredictable future of transportation.",
+        "summary_4o_eng": "Tesla is gearing up for a major reveal in August, focusing on advancements in autonomous driving and robotaxis. Recently, a prototype Model 3 with an unusual camera setup has sparked curiosity. During Tesla's Q1 2024 earnings call, the company mentioned that future driverless vehicles would feature next-gen architecture and a new manufacturing process, but these innovations might not appear in the August robotaxi reveal.\n\nTesla plans to blend current model features with next-gen elements to ease production. This could mean existing models like the Model Y might get upgrades such as a 48-volt electrical system, steer-by-wire technology, and Etherloop. The upcoming robotaxi might look similar to current models, as suggested by prototypes seen in Palo Alto.\n\nOne prototype without side mirrors, relying on cameras, aligns with Tesla's vision of eliminating rearview mirrors. The Cybertruck already has removable side mirrors, supporting this philosophy. Unusual camera placements on the prototype, like a camera behind the rear window and missing B-pillar cameras, suggest experimental setups for autonomous features.\n\nTesla's reliance on cameras over LiDAR for autonomous driving reflects Elon Musk's preference for camera and AI-driven solutions. These camera setups might indicate a new, compact vehicle design for urban transport or set a new standard for autonomous vehicles. Tesla's innovative approach continues to keep the automotive world intrigued and excited about the future of transportation."
+    },
+    {
+        "uri": "8131062758",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-16",
+        "time": "16:44:07",
+        "dateTime": "2024-05-16T16:44:07Z",
+        "dateTimePub": "2024-05-16T16:43:29Z",
+        "dataType": "news",
+        "sim": 0.6549019813537598,
+        "url": "https://www.carscoops.com/2024/05/finally-answered-can-a-tesla-cybertruck-towing-a-porsche-really-beat-a-911/",
+        "title": "No.",
+        "body": "Will the Cybertruck be able to beat a Porsche through the quarter-mile while towing a 911? Will it even be able to beat it through the eighth-mile?\n\nSince the launch of the Tesla Cybertruck last year, one of the claims that has received the most attention was Elon Musk's assertion that the EV can beat a Porsche 911 through the quarter-mile, while towing a 911. The claim is finally being put to the test under the most generous circumstances.\n\nWhile our own Chris Chilton cast doubt on Musk's claim in a great post, its validity was further examined mathematically by Engineering Explained's Jason Fenske, who used his trademark white board to show that the Tesla CEO's numbers were probably inflated.\n\nRead: Math Throws A Wrench In Elon Musk's Tesla Cybertruck Vs. Porsche 911 Triumph\n\nNow, Fenske has been invited to the drag strip by Motor Trend to see if his math checks out in the real world. They brought together a privately owned Cybertruck Cyberbeast, hooked it up to a trailer, put a Porsche on the back of it, and rented a racetrack to put the truck to the ultimate test.\n\nAnd the outlet was very thorough, poring over details from Tesla's video, and going so far as to find the actual trailer that the automaker used in its run (which happens to be the lightest car hauler on the market).\n\nWhere details weren't available, Motor Trend interpreted them as generously as possible. They brought the slowest, lightest (non-Dakar) 911 on sale to the track (a Carrera T), and even put the lighter driver in the EV, to give the Cybertruck the best chance possible of meeting Musk's claim.\n\nSo this is it. This video is as perfect a recreation of the conditions of Tesla's launch film as it is possible to see. And? Well, it won't come as a surprise to people who have followed their careers, but Fenske's math is correct, and Musk's claims are overblown.\n\nIn the quarter-mile, the Porsche 911 Carrera T beats the Tesla Cybertruck (towing a 911) consistently. Although Motor Trend only showed the results of three races in the video, on its website it reveals that it ran six races, and in every one, the sport car beat the electric truck, by as much as 0.7 seconds in the final race, but by only 0.2 seconds in the first (and most closely contested) run.\n\nWhat may come as a surprise to you is that, on average, the Porsche even wins in the eighth-mile -- the distance Tesla was likely showing in its launch film. Although the Cybertruck beat the 911 to the half-distance mark in their first race, that's the only run out of the six that it won cleanly. Overall, the Tesla is faster through the eighth-mile once, the vehicles tie twice, and the Porsche wins three times.\n\nNaturally, this isn't an indictment of the Cybertruck, which performs spectacularly in this test and is, by any measure, an extremely quick vehicle. Even Fenske admits that he was impressed by the EV, and that \"it felt fast, it didn't feel like I was towing!\" Better still, he says that it was stable, and never seemed sketchy, despite the fact that what it was doing was very silly, and probably a little dangerous.\n\nIn fact, I would go so far as to call this race a testament to the impressive speed of the Tesla Cybertruck, but it is another reminder to not always believe Mr. Musk's claims.",
+        "source": {
+            "uri": "carscoops.com",
+            "dataType": "news",
+            "title": "Carscoops",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "United States"
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [
+            {
+                "uri": "sebastien_bell@carscoops.com",
+                "name": "Sebastien Bell",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": "https://www.carscoops.com/wp-content/uploads/2024/05/YT-2024-Tesla-Cybertruck-v-Porsche-911-Carrera-T-MT-3.jpg",
+        "eventUri": "eng-9568803",
+        "sentiment": 0.1686274509803922,
+        "wgt": 453573847,
+        "relevance": 100,
+        "summary_3.5_eng": "The Tesla Cybertruck was put to the test against a Porsche 911 in a quarter-mile drag race while towing another 911. Despite Elon Musk's claims, the Porsche consistently beat the Cybertruck in both the quarter-mile and eighth-mile races. The Cybertruck performed well, but the Porsche was faster overall. This test serves as a reminder to not always believe Musk's claims.",
+        "summary_4o_eng": "The Tesla Cybertruck's ability to beat a Porsche 911 in a quarter-mile race while towing another 911 has been a highly discussed claim by Elon Musk. Engineering Explained's Jason Fenske mathematically doubted this claim, and Motor Trend decided to test it in real-world conditions. They recreated the scenario as accurately as possible, using a Cybertruck towing a Porsche 911 on a lightweight trailer and racing against a Porsche 911 Carrera T.\n\nThe results showed that the Porsche 911 consistently beat the Cybertruck in the quarter-mile races. Out of six races, the Porsche won every time, with the closest race having a 0.2-second difference and the largest a 0.7-second difference. Even in the eighth-mile, which Tesla likely showcased in its launch film, the Porsche won three times, tied twice, and the Cybertruck won only once.\n\nDespite not meeting Musk's claim, the Cybertruck performed impressively, demonstrating significant speed and stability while towing. This test serves as a reminder to critically evaluate Musk's statements, though it also highlights the Cybertruck's remarkable capabilities."
+    },
+    {
+        "uri": "8131055351",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-16",
+        "time": "16:38:46",
+        "dateTime": "2024-05-16T16:38:46Z",
+        "dateTimePub": "2024-05-16T16:38:07Z",
+        "dataType": "news",
+        "sim": 0.686274528503418,
+        "url": "https://jalopnik.com/heres-more-proof-tesla-faked-its-cybertruck-vs-porsche-1851481714",
+        "title": "Here's More Proof Tesla Faked Its Cybertruck Vs. Porsche 911 Drag Race",
+        "body": "When Tesla showed the Cybertruck beating a Porsche 911 down a dragstrip while towing another Porsche 911, everyone who knew anything about cars was a bit, well, skeptical. As more information came out and YouTubers did deep dives on whether or not the results shown by Tesla were actually possible, it turned out that it probably wasn't. Now though, we've got even more proof that Tesla's video (while a brilliant piece of marketing) was indeed a bit (read: completely) fugazi.\n\nIn the first heat, the Porsche ran 12.5 seconds at 115.6 mph, while the Tesla followed in 12.7 seconds at 105.2 mph. Over the next few runs, as the Porsche driver honed his launch, the 911 trimmed 0.3 second off the time. The Cybertruck only posted one quicker run, which amounted to a trivial 0.02-second improvement. If we cherry-pick the quickest Cybertruck run and the slowest 911 run -- the best possible scenario for Tesla -- the Beast still crosses the finish line 0.229 second behind the Porsche. (All results from our drag race have 1-foot rollout removed per drag-racing convention, but in the spirit of running an honest head-to-head race, we have not applied any weather correction.) The chart below shows the quarter-mile times for all six runs, and if that's not proof enough for you, check the photo gallery for the receipts -- the official timeslips from Famoso Dragstrip.\n\nA few weeks after Musk made the original quarter-mile claim, [Jason] Fenske posted a video on his Engineering Explained YouTube channel revealing Tesla had only shown an eighth-mile race. Cybertruck lead engineer Wes Morrill responded by confirming that Tesla never actually ran the quarter-mile race, but he still backed up the original assertion. \"The fastest 1/8mi CT hit while towing on the day was 7.808s at 88 mph and the trailer tires were only rated to 80 mph so we opted to call it a day before someone got hurt,\" he posted on X, formerly Twitter. \"Our simulations showed the full 1/4 mi race would be close but with the same net result, so no need to risk it.\"\n\n[Cybertruck lead engineer Sam] Morrill also claimed Tesla's video didn't show the Cybertruck's quickest run. We're not sure if that's true, but we can say confidently that Tesla didn't show the Porsche 911 Carrera T's quickest possible run. In four out of six MotorTrend drag races, the Porsche 911 Carrera T beat the Cybertruck to the eighth-mile mark. Pitting the best runs against each other, the Porsche 911 Carrera T crosses the eighth mile in 7.9 seconds at 91.4 mph. The Cybertruck does it in 8.1 seconds at 86.7 mph.\n\nOK, to be fair to the Cybertruck, it apparently was faster off the line. That makes sense. Launching an EV is very easy, and launching a manual transmission sports car - even on the best surface - is pretty hard. However, the Cybertruck only holds its advantage for seven feet. After that, the 911 Carrera T takes off and doesn't look back.\n\nMotorTrend and Fenske even went through the trouble of meticulously weighing both the drivers (and their helmets), all three cars and the trailer in order to make sure the results were as fair as possible. They also fitted the cars with VBox data loggers, and those showed the 911 T was faster than the Cybertruck no matter how you sliced the data. Now, of course, an unaided Cybertruck will kick the absolute shit out of a base 911 T, but that wasn't Elon's claim, so it doesn't really matter, does it?",
+        "source": {
+            "uri": "jalopnik.com",
+            "dataType": "news",
+            "title": "Jalopnik",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "New York"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ad811f72e2871510ca224ee91d89b168.png",
+        "eventUri": "eng-9568803",
+        "sentiment": 0.223529411764706,
+        "wgt": 453573526,
+        "relevance": 100,
+        "summary_3.5_eng": "Tesla's video showing the Cybertruck beating a Porsche 911 in a drag race while towing another Porsche 911 was found to be misleading. Further analysis by YouTubers and drag races conducted by MotorTrend revealed that the Porsche was actually faster in most scenarios. The Cybertruck did have a faster initial launch, but the Porsche quickly overtook it. Despite claims by Tesla engineers that the Cybertruck's fastest run was not shown in the video, the Porsche consistently outperformed the Cybertruck in drag races. The results were carefully measured and confirmed using data loggers, showing that the Cybertruck was not as fast as initially claimed.",
+        "summary_4o_eng": "Tesla's promotional video showing the Cybertruck beating a Porsche 911 in a drag race while towing another Porsche 911 was met with skepticism. Subsequent investigations and tests revealed that the results were likely exaggerated. In actual drag races conducted by MotorTrend, the Porsche 911 consistently outperformed the Cybertruck. The Porsche completed the quarter-mile faster in all but one run, and even in the best-case scenario for Tesla, the Cybertruck still lagged behind. Additionally, it was revealed that Tesla's original video only depicted an eighth-mile race, not a quarter-mile. Despite claims from Tesla's engineers, the Cybertruck could not match the Porsche's performance in real-world tests. The Cybertruck did have a quicker start due to the ease of launching an electric vehicle, but the Porsche quickly overtook it. Detailed measurements and data logging confirmed the Porsche's superiority in these races."
+    },
+    {
+        "uri": "8130998951",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-16",
+        "time": "15:59:49",
+        "dateTime": "2024-05-16T15:59:49Z",
+        "dateTimePub": "2024-05-16T15:59:17Z",
+        "dataType": "news",
+        "sim": 0.7647058963775635,
+        "url": "https://qz.com/tesla-cybertruck-sales-electric-pickup-trucks-ford-f150-1851481722",
+        "title": "The Tesla Cybertruck is already very popular",
+        "body": "\"In its fourth month, the Cybertruck had over a thousand registrations and outsold the R1T by more than two to one,\" said Tom Libby, associate director of industry analysis at S&P Global Mobility. \"And frankly, I'm a little bit surprised. The Cybertruck is very, very unique, and it's interesting that it's been able to do that type of volume so quickly.\"\n\nRegistration data serves as a proxy to official sales numbers since Tesla doesn't break out its U.S. sales from global deliveries. Also, Rivian doesn't report sales by model, and other EV makers omit some model data.\n\nPrior to going on sale, the Cybertruck had amassed a million reservations from Tesla fans who put down a $100 refundable deposit, Tesla CEO Elon Musk said in October.\n\nHowever, the base price of the Cybertruck rose to $60,990 when the revised price was announced at launch from $39,900 when it was first presented in November 2019. Both prices are before shipping.\n\nIn addition, Tesla started production with a special Foundation Series that starts at $99,990 before shipping. Tesla said on its website that lower trims will go on sale next year.\n\nTo more drastically undercut the Cybertruck Foundation Series, Rivian cut the base price of the R1T to $71,700, a $3,100 drop. The Lightning starts at $57,090, and a base Silverado EV will cost buyers $74,900, both including shipping. Outside of the Cybertruck, the Hummer EV is the most expensive with a $98,845 base price.\n\nIn the first quarter, 8,589 Lightnings were registered, which represents a 51% increase year-over-year. At the same time, the Cybertruck had 1,791, and the R1T had 1,786 registrations. That works out to a 56% year-over-year decline. Not ideal for Rivian, no.",
+        "source": {
+            "uri": "qz.com",
+            "dataType": "news",
+            "title": "Quartz",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "New York"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [
+            {
+                "uri": "andy_kalmowitz@qz.com",
+                "name": "Andy Kalmowitz",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/bd21aeb012c87c309e06b953370ec93c.png",
+        "eventUri": "eng-9568803",
+        "sentiment": 0.06666666666666665,
+        "wgt": 453571189,
+        "relevance": 100,
+        "summary_3.5_eng": "The Cybertruck has been performing well in terms of registrations, outselling the R1T by more than two to one in its fourth month. Despite Tesla not providing official sales numbers, the Cybertruck has shown strong demand with over a thousand registrations. The base price of the Cybertruck has increased, but lower trims are expected to go on sale next year. Rivian has reduced the price of the R1T to compete with the Cybertruck. In the first quarter, the Lightning had the highest number of registrations, followed by the Cybertruck and the R1T, which experienced a decline in registrations.",
+        "summary_4o_eng": "In its fourth month, the Tesla Cybertruck had over a thousand registrations, outselling the Rivian R1T by more than two to one, according to Tom Libby from S&P Global Mobility. This is notable given the Cybertruck's unique design and rapid sales volume. Registration data is used as a proxy for official sales since Tesla and Rivian do not provide detailed sales figures. The Cybertruck had a million reservations before its launch, with a base price increase from $39,900 to $60,990. Tesla also introduced a high-end Foundation Series starting at $99,990. Rivian reduced the R1T's base price to $71,700 to compete. In the first quarter, the Ford Lightning had 8,589 registrations, a 51% increase year-over-year, while the Cybertruck had 1,791 and the R1T had 1,786 registrations, marking a 56% decline for Rivian."
+    },
+    {
+        "uri": "8130988738",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-16",
+        "time": "15:52:29",
+        "dateTime": "2024-05-16T15:52:29Z",
+        "dateTimePub": "2024-05-16T15:51:56Z",
+        "dataType": "news",
+        "sim": 0.7215686440467834,
+        "url": "https://qz.com/baidu-self-driving-robotaxi-china-tesla-elon-musk-evs-1851481596",
+        "title": "China's Baidu might use Tesla's self-driving robotaxis",
+        "body": "That partner, of course, being Baidu, a Chinese search engine giant that has both invested heavily in self-driving vehicles and has an increasingly close relationship with Elon Musk's automaker. The companies signed an agreement late last month to deploy Tesla's Full Self-Driving (FSD) driver assistance technology using Baidu's navigation and mapping services, building on an existing partnership that's been on the books since 2020.\n\nBaidu is one of less than two dozen qualified suppliers with China's top-level mapping credentials that are applicable to driver assistance programs, such as FSD. The company has robotaxi operations in more than 10 cities and more than six million rides have been taken in the self-driving vehicles, according to Nikkei Asia.\n\nOn Wednesday, Baidu debuted the RT6 robotaxi, a sixth-generation robotaxi that costs less than half the price of its previous iteration. The robotaxi, which was jointly developed with state-owned Jiangling Motors Group, costs $27,202 per unit. The RT5, which was developed with BAIC Group, cost more than $66,000 each.\n\nNow, Shanghai Securities News reports that Baidu is interested in using Tesla's robotaxis. Xu Baoqiang, the general manger of Baidu's autonomous driving technology department, told the news outlet that Baidu will consider a potential collaboration.\n\nMusk in April announced that Tesla would unveil a robotaxi on Aug. 8, although it's not clear what that will entail. Tesla last month said it was planning to launch its own ride-hailing service using a fleet of robotaxis, promising a competitor to Uber.\n\nThe Tesla CEO -- who is currently fighting to convince investors to reapprove his $47 billion pay package -- is known for making boastful declarations and demonstrations, some of which fail.\n\nInfamously, Tesla debuted its Optimus robot project in 2021 with just a person dancing in a costume. When the Cybertruck was revealed in November 2019, Tesla attempted to show off the electric pickup's strong glass windows by throwing a metal ball at them. Instead of bouncing off, the windows shattered in what became the first of the Cybertruck's many problems.\n\n\"We see a Robotaxi unveiling on August 8 as more aspirational, akin to Tesla's Semi and Roadster announcements -- and not likely to be Tesla's next model,\" Bernstein analysts wrote after Musk's comments, noting that it \"in no way means the technology is ready.\"",
+        "source": {
+            "uri": "qz.com",
+            "dataType": "news",
+            "title": "Quartz",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "New York"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/1a956f3248ba2db44721157659b4895a.jpg",
+        "eventUri": "eng-9571619",
+        "sentiment": 0.08235294117647052,
+        "wgt": 453570749,
+        "relevance": 1,
+        "summary_3.5_eng": "Baidu and Tesla have signed an agreement to deploy Tesla's Full Self-Driving technology using Baidu's navigation and mapping services. Baidu has launched a new robotaxi, the RT6, which is cheaper than its previous model. Baidu is also interested in using Tesla's robotaxis, with potential collaboration in the future. Tesla CEO Elon Musk announced plans to unveil a robotaxi on August 8, but analysts are skeptical about the readiness of the technology. Musk is known for making ambitious announcements that sometimes do not come to fruition, such as the failed demonstrations of the Optimus robot project and the Cybertruck's windows.",
+        "summary_4o_eng": "Baidu, a major Chinese search engine and self-driving vehicle investor, has strengthened its partnership with Tesla by signing an agreement to integrate Tesla's Full Self-Driving (FSD) technology with Baidu's navigation and mapping services. Baidu, which operates robotaxis in over 10 cities, recently introduced the RT6 robotaxi, developed with Jiangling Motors, costing significantly less than its predecessor. Baidu is also considering using Tesla's robotaxis. Tesla CEO Elon Musk announced plans to unveil a robotaxi on August 8 and launch a ride-hailing service to compete with Uber. However, analysts are skeptical about the readiness of Tesla's technology, citing Musk's history of ambitious but sometimes unfulfilled promises."
+    },
+    {
+        "uri": "8130888410",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-16",
+        "time": "14:48:11",
+        "dateTime": "2024-05-16T14:48:11Z",
+        "dateTimePub": "2024-05-16T14:47:40Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://www.carscoops.com/2024/05/kias-electric-pickup-looks-a-lot-like-an-ev9-with-a-bed/",
+        "title": "This prototype features parts from the Kia EV9 and the Hyundai Santa Cruz pickup",
+        "body": "Kia's new truck coming to the U.S., local production possible, too.\n\nAs Kia inches closer to unveiling the Tasman, a global mid-size pickup truck, the Korean manufacturer has started testing its second truck, which will be fully electric. A camouflaged prototype was recently filmed on public roads in the U.S.\n\nThe electric Kia pickup will serve as the latest entrant into a growing EV truck segment pioneered by the likes of the Tesla Cybertruck and Rivian R1T, although it's unlikely Kia to chase performance figures like those two, and will probably be more similar to offerings from Ford, Chevrolet, and Ram.\n\nRead: 2025 Kia Tasman Pickup Rendered To Reality And Everything Else You Need To Know\n\nThis prototype appears to have headlights and most of the front fascia lifted from the Kia EV9. It's even finished in the same shade of matte blue as the EV9. The test truck is also fitted with the same taillights as the Hyundai Santa Cruz. While these lights suit the pickup quite well, we suspect they'll be changed for the production model.\n\nCompared to the Kia Tasman, the styling of the brand's electric pickup appears slightly more conventional. Teasers and spy images of the Tasman have depicted it with odd black fender flares and an extremely unusual front end. Kia's electric pickup will probably follow a similar design philosophy to the brand's other EVs, including the EV5, updated EV6, and the EV9, and sport shapely and aggressive DRLs up front with similarly striking LEDs at the rear.\n\nLittle else is known about the pickup but it's not expected to have a body-on-frame design like the Tasman. In early 2023, Hyundai indicated its second-generation EV platform to replace the E-GMP will support an electric truck.\n\nUnlike the Tasman, Kia's electric pickup will be sold in the U.S. but to avoid the 25% 'Chicken Tax,' it could be built locally.",
+        "source": {
+            "uri": "carscoops.com",
+            "dataType": "news",
+            "title": "Carscoops",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "United States"
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [
+            {
+                "uri": "brad_anderson@carscoops.com",
+                "name": "Brad Anderson",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": "https://www.carscoops.com/wp-content/uploads/2024/05/Kia-Pickup-12.jpg",
+        "eventUri": null,
+        "sentiment": -0.3098039215686275,
+        "wgt": 453566891,
+        "relevance": 51,
+        "summary_3.5_eng": "Kia is preparing to introduce a new electric pickup truck in the U.S., following the launch of the Tasman mid-size pickup. The prototype of the electric truck has been spotted testing on public roads, featuring design elements from other Kia and Hyundai models. The electric pickup is expected to have a more conventional design compared to the Tasman, and may be produced locally in the U.S. to avoid import taxes.",
+        "summary_4o_eng": "Kia is preparing to unveil the Tasman, a global mid-size pickup truck, and is also testing a fully electric truck prototype in the U.S. This electric truck, which was recently spotted on public roads, will join the growing EV truck market, competing with models like the Tesla Cybertruck and Rivian R1T, but likely focusing more on practicality similar to Ford, Chevrolet, and Ram offerings.\n\nThe prototype features design elements from the Kia EV9 and Hyundai Santa Cruz, though changes are expected before the final production model. Unlike the Tasman, which has a more unconventional design, the electric truck will likely follow the design language of Kia's other EVs, such as the EV5, EV6, and EV9.\n\nDetails about the electric truck are limited, but it is not expected to have a body-on-frame design like the Tasman. Hyundai's upcoming second-generation EV platform will support this new electric truck. To avoid the 25% 'Chicken Tax,' Kia might consider local production of the electric pickup for the U.S. market."
+    },
+    {
+        "uri": "8130887456",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-16",
+        "time": "14:47:30",
+        "dateTime": "2024-05-16T14:47:30Z",
+        "dateTimePub": "2024-05-16T14:47:06Z",
+        "dataType": "news",
+        "sim": 0.6666666865348816,
+        "url": "https://www.motor1.com/news/719929/tesla-cybertruck-porsche-911-race-sham/",
+        "title": "Here's Proof Tesla Misled You With Its Cybertruck Towing a 911 Drag Race",
+        "body": "A new test reveals that Tesla wasn't honest about the results of its Cybertruck towing drag race against a Porsche 911.\n\nTesla made headlines late last year when it launched the Cybertruck. The automaker touted the pickup's performance chops, with CEO Elon Musk claiming that a Cybertruck towing a Porsche 911 was quicker in a quarter-mile drag race than an actual 911. The company released a video allegedly verifying the claim, but new proof reveals that Tesla wasn't candid about the results.\n\nMotorTrend got a privately owned Cybertruck and a Porsche 911 Carrera T to recreate the race. Tesla never revealed the specific 911 it used, so MT took a very educated guess to be as accurate as possible. The publication also considered the cars' gearboxes and the drivers' weight before putting the pair through six drag races.\n\nEach one ended with the Porsche winning. The first race was the closest, with just 0.2 seconds separating the pair, but a 0.7-second gap would emerge by the final race when the 911 won with a 12.2-second time at 116.4 miles per hour -- its best. It took the Cybertruck 12.9 seconds at 104.6 mph to finish the sixth race. The Tesla achieved its best quarter-mile time in the first and fourth runs -- 12.7 seconds.\n\nThe video Tesla published showing the race was heavily scrutinized, with eagle-eyed internet users quickly revealing the video showed an eighth-mile race. The truck's lead engineer would then reveal that Tesla never attempted a quarter-mile race between the two.\n\nEven here, Tesla might have fibbed a bit, but the results are much closer. The first rematch race between the two resulted in the Cybertruck reaching the eighth-mile mark first in 8.1 seconds. It took the 911 8.2 seconds, but it wasn't MT's quickest run with the Porsche. That came in the last race with the 911's 7.9-second time. The Cybertruck needed 8.3 seconds.\n\nMusk isn't known for making the most accurate statements on stage, and his claim about the Cybertruck beating a 911 was a whiff. However, the truck's performance capability is still impressive, even while towing another vehicle.",
+        "source": {
+            "uri": "motor1.com",
+            "dataType": "news",
+            "title": "Motor1.com",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "Brazil"
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://cdn.motor1.com/images/mgl/L3kwgG/s3/porsche-911-vs-cybertruck-rematch-drag-race.jpg",
+        "eventUri": "eng-9568803",
+        "sentiment": 0.05098039215686279,
+        "wgt": 453566850,
+        "relevance": 100,
+        "summary_3.5_eng": "Tesla claimed that the Cybertruck was faster than a Porsche 911 in a quarter-mile drag race while towing it, but a new test by MotorTrend revealed that this was not true. The test showed that the Porsche won in all six races, with the closest race having a 0.2-second gap and the final race having a 0.7-second gap. The video released by Tesla was also found to be misleading as it showed an eighth-mile race, not a quarter-mile race as claimed. Despite this, the Cybertruck's performance while towing was still impressive.",
+        "summary_4o_eng": "A new test has revealed that Tesla was not honest about the results of its Cybertruck towing drag race against a Porsche 911. Tesla had claimed that the Cybertruck, while towing a Porsche 911, was faster in a quarter-mile drag race than the 911 itself, and released a video to support this claim. However, MotorTrend recreated the race with a privately owned Cybertruck and a Porsche 911 Carrera T, and found that the Porsche won all six races. The closest race had a 0.2-second difference, while the largest gap was 0.7 seconds. The video Tesla published was scrutinized and found to show an eighth-mile race, not a quarter-mile. Even in the eighth-mile race, the Porsche performed better in the final race. Despite Elon Musk's inaccurate claim, the Cybertruck's performance is still impressive."
+    },
+    {
+        "uri": "2024-05-358225057",
+        "lang": "eng",
+        "isDuplicate": true,
+        "date": "2024-05-16",
+        "time": "14:20:51",
+        "dateTime": "2024-05-16T14:20:51Z",
+        "dateTimePub": "2024-05-16T05:00:00Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://www.motortrend.com/reviews/tesla-cybertruck-beast-vs-porsche-911-carrera-t-drag-race-towing-rematch/",
+        "title": "Rematch! Tesla Cybertruck vs. Porsche 911 Drag Race! (This Time It's Not Rigged)",
+        "body": "Back in December, Elon Musk released the Tesla Cybertruck into the world with an incredible claim: \"It can tow a Porsche 911 across the quarter mile faster than the Porsche 911 can go by itself,\" Musk said after showing a clip of his stainless-steel colossus towing a trailer and narrowly beating the iconic sports car down the dragstrip. Millions of people have already seen Tesla's video, including you, probably.\n\nIt's a great stunt to show off how unbelievably quick the 845-hp Cybertruck Beast is. At just 2.5 seconds to 60 mph in MotorTrend testing, Tesla's three-motor electric truck beats every Corvette, every McLaren, and all but one Lamborghini that we've ever tested in the industry-benchmark acceleration test. That's without a trailer, of course.\n\nFrom the moment the words came out of Musk's mouth, we were skeptical of Tesla's towing/drag race video. Extraordinary claims require extraordinary evidence, and while Tesla did show the full, unedited race from four angles, that wouldn't stop the Porsche 911 driver -- presumably a Tesla employee -- from ensuring the Cybertruck won. If the race was as close as Tesla's video suggested, a soft launch, a slow shift, or a slight lift of the accelerator in the Porsche could be the difference between a Tesla loss and a victory.\n\nWe've been fact-checking automakers and testing cars for 75 years at MotorTrend, and to believe Tesla's claim we needed to not just see it with our own eyes but also drive it with our own feet and hands. So that's what we've done. We rented a dragstrip, lined up two examples of the slowest new 911 you can buy, secured the same trailer that Tesla used, and borrowed Out of Spec's 845-hp Tesla Cybertruck. Then we raced.\n\nIf you simply want to know who really wins this drag race, you can see it with your own eyes in the video above or scroll down to the results. For the sake of transparency, though, we're showing all our work in this story. We also brought along Jason Fenske from Engineering Explained and Jordan Schiefer from Out of Spec, so you don't only have to take our word about what happened.\n\nThe Race Setup\n\nWe approached our drag race with a scientific sense of curiosity. Regardless of which vehicle won, we wanted to understand how it nabbed the victory. We also gave the Cybertruck every possible advantage -- within reason -- since we assume Tesla also did the same.\n\nThat starts by racing against a 2023 Porsche 911 Carrera T with a seven-speed manual transmission. This is the slowest new 911 you can buy today, but it's hardly a dog. In prior MotorTrend tests, we've run the 379-hp stick-shift Carrera T to 60 mph in 3.9 seconds and through the quarter mile in 12.2 seconds at 116.4 mph. Per our usual test procedures, we raced the 911 with a full tank of gas.\n\nJust like Tesla did, we hitched the Cybertruck to an ultralightweight Futura Club Sport aluminum trailer. Futura claims the Club Sport is the lightest car hauler on the market, and after weighing our trailer at 971 pounds, we believe it. That said, the single-axle Club Sport is designed to haul stripped-down race cars, not modern luxury sports cars. The trailer is only rated for a payload of 2,600 pounds, but the lightest Porsche 911 weighs around 3,200 pounds.\n\nFutura representatives didn't blink when we told them what we wanted to do. The company had full confidence in its product, as well as the Longway ZT501 light-truck tires (rated for 112 mph) installed on every Club Sport. We had Futura's blessing to run the quarter mile to triple-digit speeds at 700 pounds over capacity.\n\nWe loaded the trailer with a second Porsche 911 Carrera T, this one with the PDK dual-clutch automatic and a curb weight 104 pounds higher than the manual-transmission car. To offset that difference, we went on a mileage run to use up most of the fuel then removed anything that wasn't bolted down -- floormats, the owner's manuals, the tire inflator kit. We briefly debated taking out the front seats, but if you start disassembling the car, where do you draw the line? Should the engine come out, too? We agreed it would be disingenuous to run the race with a car that couldn't be driven on and off the trailer. Plus, we had already pulled enough poundage out of the towed car to give Tesla the advantage. For our race, the 911 on the trailer weighed 35 pounds less than the 911 that lined up against the Cybertruck.\n\nWe carried our obsession with weight even further. The Cybertruck was driven by Engineering Explained's Fenske, who, coming off a bachelor party in Mexico, weighed the heaviest he ever has at a feathery 156 pounds. The Porsche was driven by your author (testing director Eric Tingwall), who, coming off four years of child rearing, also weighed the heaviest he ever has at 196 pounds. Because no pebble went unweighed, those figures include the helmets we wore.\n\nOur Cybertruck Beast, borrowed from Out of Spec, was firing on all cylinders. No, wait. Electrons? Motor windings? Whatever. Just two days before the drag race, this Beast beat Tesla's advertised 2.6-second 0-60 time with a 2.5-second rip. And because electric vehicles can get slower as the battery depletes, we used MotorTrend's long-term Ford F-150 Lightning to charge the Tesla between our morning drive to Famoso Dragstrip and before we started racing. When we launched it down the track for the first match with the 911, the battery showed 94 percent charge.\n\nAll in, our race pitted 11,268 pounds worth of stainless steel, aluminum, lithium, and bristling muscle propelled by 845 horsepower against 3,488 pounds of aluminum, carbon-spewing flat-six, and dad bod powered by 379 horsepower. The only thing left to do was race.\n\nHere's What Tesla Didn't Show You\n\nWe ran six quarter-mile drag races, and each one had the same outcome: The Porsche 911 Carrera T wins and the Tesla Cybertruck Beast loses. In the world of drag racing, it's not a particularly close race, either.\n\nIn the first heat, the Porsche ran 12.5 seconds at 115.6 mph, while the Tesla followed in 12.7 seconds at 105.2 mph. Over the next few runs, as the Porsche driver honed his launch, the 911 trimmed 0.3 second off the time. The Cybertruck only posted one quicker run, which amounted to a trivial 0.02-second improvement. If we cherry-pick the quickest Cybertruck run and the slowest 911 run -- the best possible scenario for Tesla -- the Beast still crosses the finish line 0.229 second behind the Porsche. (All results from our drag race have 1-foot rollout removed per drag-racing convention, but in the spirit of running an honest head-to-head race, we have not applied any weather correction.)\n\nThe chart below shows the quarter-mile times for all six runs, and if that's not proof enough for you, check the photo gallery for the receipts -- the official timeslips from Famoso Dragstrip.\n\nDoes the Cybertruck Even Win in the Eighth Mile?\n\nA few weeks after Musk made the original quarter-mile claim, Fenske posted a video on his Engineering Explained YouTube channel revealing Tesla had only shown an eighth-mile race. Cybertruck lead engineer Wes Morrill responded by confirming that Tesla never actually ran the quarter-mile race, but he still backed up the original assertion. \"The fastest 1/8mi CT hit while towing on the day was 7.808s at 88 mph and the trailer tires were only rated to 80 mph so we opted to call it a day before someone got hurt,\" he posted on X, formerly Twitter. \"Our simulations showed the full 1/4 mi race would be close but with the same net result, so no need to risk it.\"\n\nMorrill also claimed Tesla's video didn't show the Cybertruck's quickest run. We're not sure if that's true, but we can say confidently that Tesla didn't show the Porsche 911 Carrera T's quickest possible run. In four out of six MotorTrend drag races, the Porsche 911 Carrera T beat the Cybertruck to the eighth-mile mark. Pitting the best runs against each other, the Porsche 911 Carrera T crosses the eighth mile in 7.9 seconds at 91.4 mph. The Cybertruck does it in 8.1 seconds at 86.7 mph.\n\nPitting the Best Run Against the Best Run\n\nTo get more detail than what the track timing system offers, we armed both cars with Racelogic Vbox Touch data loggers, which allow us to visualize what the race would have looked like if the Cybertruck and the 911 posted their best runs in the same heat.\n\nThe manual-transmission Carrera T has a 3,500-rpm limiter at standstill, and on a sticky, prepped drag strip, launching quickly requires getting off the line without letting the revs fall. Drop the clutch too fast, and the engine will bog, falling out of its powerband. It takes a slow, carefully modulated clutch release to get the perfect launch, which keeps the engine on boil and extracts a small amount of slip from the tires.\n\nThe Cybertruck launch, in contrast, is as simple as it gets. Put it in Beast mode, step on both pedals, wait a few seconds for the truck to squat on its air springs, then release the brake. With no turbo to reach full boost, no intake manifold to pressurize, no clutch to modulate, and a big, fat torque curve available from the jump, the Beast yanks hard even with 4,228 pounds hitched to its bumper.\n\nThe Cybertruck Beast would absolutely decimate the 911 Carrera T if it wasn't saddled with the trailer. But in this drag race, the Tesla and the Porsche shoot off the line almost in unison. Acceleration peaks at 0.72 g for the Tesla versus 0.79 g in the Porsche once it's making full power and the tires have hooked up. The Beast has the slightest advantage -- a couple hundredths of a second -- through the first 7 feet of the race until the Carrera T pulls even. Once the 911 edges ahead after 16 feet, the Tesla never leads again.\n\nAfter 60 feet, the Cybertruck trails by 0.06 second. Even the slow, human-actuated shift from first to second gear at 44 mph and 91 feet into the race doesn't give the single-speed electric Cybertruck a chance to catch up. It remains 4 feet behind the 911 the entire time the driver is lifting off the gas, pushing in the clutch, yanking the stick, and then clutching out and returning to the gas. That upshift into a higher gear ratio reduces the torque at the 911's wheels, and for the next 1.5 seconds, the two vehicles accelerate in lockstep, the Porsche just slightly ahead. But as speed builds, the Cybertruck's power starts to taper off and aerodynamic drag starts to take its toll. The claimed 0.34 drag coefficient makes the Cybertruck incredibly slippery for a pickup truck, but a much larger frontal area means the air works harder on the Tesla than the Porsche. The 911 starts to open the gap.\n\nWhen the 911 reaches the eighth-mile mark, the Cybertruck is 22 feet behind and moving 4.8 mph slower. That lead nearly quadruples between the eighth-mile mark and the quarter-mile finish line. The Ruby Star Neo pink sports car reaches the finish line after 12.2 seconds at 116.4 mph, 85 feet ahead of the stainless-steel wedge. The Tesla stops the clock 0.555 second later.\n\nNow You Know the Truth\n\nNo matter how you slice it, present it, or asterisk the claim, Tesla and Elon Musk's big brag doesn't hold up. There's no scenario where the Tesla Cybertruck Beast pulls a fully functional Porsche 911 Carrera T across the quarter mile before the Porsche 911 Carrera T gets to the finish line.\n\nEven if Tesla had originally disclosed it only staged an eighth-mile race, the video seen by customers, fans, and curious observers is highly misleading. Like Tesla, we recorded runs with the Cybertruck ahead of the 911 at the eighth mile, but that's not enough for us to say the Tesla-911 train is quicker than the Porsche. Based on the best performances of both vehicles, the 911 is the quicker car, unless your race ends after 7 feet.\n\nThe race was a fantastic idea for a publicity stunt -- and we're not just saying that because MotorTrend did the same thing four years ago using a Tesla Model X P90D and an Alfa Romeo 4C Spider. But it was reckless for a corporation worth billions of dollars to make an unsubstantiated claim to millions of people without ever running the actual quarter-mile race. You have to pick the right foil for the tow vehicle to win. In this case, the Porsche 911 Carrera T is both too heavy and too quick for the Cybertruck to earn the victory.\n\nHere's the truth: A Tesla Cybertruck cannot tow a Porsche 911 Carrera T over a quarter mile quicker than the 911 Carrera T alone can run the race. Add it to the long list of broken Tesla promises.",
+        "source": {
+            "uri": "motortrend.com",
+            "dataType": "news",
+            "title": "MotorTrend",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Los Angeles"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://d2kde5ohu8qb21.cloudfront.net/files/664517d49fafcc00082eb3e1/007-tesla-cybertruck-beast-vs-porsche-911-carrera-t-drag-race-towing-rematch.jpg",
+        "eventUri": null,
+        "sentiment": -0.01960784313725494,
+        "wgt": 453565251,
+        "relevance": 100,
+        "summary_3.5_eng": "Elon Musk claimed that the Tesla Cybertruck could tow a Porsche 911 across the quarter mile faster than the Porsche could go by itself. However, after testing, it was found that the Porsche 911 Carrera T consistently beat the Cybertruck in drag races. Despite Tesla's video showing the Cybertruck ahead at the eighth mile, the Porsche ultimately won the race. This claim was found to be misleading, and the Cybertruck was unable to beat the Porsche in a quarter-mile race.",
+        "summary_4o_eng": "In December, Elon Musk claimed that the Tesla Cybertruck could tow a Porsche 911 across a quarter mile faster than the Porsche could drive it alone. This bold statement was demonstrated in a Tesla video, but MotorTrend was skeptical and decided to test it themselves. They set up a drag race with a 2023 Porsche 911 Carrera T and an 845-hp Tesla Cybertruck, using the same trailer as Tesla.\n\nMotorTrend's tests showed that the Porsche 911 consistently beat the Cybertruck in six quarter-mile races. The Porsche's best time was 12.2 seconds at 116.4 mph, while the Cybertruck's best was 12.7 seconds at 105.2 mph. Even in an eighth-mile race, the Porsche was faster.\n\nMotorTrend concluded that Tesla's claim was misleading and unsubstantiated. The Cybertruck cannot tow a Porsche 911 Carrera T over a quarter mile faster than the Porsche can drive it alone."
+    },
+    {
+        "uri": "2024-05-358225056",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-16",
+        "time": "14:20:50",
+        "dateTime": "2024-05-16T14:20:50Z",
+        "dateTimePub": "2024-05-16T07:00:00Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://www.motortrend.com/reviews/2024-tesla-cybertruck-beast-0-60-mph-quarter-mile-tested/",
+        "title": "Tesla Cybertruck Beast is Both Quicker and Slower than Tesla's Claims in MotorTrend Testing",
+        "body": "Tesla has made many claims for its wedge-shaped Cybertruck Beast, including a 0-60-mph time of 2.6 seconds and a top speed of 130 mph -- outrageous stats for a pickup truck that tipped our scales at 6,884 pounds. But with three motors making more than 800 horsepower and Tesla's excellent launch control system, the Cybertruck blasted to 60 mph in just 2.5 seconds in our testing before crossing the quarter mile in 11.0 seconds at 113.7 mph. It's a different story when it comes to the Cyberbeast's top speed, but we'll get to that later.\n\nThose numbers make the Tesla Cyberbeast the quickest truck we've ever tested by a longshot. The Rivian R1T Quad-Motor comes in at second place and makes similar power with 835 hp and 908 lb-ft of torque (versus the Tesla's 845 hp and 864 lb-ft), but trails the Cyberbeast with 0-60-mph and quarter-mile times of 3.1 seconds and 11.6 seconds, respectively. We chalk up much of the difference to Tesla's launch control system. The Cyberbeast launches in a controlled and consistent manner with minimal wheelspin, which is a sharp contrast to the R1T that lacks launch control and seemingly spins all four of its tires off the line.\n\nThe Cyberbeast will also have no issues edging out a long list of supercars -- at least to 60 mph. Here, the Tesla beats every C8 Corvette we've tested, along with the (992-series) Porsche 911 GT3, McLaren 765LT, and all but one Lamborghini Hur\u00e1can. Of course we have to point out that the Tesla falls behind those cars when the contest is stretched to the quarter mile. Some of that can be blamed on our test car's top speed of 113.7 mph, which it hit almost 200 feet before reaching the quarter mile. A Tesla insider told us that a software update will eventually unlock Tesla's advertised 130 mph top speed, but when that will happen is anyone's guess.\n\nAs with past Teslas like the Model S Plaid, the Cyberbeast is a breeze to launch. After selecting Beast Drive Mode in the Dynamics setting menu, firmly press the brake pedal with your left foot and fully stomp on the accelerator with your right foot. From there, the entire infotainment screen changes to display the Cybertruck in a futuristic black and white triangular tunnel while the front suspension lowers. The owner's manual instructed us to \"wait for a 'Ready to Launch' message to appear on the screen,\" but that message never came (another item for Tesla to add to its to-do list). Instead, we released the accelerator once the suspension was done adjusting the ride height. The launch isn't quite as explosive as say a Model S Plaid, but after about 10 feet, the Cyberbeast really digs in with immense acceleration. Just as immense are the tire roar, wind noise at triple-digit speeds, and giggles the Cyberbeast will surely illicit from any passenger experiencing a three and half-ton pickup truck blasting to 60 mph in under 3.0 seconds.",
+        "source": {
+            "uri": "motortrend.com",
+            "dataType": "news",
+            "title": "MotorTrend",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Los Angeles"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [
+            {
+                "uri": "erick_ayapana@motortrend.com",
+                "name": "Erick Ayapana",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": "https://d2kde5ohu8qb21.cloudfront.net/files/663e9f510e2c550008f803d3/016-2024-tesla-cyberbeast.jpg",
+        "eventUri": null,
+        "sentiment": 0.1294117647058823,
+        "wgt": 453565250,
+        "relevance": 100,
+        "summary_3.5_eng": "The Tesla Cyberbeast pickup truck has impressive performance stats, including a 0-60 mph time of 2.5 seconds and a quarter-mile time of 11.0 seconds at 113.7 mph. It outperforms the Rivian R1T Quad-Motor in terms of acceleration due to Tesla's launch control system. The Cyberbeast can also outpace many supercars up to 60 mph. However, it falls behind in terms of top speed, which Tesla plans to address with a software update. Launching the Cyberbeast is easy and exhilarating, with the acceleration being described as immense. Overall, the Cyberbeast is the quickest truck ever tested by the source.",
+        "summary_4o_eng": "Tesla's Cybertruck, dubbed the \"Cyberbeast,\" boasts impressive performance stats for a pickup truck, including a 0-60 mph time of 2.6 seconds and a top speed of 130 mph. In testing, it achieved 0-60 mph in 2.5 seconds and completed the quarter mile in 11.0 seconds at 113.7 mph, making it the fastest truck tested. This performance is attributed to its three motors generating over 800 horsepower and Tesla's advanced launch control system. The Cyberbeast outperforms the Rivian R1T Quad-Motor and even some supercars up to 60 mph, though it falls behind in the quarter mile due to a top speed limitation. Tesla plans a software update to unlock the full 130 mph top speed. Launching the Cyberbeast is straightforward, involving a specific drive mode and a sequence of pedal actions, though some features like the \"Ready to Launch\" message need refinement. The experience is thrilling, marked by rapid acceleration and significant noise at high speeds."
+    },
+    {
+        "uri": "8130831368",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-16",
+        "time": "14:12:35",
+        "dateTime": "2024-05-16T14:12:35Z",
+        "dateTimePub": "2024-05-16T14:12:09Z",
+        "dataType": "news",
+        "sim": 0.7058823704719543,
+        "url": "https://jalopnik.com/tesla-cybertruck-is-already-the-second-most-popular-ele-1851480941",
+        "title": "Tesla Cybertruck Is Already The Second Most Popular Electric Truck On The Market",
+        "body": "Good morning! It's Thursday, May 16, 2024, and this is The Morning Shift, your daily roundup of the top automotive headlines from around the world, in one place. Here are the important stories you need to know.\n\nThe Tesla Cybertruck is already outselling most of the electric pickup truck market, losing out only to the Ford F-150 Lightning. In March, the Cybertruck notched 1,158 new vehicle registrations. That's more than the Rivian R1T's 548, the Chevy Silverado EVs' 319, and the GMC Hummer EV's 192. Still, everyone lagged behind the Lightning's healthy 2,893 registrations. From Automotive News:\n\n\"In its fourth month, the Cybertruck had over a thousand registrations and outsold the R1T by more than two to one,\" said Tom Libby, associate director of industry analysis at S&P Global Mobility. \"And frankly, I'm a little bit surprised. The Cybertruck is very, very unique, and it's interesting that it's been able to do that type of volume so quickly.\"\n\nRegistration data serves as a proxy to official sales numbers since Tesla doesn't break out its U.S. sales from global deliveries. Also, Rivian doesn't report sales by model, and other EV makers omit some model data.\n\nPrior to going on sale, the Cybertruck had amassed a million reservations from Tesla fans who put down a $100 refundable deposit, Tesla CEO Elon Musk said in October.\n\nHowever, the base price of the Cybertruck rose to $60,990 when the revised price was announced at launch from $39,900 when it was first presented in November 2019. Both prices are before shipping.\n\nIn addition, Tesla started production with a special Foundation Series that starts at $99,990 before shipping. Tesla said on its website that lower trims will go on sale next year.\n\nTo more drastically undercut the Cybertruck Foundation Series, Rivian cut the base price of the R1T to $71,700, a $3,100 drop. The Lightning starts at $57,090, and a base Silverado EV will cost buyers $74,900, both including shipping. Outside of the Cybertruck, the Hummer EV is the most expensive with a $98,845 base price.\n\nIn the first quarter, 8,589 Lightnings were registered, which represents a 51 percent increase year-over-year. At the same time, the Cybertruck had 1,791, and the R1T had 1,786 registrations. That works out to a 56 percent year-over-year decline. Not ideal for Rivian, no.\n\nHonda has pledged to double its electrification and software investment to about $65 billion through the 2030 business year. CEO Toshihiro Mibe made the announcement the Japanese automaker would be doubling the amount it initially planned to invest in April 2022 at a press conference on May 16. From Reuters:\n\nThe company, a relative latecomer to electric vehicles, first had to ensure it could reliably procure batteries and achieve cost cuts and performance improvements before focusing on software-defined vehicles, Mibe said.\n\n\"As for strengthening software development, we realised the amount we had settled on two years ago was simply not enough, so we significantly increased that portion,\" Mibe said, after a presentation that focused mostly on hardware improvements.\n\nModels of a battery-powered vehicle series Honda will start rolling out from 2026 will have a cruising range of 300 miles (482 km) or more, Mibe said, pledging to equip the cars with an ultra-thin battery pack and a newly-developed compact e-axle.\n\nThe automaker said it aimed to cut battery procurement costs in North America by more than 20% by 2030 and reduce production expenses by about 35%, partly by boosting parts integration.\n\nHere's a little more on Honda's plans for EVs:\n\nMibe said Honda plans to launch seven models in its EV series globally by 2030, but pointed out that the spread of EVs in North America and Europe was slowing, after reaching a plateau.\n\nHonda unveiled plans last month to invest $11 billion in new EV and battery production plants alongside existing facilities in Ontario, Canada, as it prepares to expand in the North American market.\n\nHonda originally launched its all-electric \"0 Series\" back in January at CES (I was there!) as it gears up for a long-term push to catch up with other automakers that were earlier to EVs.\n\nVolkswagen and Honda seem to be passing each other like ships in the night because the German automaker is scaling back its electric vehicle plans. VW said last week that it will need more plug-in hybrids to compensate as EV sales slow down. From Bloomberg:\n\nThis marks just the latest adjustment VW has made to its electrification strategy after the company botched several model releases and fell behind in China, where local brands now dominate. The manufacturer has also shelved efforts to seek outside investors for its battery unit and scrapped plans for a \u20ac2 billion ($2.2 billion) EV factory in Germany.\n\nIn fact, the automaker is selling so many cars still running on combustion engines that it's on track to overshoot its emissions allowance next year, leading Chief Executive Officer Oliver Blume to ask European regulators for leniency. It's a sharp turnabout from only three years ago, when VW's aggressive lobbying for EVs in the European Union opened up rifts between the company and some of its peers in the region.\n\nVW had little choice but to lean into its electrification messaging after having bet heavily on \"clean\" diesel engines. That wager went sideways when the company was caught cheating on emissions tests, which forced a hard pivot to battery-powered vehicles. By 2019, then-CEO Herbert Diess announced to launch as many as 75 all-electric models over the next decade.\n\nHis EV-or-bust strategy -- Diess argued that automakers needed to change quickly if they wanted to survive -- rankled executives from Turin to Tokyo who wanted more time and flexibility to make the transition from combustion cars. The CEO even lauded what he saw as an early-mover advantage.\n\nElectric mobility \"has won the race,\" Diess said when presenting VW's battery strategy in 2021. \"Many in the industry questioned our approach. Today, they are following suit, while we are reaping the fruit.\"\n\nDon't worry though, EV lovers. Volkswagen hasn't completely given up on electric cars. Blume has struck partnerships with companies like Xpeng and is preparing a brand-new EV automaker for China. VW has also apparently been discussing developing cheaper EVs with other European automakers like Renault.\n\nVW isn't alone in having to recalibrate as a result of the EV slowdown. Countries including Germany and Sweden have ceased or pared back subsidies for electric cars that still tend to be more expensive than combustion counterparts, which has hurt the broader sector. Gaps in public charging networks also continue to turn off potential buyers.\n\nNo matter how you slice it, folks, right now we are in a really strange time for EVs. I still think it's probably the future, but the path there is not going to be nearly as straightforward as it once seemed.\n\nIn more Volkswagen fueling news, the German automaker and a group representing vehicle owners in Italy reached an agreement worth over $54 million to end a legal battle over the company's \"Dieselgate\" emissions scandal. From Reuters:\n\nIn the settlement, over 60,000 car owners affected by the emissions fraud will be paid up to 1,100 euros each, Italian consumer group Altroconsumo said in a statement.\n\nThe scandal rocked the automotive industry in 2015 when it emerged that vehicles had been fitted with illegal software to cheat environmental emissions tests. It has cost the German carmaker more than 32 billion euros ($34.8 billion)in fines, refits and legal costs.\n\nVolkswagen's Italian arm confirmed the agreement.\n\n\"We continue to work in favour of our customers here in Italy. The agreement brings a years-long litigation to an end and offers a mutual solution for all parties involved,\" it said in a statement.\n\nThe settlement applies to drivers who bought Volkswagen, Audi, Skoda and SEAT cars with diesel EA189 engines between 2009 and 2015.\n\nAltroconsumo started legal action against Volkswagen in 2015, in coordination with its sister organisations in Belgium, Spain and Portugal who are part of the Euroconsumers body.\n\nVolkswagen was called on by the group to properly repay Dieselgate victims who were involved across Europe, saying that \"all Dieselgate victims are equal and should be treated with equal respect.\"",
+        "source": {
+            "uri": "jalopnik.com",
+            "dataType": "news",
+            "title": "Jalopnik",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "New York"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/bd21aeb012c87c309e06b953370ec93c.png",
+        "eventUri": "eng-9574644",
+        "sentiment": 0.07450980392156858,
+        "wgt": 453564755,
+        "relevance": 100,
+        "summary_3.5_eng": "The text discusses the latest automotive headlines, focusing on the success of the Tesla Cybertruck in the electric pickup truck market, Honda's increased investment in electrification and software, Volkswagen's adjustments to its electric vehicle plans, and a settlement reached in Italy over the \"Dieselgate\" emissions scandal. The Cybertruck is outselling other electric pickups, Honda plans to double its investment in EVs, VW is scaling back its EV plans, and a settlement worth over $54 million has been reached in Italy for affected car owners.",
+        "summary_4o_eng": "Good morning! It's Thursday, May 16, 2024, and here are the top automotive headlines:\n\n1. **Tesla Cybertruck Sales**: The Tesla Cybertruck is outselling most electric pickup trucks, with 1,158 new registrations in March, second only to the Ford F-150 Lightning's 2,893. The Cybertruck's base price has increased to $60,990, with a special Foundation Series starting at $99,990.\n\n2. **Honda's Investment in EVs**: Honda plans to double its investment in electrification and software to $65 billion by 2030. The company aims to launch seven EV models globally by 2030 and reduce battery procurement costs by over 20%.\n\n3. **Volkswagen's EV Strategy**: Volkswagen is scaling back its EV plans due to slowing sales and will focus more on plug-in hybrids. The company is also seeking leniency from European regulators for exceeding emissions allowances.\n\n4. **Dieselgate Settlement**: Volkswagen has agreed to a $54 million settlement with Italian car owners affected by the Dieselgate emissions scandal, compensating over 60,000 car owners up to 1,100 euros each."
+    }
+]
