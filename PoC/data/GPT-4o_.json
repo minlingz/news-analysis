@@ -1,0 +1,698 @@
+[
+    {
+        "uri": "eng-9564068",
+        "concepts": [
+            {
+                "uri": "http://en.wikipedia.org/wiki/OpenAI",
+                "type": "wiki",
+                "score": 100,
+                "label": {
+                    "eng": "OpenAI"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Artificial_intelligence",
+                "type": "wiki",
+                "score": 94,
+                "label": {
+                    "eng": "Artificial intelligence"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/ChatGPT",
+                "type": "wiki",
+                "score": 90,
+                "label": {
+                    "eng": "ChatGPT"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Google",
+                "type": "org",
+                "score": 33,
+                "label": {
+                    "eng": "Google"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Model",
+                "type": "wiki",
+                "score": 27,
+                "label": {
+                    "eng": "Model"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Chatbot",
+                "type": "wiki",
+                "score": 25,
+                "label": {
+                    "eng": "Chatbot"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Chief_technology_officer",
+                "type": "wiki",
+                "score": 23,
+                "label": {
+                    "eng": "Chief technology officer"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Chief_executive_officer",
+                "type": "wiki",
+                "score": 20,
+                "label": {
+                    "eng": "Chief executive officer"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Sound",
+                "type": "wiki",
+                "score": 19,
+                "label": {
+                    "eng": "Sound"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/GPT-4",
+                "type": "wiki",
+                "score": 16,
+                "label": {
+                    "eng": "GPT-4"
+                }
+            },
+            {
+                "uri": "http://zh.wikipedia.org/wiki/\u4eba\u985e",
+                "type": "wiki",
+                "score": 16,
+                "label": {
+                    "eng": "\u4eba\u985e"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Language",
+                "type": "wiki",
+                "score": 16,
+                "label": {
+                    "eng": "Language"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Real-time_computing",
+                "type": "wiki",
+                "score": 15,
+                "label": {
+                    "eng": "Real-time computing"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Apple_Inc.",
+                "type": "org",
+                "score": 15,
+                "label": {
+                    "eng": "Apple Inc."
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Microsoft",
+                "type": "org",
+                "score": 13,
+                "label": {
+                    "eng": "Microsoft"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Inference",
+                "type": "wiki",
+                "score": 12,
+                "label": {
+                    "eng": "Inference"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Robot",
+                "type": "wiki",
+                "score": 12,
+                "label": {
+                    "eng": "Robot"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Emotion",
+                "type": "wiki",
+                "score": 12,
+                "label": {
+                    "eng": "Emotion"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Europe",
+                "type": "loc",
+                "score": 12,
+                "label": {
+                    "eng": "Europe"
+                },
+                "location": null
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Phone_(phonetics)",
+                "type": "wiki",
+                "score": 11,
+                "label": {
+                    "eng": "Phone (phonetics)"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Application_programming_interface",
+                "type": "wiki",
+                "score": 11,
+                "label": {
+                    "eng": "Application programming interface"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/English_language",
+                "type": "wiki",
+                "score": 11,
+                "label": {
+                    "eng": "English language"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Virtual_assistant",
+                "type": "wiki",
+                "score": 10,
+                "label": {
+                    "eng": "Virtual assistant"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Siri",
+                "type": "wiki",
+                "score": 10,
+                "label": {
+                    "eng": "Siri"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Sam_Altman",
+                "type": "person",
+                "score": 9,
+                "label": {
+                    "eng": "Sam Altman"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/San_Francisco",
+                "type": "loc",
+                "score": 6,
+                "label": {
+                    "eng": "San Francisco"
+                },
+                "location": {
+                    "type": "place",
+                    "label": {
+                        "eng": "San Francisco"
+                    },
+                    "country": {
+                        "type": "country",
+                        "label": {
+                            "eng": "United States"
+                        }
+                    }
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Beijing",
+                "type": "loc",
+                "score": 6,
+                "label": {
+                    "eng": "Beijing"
+                },
+                "location": {
+                    "type": "place",
+                    "label": {
+                        "eng": "Beijing"
+                    },
+                    "country": {
+                        "type": "country",
+                        "label": {
+                            "eng": "China"
+                        }
+                    }
+                }
+            }
+        ],
+        "eventDate": "2024-05-13",
+        "totalArticleCount": 1512,
+        "title": {
+            "eng": "How to use ChatGPT 4o and when will it be available? - Revista Merca2.0 |",
+            "zho": "ChatGPT \u63a8AI\u65b0\u6a21\u578b\u300cGPT-4o\u300d \u5c0d\u8a71\u6d41\u5229\u3001\u80fd\u89e3\u65b9\u7a0b\u5f0f \u9084\u53ef\u8b58\u5225\u4eba\u985e\u60c5\u7dd2",
+            "spa": "Qu\u00e9 es GPT-4o, la nueva actualizaci\u00f3n de OpenAI para ChatGPT",
+            "por": "Chat-GPT: nova vers\u00e3o consegue ensinar matem\u00e1tica e at\u00e9 'flertar' em conversa - BBC News Brasil",
+            "rus": "\u0427\u0442\u043e \u043c\u043e\u0436\u0435\u0442 \u043d\u043e\u0432\u0430\u044f \u043d\u0435\u0439\u0440\u043e\u0441\u0435\u0442\u044c GPT-4\u043e, \u043e \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u0441\u0435 \u0433\u043e\u0432\u043e\u0440\u044f\u0442",
+            "fra": "Claude, l'intelligence artificielle d'Anthropic, se lance \u00e0 l'assaut de ChatGPT en Europe",
+            "deu": "KI-Chatbot \"Claude\" erreicht Deutschland: Ist der KI-Assistent besser als ChatGPT?",
+            "tur": "Art\u0131k duyabiliyor ve g\u00f6rebiliyor: OpenAI, ChatGPT'nin yeni yapay zeka modelini duyurdu",
+            "hrv": "Predstavljen GPT-4o: Digitalni asistent koji u\u010destvuje u razgovorima u stvarnom vremenu",
+            "ita": "Claude AI: come funziona il chatbot pi\u00f9 potente di Chat-GPT",
+            "ukr": "\u041d\u0456\u0431\u0438 \u0436\u0438\u0432\u0430 \u043b\u044e\u0434\u0438\u043d\u0430: \u043d\u0430 \u0449\u043e \u0437\u0434\u0430\u0442\u0435\u043d \u043d\u043e\u0432\u0438\u0439 \u0448\u0442\u0443\u0447\u043d\u0438\u0439 \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442 GPT-4o \u0432\u0456\u0434 OpenAI"
+        },
+        "summary": {
+            "eng": "OpenAI's newest Artificial Intelligence model, GPT-4o, brings significant advancements to ChatGPT, improving its capabilities to understand images, text, and multiple languages more efficiently.\n\nAfter the announcement of ChatGPT 4o, searches on Google on how to use this Artificial Intelligence model increased.\n\nThe rollout of this cutting-edge technology will occur gradually, ensuring that all users can access its powerful features seamlessly.\n\nThe GPT-4o model will be available to all ChatGPT u",
+            "zho": "\u804a\u5929\u6a5f\u5668\u4ebaChatGPT\u958b\u767c\u516c\u53f8OpenAI\uff0c\u6436\u5728Google I/O 2024\u958b\u767c\u8005\u5927\u6703\u4e4b\u524d\uff0c5\u670813\u65e5\u5ba3\u5e03\u63a8\u51fa\u65b0AI\u6a21\u578b\u300cGPT-4o\u300d\uff0c\u80fd\u5920\u9032\u884c\u5341\u5206\u903c\u771f\u7684\u4eba\u6a5f\u5c0d\u8a71\uff0c\u5373\u6642\u56de\u61c9\u4e4b\u5916\uff0c\u9084\u80fd\u878d\u5408\u6587\u5b57\u8207\u5f71\u50cf\u4e92\u52d5\uff0c\u5728\u76f8\u95dc\u9818\u57df\u582a\u7a31\u524d\u6240\u672a\u898b\uff0c\u6b64\u529f\u80fd\u5c07\u514d\u8cbb\u63d0\u4f9b\uff0c\u6709\u671b\u518d\u6b21\u63d0\u5347ChatGPT\u76f8\u95dc\u9818\u57df\u7684\u9818\u5c0e\u5730\u4f4d\u3002\u5c55\u793a\u6d3b\u52d5\u4e0a\uff0c\u4ee5\u6eab\u6696\u5973\u8072\u5448\u73fe\u7684\u804a\u5929\u6a5f\u5668\u4eba\u8207\u7814\u7a76\u4eba\u54e1\u6d41\u5229\u5c0d\u8a71\u3001\u8a9e\u6c23\u81ea\u7136\u3002\n\nOpenAI\u7814\u7a76\u4eba\u54e1\u8868\u793a\uff0c\u300cGPT-4o\u300d\u7684\u7279",
+            "spa": "OpenAI lanz\u00f3 un nuevo modelo de inteligencia artificial llamado GPT-4o, el cual revolucionar\u00e1 el servicio que brinda ChatGPT.\n\nDurante un evento realizado este lunes, Muri Murati, CTO de OpenAI, inform\u00f3 que GPT-4o posee una inteligencia equivalente al modelo GPT-4, pero ha sido mejorado para ampliar sus capacidades en el manejo de texto, audio y visi\u00f3n.\n\nEsta mejora se traduce en una notable reducci\u00f3n en la latencia de las respuestas, permitiendo interacciones casi instant\u00e1neas con los usua",
+            "por": "O GPT-4o ser\u00e1 aberto para todos os usu\u00e1rios do ChatGPT, incluindo n\u00e3o assinantes.\n\nEsse modelo \u00e9 mais r\u00e1pido que os anteriores e foi programado para se assemelhar mais a humanos conversando -- \u00e0s vezes at\u00e9 mesmo com um tom de flerte em suas respostas aos usu\u00e1rios.\n\nA nova vers\u00e3o consegue ler e discutir imagens, traduzir idiomas e identificar emo\u00e7\u00f5es a partir de express\u00f5es visuais. O rob\u00f4 tamb\u00e9m possui uma mem\u00f3ria para recuperar perguntas anteriores.\n\nO GPT-4o pode ser interrompido ",
+            "rus": "\u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f OpenAI \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u043b\u0430 \u043d\u043e\u0432\u0443\u044e \u0432\u0435\u0440\u0441\u0438\u044e \u0441\u0432\u043e\u0435\u0433\u043e \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430 -- GPT-4 Omnia (GPT-4o). \u042d\u0442\u043e \u0440\u0435\u0432\u043e\u043b\u044e\u0446\u0438\u043e\u043d\u043d\u043e\u0435 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u043d\u0430\u0432\u0435\u0440\u043d\u044f\u043a\u0430 \u0440\u0430\u0437\u0434\u0435\u043b\u0438\u0442 \u0438\u0441\u0442\u043e\u0440\u0438\u044e OpenAI \u043d\u0430 \"\u0434\u043e\" \u0438 \"\u043f\u043e\u0441\u043b\u0435\". \u0415\u0441\u043b\u0438 \u0440\u0430\u043d\u044c\u0448\u0435 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 \u043c\u043e\u0433\u043b\u0438 \u043e\u0431\u0449\u0430\u0442\u044c\u0441\u044f \u0441 \u0441\u0435\u0440\u0432\u0438\u0441\u043e\u043c \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u0442\u043e\u043b\u044c\u043a\u043e \u0432 \u0444\u043e\u0440\u043c\u0430\u0442\u0435 \u0447\u0430\u0442-\u0431\u043e\u0442\u0430, \u0442\u043e \u0442\u0435\u043f\u0435\u0440\u044c \u043d\u0435\u0439",
+            "fra": "La soci\u00e9t\u00e9 californienne Anthropic a annonc\u00e9 dans la nuit de lundi \u00e0 mardi le lancement en France et en Europe de Claude 3, son concurrent \u00e0 ChatGPT. D\u00e9j\u00e0 d\u00e9ploy\u00e9e depuis mars aux \u00c9tats-Unis, cette intelligence artificielle est pr\u00e9sent\u00e9e comme un rival s\u00e9rieux au chatbot d'OpenAI.\n\nLa guerre des IA fait rage aussi en Europe. Claude, le mod\u00e8le d'intelligence artificielle de la soci\u00e9t\u00e9 Anthropic, fait ses d\u00e9buts gratuitement sur le Vieux Continent. L'annonce a \u00e9t\u00e9 faite officiell",
+            "deu": "Der KI-Chatbot \"Claude\" ist nach langer Wartezeit nun auch in Deutschland nutzbar. Das Modell schneidet in Tests sogar besser ab als ChatGPT.\n\nDas amerikanische Start-up Anthropic hat bekannt gegeben, dass sein KI-Assistent Claude nun auch auf dem europ\u00e4ischen Markt - und somit auch in Deutschland - erh\u00e4ltlich ist. Claude solle sich aufgrund seiner umfassenden F\u00e4higkeiten insbesondere zur Unterst\u00fctzung von Unternehmen eignen.\n\nClaude ist ab sofort als Webversion unter claude.ai sowie als kost",
+            "tur": "OpenAI, ses, g\u00f6r\u00fcnt\u00fc ve metin \u00fczerinden ger\u00e7ek zamanl\u0131 mant\u0131k y\u00fcr\u00fctebilen yeni modeli \"GPT-4o\"yu tan\u0131tt\u0131.\n\nOpenAI taraf\u0131ndan geli\u015ftirilen ChatGPT, neredeyse her \u015feyi bilen ki\u015fisel bir \u00f6\u011fretmen gibi bir\u00e7ok soruya do\u011fal yan\u0131tlar verebiliyor.\n\nYapay zeka sohbet asistan\u0131 ChatGPT'yi geli\u015ftiren OpenAI \u015firketi; ses, g\u00f6r\u00fcnt\u00fc ve metin \u00fczerinden ger\u00e7ek zamanl\u0131 mant\u0131k y\u00fcr\u00fctebilen yeni modeli \"GPT-4o\"yu tan\u0131tt\u0131.\n\nGPT-4o neler sunuyor\n\nGPT-4o'nun daha do\u011fal insan-bilgisayar ",
+            "hrv": "Model \u0107e biti dostupan korisnicima koji ne pla\u0107aju pretplatu. X (Twitter)\n\nChatGPT \u0107e uskoro postati puno korisniji. OpenAI je u ponedjeljak najavio svoj najnoviji veliki jezi\u010dki model umjetne inteligencije za koji ka\u017ee da \u0107e ChatGPT u\u010diniti pametnijim i lak\u0161im za kori\u0161tenje.\n\nNovi model, nazvan GPT-4o, a\u017euriranje je prethodnog modela GPT-4, koji je lansiran prije ne\u0161to vi\u0161e od godinu. Model \u0107e biti dostupan korisnicima koji ne pla\u0107aju pretplatu, \u0161to zna\u010di da \u0107e svako putem ChatG",
+            "ita": "Sviluppato da Anthropic (azienda fondata da due fratelli italo-americani), ha gi\u00e0 raccolto investimenti importanti da parte di Amazon. A partire da oggi pu\u00f2 essere utilizzato anche in Italia e i valori di riferimento parlano di uno strumento ancora pi\u00f9 potente della creatura di OpenAI\n\nClaude AI \u00e8 un nome che dice ancora poco da queste parti. \u00c8 un chatbot basato su un modello di intelligenza artificiale generativa sviluppato da Anthropic, una societ\u00e0 fondata da due fratelli italo-americani ",
+            "ukr": "OpenAI \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u043b\u0430 \u0441\u0432\u043e\u044e \u043d\u043e\u0432\u0443 \u043c\u043e\u0434\u0435\u043b\u044c \u0448\u0442\u0443\u0447\u043d\u043e\u0433\u043e \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443 GPT-4o, \u044f\u043a\u0430 \u0437\u043d\u0430\u0447\u043d\u043e \u0440\u043e\u0437\u0448\u0438\u0440\u044e\u0454 \u043c\u043e\u0436\u043b\u0438\u0432\u043e\u0441\u0442\u0456 \u043e\u0431\u0440\u043e\u0431\u043a\u0438 \u043c\u043e\u0432\u043b\u0435\u043d\u043d\u044f, \u043f\u043e\u0440\u0456\u0432\u043d\u044f\u043d\u043e \u0437 GPT-4. \u0420\u043e\u0437\u0433\u043e\u0440\u0442\u0430\u043d\u043d\u044f GPT-4o \u0431\u0443\u0434\u0435 \u043f\u043e\u0441\u0442\u0443\u043f\u043e\u0432\u0438\u043c, \u0432\u043e\u043d\u0430 \u0431\u0443\u0434\u0435 \u0434\u043e\u0434\u0430\u043d\u0430 \u0443 \u0432\u0441\u0456 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0438 \u043a\u043e\u043c\u043f\u0430\u043d\u0456\u0457 \u0434\u043b\u044f \u0440\u043e\u0437\u0440\u043e\u0431\u043d\u0438\u043a\u0456\u0432 \u0456 \u0441\u043f\u043e\u0436\u0438\u0432\u0430\u0447\u0456\u0432 \u043f\u0440\u043e\u0442\u044f\u0433\u043e\u043c \u043d\u0430\u0439\u0431\u043b\u0438\u0436\u0447\u0438\u0445 \u0442\u0438\u0436\u043d\u0456\u0432, \u0456 \u0432\u0436\u0435 \u0437\u0430\u0440\u0430\u0437 \u0434\u043e\u0441\u0442\u0443\u043f"
+        },
+        "location": null,
+        "categories": [
+            {
+                "uri": "dmoz/Computers/Internet/On_the_Web",
+                "label": "dmoz/Computers/Internet/On the Web",
+                "wgt": 92
+            },
+            {
+                "uri": "dmoz/Recreation/Humor/Useless_Pages",
+                "label": "dmoz/Recreation/Humor/Useless Pages",
+                "wgt": 100
+            },
+            {
+                "uri": "dmoz/Recreation/Humor/Computer",
+                "label": "dmoz/Recreation/Humor/Computer",
+                "wgt": 100
+            },
+            {
+                "uri": "news/Technology",
+                "label": "news/Technology",
+                "wgt": 83
+            }
+        ],
+        "articleCounts": {
+            "eng": 668,
+            "zho": 373,
+            "spa": 230,
+            "por": 70,
+            "rus": 47,
+            "fra": 31,
+            "deu": 24,
+            "tur": 26,
+            "hrv": 14,
+            "ita": 20,
+            "ukr": 9
+        },
+        "sentiment": 0.2627450980392156,
+        "wgt": 1512,
+        "relevance": 125
+    },
+    {
+        "uri": "zho-1617017",
+        "concepts": [
+            {
+                "uri": "http://en.wikipedia.org/wiki/Tariff",
+                "type": "wiki",
+                "score": 100,
+                "label": {
+                    "eng": "Tariff"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Joe_Biden",
+                "type": "person",
+                "score": 71,
+                "label": {
+                    "eng": "Joe Biden"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/China",
+                "type": "loc",
+                "score": 69,
+                "label": {
+                    "eng": "China"
+                },
+                "location": {
+                    "type": "country",
+                    "label": {
+                        "eng": "China"
+                    }
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/United_States",
+                "type": "loc",
+                "score": 54,
+                "label": {
+                    "eng": "United States"
+                },
+                "location": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Semiconductor",
+                "type": "wiki",
+                "score": 43,
+                "label": {
+                    "eng": "Semiconductor"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Electric_vehicle",
+                "type": "wiki",
+                "score": 42,
+                "label": {
+                    "eng": "Electric vehicle"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/White_House",
+                "type": "wiki",
+                "score": 41,
+                "label": {
+                    "eng": "White House"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Electric_battery",
+                "type": "wiki",
+                "score": 39,
+                "label": {
+                    "eng": "Electric battery"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/United_States_dollar",
+                "type": "wiki",
+                "score": 39,
+                "label": {
+                    "eng": "United States dollar"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Steel",
+                "type": "wiki",
+                "score": 39,
+                "label": {
+                    "eng": "Steel"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Donald_Trump",
+                "type": "person",
+                "score": 38,
+                "label": {
+                    "eng": "Donald Trump"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Electric_car",
+                "type": "wiki",
+                "score": 34,
+                "label": {
+                    "eng": "Electric car"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Aluminium",
+                "type": "wiki",
+                "score": 34,
+                "label": {
+                    "eng": "Aluminium"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Beijing",
+                "type": "loc",
+                "score": 28,
+                "label": {
+                    "eng": "Beijing"
+                },
+                "location": {
+                    "type": "place",
+                    "label": {
+                        "eng": "Beijing"
+                    },
+                    "country": {
+                        "type": "country",
+                        "label": {
+                            "eng": "China"
+                        }
+                    }
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Car",
+                "type": "wiki",
+                "score": 23,
+                "label": {
+                    "eng": "Car"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Solar_cell",
+                "type": "wiki",
+                "score": 23,
+                "label": {
+                    "eng": "Solar cell"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Federal_government_of_the_United_States",
+                "type": "org",
+                "score": 21,
+                "label": {
+                    "eng": "Federal government of the United States"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Import",
+                "type": "wiki",
+                "score": 19,
+                "label": {
+                    "eng": "Import"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Washington,_D.C.",
+                "type": "loc",
+                "score": 16,
+                "label": {
+                    "eng": "Washington, D.C."
+                },
+                "location": {
+                    "type": "place",
+                    "label": {
+                        "eng": "Washington, D.C."
+                    },
+                    "country": {
+                        "type": "country",
+                        "label": {
+                            "eng": "United States"
+                        }
+                    }
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Europe",
+                "type": "loc",
+                "score": 15,
+                "label": {
+                    "eng": "Europe"
+                },
+                "location": null
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/World_Trade_Organization",
+                "type": "wiki",
+                "score": 14,
+                "label": {
+                    "eng": "World Trade Organization"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Reporter",
+                "type": "wiki",
+                "score": 13,
+                "label": {
+                    "eng": "Reporter"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Energy_source",
+                "type": "wiki",
+                "score": 12,
+                "label": {
+                    "eng": "Energy source"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Protectionism",
+                "type": "wiki",
+                "score": 12,
+                "label": {
+                    "eng": "Protectionism"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Mineral",
+                "type": "wiki",
+                "score": 12,
+                "label": {
+                    "eng": "Mineral"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Subsidy",
+                "type": "wiki",
+                "score": 12,
+                "label": {
+                    "eng": "Subsidy"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Inflation",
+                "type": "wiki",
+                "score": 12,
+                "label": {
+                    "eng": "Inflation"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/List_of_Ministry_of_Foreign_Affairs_of_the_People's_Republic_of_China_spokespersons",
+                "type": "wiki",
+                "score": 11,
+                "label": {
+                    "eng": "List of Ministry of Foreign Affairs of the People's Republic of China spokespersons"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/European_Union",
+                "type": "loc",
+                "score": 9,
+                "label": {
+                    "eng": "European Union"
+                },
+                "location": null
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Republican_Party_(United_States)",
+                "type": "org",
+                "score": 8,
+                "label": {
+                    "eng": "Republican Party (United States)"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Mexico",
+                "type": "loc",
+                "score": 8,
+                "label": {
+                    "eng": "Mexico"
+                },
+                "location": {
+                    "type": "country",
+                    "label": {
+                        "eng": "Mexico"
+                    }
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Lael_Brainard",
+                "type": "person",
+                "score": 7,
+                "label": {
+                    "eng": "Lael Brainard"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Democratic_Party_(United_States)",
+                "type": "org",
+                "score": 7,
+                "label": {
+                    "eng": "Democratic Party (United States)"
+                }
+            }
+        ],
+        "eventDate": "2024-05-14",
+        "totalArticleCount": 1445,
+        "title": {
+            "zho": "\u589e\u503c\u7a0e\u7acb\u6cd5\u6216\u4f34\u968f\u91cd\u5927\u6539\u9769 \u6d88\u8d39\u7a0e\u6539\u9769\u9700\u9002\u65f6\u63a8\u8fdb",
+            "eng": "Report: China's EVs a 'Nightmare' for U.S. Auto Workers Without Steep Tariffs",
+            "spa": "Biden eleva los aranceles a bienes chinos y los lleva al 100 % en los veh\u00edculos el\u00e9ctricos",
+            "deu": "E-Autos, Halbleiter, Rohstoffe: USA erh\u00f6hen Z\u00f6lle auf Waren aus China deutlich",
+            "ita": "Usa-Cina, Biden aumenta i dazi per auto elettriche cinesi",
+            "fra": "Les \u00c9tats-Unis s'appr\u00eateraient \u00e0 taxer drastiquement les v\u00e9hicules \u00e9lectriques chinois",
+            "por": "EUA t\u00eam pouco carro el\u00e9trico chin\u00eas, mas ind\u00fastria teme - 16/05/2024 - Mercado - Folha",
+            "srp": "\u0411\u0430\u0458\u0434\u0435\u043d \u0434\u0440\u0430\u0441\u0442\u0438\u0447\u043d\u043e \u043f\u043e\u0434\u0438\u0433\u0430\u043e \u0442\u0430\u0440\u0438\u0444\u0435 \u043d\u0430 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0435 \u0438\u0437 \u041a\u0438\u043d\u0435",
+            "slv": "ZDA v zvi\u0161anje carin na kitajske izdelke, pri elektri\u010dnih avtomobilih za \u0161tirikrat | 24ur.com",
+            "hrv": "SAD povisio carine na kineska elektri\u010dna vozila na 100 posto"
+        },
+        "summary": {
+            "zho": "\u8fd1\u65e5\uff0c\u5168\u56fd\u4eba\u5927\u5e38\u59d4\u4f1a\u53d1\u5e032024\u5e74\u5ea6\u7acb\u6cd5\u5de5\u4f5c\u8ba1\u5212\uff0c\u589e\u503c\u7a0e\u6cd5\u4e09\u5ba1\u5c06\u4e8e\u4eca\u5e7412\u6708\u4efd\u8fdb\u884c\u3002\u53d7\u8bbf\u4e13\u5bb6\u8ba4\u4e3a\uff0c\u8003\u8651\u5230\u589e\u503c\u7a0e\u7acb\u6cd5\u4e8c\u4e09\u5ba1\u95f4\u9694\u65f6\u95f4\u8f83\u957f\uff0c\u6216\u610f\u5473\u7740\u5728\u7acb\u6cd5\u7684\u540c\u65f6\u4f34\u968f\u7740\u91cd\u5927\u6539\u9769\u3002\u7a0e\u7387\u7b80\u5e76\u3001\u670d\u52a1\u4e1a\u51fa\u53e3\u514d\u7a0e\u6216\u9002\u7528\u589e\u503c\u7a0e\u96f6\u7a0e\u7387\u5e94\u7a0e\u670d\u52a1\u6269\u56f4\u7b49\u65b9\u9762\u5747\u6709\u4f18\u5316\u7a7a\u95f4\u3002\n\n\u6b64\u5916\uff0c\u5f53\u524d\u4f20\u7edf\"\u571f\u5730\u8d22\u653f\"\u6a21\u5f0f\u96be\u4ee5\u4e3a\u7ee7\uff0c\u5730\u65b9\u7684\u8d22\u653f\u6536\u5165\u66f4\u591a\u4f9d\u8d56\u4e8e\u7a0e\u6536\uff0c\u53d7\u8bbf\u4e13\u5bb6\u666e\u904d\u8ba4\u4e3a\uff0c\u9700\u5c3d\u5feb\u5065\u5168",
+            "eng": "The Chinese Communist Party's (CCP) premier automaker, BYD, is selling a $12,000 Electric Vehicle (EV) that \"could be a nightmare\" for the United States auto industry without an all-out ban or steeper tariffs on such cars made by Chinese companies.\n\nA report from the Detroit News, which interviewed several industry insiders, details the impact that BYD's all-electric Seagull -- which sells for just $12,000 in China and about $21,000 in Latin America -- may have on American auto workers without fi",
+            "spa": "Washington, 14 may (EFE).- El presidente de Estados Unidos, Joe Biden, anunci\u00f3 este martes nuevos aranceles sobre importaciones chinas por valor de 18.000 millones de d\u00f3lares, siendo los veh\u00edculos el\u00e9ctricos el sector m\u00e1s castigado con grav\u00e1menes que pasan del 25 % al 100 %.\n\nLos nuevos aranceles afectan a sectores descritos por la Casa Blanca como \"vitales para el futuro econ\u00f3mico y la seguridad nacional de Estados Unidos\" y entre los que figuran el acero, el aluminio, los semiconductores",
+            "deu": "Die USA haben umfangreiche Zollerh\u00f6hungen auf eine Vielzahl chinesischer Produkte angek\u00fcndigt, darunter Elektroautos, Batterien, Chips und etliche Rohstoffe. Wie das Wei\u00dfe Haus am Dienstag mitteilte, geht es um chinesische Importwaren im Umfang von 18 Milliarden Dollar (16,7 Milliarden Euro). Die Wirtschaftsberaterin von Pr\u00e4sident Joe Biden, Lael Brainard, verteidigte die hohen Z\u00f6lle damit, dass China \"auf Kosten anderer sein Wachstum finanziert\".\n\nZiel der Ma\u00dfnahmen sei es, US-Unternehmen ",
+            "ita": "L'amministrazione Biden \u00e8 pronta ad applicare nuovi dazi destinati alle auto provenienti dalla Cina, con un'aliquota che passerebbe dal 25 al 100%\n\nL'amministrazione Joe Biden \u00e8 pronta a colpire le auto elettriche provenienti dalla Cina. La guerra geopolitica legata al mercato dell'auto a batteria sta per assumere connotati ancora pi\u00f9 aspri. Il presidente degli Stati Uniti Biden ha infatti presentato un pacchetto di misure che prevede dei grossi aumenti per i dazi relativi alle importazioni di",
+            "fra": "C'est une information d\u00e9voil\u00e9e par le Wall Street Journal et qui pourrait faire l'effet d'une bombe en Chine : les \u00c9tats-Unis s'appr\u00eatent \u00e0 intensifier les droits de douane sur les produits chinois associ\u00e9s \u00e0 l'\u00e9nergie propre, selon un article publi\u00e9 le 10 mai dans le quotidien am\u00e9ricain. Ainsi, les v\u00e9hicules \u00e9lectriques pourraient voir leurs taxes multipli\u00e9es par quatre.\n\nLe Wall Street Journal ne cite pas sa source mais affirme que l'annonce officielle devrait avoir lieu la semaine",
+            "por": "As novas tarifas do governo Biden sobre ve\u00edculos el\u00e9tricos chineses n\u00e3o ter\u00e3o um impacto imediato nos consumidores americanos ou no mercado de carros porque muito poucos desses carros s\u00e3o vendidos nos Estados Unidos.\n\nA decis\u00e3o reflete, por\u00e9m, uma profunda preocupa\u00e7\u00e3o dentro da ind\u00fastria automobil\u00edstica americana, que tem ficado cada vez mais preocupada com a capacidade da China de produzir ve\u00edculos el\u00e9tricos baratos. Os fabricantes de autom\u00f3veis americanos receberam bem a decis\u00e3o ",
+            "srp": "\u0411\u0430\u0458\u0434\u0435\u043d \u0434\u0440\u0430\u0441\u0442\u0438\u0447\u043d\u043e \u043f\u043e\u0434\u0438\u0433\u0430\u043e \u0442\u0430\u0440\u0438\u0444\u0435 \u043d\u0430 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0435 \u0438\u0437 \u041a\u0438\u043d\u0435 (\u0424\u043e\u0442\u043e EPA-EFE/MICHAEL REYNOLDS)\n\n\u041f\u0440\u0435\u0434\u0441\u0435\u0434\u043d\u0438\u043a \u0421\u0458\u0435\u0434\u0438\u045a\u0435\u043d\u0438\u0445 \u0414\u0440\u0436\u0430\u0432\u0430 \u040f\u043e\u0437\u0435\u0444 \u0411\u0430\u0458\u0434\u0435\u043d \u0443\u0432\u0435\u043e \u0458\u0435 \u0434\u0430\u043d\u0430\u0441 \u043d\u0438\u0437 \u043e\u0448\u0442\u0440\u0438\u0445 \u043f\u043e\u0432\u0435\u045b\u0430\u045a\u0430 \u0446\u0430\u0440\u0438\u043d\u0430 \u043d\u0430 \u0440\u0430\u0437\u043b\u0438\u0447\u0438\u0442\u0435 \u043a\u0438\u043d\u0435\u0441\u043a\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0435 \u043a\u043e\u0458\u0438 \u0443\u043a\u0459\u0443\u0447\u0443\u0458\u0443 \u0435\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u043d\u0430 \u0432\u043e\u0437\u0438\u043b\u0430 (\u0415\u0412).\n\n\u0411\u0430\u0458\u0434\u0435\u043d \u045b\u0435 \u0437\u0430\u0434\u0440\u0436\u0430\u0442\u0438 \u0442\u0430\u0440\u0438\u0444\u0435 \u043a\u043e\u0458\u0435 \u0458\u0435 \u0443\u0432\u0435\u043e \u045a\u0435\u0433\u043e\u0432 \u0440",
+            "slv": "Uvozne dajatve za elektri\u010dne avtomobile bodo 100-odstotne, za polprevodnike pa 50-odstotne, je napovedala Bela hi\u0161a. \"Z ukrepom \u017eelimo Kitajsko spodbuditi k odpravi nepo\u0161tenih trgovinskih praks na podro\u010djih prenosa tehnologij, intelektualne lastnine in inovacij,\" so navedli.\n\nCarine na uvoz nekaterih izdelkov iz jekla in aluminija se bodo pribli\u017eno potrojile, prav tako carine na uvoz litij-ionskih baterij za elektri\u010dne avtomobile in delov za te baterije. Uvoz solarnih panelov bo dvakrat dr",
+            "hrv": "SAD pove\u0107ava carine na elektri\u010dna vozila iz Kine s 25 na 100 posto, objavila je Bijela ku\u0107a, nakon niza o\u0161trih mjera kojima administracija predsjednika Josepha Bidena nastoji ograni\u010diti uvoz iz te zemlje.\n\nNove carine primjenjivat \u0107e se ne samo na elektri\u010dna vozila nego i na baterije i solarne panele, poluvodi\u010de, lu\u010dke dizalice i neke medicinske proizvode poput za\u0161titnih maski, javlja dpa.\n\n\"Objava je odraz predanosti predsjednika Bidena brizi za ameri\u010dke radnike. Kada smo suo\u010deni s n"
+        },
+        "location": {
+            "type": "place",
+            "label": {
+                "eng": "Beijing"
+            },
+            "country": {
+                "type": "country",
+                "label": {
+                    "eng": "China"
+                }
+            }
+        },
+        "categories": [
+            {
+                "uri": "dmoz/Society/Religion_and_Spirituality/Falun_Dafa",
+                "label": "dmoz/Society/Religion and Spirituality/Falun Dafa",
+                "wgt": 100
+            },
+            {
+                "uri": "news/Politics",
+                "label": "news/Politics",
+                "wgt": 71
+            },
+            {
+                "uri": "news/Business",
+                "label": "news/Business",
+                "wgt": 73
+            }
+        ],
+        "articleCounts": {
+            "zho": 472,
+            "eng": 401,
+            "spa": 257,
+            "deu": 90,
+            "ita": 59,
+            "fra": 71,
+            "por": 54,
+            "srp": 14,
+            "slv": 8,
+            "hrv": 19
+        },
+        "sentiment": 0.03529411764705892,
+        "wgt": 1445,
+        "relevance": 26
+    }
+]

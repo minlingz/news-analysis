@@ -1,0 +1,876 @@
+[
+    {
+        "uri": "zho-1607403",
+        "concepts": [
+            {
+                "uri": "http://en.wikipedia.org/wiki/House",
+                "type": "wiki",
+                "score": 100,
+                "label": {
+                    "eng": "House"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Kindergarten",
+                "type": "wiki",
+                "score": 92,
+                "label": {
+                    "eng": "Kindergarten"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Hospital",
+                "type": "wiki",
+                "score": 92,
+                "label": {
+                    "eng": "Hospital"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Rapid_transit",
+                "type": "wiki",
+                "score": 89,
+                "label": {
+                    "eng": "Rapid transit"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Community",
+                "type": "wiki",
+                "score": 68,
+                "label": {
+                    "eng": "Community"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/WeChat",
+                "type": "wiki",
+                "score": 60,
+                "label": {
+                    "eng": "WeChat"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Real_property",
+                "type": "wiki",
+                "score": 52,
+                "label": {
+                    "eng": "Real property"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Hotel",
+                "type": "wiki",
+                "score": 46,
+                "label": {
+                    "eng": "Hotel"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Shenzhen",
+                "type": "loc",
+                "score": 45,
+                "label": {
+                    "eng": "Shenzhen"
+                },
+                "location": {
+                    "type": "place",
+                    "label": {
+                        "eng": "Shenzhen"
+                    },
+                    "country": {
+                        "type": "country",
+                        "label": {
+                            "eng": "China"
+                        }
+                    }
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Commercial_district",
+                "type": "wiki",
+                "score": 42,
+                "label": {
+                    "eng": "Commercial district"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Brand",
+                "type": "wiki",
+                "score": 42,
+                "label": {
+                    "eng": "Brand"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Guangzhou_Metro",
+                "type": "wiki",
+                "score": 39,
+                "label": {
+                    "eng": "Guangzhou Metro"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Qing_dynasty",
+                "type": "loc",
+                "score": 38,
+                "label": {
+                    "eng": "Qing dynasty"
+                },
+                "location": null
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Guangzhou",
+                "type": "loc",
+                "score": 36,
+                "label": {
+                    "eng": "Guangzhou"
+                },
+                "location": {
+                    "type": "place",
+                    "label": {
+                        "eng": "Guangzhou"
+                    },
+                    "country": {
+                        "type": "country",
+                        "label": {
+                            "eng": "China"
+                        }
+                    }
+                }
+            },
+            {
+                "uri": "http://zh.wikipedia.org/wiki/\u755d",
+                "type": "wiki",
+                "score": 35,
+                "label": {
+                    "eng": "\u755d"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Floor_area_ratio",
+                "type": "wiki",
+                "score": 32,
+                "label": {
+                    "eng": "Floor area ratio"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Finance",
+                "type": "wiki",
+                "score": 32,
+                "label": {
+                    "eng": "Finance"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Sichuan",
+                "type": "loc",
+                "score": 31,
+                "label": {
+                    "eng": "Sichuan"
+                },
+                "location": {
+                    "type": "place",
+                    "label": {
+                        "eng": "Sichuan"
+                    },
+                    "country": {
+                        "type": "country",
+                        "label": {
+                            "eng": "China"
+                        }
+                    }
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Shopping_center",
+                "type": "wiki",
+                "score": 30,
+                "label": {
+                    "eng": "Shopping center"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Kunming",
+                "type": "loc",
+                "score": 29,
+                "label": {
+                    "eng": "Kunming"
+                },
+                "location": {
+                    "type": "place",
+                    "label": {
+                        "eng": "Kunming"
+                    },
+                    "country": {
+                        "type": "country",
+                        "label": {
+                            "eng": "China"
+                        }
+                    }
+                }
+            },
+            {
+                "uri": "http://zh.wikipedia.org/wiki/\u8c6a\u5b85",
+                "type": "wiki",
+                "score": 27,
+                "label": {
+                    "eng": "\u8c6a\u5b85"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Central_business_district",
+                "type": "wiki",
+                "score": 25,
+                "label": {
+                    "eng": "Central business district"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Apartment",
+                "type": "wiki",
+                "score": 25,
+                "label": {
+                    "eng": "Apartment"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Wetland",
+                "type": "wiki",
+                "score": 24,
+                "label": {
+                    "eng": "Wetland"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Tianfu_New_Area",
+                "type": "wiki",
+                "score": 22,
+                "label": {
+                    "eng": "Tianfu New Area"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Vanke",
+                "type": "org",
+                "score": 20,
+                "label": {
+                    "eng": "Vanke"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Beijing",
+                "type": "loc",
+                "score": 18,
+                "label": {
+                    "eng": "Beijing"
+                },
+                "location": {
+                    "type": "place",
+                    "label": {
+                        "eng": "Beijing"
+                    },
+                    "country": {
+                        "type": "country",
+                        "label": {
+                            "eng": "China"
+                        }
+                    }
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Suzhou",
+                "type": "loc",
+                "score": 16,
+                "label": {
+                    "eng": "Suzhou"
+                },
+                "location": {
+                    "type": "place",
+                    "label": {
+                        "eng": "Suzhou"
+                    },
+                    "country": {
+                        "type": "country",
+                        "label": {
+                            "eng": "China"
+                        }
+                    }
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Guangdong-Hong_Kong-Macau_Greater_Bay_Area",
+                "type": "loc",
+                "score": 14,
+                "label": {
+                    "eng": "Guangdong-Hong Kong-Macau Greater Bay Area"
+                },
+                "location": null
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Vientiane",
+                "type": "loc",
+                "score": 13,
+                "label": {
+                    "eng": "Vientiane"
+                },
+                "location": {
+                    "type": "place",
+                    "label": {
+                        "eng": "Vientiane"
+                    },
+                    "country": {
+                        "type": "country",
+                        "label": {
+                            "eng": "Laos"
+                        }
+                    }
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Central,_Hong_Kong",
+                "type": "loc",
+                "score": 12,
+                "label": {
+                    "eng": "Central, Hong Kong"
+                },
+                "location": {
+                    "type": "place",
+                    "label": {
+                        "eng": "Central, Hong Kong"
+                    },
+                    "country": {
+                        "type": "country",
+                        "label": {
+                            "eng": "Hong Kong"
+                        }
+                    }
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Hong_Kong",
+                "type": "loc",
+                "score": 11,
+                "label": {
+                    "eng": "Hong Kong"
+                },
+                "location": {
+                    "type": "country",
+                    "label": {
+                        "eng": "Hong Kong"
+                    }
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Yunnan",
+                "type": "loc",
+                "score": 11,
+                "label": {
+                    "eng": "Yunnan"
+                },
+                "location": {
+                    "type": "place",
+                    "label": {
+                        "eng": "Yunnan"
+                    },
+                    "country": {
+                        "type": "country",
+                        "label": {
+                            "eng": "China"
+                        }
+                    }
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Wanda_Group",
+                "type": "org",
+                "score": 10,
+                "label": {
+                    "eng": "Wanda Group"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Zhuhai",
+                "type": "loc",
+                "score": 10,
+                "label": {
+                    "eng": "Zhuhai"
+                },
+                "location": {
+                    "type": "place",
+                    "label": {
+                        "eng": "Zhuhai"
+                    },
+                    "country": {
+                        "type": "country",
+                        "label": {
+                            "eng": "China"
+                        }
+                    }
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Wuhan",
+                "type": "loc",
+                "score": 10,
+                "label": {
+                    "eng": "Wuhan"
+                },
+                "location": {
+                    "type": "place",
+                    "label": {
+                        "eng": "Wuhan"
+                    },
+                    "country": {
+                        "type": "country",
+                        "label": {
+                            "eng": "China"
+                        }
+                    }
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Chang'an_Avenue",
+                "type": "loc",
+                "score": 9,
+                "label": {
+                    "eng": "Chang'an Avenue"
+                },
+                "location": null
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/3rd_Ring_Road_(Beijing)",
+                "type": "loc",
+                "score": 9,
+                "label": {
+                    "eng": "3rd Ring Road (Beijing)"
+                },
+                "location": null
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/China_Resources_Land",
+                "type": "org",
+                "score": 9,
+                "label": {
+                    "eng": "China Resources Land"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Guangdong",
+                "type": "loc",
+                "score": 9,
+                "label": {
+                    "eng": "Guangdong"
+                },
+                "location": {
+                    "type": "place",
+                    "label": {
+                        "eng": "Guangdong"
+                    },
+                    "country": {
+                        "type": "country",
+                        "label": {
+                            "eng": "China"
+                        }
+                    }
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Jinjiang_District",
+                "type": "loc",
+                "score": 8,
+                "label": {
+                    "eng": "Jinjiang District"
+                },
+                "location": {
+                    "type": "place",
+                    "label": {
+                        "eng": "Jinjiang District"
+                    },
+                    "country": {
+                        "type": "country",
+                        "label": {
+                            "eng": "China"
+                        }
+                    }
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Qingyang_District",
+                "type": "loc",
+                "score": 8,
+                "label": {
+                    "eng": "Qingyang District"
+                },
+                "location": {
+                    "type": "place",
+                    "label": {
+                        "eng": "Qingyang District"
+                    },
+                    "country": {
+                        "type": "country",
+                        "label": {
+                            "eng": "China"
+                        }
+                    }
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Shuangliu_District",
+                "type": "loc",
+                "score": 7,
+                "label": {
+                    "eng": "Shuangliu District"
+                },
+                "location": {
+                    "type": "place",
+                    "label": {
+                        "eng": "Shuangliu District"
+                    },
+                    "country": {
+                        "type": "country",
+                        "label": {
+                            "eng": "China"
+                        }
+                    }
+                }
+            }
+        ],
+        "eventDate": "2024-04-28",
+        "totalArticleCount": 1591,
+        "title": {
+            "zho": "\u4e2d\u4ea4\u8def\u5efa\u6606\u660e\u516c\u53f8\u83b7\u591a\u9879\u5b89\u5168\u751f\u4ea7\u8363\u8a89"
+        },
+        "summary": {
+            "zho": "\u65e5\u524d\uff0c\u4e2d\u4ea4\u8def\u5efa\uff08\u6606\u660e\uff09\u57ce\u5e02\u6295\u8d44\u53d1\u5c55\u6709\u9650\u516c\u53f8\uff08\u4ee5\u4e0b\u7b80\u79f0\"\u4e2d\u4ea4\u8def\u5efa\u6606\u660e\u516c\u53f8\"\uff09\u5728\u6606\u660e\u5e02\u4f4f\u623f\u548c\u57ce\u4e61\u5efa\u8bbe\u5c40\u7ec4\u7ec7\u76842023\u5e74\u5ea6\u623f\u5c4b\u5e02\u653f\u5de5\u7a0b\u5b89\u5168\u751f\u4ea7\u6807\u51c6\u5316\u5de5\u5730\u3001\u8d28\u91cf\u6807\u51c6\u5316\u793a\u8303\u9879\u76ee\u3001\u5efa\u7b51\u4f01\u4e1a\u5de5\u7a0b\u8d28\u91cf\u7ba1\u7406\u3001\u5b89\u5168\u751f\u4ea7\u3001\u6587\u660e\u65bd\u5de5\u7ba1\u7406\u76ee\u6807\u8003\u6838\u4e2d\uff0c\u83b7\u591a\u9879\u96c6\u4f53\u53ca\u4e2a\u4eba\u8363\u8a89\u3002\n\n\u7ecf\u6606\u660e\u5e02\u5efa\u7b51\u65bd\u5de5\u5b89\u5168\u751f\u4ea7\u6807\u51c6\u5316\u5de5\u4f5c\u548c\u5de5\u7a0b\u8d28\u91cf\u7ba1\u7406\u6807\u51c6\u5316\u793a\u8303\u9879\u76ee\u521b\u5efa\u5de5\u4f5c\u9886\u5bfc\u5c0f\u7ec4\u7efc\u5408\u8bc4\u5b9a\uff0c\u5bf9\u4e2d\u4ea4"
+        },
+        "location": null,
+        "categories": [
+            {
+                "uri": "news/Business",
+                "label": "news/Business",
+                "wgt": 71
+            }
+        ],
+        "articleCounts": {
+            "zho": 1591
+        },
+        "sentiment": null,
+        "wgt": 1591,
+        "relevance": 26
+    },
+    {
+        "uri": "eng-9564068",
+        "concepts": [
+            {
+                "uri": "http://en.wikipedia.org/wiki/OpenAI",
+                "type": "wiki",
+                "score": 100,
+                "label": {
+                    "eng": "OpenAI"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Artificial_intelligence",
+                "type": "wiki",
+                "score": 94,
+                "label": {
+                    "eng": "Artificial intelligence"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/ChatGPT",
+                "type": "wiki",
+                "score": 90,
+                "label": {
+                    "eng": "ChatGPT"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Google",
+                "type": "org",
+                "score": 33,
+                "label": {
+                    "eng": "Google"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Model",
+                "type": "wiki",
+                "score": 27,
+                "label": {
+                    "eng": "Model"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Chatbot",
+                "type": "wiki",
+                "score": 25,
+                "label": {
+                    "eng": "Chatbot"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Chief_technology_officer",
+                "type": "wiki",
+                "score": 23,
+                "label": {
+                    "eng": "Chief technology officer"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Chief_executive_officer",
+                "type": "wiki",
+                "score": 20,
+                "label": {
+                    "eng": "Chief executive officer"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Sound",
+                "type": "wiki",
+                "score": 19,
+                "label": {
+                    "eng": "Sound"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/GPT-4",
+                "type": "wiki",
+                "score": 16,
+                "label": {
+                    "eng": "GPT-4"
+                }
+            },
+            {
+                "uri": "http://zh.wikipedia.org/wiki/\u4eba\u985e",
+                "type": "wiki",
+                "score": 16,
+                "label": {
+                    "eng": "\u4eba\u985e"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Language",
+                "type": "wiki",
+                "score": 16,
+                "label": {
+                    "eng": "Language"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Real-time_computing",
+                "type": "wiki",
+                "score": 15,
+                "label": {
+                    "eng": "Real-time computing"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Apple_Inc.",
+                "type": "org",
+                "score": 15,
+                "label": {
+                    "eng": "Apple Inc."
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Microsoft",
+                "type": "org",
+                "score": 13,
+                "label": {
+                    "eng": "Microsoft"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Inference",
+                "type": "wiki",
+                "score": 12,
+                "label": {
+                    "eng": "Inference"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Robot",
+                "type": "wiki",
+                "score": 12,
+                "label": {
+                    "eng": "Robot"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Emotion",
+                "type": "wiki",
+                "score": 12,
+                "label": {
+                    "eng": "Emotion"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Europe",
+                "type": "loc",
+                "score": 12,
+                "label": {
+                    "eng": "Europe"
+                },
+                "location": null
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Phone_(phonetics)",
+                "type": "wiki",
+                "score": 11,
+                "label": {
+                    "eng": "Phone (phonetics)"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Application_programming_interface",
+                "type": "wiki",
+                "score": 11,
+                "label": {
+                    "eng": "Application programming interface"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/English_language",
+                "type": "wiki",
+                "score": 11,
+                "label": {
+                    "eng": "English language"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Virtual_assistant",
+                "type": "wiki",
+                "score": 10,
+                "label": {
+                    "eng": "Virtual assistant"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Siri",
+                "type": "wiki",
+                "score": 10,
+                "label": {
+                    "eng": "Siri"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Sam_Altman",
+                "type": "person",
+                "score": 9,
+                "label": {
+                    "eng": "Sam Altman"
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/San_Francisco",
+                "type": "loc",
+                "score": 6,
+                "label": {
+                    "eng": "San Francisco"
+                },
+                "location": {
+                    "type": "place",
+                    "label": {
+                        "eng": "San Francisco"
+                    },
+                    "country": {
+                        "type": "country",
+                        "label": {
+                            "eng": "United States"
+                        }
+                    }
+                }
+            },
+            {
+                "uri": "http://en.wikipedia.org/wiki/Beijing",
+                "type": "loc",
+                "score": 6,
+                "label": {
+                    "eng": "Beijing"
+                },
+                "location": {
+                    "type": "place",
+                    "label": {
+                        "eng": "Beijing"
+                    },
+                    "country": {
+                        "type": "country",
+                        "label": {
+                            "eng": "China"
+                        }
+                    }
+                }
+            }
+        ],
+        "eventDate": "2024-05-13",
+        "totalArticleCount": 1512,
+        "title": {
+            "eng": "How to use ChatGPT 4o and when will it be available? - Revista Merca2.0 |",
+            "zho": "ChatGPT \u63a8AI\u65b0\u6a21\u578b\u300cGPT-4o\u300d \u5c0d\u8a71\u6d41\u5229\u3001\u80fd\u89e3\u65b9\u7a0b\u5f0f \u9084\u53ef\u8b58\u5225\u4eba\u985e\u60c5\u7dd2",
+            "spa": "Qu\u00e9 es GPT-4o, la nueva actualizaci\u00f3n de OpenAI para ChatGPT",
+            "por": "Chat-GPT: nova vers\u00e3o consegue ensinar matem\u00e1tica e at\u00e9 'flertar' em conversa - BBC News Brasil",
+            "rus": "\u0427\u0442\u043e \u043c\u043e\u0436\u0435\u0442 \u043d\u043e\u0432\u0430\u044f \u043d\u0435\u0439\u0440\u043e\u0441\u0435\u0442\u044c GPT-4\u043e, \u043e \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u0441\u0435 \u0433\u043e\u0432\u043e\u0440\u044f\u0442",
+            "fra": "Claude, l'intelligence artificielle d'Anthropic, se lance \u00e0 l'assaut de ChatGPT en Europe",
+            "deu": "KI-Chatbot \"Claude\" erreicht Deutschland: Ist der KI-Assistent besser als ChatGPT?",
+            "tur": "Art\u0131k duyabiliyor ve g\u00f6rebiliyor: OpenAI, ChatGPT'nin yeni yapay zeka modelini duyurdu",
+            "hrv": "Predstavljen GPT-4o: Digitalni asistent koji u\u010destvuje u razgovorima u stvarnom vremenu",
+            "ita": "Claude AI: come funziona il chatbot pi\u00f9 potente di Chat-GPT",
+            "ukr": "\u041d\u0456\u0431\u0438 \u0436\u0438\u0432\u0430 \u043b\u044e\u0434\u0438\u043d\u0430: \u043d\u0430 \u0449\u043e \u0437\u0434\u0430\u0442\u0435\u043d \u043d\u043e\u0432\u0438\u0439 \u0448\u0442\u0443\u0447\u043d\u0438\u0439 \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442 GPT-4o \u0432\u0456\u0434 OpenAI"
+        },
+        "summary": {
+            "eng": "OpenAI's newest Artificial Intelligence model, GPT-4o, brings significant advancements to ChatGPT, improving its capabilities to understand images, text, and multiple languages more efficiently.\n\nAfter the announcement of ChatGPT 4o, searches on Google on how to use this Artificial Intelligence model increased.\n\nThe rollout of this cutting-edge technology will occur gradually, ensuring that all users can access its powerful features seamlessly.\n\nThe GPT-4o model will be available to all ChatGPT u",
+            "zho": "\u804a\u5929\u6a5f\u5668\u4ebaChatGPT\u958b\u767c\u516c\u53f8OpenAI\uff0c\u6436\u5728Google I/O 2024\u958b\u767c\u8005\u5927\u6703\u4e4b\u524d\uff0c5\u670813\u65e5\u5ba3\u5e03\u63a8\u51fa\u65b0AI\u6a21\u578b\u300cGPT-4o\u300d\uff0c\u80fd\u5920\u9032\u884c\u5341\u5206\u903c\u771f\u7684\u4eba\u6a5f\u5c0d\u8a71\uff0c\u5373\u6642\u56de\u61c9\u4e4b\u5916\uff0c\u9084\u80fd\u878d\u5408\u6587\u5b57\u8207\u5f71\u50cf\u4e92\u52d5\uff0c\u5728\u76f8\u95dc\u9818\u57df\u582a\u7a31\u524d\u6240\u672a\u898b\uff0c\u6b64\u529f\u80fd\u5c07\u514d\u8cbb\u63d0\u4f9b\uff0c\u6709\u671b\u518d\u6b21\u63d0\u5347ChatGPT\u76f8\u95dc\u9818\u57df\u7684\u9818\u5c0e\u5730\u4f4d\u3002\u5c55\u793a\u6d3b\u52d5\u4e0a\uff0c\u4ee5\u6eab\u6696\u5973\u8072\u5448\u73fe\u7684\u804a\u5929\u6a5f\u5668\u4eba\u8207\u7814\u7a76\u4eba\u54e1\u6d41\u5229\u5c0d\u8a71\u3001\u8a9e\u6c23\u81ea\u7136\u3002\n\nOpenAI\u7814\u7a76\u4eba\u54e1\u8868\u793a\uff0c\u300cGPT-4o\u300d\u7684\u7279",
+            "spa": "OpenAI lanz\u00f3 un nuevo modelo de inteligencia artificial llamado GPT-4o, el cual revolucionar\u00e1 el servicio que brinda ChatGPT.\n\nDurante un evento realizado este lunes, Muri Murati, CTO de OpenAI, inform\u00f3 que GPT-4o posee una inteligencia equivalente al modelo GPT-4, pero ha sido mejorado para ampliar sus capacidades en el manejo de texto, audio y visi\u00f3n.\n\nEsta mejora se traduce en una notable reducci\u00f3n en la latencia de las respuestas, permitiendo interacciones casi instant\u00e1neas con los usua",
+            "por": "O GPT-4o ser\u00e1 aberto para todos os usu\u00e1rios do ChatGPT, incluindo n\u00e3o assinantes.\n\nEsse modelo \u00e9 mais r\u00e1pido que os anteriores e foi programado para se assemelhar mais a humanos conversando -- \u00e0s vezes at\u00e9 mesmo com um tom de flerte em suas respostas aos usu\u00e1rios.\n\nA nova vers\u00e3o consegue ler e discutir imagens, traduzir idiomas e identificar emo\u00e7\u00f5es a partir de express\u00f5es visuais. O rob\u00f4 tamb\u00e9m possui uma mem\u00f3ria para recuperar perguntas anteriores.\n\nO GPT-4o pode ser interrompido ",
+            "rus": "\u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f OpenAI \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u043b\u0430 \u043d\u043e\u0432\u0443\u044e \u0432\u0435\u0440\u0441\u0438\u044e \u0441\u0432\u043e\u0435\u0433\u043e \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430 -- GPT-4 Omnia (GPT-4o). \u042d\u0442\u043e \u0440\u0435\u0432\u043e\u043b\u044e\u0446\u0438\u043e\u043d\u043d\u043e\u0435 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u043d\u0430\u0432\u0435\u0440\u043d\u044f\u043a\u0430 \u0440\u0430\u0437\u0434\u0435\u043b\u0438\u0442 \u0438\u0441\u0442\u043e\u0440\u0438\u044e OpenAI \u043d\u0430 \"\u0434\u043e\" \u0438 \"\u043f\u043e\u0441\u043b\u0435\". \u0415\u0441\u043b\u0438 \u0440\u0430\u043d\u044c\u0448\u0435 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 \u043c\u043e\u0433\u043b\u0438 \u043e\u0431\u0449\u0430\u0442\u044c\u0441\u044f \u0441 \u0441\u0435\u0440\u0432\u0438\u0441\u043e\u043c \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u0442\u043e\u043b\u044c\u043a\u043e \u0432 \u0444\u043e\u0440\u043c\u0430\u0442\u0435 \u0447\u0430\u0442-\u0431\u043e\u0442\u0430, \u0442\u043e \u0442\u0435\u043f\u0435\u0440\u044c \u043d\u0435\u0439",
+            "fra": "La soci\u00e9t\u00e9 californienne Anthropic a annonc\u00e9 dans la nuit de lundi \u00e0 mardi le lancement en France et en Europe de Claude 3, son concurrent \u00e0 ChatGPT. D\u00e9j\u00e0 d\u00e9ploy\u00e9e depuis mars aux \u00c9tats-Unis, cette intelligence artificielle est pr\u00e9sent\u00e9e comme un rival s\u00e9rieux au chatbot d'OpenAI.\n\nLa guerre des IA fait rage aussi en Europe. Claude, le mod\u00e8le d'intelligence artificielle de la soci\u00e9t\u00e9 Anthropic, fait ses d\u00e9buts gratuitement sur le Vieux Continent. L'annonce a \u00e9t\u00e9 faite officiell",
+            "deu": "Der KI-Chatbot \"Claude\" ist nach langer Wartezeit nun auch in Deutschland nutzbar. Das Modell schneidet in Tests sogar besser ab als ChatGPT.\n\nDas amerikanische Start-up Anthropic hat bekannt gegeben, dass sein KI-Assistent Claude nun auch auf dem europ\u00e4ischen Markt - und somit auch in Deutschland - erh\u00e4ltlich ist. Claude solle sich aufgrund seiner umfassenden F\u00e4higkeiten insbesondere zur Unterst\u00fctzung von Unternehmen eignen.\n\nClaude ist ab sofort als Webversion unter claude.ai sowie als kost",
+            "tur": "OpenAI, ses, g\u00f6r\u00fcnt\u00fc ve metin \u00fczerinden ger\u00e7ek zamanl\u0131 mant\u0131k y\u00fcr\u00fctebilen yeni modeli \"GPT-4o\"yu tan\u0131tt\u0131.\n\nOpenAI taraf\u0131ndan geli\u015ftirilen ChatGPT, neredeyse her \u015feyi bilen ki\u015fisel bir \u00f6\u011fretmen gibi bir\u00e7ok soruya do\u011fal yan\u0131tlar verebiliyor.\n\nYapay zeka sohbet asistan\u0131 ChatGPT'yi geli\u015ftiren OpenAI \u015firketi; ses, g\u00f6r\u00fcnt\u00fc ve metin \u00fczerinden ger\u00e7ek zamanl\u0131 mant\u0131k y\u00fcr\u00fctebilen yeni modeli \"GPT-4o\"yu tan\u0131tt\u0131.\n\nGPT-4o neler sunuyor\n\nGPT-4o'nun daha do\u011fal insan-bilgisayar ",
+            "hrv": "Model \u0107e biti dostupan korisnicima koji ne pla\u0107aju pretplatu. X (Twitter)\n\nChatGPT \u0107e uskoro postati puno korisniji. OpenAI je u ponedjeljak najavio svoj najnoviji veliki jezi\u010dki model umjetne inteligencije za koji ka\u017ee da \u0107e ChatGPT u\u010diniti pametnijim i lak\u0161im za kori\u0161tenje.\n\nNovi model, nazvan GPT-4o, a\u017euriranje je prethodnog modela GPT-4, koji je lansiran prije ne\u0161to vi\u0161e od godinu. Model \u0107e biti dostupan korisnicima koji ne pla\u0107aju pretplatu, \u0161to zna\u010di da \u0107e svako putem ChatG",
+            "ita": "Sviluppato da Anthropic (azienda fondata da due fratelli italo-americani), ha gi\u00e0 raccolto investimenti importanti da parte di Amazon. A partire da oggi pu\u00f2 essere utilizzato anche in Italia e i valori di riferimento parlano di uno strumento ancora pi\u00f9 potente della creatura di OpenAI\n\nClaude AI \u00e8 un nome che dice ancora poco da queste parti. \u00c8 un chatbot basato su un modello di intelligenza artificiale generativa sviluppato da Anthropic, una societ\u00e0 fondata da due fratelli italo-americani ",
+            "ukr": "OpenAI \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u043b\u0430 \u0441\u0432\u043e\u044e \u043d\u043e\u0432\u0443 \u043c\u043e\u0434\u0435\u043b\u044c \u0448\u0442\u0443\u0447\u043d\u043e\u0433\u043e \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443 GPT-4o, \u044f\u043a\u0430 \u0437\u043d\u0430\u0447\u043d\u043e \u0440\u043e\u0437\u0448\u0438\u0440\u044e\u0454 \u043c\u043e\u0436\u043b\u0438\u0432\u043e\u0441\u0442\u0456 \u043e\u0431\u0440\u043e\u0431\u043a\u0438 \u043c\u043e\u0432\u043b\u0435\u043d\u043d\u044f, \u043f\u043e\u0440\u0456\u0432\u043d\u044f\u043d\u043e \u0437 GPT-4. \u0420\u043e\u0437\u0433\u043e\u0440\u0442\u0430\u043d\u043d\u044f GPT-4o \u0431\u0443\u0434\u0435 \u043f\u043e\u0441\u0442\u0443\u043f\u043e\u0432\u0438\u043c, \u0432\u043e\u043d\u0430 \u0431\u0443\u0434\u0435 \u0434\u043e\u0434\u0430\u043d\u0430 \u0443 \u0432\u0441\u0456 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0438 \u043a\u043e\u043c\u043f\u0430\u043d\u0456\u0457 \u0434\u043b\u044f \u0440\u043e\u0437\u0440\u043e\u0431\u043d\u0438\u043a\u0456\u0432 \u0456 \u0441\u043f\u043e\u0436\u0438\u0432\u0430\u0447\u0456\u0432 \u043f\u0440\u043e\u0442\u044f\u0433\u043e\u043c \u043d\u0430\u0439\u0431\u043b\u0438\u0436\u0447\u0438\u0445 \u0442\u0438\u0436\u043d\u0456\u0432, \u0456 \u0432\u0436\u0435 \u0437\u0430\u0440\u0430\u0437 \u0434\u043e\u0441\u0442\u0443\u043f"
+        },
+        "location": null,
+        "categories": [
+            {
+                "uri": "dmoz/Computers/Internet/On_the_Web",
+                "label": "dmoz/Computers/Internet/On the Web",
+                "wgt": 92
+            },
+            {
+                "uri": "dmoz/Recreation/Humor/Useless_Pages",
+                "label": "dmoz/Recreation/Humor/Useless Pages",
+                "wgt": 100
+            },
+            {
+                "uri": "dmoz/Recreation/Humor/Computer",
+                "label": "dmoz/Recreation/Humor/Computer",
+                "wgt": 100
+            },
+            {
+                "uri": "news/Technology",
+                "label": "news/Technology",
+                "wgt": 83
+            }
+        ],
+        "articleCounts": {
+            "eng": 668,
+            "zho": 373,
+            "spa": 230,
+            "por": 70,
+            "rus": 47,
+            "fra": 31,
+            "deu": 24,
+            "tur": 26,
+            "hrv": 14,
+            "ita": 20,
+            "ukr": 9
+        },
+        "sentiment": 0.2627450980392156,
+        "wgt": 1512,
+        "relevance": 112
+    }
+]
