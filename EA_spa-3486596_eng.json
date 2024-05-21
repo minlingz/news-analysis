@@ -1,0 +1,391 @@
+[
+    {
+        "uri": "8137348810",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-20",
+        "time": "19:40:22",
+        "dateTime": "2024-05-20T19:40:22Z",
+        "dateTimePub": "2024-05-20T19:39:36Z",
+        "dataType": "news",
+        "sim": 0.4745098054409027,
+        "url": "https://www.indiatoday.in/world/video/what-will-happen-in-iran-and-the-region-after-ebrahim-raisis-death-expert-explains-2541753-2024-05-21",
+        "title": "What will happen in Iran and the region after Ebrahim Raisi's death? Expert explains",
+        "body": "Iranian President Ebrahim Raisi, a hardliner seen as a potential successor to Supreme Leader Ayatollah Ali Khamenei, was killed in a helicopter crash along with the country's foreign minister, Hossein Amirabdollahian. This could have major ramifications within Iran and on the global scene, especially regarding the ongoing conflict in the Middle East.\n\nDr Thamar Gindin, an Iran specialist at the University of Haifa, discusses what would happen in the country and the region after Raisi's sudden death.",
+        "source": {
+            "uri": "indiatoday.in",
+            "dataType": "news",
+            "title": "India Today",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Noida"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "India"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202405/dr-thamar-gindin-203326569-16x9_0.jpg?VersionId=MJGn9VrFoJHQERulq4fahsyvoXTwmo9L",
+        "eventUri": "spa-3486596",
+        "sentiment": -0.4431372549019608,
+        "wgt": 453930022,
+        "relevance": 1
+    },
+    {
+        "uri": "8137347123",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-20",
+        "time": "19:38:55",
+        "dateTime": "2024-05-20T19:38:55Z",
+        "dateTimePub": "2024-05-20T19:38:04Z",
+        "dataType": "news",
+        "sim": 0.5686274766921997,
+        "url": "https://punchng.com/nigeria-mourns-iranian-leaders-killed-in-helicopter-crash/",
+        "title": "Nigeria mourns Iranian leaders killed in helicopter crash",
+        "body": "Nigeria on Monday expressed deep condolences to the government and people of the Islamic Republic of Iran following the tragic helicopter crash in East Azerbaijan Province on Sunday.\n\nThe accident claimed the lives of Iranian President, Ebrahim Raisi and several high-ranking officials, including Foreign Minister Hossein Amir-Abdollahian.\n\nThe helicopter, which was carrying the president and the foreign minister, crashed in a mountainous and forested area of East Azerbaijan Province.\n\nThe crash was believed to have been caused by poor weather conditions, and the aviation team reported that the helicopter was completely burnt in the incident.\n\nPresident Raisi, 63, a significant figure representing conservative and hardline factions in Iranian politics, had been in office for nearly three years and was expected to run for re-election next year.\n\nHowever, Nigeria's Ministry of Foreign Affairs conveyed the nation's condolences over the incident.\n\n\"Nigeria is deeply saddened by this tragic event, which is a significant loss not only for the Iranian people but to the world at large,\" the condolence message signed by the ministry's spokesperson, Eche Abu-Obe, read.\n\n\"The Federal Government extended its heartfelt sympathies to Iran's Supreme Leader Ayatollah Ali Khamenei, the families of the deceased, and the entire Iranian nation.\n\n\"Nigeria stands in solidarity with Iran in these trying times and extends heartfelt condolences to the Supreme Leader Ayatollah Ali Khamenei, the families of the departed, and the people of Iran.\n\n\"May the souls of the departed rest in peace.\" the statement concluded.",
+        "source": {
+            "uri": "punchng.com",
+            "dataType": "news",
+            "title": "Punch Newspapers",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Lagos"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "Nigeria"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [
+            {
+                "uri": "gift_habib@punchng.com",
+                "name": "Gift Habib",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": "https://cdn.punchng.com/wp-content/uploads/2024/05/20093805/ebrahim-raisi.png",
+        "eventUri": "spa-3486596",
+        "sentiment": -0.05882352941176472,
+        "wgt": 453929935,
+        "relevance": 1
+    },
+    {
+        "uri": "8137343597",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-20",
+        "time": "19:34:56",
+        "dateTime": "2024-05-20T19:34:56Z",
+        "dateTimePub": "2024-05-20T19:34:36Z",
+        "dataType": "news",
+        "sim": 0.4235294163227081,
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/technical-failure-caused-copter-crash-killing-raisi-state-media/articleshow/110281525.cms",
+        "title": "'Technical failure' caused copter crash killing Raisi: State media - Times of India",
+        "body": "Raisi, 63, and Abdollahian were killed Sunday in a helicopter crash resulting from a \"technical failure\", Iranian state news media reported. They were travelling from Iran's border with Azerbaijan after inaugurating a dam project when their helicopter went down in a mountainous area near the city of Jolfa. Search and rescue teams scoured a rugged area of dense forest through rain and fog for hours before finding the crash site. There were no survivors.",
+        "source": {
+            "uri": "timesofindia.indiatimes.com",
+            "dataType": "news",
+            "title": "The Times of India",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "New Delhi"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "India"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://static.toiimg.com/thumb/msid-110281525,width-1070,height-580,imgsize-52724,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "eventUri": "spa-3486596",
+        "sentiment": -0.2392156862745098,
+        "wgt": 453929696,
+        "relevance": 1
+    },
+    {
+        "uri": "8137338516",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-20",
+        "time": "19:30:25",
+        "dateTime": "2024-05-20T19:30:25Z",
+        "dateTimePub": "2024-05-20T19:29:38Z",
+        "dataType": "news",
+        "sim": 0.7058823704719543,
+        "url": "https://ici.radio-canada.ca/rci/en/news/2074255/what-we-know-so-far-about-the-helicopter-crash-that-killed-irans-president",
+        "title": "What we know so far about the helicopter crash that killed Iran's president | RCI",
+        "body": "The helicopter crash that killed Iran's president and foreign minister has sent shock waves around the region.\n\nIranian state media on Monday said that President Ebrahim Raisi, the country's foreign minister, Hossein Amirabdollahian, and others had been found dead after an hours-long search through a foggy, mountainous region of the country's northwest. State TV gave no immediate cause for the crash.\n\nHere's what we know so far.\n\nThe helicopter on Sunday was carrying Raisi, Amirabdollahian, the governor of Iran's East Azerbaijan province and other officials, according to the state-run IRNA news agency.\n\nRaisi was returning after travelling to Iran's border with Azerbaijan to inaugurate a dam with Azerbaijan's President Ilham Aliyev when the crash occurred in the Dizmar forest in East Azerbaijan province.\n\nIRNA said the crash killed eight people including three crew members aboard the Bell helicopter, which Iran purchased in the early 2000s.\n\nIranian officials said the mountainous, forested terrain and heavy fog impeded search-and-rescue operations, which continued overnight.\n\nThe president of the Iranian Red Crescent Society, Pir-Hossein Koulivand, said Sunday evening that 40 search teams were on the ground despite challenging weather conditions. Because of the bad weather, it was impossible to conduct aerial searches via drones, Koulivand said, according to IRNA.\n\nIt was not until early Monday that officials announced the helicopter had been found and all of its occupants were dead.\n\nEarly Monday, Turkish authorities released what they described as drone footage showing what appeared to be a fire in the wilderness that they suspected to be wreckage of a helicopter. The co-ordinates listed in the footage put the fire about 20 kilometres south of the Azerbaijan-Iran border on the side of a steep mountain.\n\nFootage released by IRNA showed what the agency described as the crash site, across a steep valley in a mountain range. Soldiers speaking in the local Azeri language said: There it is, we found it. Shortly after that, state TV in an on-screen scrolling text said: There is no sign of life from people on board.\n\nRaisi was seen as a protege to Iran's Supreme Leader Ayatollah Ali Khamenei and a potential successor for his position within the country's Shia theocracy.\n\nUnder the Iranian constitution, if a president dies, the country's first vice-president -- in this case, Mohammad Mokhber -- would become president. Khamenei has publicly assured Iranians that there would be no disruption to the operations of the country as a result of the crash.\n\nKhamenei has named Mokhber as the caretaker president in line with the constitution, which says a new presidential election should be called within 50 days.\n\nWATCH | 'Mixed reaction' to Raisi's death, analyst says:\n\nThe death of Iranian President Ebrahim Raisi in a helicopter crash on Sunday has been met with both grief and celebration. Raisi, who came to power in 2021, was an unpopular leader who oversaw a crackdown on anti-regime protests that created a 'deep divide between the state and the society,' says Ali Vaez, the director of the Iran Project at the International Crisis Group.\n\nAfter news broke of the search operation, countries including Russia, Iraq and Qatar made statements of concern about Raisi's fate and offered to assist in the search.\n\nAzerbaijani President Aliyev offered any support necessary. Relations between the two countries have been chilly due to Azerbaijan's diplomatic relations with Israel, Iran's regional arch-enemy.\n\nSaudi Arabia, traditionally a rival of Iran although the two countries recently made a rapprochement, said it stands by Iran in these difficult circumstances.\n\nThere was no immediate official reaction from Israel. Last month, following an Israeli strike on an Iranian consular building in Damascus that killed two Iranian generals, Tehran launched hundreds of missiles and drones at Israel. They were mostly shot down and tensions have apparently subsided.\n\nThe U.S., which has its own history of tensions with Tehran, also has yet to comment publicly on Raisi's death.\n\nThis represents a monumental and irreparable strategic blow to the mullahs' Supreme Leader Ali Khamenei and the entire regime, notorious for its executions and massacres, Maryam Rajavi, president-elect of a Paris-based opposition group, the National Council of Resistance of Iran, said in a statement.\n\nA spokesperson for China's foreign minister issued a statement saying Chinese President Xi Jinping has already sent a direct message to Iran's first vice-president, Mohammad Mokhber.\n\nXi said President Raisi made important contributions toward Iran's security and stability, and toward \"developing the comprehensive strategic partnership between China and Iran,\" the statement said.",
+        "source": {
+            "uri": "ici.radio-canada.ca",
+            "dataType": "news",
+            "title": "Radio Canada",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Montreal"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "Canada"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/iran-president-mort.jpg",
+        "eventUri": "spa-3486596",
+        "sentiment": -0.3960784313725491,
+        "wgt": 453929425,
+        "relevance": 1
+    },
+    {
+        "uri": "8137331385",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-20",
+        "time": "19:23:10",
+        "dateTime": "2024-05-20T19:23:10Z",
+        "dateTimePub": "2024-05-20T19:22:32Z",
+        "dataType": "news",
+        "sim": 0.6901960968971252,
+        "url": "https://www.aninews.in/news/world/us/us-condoles-deaths-of-irans-president-foreign-minister-in-helicopter-crash20240521005045/",
+        "title": "US condoles deaths of Iran's president, foreign minister in helicopter crash",
+        "body": "Washington, DC [US], May 21 (ANI): United States on Monday condoled the deaths of Iranian President Ebrahim Raisi and his Foreign Minister Hossein Amir-Abdollahian, who died in a helicopter crash in the country's mountainous northwest region.\n\nThe chopper, which also carried other officials, had disappeared in the mountains of northwestern Iran after making a 'hard landing' on Sunday. They were confirmed killed on Monday morning around 16 hours after the helicopter they were travelling in crashed in poor weather.\n\nIn a solidarity message over the demise, America also reaffirmed its support for the people of Iran and their struggle for human rights and fundamental freedoms.\n\n\"The United States expresses its official condolences for the death of Iranian President Ebrahim Raisi, Foreign Minister Amir-Abdollahian, and other members of their delegation in a helicopter crash in northwest Iran. As Iran selects a new president, we reaffirm our support for the Iranian people and their struggle for human rights and fundamental freedoms,\" US State Department spokesperson, Matthew Miller said in a statement.\n\nRaisi, Hossein Amir Abdollahian, and seven other people who were onboard the helicopter that crashed on Sunday have died, state media Press TV reported on Monday.\n\nRaisi was returning to Iran following a visit to Azerbaijan when his helicopter came down in bad weather conditions on Sunday afternoon.\n\nEarlier today, Prime Minister Narendra Modi condoled the demise of Raisi and acknowledged Raisi's contribution to strengthening the India-Iran bilateral relationship.\n\n\"Deeply saddened and shocked by the tragic demise of Dr Seyed Ebrahim Raisi, President of the Islamic Republic of Iran. His contribution to strengthening India-Iran bilateral relationship will always be remembered. My heartfelt condolences to his family and the people of Iran. India stands with Iran in this time of sorrow,\" PM Modi tweeted.\n\nNine people were on the helicopter that crashed in northwest Iran on Sunday, as reported by Tasnim News.\n\nRaisi and his accompanying delegation were returning from a ceremony to inaugurate a dam on the Aras River with Azerbaijan's President Ilham Aliyev.\n\nFollowing the announcement of deaths of Raisi and his team, the Iranian cabinet held an emergency session headed by Vice President Mohammad Mokhber, Press TV reported.\n\nRaisi was heading to the city of Tabriz on Sunday afternoon when the incident took place.\n\nAn Al Jazeera reporter said that \"looking at the wreckage of the helicopter, the chances of anyone surviving in such an accident are quite slim. We see that the whole cabin of the helicopter is completely burned.\"\n\nThe publication said that Iranian authorities \"are saying that some of the bodies were burned beyond recognition and that they have not been able to identify who is who at the site.\"\n\nDrone footage of the wreckage taken by the Red Crescent was carried on state media. It showed the crash site on a steep, wooded hillside, with little remaining of the helicopter beyond a blue and white tail, CNN reported.\n\nFor the first time, Iran is going through such a situation. The country has never seen something similar with the president and the foreign minister disappearing in a helicopter crash, reported Al Jazeera.\n\nFollowing the report of the Iranian President's death and that of the foreign affairs minister, the government cabinet convened an urgent meeting, IRNA reported. (ANI)",
+        "source": {
+            "uri": "aninews.in",
+            "dataType": "news",
+            "title": "Asian News International (ANI)",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "India"
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20240520184451.jpg",
+        "eventUri": "spa-3486596",
+        "sentiment": -0.2941176470588235,
+        "wgt": 453928990,
+        "relevance": 1
+    },
+    {
+        "uri": "8137325296",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-20",
+        "time": "19:19:22",
+        "dateTime": "2024-05-20T19:19:22Z",
+        "dateTimePub": "2024-05-20T19:16:26Z",
+        "dataType": "news",
+        "sim": 0.5764706134796143,
+        "url": "https://www.thestandard.com.hk/section-news/section/11/262926/Iranian-grief-over-chopper-tragedy",
+        "title": "Iranian grief over chopper tragedy",
+        "body": "Iranian president Ebrahim Raisi was confirmed dead yesterday after search and rescue teams found his crashed helicopter in a fog-shrouded mountain region, sparking mourning in the Islamic republic.\n\nSupreme leader Ayatollah Ali Khamenei, who has ultimate authority in Iran, declared five days of mourning and assigned vice president Mohammad Mokhber, 68, to assume interim duties ahead of elections within 50 days.\n\nThe ultraconservative Raisi, 63, had been in office since 2021, during a time that has seen Iran rocked by mass protests, economic crisis deepened by United States sanctions, and armed exchanges with arch-enemy Israel.\n\nCondolences flooded in from Palestinian militant group Hamas, Lebanon's Hezbollah and from Syria, all members of the so-called Axis of Resistance against Israel and its allies.\n\nKhamenei had urged Iranians, as the search was still ongoing, to \"not worry\" about the leadership of the Islamic republic, saying \"there will be no disruption in the country's work.\"\n\nKilled alongside Raisi were foreign minister Hossein Amir-Abdollahian, known for his fierce anti-Israel sentiment and skepticism of the West, and seven others, including the crew, bodyguards and political and religious officials.\n\nIran's one-time top nuclear negotiator Ali Bagheri was appointed as acting foreign minister.\n\nIranian authorities first raised the alarm on Sunday afternoon when they lost contact with Raisi's helicopter as it flew through the east Azerbaijan province.\n\nRaisi had earlier met Azerbaijan's President Ilham Aliyev to inaugurate a dam project. On the return trip, only two of the three helicopters in his convoy landed in the city of Tabriz, setting off a massive search and rescue effort.\n\nInterior minister Ahmad Vahidi at first spoke of a \"hard landing.\"\n\nArmy personnel, Revolutionary Guards and police officers joined the search as Red Crescent teams walked up a hill in the fog and rain.\n\nSubsequently, rescue crews located the destroyed Bell 212 helicopter, with no survivors among the nine people on board.\n\nState television channel IRIB reported that the helicopter had \"hit a mountain and disintegrated\" on impact.\n\nIran's Red Crescent chief Pirhossein Koolivand confirmed that its staff were \"transferring the bodies of the martyrs to Tabriz.\"\n\nThe cabinet vowed that the government's work will go on and that \"the path of service will continue with the tireless spirit of Ayatollah Raisi.\"\n\nCondolences and offers of help had quickly come from countries including China, France, Egypt, Iraq, Kuwait, Qatar, Russia, Saudi Arabia, Syria and Turkey.\n\nUS President Joe Biden was briefed about the search and the European Union activated its rapid response mapping service to aid in the search effort.\n\nRaisi had in 2021 succeeded the moderate Hassan Rouhani, at a time the economy was battered by US sanctions over a contested nuclear program.\n\nIran saw a wave of protests in 2022 triggered by the death in custody of Mahsa Amini after her arrest.\n\nIn March 2023, regional rivals Iran and Saudi Arabia signed a surprise deal that restored diplomatic relations.\n\nA series of tit-for-tat escalations in the Gaza war led to Tehran launching hundreds of missiles directly at Israel in April.\n\nIn a speech hours before his death, Raisi emphasized Iran's support for the Palestinians. \"We believe Palestine is the first issue of the Muslim world,\" he said.",
+        "source": {
+            "uri": "thestandard.com.hk",
+            "dataType": "news",
+            "title": "The Standard",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "Hong Kong"
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://www.thestandard.com.hk/newsImage/20240521/50092019contentPhoto1.jpg",
+        "eventUri": "spa-3486596",
+        "sentiment": -0.2549019607843137,
+        "wgt": 453928762,
+        "relevance": 1
+    },
+    {
+        "uri": "8137326114",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-20",
+        "time": "19:17:46",
+        "dateTime": "2024-05-20T19:17:46Z",
+        "dateTimePub": "2024-05-20T19:17:06Z",
+        "dataType": "news",
+        "sim": 0.5686274766921997,
+        "url": "https://gulftoday.ae:443/opinion/2024/05/20/tragic-death-of-iranian-president",
+        "title": "Tragic death of Iranian President",
+        "body": "The tragic death in a helicopter crash of Iranian President Ebrahim Raisi and Foreign Minister Hossein Amir Abdollahian in the mountainous terrain in the province of Eastern Azerbaijan on Sunday comes at a time when Iran and the West Asian region are going through a crisis because of the war in Gaza, and the exchange of missile and drone attacks between Iran and Israel last month for the first time since the creation of Israel in 1948 which had made the security situation both fragile and volatile.\n\nRaisi won the presidential election in 2021 and he was seen as strong, especially in the protests that broke out over Kurdish girl Mahsa Amini for violating the dress code, in late 2022 and early 2023. He was also expected to succeed the Supreme Leader Ayatollah Ali Khamenei because of his adherence to conservatism.\n\nThe helicopter carrying Raisi and Abdollahian was a 50-year-old vehicle. It is being inferred that because of the American economic sanctions, Iran has not been able to buy modern planes and equipment in general.\n\nIran's Supreme leader Ali Khamenei expressed his sorrow in a statement, in which he said, \"With immense grief and sorrow, I received the bitter news of the passing of the diligent scholar, the competent and hard-working popular president, the servant of Imam Reza, Sayyid Ebrahim Raisi, and his esteemed companions. The entire tenure of Ebrahim Raisi, whether during his short presidency or before that, was spent in tireless service to the people of the country and Islam.\"\n\nRaisi rose from the ranks. He became a deputy head of the judiciary for 10 years, and was appointed prosecutor-general in 2014. In 2019, the United States sanctioned him for human rights violations, including his role in the death of political dissidents in the 1980s. He lost the presidential election to Hasan Rouhani in 2017. Rouhani was seen as a pragmatist.\n\nRaisi was appointed chief of the head of the judiciary in 2019 by Khamenei. And soon he was made deputy chairman of the Assembly of Experts, the 88-member clerical body that will elect the Supreme Leader.\n\nAccording to the Iranian Constitution of 1979 - important amendments were made to the Constitution in 1989 - the first vice president will be the caretaker president in the case of the death of a president in office. Mohammad Mokhber, the first vice president, will be care-taker president, and the election for a new president will be held in 50 days.\n\nThe cabinet has made deputy foreign minister Ali Bagheri Kani as the caretaker foreign minister in the place of Abdollahian. The complicated Iranian constitutional structure provides for exigencies. This is the reason that Ali Khamenei said that there would be no disruption in government when news came in about the helicopter crash carrying Raisi, Abollahian and others.\n\nThe nuclear negotiations between Iran and the US, along with Germany, France and UK, is hanging fire. And with the presidential election in the US due in November, the prospect of reviving the 2015 deal seems to be difficult. Then US President Barack Obama had pushed for it, but his successor Donald Trump dropped it without hesitation. The possibility of reworking the agreement which involves Iran reducing the up-gradation of the fissile material to weapons grade in return for lifting of West's economic sanctions against Iran would become difficult if Trump were to win in November. And there is little doubt that Iran's economic growth is suffering because of the sanctions.",
+        "source": {
+            "uri": "gulftoday.ae",
+            "dataType": "news",
+            "title": "The Gulf Today",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "United Arab Emirates"
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "http://gulftoday.ae/-/media/gulf-today/images/articles/opinion/2021/6/20/ebrahim-raisi-2.ashx?h=450&w=750&hash=9E712C21C465826BD6ED839DB7C165A0",
+        "eventUri": "spa-3486596",
+        "sentiment": -0.08235294117647063,
+        "wgt": 453928666,
+        "relevance": 1
+    },
+    {
+        "uri": "8137317878",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-20",
+        "time": "19:12:49",
+        "dateTime": "2024-05-20T19:12:49Z",
+        "dateTimePub": "2024-05-20T19:09:42Z",
+        "dataType": "news",
+        "sim": 0.5686274766921997,
+        "url": "https://www.messenger-inquirer.com/ap/elections/what-we-know-so-far-about-the-helicopter-crash-that-killed-irans-president-and-others/article_82fd9b22-00f9-58a7-883f-6210025fa25d.html",
+        "title": "What we know so far about the helicopter crash that killed Iran's president and others",
+        "body": "People attend a mourning ceremony for Iranian President Ebrahim Raisi, shown in the posters, at Vali-e-Asr square in downtown Tehran, Iran, Monday, May 20, 2024. President Raisi and the country's foreign minister were found dead Monday hours after their helicopter crashed in fog, leaving the Islamic Republic without two key leaders as extraordinary tensions grip the wider Middle East.\n\nBEIRUT (AP) -- The helicopter crash that killed Iran's president and foreign minister has sent shock waves around the region.\n\nIranian state media on Monday said that President Ebrahim Raisi, the country's foreign minister, Hossein Amirabdollahian, and others had been found dead after an hourslong search through a foggy, mountainous region of the country's northwest. State TV gave no immediate cause for the crash.",
+        "source": {
+            "uri": "messenger-inquirer.com",
+            "dataType": "news",
+            "title": "Owensboro Messenger-Inquirer",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Owensboro, Kentucky"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [
+            {
+                "uri": "associated_press@messenger-inquirer.com",
+                "name": "Associated Press",
+                "type": "author",
+                "isAgency": false
+            },
+            {
+                "uri": "abby_sewell@messenger-inquirer.com",
+                "name": "Abby Sewell",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/assets/v3/editorial/3/cb/3cb9248c-7baf-530f-89c9-9674720022b8/664a27f753a5b.image.jpg?crop=1763%2C926%2C0%2C124&resize=438%2C230&order=crop%2Cresize",
+        "eventUri": "spa-3486596",
+        "sentiment": -0.6705882352941177,
+        "wgt": 453928369,
+        "relevance": 1
+    },
+    {
+        "uri": "8137313922",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-20",
+        "time": "19:09:38",
+        "dateTime": "2024-05-20T19:09:38Z",
+        "dateTimePub": "2024-05-20T19:06:07Z",
+        "dataType": "news",
+        "sim": 0.5960784554481506,
+        "url": "https://www.dailymail.co.uk/wires/pa/article-13439835/Iran-s-president-foreign-minister-die-helicopter-crash.html",
+        "title": "Iran\u00b4s president and foreign minister die in helicopter crash",
+        "body": "Iranian president Ebrahim Raisi and the country's foreign minister have been found dead hours after their helicopter crashed in fog, leaving the Islamic Republic without two key leaders as extraordinary tensions grip the wider Middle East.\n\nSupreme Leader Ayatollah Ali Khamenei, who has the final say in the Shiite theocracy, quickly named a little-known vice president as caretaker and insisted the government was in control, but the deaths marked yet another blow to a country beset by pressures at home and abroad.\n\nIran has offered no cause for the crash nor suggested sabotage brought down the helicopter, which fell in mountainous terrain in a sudden, intense fog.\n\nIn Tehran, Iran's capital, businesses were open and children attended school. However, there was a noticeable presence of both uniformed and plainclothes security forces.\n\nLater in the day, hundreds of mourners crowded into downtown Vali-e-Asr square holding posters of Mr Raisi and waving Palestinian flags. Some men clutched prayer beads and were visibly crying. Women wearing black chadors gathered together holding photos of the dead leader.\n\n\"We were shocked that we lost such a character, a character that made Iran proud, and humiliated the enemies,\" said Mohammad Beheshti, 36.\n\nThe crash comes as the Israel-Hamas war continues in the region. Iran-backed Hamas led the attack that started the conflict, and Hezbollah, also supported by Tehran, has fired rockets at Israel.\n\nLast month, Iran launched its own unprecedented drone-and-missile attack on Israel.\n\nA hardliner who formerly led the country's judiciary, Mr Raisi, 63, was viewed as a protege of Mr Khamenei.\n\nShiite Muslims hold photos of Iranian President Ebrahim Raisi (Mukhtar Khan/AP)\n\nDuring his tenure, relations continued to deteriorate with the West as Iran enriched uranium closer than ever to weapons-grade levels and supplied bomb-carrying drones to Russia for its war in Ukraine.\n\nHis government has also faced years of mass protests over the ailing economy and women's rights -- making the moment that much more sensitive.\n\nThe crash killed all eight people aboard a Bell 212 helicopter that Iran purchased in the early 2000s, according to the state-run IRNA news agency.\n\nAmong the dead were Iranian foreign minister Hossein Amirabdollahian, the governor of Iran's East Azerbaijan province, a senior cleric from Tabriz, a Revolutionary Guard official and three crew members, IRNA said.\n\nIran has flown Bell helicopters extensively since the shah's era. But aircraft in Iran face a shortage of parts because of Western sanctions, and often fly without safety checks.\n\nAgainst that backdrop, former Iranian foreign minister Mohammad Javad Zarif sought to blame the United States for the crash.\n\n\"One of the main culprits of yesterday's tragedy is the United States, which ... embargoed the sale of aircraft and aviation parts to Iran and does not allow the people of Iran to enjoy good aviation facilities,\" Mr Zarif told The Associated Press.\n\nAli Vaez, Iran project director with the International Crisis Group, said that while US sanctions have deprived Iran of the ability to renew and repair its fleet for decades, \"one can't overlook human error and the weather's role in this particular accident\".\n\nIranian First Vice President Mohammad Mokhber (Dmitry Astakhov, Sputnik, Kremlin Pool Photo via AP)\n\nRichard Aboulafia, an aerospace analyst and consultant, said Iran likely is tapping the black market for parts to maintain the fleet, but questioned whether Iran has the maintenance skills to keep older helicopters flying safely.\n\n\"Black-market parts and whatever local maintenance capabilities they've got -- that's not a good combination,\" he said.\n\nThere are 15 Bell 212 helicopters with an average age of 35 years currently registered in Iran that could be in active use or in storage, according to aviation data firm Cirium.\n\nState TV gave no immediate cause for the crash in Iran's East Azerbaijan province. Footage released by IRNA showed the crash site, across a steep valley in a green mountain range.\n\nUS defence secretary Lloyd Austin said the US continues to monitor the situation surrounding the \"very unfortunate helicopter crash\" but has no insight into the cause.\n\n\"I don't necessarily see any broader regional security impacts at this point in time,\" he said.\n\nFor now, Mr Khamenei has named the first vice president, Mohammad Mokhber, as caretaker, in line with the constitution. The election for a successor was to be held on June 28, IRNA said.\n\nMr Raisi's funeral was to take place in Mashhad, the city where he was born, on Thursday, with other funerals to be held on Tuesday, state TV said\n\nAli Bagheri Kani, a nuclear negotiator for Iran, will serve as the country's acting foreign minister, state TV said.\n\nCondolences poured in from neighbours and allies after Iran confirmed there were no survivors.\n\nIndian Prime Minister Narendra Modi said in a post on the social media platform X that his country \"stands with Iran in this time of sorrow\".\n\nRussian President Vladimir Putin, in a statement released by the Kremlin, described Mr Raisi \"as a true friend of Russia.\"\n\nTurkish President Recep Tayyip Erdogan, China's Xi Jinping and Syrian President Bashar Assad also offered condolences.\n\nAzerbaijan's president, Ilham Aliyev, said he and his government were \"deeply shocked.\" Mr Raisi was returning from Iran's border with Azerbaijan, where he had inaugurated a dam with Mr Aliyev, when the crash happened.\n\nThe death also stunned Iranians, and Mr Khamenei declared five days of public mourning. But many have been ground down by the collapse of the country's rial currency and worries about regional conflicts spinning out of control with Israel or even with Pakistan, which Iran exchanged fire with this year.\n\nMr Khamenei stressed the business of Iran's government would continue no matter what -- but Mr Raisi's death raised the spectre of what will happen after the 85-year-old supreme leader either resigns or dies.\n\nFinal say in all matters of state rest with his office and only two men have held the position since the 1979 Islamic Revolution.\n\nMr Raisi had been discussed as a contender. The only other person suggested has been Mr Khamenei's 55-year-old son, Mojtaba.\n\nHowever, concerns have been raised over the position going to a family member, particularly after the revolution overthrew the hereditary Pahlavi monarchy of the shah.\n\nAn emergency meeting of Iran's Cabinet issued a statement pledging it would follow Mr Raisi's path and that \"with the help of God and the people, there will be no problem with management of the country\".\n\nMr Raisi won Iran's 2021 presidential election, in a vote that saw the lowest turnout in the Islamic Republic's history. He was sanctioned by the US in part over his involvement in the execution of thousands of political prisoners in 1988 at the end of the bloody Iran-Iraq war.\n\nUnder Mr Raisi, Iran now enriches uranium at nearly weapons-grade levels and hampers international inspections. Iran has armed Russia in its war on Ukraine, as well as launched a massive drone-and-missile attack on Israel amid its war against Hamas in the Gaza Strip.\n\nIt also has continued arming proxy groups in the Middle East, like Yemen's Houthi rebels and Lebanon's Hezbollah.",
+        "source": {
+            "uri": "dailymail.co.uk",
+            "dataType": "news",
+            "title": "Daily Mail Online",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "London"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United Kingdom"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://i.dailymail.co.uk/1s/2024/05/20/19/wire-85119381-1716230474-535_636x382.jpg",
+        "eventUri": "spa-3486596",
+        "sentiment": -0.3568627450980392,
+        "wgt": 453928178,
+        "relevance": 1
+    },
+    {
+        "uri": "8137315130",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-05-20",
+        "time": "19:07:38",
+        "dateTime": "2024-05-20T19:07:38Z",
+        "dateTimePub": "2024-05-20T19:07:04Z",
+        "dataType": "news",
+        "sim": 0.615686297416687,
+        "url": "https://kayhanlife.com/news/world/ebrahim-raisi-hardline-ally-of-khamenei-killed-in-helicopter-crash/",
+        "title": "Ebrahim Raisi, Hardline Ally of Khamenei, Killed in Helicopter Crash - KAYHAN LIFE",
+        "body": "DUBAI, May 20 (Reuters) - Iranian President Ebrahim Raisi, a hardliner seen as a potential successor to Supreme Leader Ayatollah Ali Khamenei, was killed when his helicopter crashed in poor weather in mountains near the Azerbaijan border, officials and state media said on Monday.\n\nThe charred wreckage of the helicopter which crashed on Sunday carrying Raisi, Foreign Minister Hossein Amirabdollahian and six other passengers and crew was found early on Monday after an overnight search in blizzard conditions.\n\nSupreme Leader Khamenei, who holds ultimate power with a final say on foreign policy and Iran's nuclear programme, said First Vice President Mohammad Mokhber, would take over as interim president, the official IRNA news agency reported.\n\n\"I announce five days of public mourning and offer my condolences to the dear people of Iran,\" Khamenei said in a statement. Mokhber, like Raisi, is seen as close to Khamenei.\n\nWho Is Mohammad Mokhber, the Man Set to Become Iran's Interim President?\n\nThe crash comes at a time of growing dissent within Iran over an array of political, social and economic crises. Iran's clerical rulers face international pressure over Tehran's disputed nuclear programme and its deepening military ties with Russia during the war in Ukraine.\n\nSince Iran's ally Hamas attacked Israel on Oct. 7, provoking Israel's assault on Gaza, conflagrations involving Iran-aligned groups have erupted throughout the Middle East.\n\nA long \"shadow war\" between Iran and Israel broke into the open last month with tit-for-tat exchanges of drone and missile fire.\n\nAn Israeli official, who requested anonymity, told Reuters it was not involved in the crash. U.S. Defense Secretary Lloyd Austin said he had no insight into the cause of the crash, adding the United States had no part to play in it.\n\nUnder the Islamic Republic's constitution, a new presidential election must be held within 50 days.\n\nAny candidate must first be vetted by the Guardian Council, a hardline watchdog that has often disqualified even prominent conservative and moderate officials, meaning the overall thrust of Iranian policy would be unlikely to change.\n\n\"As Iran selects a new president, we reaffirm our support for the Iranian people and their struggle for human rights and fundamental freedoms,\" State Department spokesperson Matthew Miller said as the U.S. expressed its \"official condolences\".\n\nReactions to the Death of Iran's President in a Helicopter Crash\n\nGovernment loyalists packed into mosques and squares to pray for Raisi, but most shops remained open and the authorities made little effort to interrupt ordinary life.\n\n\"He was a hard working president. His legacy will endure as long as we are alive,\" said Mohammad Hossein Zarrabi, 28, a member of the volunteer Basij religious militia in the holy Shi'ite city of Qom.\n\nBut other Iranians showed little sorrow.\n\n\"Who cares. One hardliner dies, another takes over and our misery continues,\" said Reza, 47, a shopkeeper in the central desert city of Yazd who did not give his full name, fearing reprisals. \"We're too busy with economic and social issues to worry about such news.\"\n\nState media reported that images from the site showed the U.S.-made Bell 212 helicopter slammed into a mountain peak, although there was no official word on the cause of the crash. The dead also included the governor of East Azerbaijan Province and a senior imam from Tabriz city.\n\nIran was a major buyer of Bell helicopters under the U.S.-backed Shah before the 1979 Islamic revolution, though the exact origin of the aircraft that crashed was not clear. Decades of sanctions have made it hard for Iran to obtain parts or upgrade its aircraft.\n\nThe helicopter went down in Varzeqan region north of Tabriz, as Raisi returned from an official visit to the border with Azerbaijan, in Iran's northwest, to inaugurate the Qiz-Qalasi Dam, a joint project.\n\nANALYSIS: Hamid Nouri's Life Sentence Is A Condemnation of Iran\n\nSince taking office, Raisi, 63, had ordered a tightening of morality laws, oversaw a bloody crackdown on anti-government protests and pushed hard in nuclear talks with world powers.\n\nIn Iran's dual political system, split between the clerical establishment and the government, it is Raisi's 85-year-old mentor Khamenei, supreme leader since 1989, who holds decision-making power on all major policies.\n\nRaisi's victory in a closely managed election in 2021 brought all branches of power under the control of hardliners, after eight years when the presidency had been held by pragmatist Hassan Rouhani and a nuclear deal negotiated with powers including Washington.\n\nHowever, Raisi's standing may have been dented by the widespread protests against clerical rule following the death of 22-year-old Kurdish woman Mahsa Amini in morality police custody, and a failure to turn around Iran's economy, hamstrung by Western sanctions.\n\nThough far from being a foregone conclusion in Iran's opaque politics, Raisi, a middle-ranking Shi'ite cleric, had been widely seen as a leading candidate to succeed Khamenei.\n\n\"There's no other candidate right now (with) that kind of a platform and that's why the presidential elections in Iran, however they unfold, will be the first decider about what comes next,\" said Vali Nasr, professor of Middle East Studies and International Affairs at John Hopkins School of Advanced International Studies.\n\nAmnesty Calls for Investigation into Iran's Raisi for Crimes against Humanity\n\nDeputy Foreign Minister Ali Bagheri Kani was appointed as acting foreign minister, IRNA said.\n\nSaudi Arabia's foreign minister called Kani to express condolences and reiterated Saudi's support for Iran.\n\nMessages of condolences flooded in from Iran's other regional neighbours and allies, including the leaders of Syria, Egypt, the United Arab Emirates, Qatar, Jordan, Iraq and Pakistan.\n\nRussian President Vladimir Putin called Raisi \"a true friend of Russia\". The Kremlin said he had spoken to Mokhber by phone and both stressed \"mutual intention to further strengthen Russian-Iranian interaction\".\n\nIran-backed militant group Hamas, fighting Israeli forces in Gaza with Tehran's support, issued a statement expressing sympathy to the Iranian people for \"this immense loss\".",
+        "source": {
+            "uri": "kayhanlife.com",
+            "dataType": "news",
+            "title": "KAYHAN LIFE",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "London"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United Kingdom"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [
+            {
+                "uri": "kayhan_life@kayhanlife.com",
+                "name": "Kayhan Life",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": "https://kayhanlife.com/wp-content/uploads/2024/05/2024-05-20T100029Z_837872420_RC28U7ASEGI3_RTRMADP_3_IRAN-SECURITY-PRESIDENT-RAISI.jpg",
+        "eventUri": "spa-3486596",
+        "sentiment": -0.2313725490196078,
+        "wgt": 453928058,
+        "relevance": 1
+    }
+]
