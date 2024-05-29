@@ -1,0 +1,600 @@
+[
+    {
+        "uri": "8137540751",
+        "lang": "hin",
+        "isDuplicate": false,
+        "date": "2024-05-20",
+        "time": "23:06:22",
+        "dateTime": "2024-05-20T23:06:22Z",
+        "dateTimePub": "2024-05-20T23:05:48Z",
+        "dataType": "news",
+        "sim": 0.7215686440467834,
+        "url": "https://www.punjabkesari.com/world-news/iran-election-election-of-new-president-will-be-held-in-iran-on-june-28-investigation-begins-in-ibrahim-raisis-helicopter-crash-case/",
+        "title": "Iran Election: ईरान में 28 जून को होगा नए राष्ट्रपति का चुनाव, इब्राहिम रईसी के हेलिकॉप्टर क्रैश मामले में जांच शुरू - Latest News In Hindi, Breaking News In Hindi, ताजा ख़बरें, Daily News In Hindi",
+        "body": "Iran Election News: ईरान के राष्ट्रपति इब्राहिम रईसी की मौत के बाद ईरान मे नए राष्ट्रपति के चुनाव की तारीख का ऐलान हो चुका हैं। आपको बता दें, ईरान के राष्ट्रपति इब्राहिम रईसी के काफिले का हेलीकॉप्टर उस समय क्रैश हुआ था जब रईसी रविवार को अजरबैजान में एक बांध का उद्घाटन करके वापिस लौट रहे थे। तभी घने कोहरे और पहाड़ी इलाके को पार करते समय हेलीकॉप्टर दुर्घटनाग्रस्त हो गया था। इस हादसे में ईरान के विदेश मंत्री अमीराब्दुल्लाहियन सहित हेलिकॉप्टर में सवार सभी 9 लोगों की मृत्यु हो गई। ऐसे में उपराष्ट्रपति मोहम्मद मुखबेर को अंतरिम राष्ट्रपति बनाया गया है। ईरान के सर्वोच्च धार्मिक नेता आयतुल्लाह खामेनेई ने सोमवार को इसकी घोषणा की है। न्यूज एजेंसी आईआरएनए ने जानकारी दी है कि अब ईरान में नए राष्ट्रपति का चुनाव 28 जून को किया जाएगा। 30 मई से 3 जून तक उम्मीदवार अपना नामांकन दाखिल कर सकेंगे और 12-27 जून तक चुनाव के लिए प्रचार किया जा सकेगा।\n\nईरानी सरकार का कामकाज जारी रहेगा। ईरान के संविधान के तहत, यदि राष्ट्रपति की मृत्यु हो जाती है तो ईरान का प्रथम उप राष्ट्रपति पदभार संभालता है और 50 दिन के भीतर नया राष्ट्रपति चुनाव कराया जाएगा। सरकारी मीडिया के अनुसार, प्रथम उप राष्ट्रपति मोहम्मद मुखबीर को रईसी की अनुपस्थिति में अधिकारियों और विदेशी सरकारों की ओर से फोन भी आने लगे हैं। रईसी रविवार को तड़के अजरबैजान के राष्ट्रपति इल्हाम अलीयेव के साथ एक बांध का उद्घाटन करने के लिए अजरबैजान में थे। यह तीसरा बांध है, जिसे दोनों देशों ने अरास नदी पर बनाया है।\n\nराष्ट्रपति रईसी के हेलिकॉप्टर क्रैश की जांच सशस्त्र बलों के चीफ ऑफ स्टाफ मेजर जनरल मोहम्मद बघेरी ने एक हाई रैंकिंग प्रतिनिधिमंडल को सौंपा है। ब्रिगेडियर अली अब्दुल्लाही के नेतृत्व में प्रतिनिधिमंडल को घटना स्थल पर भेजा गया है और जांच शुरू हो चुकी है। ईरानी न्यूज एजेंसी के मुताबिक, मिशन पूरा होने पर जांच के नतीजे बाद में घोषित किए जाएंगे।",
+        "source": {
+            "uri": "punjabkesari.com",
+            "dataType": "news",
+            "title": "Punjab Kesari",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "New Delhi"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "India"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://www.punjabkesari.com/wp-content/uploads/2024/05/iran-33.jpg",
+        "eventUri": "hin-362909",
+        "sentiment": null,
+        "wgt": 2,
+        "relevance": 2,
+        "QnA": [
+            {
+                "Question": "Does the article indicate that the cause of the helicopter crash could be bad weather:",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "A) Yes",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Does the article indicate that the cause of the helicopter crash could be maintenance challenges due to sanctions:",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not indicate that the cause of the helicopter crash could be maintenance challenges due to sanctions. It mentions that the crash occurred due to dense fog and the mountainous terrain, but it does not discuss maintenance challenges or sanctions as potential causes.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Does the article talk about people mourn the death of Raisi",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Does the article talk about people express joy over the death of Raisi",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not mention people expressing joy over the death of Raisi. It focuses on the details of the helicopter crash, the subsequent death of President Ebrahim Raisi and other officials, the appointment of an interim president, and the announcement of new presidential elections in Iran.",
+                "post_LLM_answer": "B"
+            }
+        ]
+    },
+    {
+        "uri": "8137538329",
+        "lang": "hin",
+        "isDuplicate": false,
+        "date": "2024-05-20",
+        "time": "23:03:49",
+        "dateTime": "2024-05-20T23:03:49Z",
+        "dateTimePub": "2024-05-20T23:02:50Z",
+        "dataType": "news",
+        "sim": 0.7215686440467834,
+        "url": "https://www.haribhoomi.com/world/news/ebrahim-raisi-who-was-ebrahim-raisi-why-is-he-called-the-butcher-of-iran-know-the-story-of-his-life-and-controversies-26381",
+        "title": "Ebrahim Raisi: कौन थे इब्राहिम रईसी, क्याें कहा जाता है उन्हें ईरान का कसाई, जानें उनसे जुड़े विवादों की कहानी - Haribhoomi",
+        "body": "Who was Ebrahim Raisi: ईरानी राष्ट्रपति इब्राहिम रईसी की रविवार को हुए हेलिकॉप्टर हादसे में मौत हो गई। उनके साथ हेलिकॉप्टर में सवार अन्य 8 लोग भी मारे गए। इस घटना के बाद पूरी दुनिया का ध्यान इब्राहिम रईसी की ओर खिंच गया है। लोग जानना चाहते हैं कि आखिर इब्राहिम रईसी कौन थे और उनका राजनीतिक इतिहास क्या रहा है? तो जानते हैं कि आखिर रईसी को क्यों कहा जाता था ईरान का कसाई (Butcher of iran) क्या रहे हैं उनके जीवन से जुड़े विवाद।\n\nरईसी का राजनीतिक सफर और कट्टरवादी छवि\n\nईरान के 63 वर्षीय नेता इब्राहिम रईसी पॉलिटिक्स में आने से पहले ईरान की न्यायपालिका से जुड़े थे। उन्होंने 2017 में राष्ट्रपति पद का चुनाव जीता था। हालांकि, पहले चुनाव के दौरान वे उदारवादी नेता मौलवी हसन रूहानी से हार गए थे। 2017 के चुनाव में रईसी के सभी विरोधियों को चुनाव लड़ने से रोक दिया गया था, क्योंकि रईसी का विरोध करने वाले सभी नेता किसी न किसी मामले में जांच का सामना कर रहे थे। इस चुनाव में रईसी को 62% वोट मिले थे, जो ईरान के इतिहास में सबसे कम वोट प्रतिशत माना जाता है।\n\n1988 की सामूहिक फांसी और रईसी की भूमिका\n\nइब्राहिम रईसी का नाम 1988 में ईरान में हुई सामूहिक फांसी से भी जुड़ा है। उस समय कम से कम 5 हजार लोगों को फांसी दी गई थी। एमनेस्टी इंटरनेशनल की रिपोर्ट के मुताबिक, इराक के पूर्व राष्ट्रपति सद्दाम हुसैन से समर्थन पाकर 'मुजाहिदीन-ए-खल्क के सदस्यों ने ईरान पर हमला किया था। ईरान ने मुजाहिदीनों के हमलों को मुंहतोड़ जवाब दिया था। उस समय मुजाहिदीनों को समर्थन करने वाले हजारों लोगों को मौत के घाट उतार दिया गया था। इब्राहिम रईसी उस समय फांसी की सजा देने वाले आयोग से जुड़े थे। इसी कारण अमेरिका समेत कई देशों ने रईसी पर प्रतिबंध लगाए थे। जब राष्ट्रपति बनने पर रईसी से इस फांसी देने वाले आयोग के बारे में पूछा गया था, तो उन्होंने कुछ भी कहने से इनकार कर दिया था।\n\nइजरायल पर हमले का समर्थन\n\nरईसी ने अप्रैल 2022 में इजरायल पर हमले का भी समर्थन किया था। इस दौरान इजरायल पर 300 से अधिक ड्रोन और मिसाइलें दागी गई थीं। यह हमला सीरिया के दमिश्क में ईरानी दूतावास पर हुए संदिग्ध हमले के बाद किया गया था। इसके अलावा, रईसी 2022 में हिजाब पहनने को लेकर हुए विरोध में भी शामिल थे। महीनों तक चली सुरक्षा कार्रवाई में 500 से अधिक लोग मारे गए और 22 हजार से अधिक लोगों को हिरासत में लिया गया।\n\nरईसी की मौत के बाद ईरान में स्थिति\n\nईरान की सरकार इस हादसे को हार्ड लैंडिंग बता रही है, लेकिन दुनिया के राजनीतिक विश्लेषक अन्य पहलुओं पर भी विचार कर रहे हैं। रईसी की मौत के बाद अब ईरान में नए राष्ट्रपति के चुनाव की प्रक्रिया शुरू हो चुकी है। 28 जून को चुनाव की तारीख तय की गई है। हालांकि, सुप्रीम लीडर अयातुल्ला अली खामनेई की मंजूरी के बाद ही देश के नए राष्ट्रपति का चुनाव हो सकेगा। इब्राहिम रईसी की मौत से ईरान में राजनीतिक उथल-पुथल की संभावना है। उनके समय में किए गए कठोर निर्णय और विवादित कदमों के कारण उनकी छवि हमेशा कट्टरपंथी रही है। ऐसे में दुनिया भर की नजरें इस बात पर टिकी है कि ईरान की राजनीति किस दिशा में जाती है और नया राष्ट्रपति कौन बनता है।",
+        "source": {
+            "uri": "haribhoomi.com",
+            "dataType": "news",
+            "title": "हरिभूमि",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "India"
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://images.haribhoomi.com/uploadimage/library/16_9/16_9_5/IMAGE_1716246136.webp",
+        "eventUri": "hin-362909",
+        "sentiment": null,
+        "wgt": 2,
+        "relevance": 2,
+        "QnA": [
+            {
+                "Question": "Does the article indicate that the cause of the helicopter crash could be bad weather:",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not indicate that the cause of the helicopter crash could be bad weather. It mentions that the Iranian government is calling the incident a \"hard landing\" and that political analysts are considering other aspects, but it does not specifically mention bad weather as a potential cause.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Does the article indicate that the cause of the helicopter crash could be maintenance challenges due to sanctions:",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not indicate that the cause of the helicopter crash could be maintenance challenges due to sanctions. It primarily focuses on Ebrahim Raisi's political history, controversies, and the aftermath of his death.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Does the article talk about people mourn the death of Raisi",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not mention people mourning the death of Ebrahim Raisi. It focuses on his political career, controversies, and the implications of his death on Iranian politics.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Does the article talk about people express joy over the death of Raisi",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not mention people expressing joy over the death of Ebrahim Raisi. It focuses on his political career, controversies, and the potential political implications of his death in Iran.",
+                "post_LLM_answer": "B"
+            }
+        ]
+    },
+    {
+        "uri": "8137487002",
+        "lang": "hin",
+        "isDuplicate": false,
+        "date": "2024-05-20",
+        "time": "22:04:59",
+        "dateTime": "2024-05-20T22:04:59Z",
+        "dateTimePub": "2024-05-20T22:04:06Z",
+        "dataType": "news",
+        "sim": 0.4941176474094391,
+        "url": "https://www.haribhoomi.com/world/news/iran-president-election-presidential-post-vacant-in-iran-how-president-is-elected-when-elections-will-be-held-know-everything-26379",
+        "title": "Iran president election: ईरान में राष्ट्रपति पद खाली, कैसे चुना जाता है राष्ट्रपति, कब होंगे चुनाव, जानें सबकुछ - Haribhoomi",
+        "body": "Iran president election:ईरान के राष्ट्रपति इब्राहिम रईसी की मौत के बाद देश में राष्ट्रपति की सीट खाली हो गई है। इस स्थिति में कई सवाल उठ रहे हैं कि अब राष्ट्रपति की कमान किसे मिलेगी और कब चुनाव होगा। ईरान के संविधान के अनुसार,अगर किसी राष्ट्रपति की पद पर रहते हुए मौत हो जाती है, तो उपराष्ट्रपति को कार्यवाहक राष्ट्रपति का पद संभालना पड़ता है, लेकिन इसके लिए सर्वोच्च नेता अयातुल्ला अली खामनेई की मंजूरी जरूरी होती है। सर्वोच्च नेता काे ईरान में सर्वेसर्वा माना जाता है। साथ ही चुनावी प्रक्रिया पर निगरानी रखने वाली संस्था गार्डियन काउंसिल की कमान भी उनके पास ही होती है।\n\nईरान में क्या है चुनाव की प्रक्रिया?\n\nईरान में हर 4 साल में फ्रांस की तरह चुनाव होते हैं। पिछला चुनाव 2021 में हुआ था और अगला चुनाव 2025 में प्रस्तावित था, लेकिन इब्राहिम रईसी की मौत के बाद चुनाव 28 जून को कराने का फैसला लिया गया है। बता दें कि ईरान के नियमों के अनुसार उपराष्ट्रपति केवल 50 दिनों तक ही सत्ता संभाल सकते हैं, इसलिए इस अवधि के भीतर नए राष्ट्रपति का चुनाव आवश्यक होता है। इसलिए राष्ट्रपति रईसी की मौत के एक दिन बाद ही चुनाव की तारीखों का ऐलान कर दिया गया है।\n\n30 मई से शुरू होगी नामांकन की प्रक्रिया\n\nईरान की स्टेट मीडिया IRNA के मुताबिक,ईरान के राष्ट्रपति चुनाव के लिए प्रत्याशियों के नामांकन की प्रक्रिया 30 मई से शुरू हो जाएगी। चुनाव प्रचार 12 जून से 27 जून के बीच किया जा सकेगा। देश के ज्युडिशियल, लेजिस्लेटिव और कार्यकारी अधिकारियों की एक उच्च स्तरीय बैठक में सोमवार को चुनाव की तारीखों पर फैसला लिया जाएगा। बता दें कि यह ईरान का 14 वां राष्ट्रपति चुनाव होगा।\n\nकिसकी होगी चुनाव कराने की जिम्मेदारी\n\nभारत में चुनाव आयोग चुनाव कराता है, लेकिन ईरान में गार्डियन काउंसिल यह काम करती है। इस पैनल में 6 इस्लामी जज और 6 वरिष्ठ मौलवी होते हैं जो सुप्रीम लीडर की देखरेख में काम करते हैं। ये पैनल तकनीकी और वैचारिक आधार पर उम्मीदवारों की जांच करता है। पिछले चुनाव में 592 उम्मीदवारों में से केवल 7 को ही चुनाव लड़ने की अनुमति दी गई थी।\n\nसंसद के चुनाव और उनकी जिम्मेदारी\n\nहर 4 साल में ईरानी संसद के 290 सदस्य चुने जाते हैं जो कानून का मसौदा तैयार करते हैं और देश के बजट को मंजूरी देते हैं। हालांकि, गार्डियन काउंसिल संसद पर नियंत्रण रखता है और शरिया कानून की नजर से सभी कानूनों की जांच करता है। काउंसिल के आधे सदस्य सुप्रीम लीडर द्वारा नियुक्त होते हैं और न्यायपालिका के प्रमुख की नियुक्ति भी सुप्रीम लीडर ही करता है।\n\nमतदान के नियम और सुप्रीम लीडर का नियंत्रण\n\nईरान में 18 वर्ष की आयु होते ही सभी नागरिक मतदान कर सकते हैं। अगर पहले चरण में किसी उम्मीदवार को 50 प्रतिशत से ज्यादा मत नहीं मिलता है तो रन-ऑफ चुनाव कराया जाता है। ईरान में सभी नीतियां और निर्णय सुप्रीम लीडर की मर्जी से होते हैं। राष्ट्रपति पद के उम्मीदवारों पर भी उनकी ही मुहर होती है। अयातुल्ला अली खामनेई 1989 से अब तक देश के सर्वोच्च नेता हैं और उनके पास सभी सेनाओं की कमांड और युद्ध या शांति की घोषणा करने की शक्ति है। राष्ट्रपति के बाद वह देश के सबसे ताकतवर व्यक्ति हैं।",
+        "source": {
+            "uri": "haribhoomi.com",
+            "dataType": "news",
+            "title": "हरिभूमि",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "India"
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://images.haribhoomi.com/uploadimage/library/16_9/16_9_5/IMAGE_1716241998.webp",
+        "eventUri": "hin-362909",
+        "sentiment": null,
+        "wgt": 2,
+        "relevance": 2,
+        "QnA": [
+            {
+                "Question": "Does the article indicate that the cause of the helicopter crash could be bad weather:",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not mention that bad weather could be the cause of the helicopter crash. It focuses on the election process in Iran following the death of President Ebrahim Raisi.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Does the article indicate that the cause of the helicopter crash could be maintenance challenges due to sanctions:",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not indicate that the cause of the helicopter crash could be maintenance challenges due to sanctions. It focuses on the election process in Iran following the death of President Ebrahim Raisi.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Does the article talk about people mourn the death of Raisi",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "A) Yes",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Does the article talk about people express joy over the death of Raisi",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not mention people expressing joy over the death of Ebrahim Raisi. It focuses on the procedures and implications following the death of the Iranian president, including the election process, the role of the Supreme Leader, and the responsibilities of the Guardian Council.",
+                "post_LLM_answer": "B"
+            }
+        ]
+    },
+    {
+        "uri": "8137402277",
+        "lang": "hin",
+        "isDuplicate": false,
+        "date": "2024-05-20",
+        "time": "20:33:29",
+        "dateTime": "2024-05-20T20:33:29Z",
+        "dateTimePub": "2024-05-20T20:32:59Z",
+        "dataType": "news",
+        "sim": 0.6000000238418579,
+        "url": "https://www.aajtak.in/world/story/iran-president-election-date-ebrahim-raisi-helicopter-crash-investigation-ntc-1948015-2024-05-21",
+        "title": "ईरान में 28 जून को होगा नए राष्ट्रपति का चुनाव, रईसी के हेलिकॉप्टर क्रैश मामले की जांच शुरू",
+        "body": "राष्ट्रपति इब्राहिम रईसी की मौत के बाद ईरान में नए राष्ट्रपति के चुनाव के लिए तारीख का ऐलान कर दिया गया है. नए राष्ट्रपति के चयन के लिए 28 जून को चुनाव का समय तय किया गया है और इसकी घोषणा की गई है. ईरानी शासन ने राष्ट्रपति के हेलिकॉप्टर क्रैश मामले की जांच के लिए भी हाई रैंकिंग अधिकारियों की टीम बनाई है.\n\nराष्ट्रपति रईसी के हेलिकॉप्टर क्रैश की जांच सशस्त्र बलों के चीफ ऑफ स्टाफ मेजर जनरल मोहम्मद बघेरी ने एक हाई रैंकिंग प्रतिनिधिमंडल को सौंपा है. ब्रिगेडियर अली अब्दुल्लाही के नेतृत्व में प्रतिनिधिमंडल को घटना स्थल पर भेजा गया है और जांच शुरू हो चुकी है. ईरानी न्यूज एजेंसी के मुताबिक, मिशन पूरा होने पर जांच के नतीजे बाद में घोषित किए जाएंगे.\n\nयह भी पढ़ें: बर्फीला तूफान, घने जंगल और ऊंची पहाड़ियां... इन हालात में क्रैश हुआ ईरानी राष्ट्रपति का हेलिकॉप्टर\n\nईरान में कब होगा राष्ट्रपति का चुनाव?\n\nन्यूज एजेंसी आईआरएनए ने जानकारी दी है कि अब ईरान में नए राष्ट्रपति का चुनाव 28 जून को किया जाएगा. 30 मई से 3 जून तक उम्मीदवार अपना नामांकन दाखिल कर सकेंगे और 12-27 जून तक चुनाव के लिए प्रचार किया जा सकेगा. ईरान के संविधान के अनुच्छेद 131 के तहत नए राष्ट्रपति का चुनाव 50 दिनों के भीतर कराने का नियम है. इस बीच सुप्रीम लीडर आयतुल्लाह खामेनेई ने उपराष्ट्रपति मोहम्मद मोखबर को कार्यकारी के प्रमुख के रूप में नियुक्त किया है.\n\nईरान के राष्ट्रपति की हेलिकॉप्टर क्रैश में मौत\n\nराष्ट्रपति राईसी रविवार को अजरबैजान के साथ ईरान की सीमा पर एक बांध का उद्घाटन कर लौट रहे थे, जब उनका हेलिकॉप्टर उत्तर-पश्चिमी ईरान के वरजकान में दुर्घटनाग्रस्त हो गया. दुर्घटनाग्रस्त हेलिकॉप्टर में विदेश मंत्री होसैन अमीराब्दुल्लाहियन, पूर्वी अजरबैजान प्रांत के गवर्नर मालेक रहमती और राईसी की बॉडीगार्ड टीम के प्रमुख मेहदी मौसवी भी सवार थे.\n\nप्रांत में सर्वोच्च नेता के प्रतिनिधि मोहम्मद अली अल-ए-हाशेम भी उनके साथ हेलिकॉप्टर में थे. ईरानी की न्यूज एजेंसी आईआरएनए के मुताबिक, दुर्घटनास्थल पर मौजूद स्थानीय अधिकारियों ने राईसी और उनके साथ आई टीम के शहीद होने की पुष्टि की.\n\nयह भी पढ़ें: कासिम सुलेमानी, मोहम्मद रजा ज़ाहेदी की टारगेट कीलिंग और अब राष्ट्रपति रईसी की मौत... ईरानी नेताओं की डेथ पर जब उठे सवाल!\n\nरईसी के हेलिकॉप्टर क्रैश के कारण पर अमेरिका ने क्या कहा?\n\nअमेरिकी रक्षा सचिव लॉयड ऑस्टिन ने सोमवार को कहा कि उन्हें हेलीकॉप्टर दुर्घटना के कारण के बारे में कोई जानकारी नहीं है. उन्होंने कहा कि उन्हें जरूरी नहीं कि क्षेत्रीय सुरक्षा पर कोई व्यापक प्रभाव दिखे. ऑस्टिन ने कहा कि वह दुर्घटना के कारण के बारे में अनुमान नहीं लगा सकते. अमेरिकी रक्षा सचिव ने कहा, \"निश्चित रूप से, मैं जानता हूं कि ईरानी जांच कर रहे हैं या जांच करेंगे. हम देखेंगे कि उनकी जांच पूरी होने के बाद क्या नतीजा निकलता है.\"",
+        "source": {
+            "uri": "aajtak.in",
+            "dataType": "news",
+            "title": "आज तक",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "India"
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202405/664bb1fc74750-ebrahim-raisi-202635243-16x9.jpeg",
+        "eventUri": "hin-362909",
+        "sentiment": null,
+        "wgt": 2,
+        "relevance": 2,
+        "QnA": [
+            {
+                "Question": "Does the article indicate that the cause of the helicopter crash could be bad weather:",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not indicate that bad weather was the cause of the helicopter crash. It mentions that the investigation into the crash has begun, but it does not specify any particular cause, including bad weather.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Does the article indicate that the cause of the helicopter crash could be maintenance challenges due to sanctions:",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not indicate that the cause of the helicopter crash could be maintenance challenges due to sanctions. It primarily focuses on the announcement of the new presidential election date, the investigation into the crash, and statements from various officials, including the American defense secretary, who mentioned that he has no information about the cause of the crash.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Does the article talk about people mourn the death of Raisi",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not mention people mourning the death of Raisi. It focuses on the announcement of the new presidential election date, the investigation into the helicopter crash, and details about the crash itself.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Does the article talk about people express joy over the death of Raisi",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not mention people expressing joy over the death of Raisi. It focuses on the details of the helicopter crash, the investigation, and the upcoming presidential election in Iran.",
+                "post_LLM_answer": "B"
+            }
+        ]
+    },
+    {
+        "uri": "2024-05-362501466",
+        "lang": "hin",
+        "isDuplicate": false,
+        "date": "2024-05-20",
+        "time": "18:28:15",
+        "dateTime": "2024-05-20T18:28:15Z",
+        "dateTimePub": "2024-05-20T17:44:00Z",
+        "dataType": "news",
+        "sim": 0.5058823823928833,
+        "url": "https://www.newsnationtv.com/specials/explainer/what-impact-will-death-of-iranian-president-ebrahim-raisi-have-on-the-ukraine-war-and-relation-with-russia-467968.html",
+        "title": "Explainer: 'सच्चे दोस्त' की मौत से दुखी पुतिन, ईरानी राष्ट्रपति के निधन का यूक्रेन युद्ध पर क्या पड़ेगा असर?",
+        "body": "Ebrahim Raisi Death: ईरान के राष्ट्रपति इब्राहिम रईसी की हेलीकॉप्टर क्रैश हादसे में मौत हो गई है. उनके आकस्मिक निधन की घटना ने दुनिया भर के नेताओं को सकते में डाल दिया है. वे राष्ट्रपति रईसी की मृत्यु पर शोक व्यक्त कर रहे हैं. रूस के राष्ट्रपति व्लादिमीर पुतिन भी इब्राहिम रईसी के निधन से दुखी हैं. उन्होंने रईसी को 'रूस का सच्चा दोस्त' कहा है. मीडिया रिपोर्ट के अनुसार, यूक्रेन युद्ध के बीच ईरान रूस का एक प्रमुख सहयोगी बनकर उभरा है. ऐसे में सवाल उठता है कि ईरानी राष्ट्रपति के निधन का यूक्रेन युद्ध पर क्या असर पड़ेगा. आइए जानते हैं.\n\nपुतिन ने की मोखबर से बात\n\nरूसी राष्ट्रपति पुतिन ने रईसी के निधन के बाद ईरान के अंतरिम राष्ट्रपति बनें मोहम्मद मोखबर से फोन पर बात की. क्रेमिलन ने कहा कि उन्होंने (पुतिन) मोखबर से फोन पर बात की और दोनों ने 'रूसी-ईरानी संपर्क को और मजबूत करने के आपसी इरादे' पर जोर दिया.\n\nदुश्मन का दुश्मन होता है दोस्त\n\nएक पुरानी कहावत तो आपने सुनी ही होगी कि दुश्मन का दुश्मन दोस्त होता है, जो ईरान-रूस संबंधों पर सटीक बैठती दिखती है. जब रूस ने यूक्रेन पर हमला किया तो अमेरिका समेत तमाम पश्चिमी देशों ने इसका विरोध किया. अमेरिका लगातार यूक्रेन के साथ खड़ा हुआ है. वह यूक्रेन को आर्थिक और सैन्य सहायता मुहैया करा रहा है, जिसमें हथियार और गोला बारूद भी शामिल हैं. इसी साल अप्रैल में अमेरिकी संसद यूक्रेन को 60 अरब डॉलर की सैन्य सहायता देने के लिए एक बिल पारित कर चुकी है. यह एक बड़ा अमाउंट है. इस अमेरिकी सहायता से यूक्रेन युद्ध की तस्वीर बदल सकती है. अमेरिका ने यूक्रेन को सहायता पैकेज मंजूरी करने में छह महीने लगा दिए और इस देरी के कारण यूक्रेनी सेना कमजोर पड़ गई.\n\nहालांकि, अमेरिका ने यूक्रेन पर आक्रमण के खिलाफ रूस पर सैकड़ों प्रतिबंध लगा दिए. इनमें रूस की मुख्य कार्ड भुगतान प्रणाली, वित्तीय और सैन्य संस्थानों पर बैन शामिल था. इन प्रतिबंधों का असर ड्रोन पर ईरान के साथ रूस के सहयोग में शामिल कंपनियों पर भी पड़ा था. अमेरिका का ये कदम रूस को वैश्विक बाजार में अलग-थलग करने और आर्थिक रूप से कमजोर करने की दिशा में उठाया गया था.\n\nफरवरी 2022 में यूक्रेन पर मॉस्को के पूर्ण पैमाने पर आक्रमण की शुरुआत के कुछ दिनों बाद खुद रूसी राष्ट्रपति पुतिन पर अमेरिका, यूरोपीय यूनियन और ब्रिटेन ने प्रतिबंध लगा दिए. पुतिन की संपत्ति जब्त कर ली गई थी और कंपनियों को उन्हें सामान उपलब्ध कराने पर बैन लगा दिया गया था. उनकी बेटियों समेत उनके करीबी लोग भी प्रतिबंधों के दायरे में हैं. इंटरनेशल क्रिमिनल कोर्ट ने 2022 में पुतिन को युद्ध अपराधों के लिए जिम्मेदार ठहराते हुए उनके खिलाफ अरेस्ट वारंट जारी किया था. अमेरिका के इस रवैए के पीछे उसकी रूस के साथ पुरानी अदावत है.\n\nवहीं, दूसरी ओर ईरान भी अमेरिकी प्रतिबंधों की मार झेल रहा है. दोनों देशों के रिश्तों में बहुत तल्खी है. ईरान पिछले दिनों में ट्रिपल एच (हमास, हूती और हिजबुल्लाह) को लेकर सुर्खियों में था. इनको ईरान के सबसे प्रभावशाली चरमपंथी गुट बताए जाते हैं, जो दशकों से गाजा, लेबनान, यमन में सक्रिय हैं. इन तीनों चरमपंथी गुटों ने भी ईरानी राष्ट्रपति रईसी के निधन पर दुख जताया है.\n\nईरान अमेरिका और इजराइल के साथ-साथ दूसरे देशों के लिए चुनौती बनता जा रहा था. ईरान के इजरायल से तनाव और उसके विवादित परमाणु कार्यक्रम के चलते अमेरिका ने ईरान पर कई प्रतिबंध लगा दिए. फिर भी ईरान अमेरिकी के दवाब के आगे नहीं झुका और वह अपने रूख पर जस का तस रहा.\n\nरूस और ईरान दोनों ही अमेरिका के प्रतिबंधों की मार झेल रहे हैं. यही वजह रूस और ईरान के नजदीक आने की मालूम पड़ती है. ईरान पर यूक्रेन युद्ध पर रूस का समर्थन करने का आरोप लगता है. दावा है कि ईरान ने रूस को यूक्रेन युद्ध के लिए ड्रोन सप्लाई किए. यहां तक कि नए शिपिंग और रेल मार्गों के निर्माण में उसका सहयोग किया. एक मीडिया रिपोर्ट के अनुसार, अमेरिका का मानना है कि ईरान रूस से कुछ हथियार प्रणाली खरीदता है. बदले में ईरान ने यूक्रेन पर आक्रमण के दौरान रूस को अपनी ड्रोन टेक्नॉलोजी और अन्य सैन्य तकनीक से सहायता प्रदान की.\n\nरईसी के मौत से यूक्रेन युद्ध पर असर\n\nरूसी राष्ट्रपति पुतिन ने ईरानी राष्ट्रपति को 'रूस का सच्चा दोस्त' बताते हुए उनके आकस्मिक निधन पर शोक व्यक्त किया है. अगर बात करें तो रईसी की मौत का रूस के साथ ईरान के संबंधों और यूक्रेन युद्ध पर क्या असर पड़ेगा. निश्चत रूप से अगर किसी बड़े नेता की मृत्य होती है तो चीजें प्रभावित तो जरूरत होती हैं. हालांकि ऐसा रईसी के मामले में बहुत ज्यादा नहीं दिखता है, क्योंकि ईरान में राष्ट्रपति से ज्यादा वहां के सर्वोच्च नेता पावरफुल हैं.\n\nअभी ईरान के सर्वोच्च नेता अयातुल्ला अली खामेनेई हैं. वही ईरान के सभी बड़े फैसले लेते हैं. इब्राहिम रईसी के निधन के बाद उन्होंने मोहम्मद मोखबर को देश के अंतरिम राष्ट्रपति के रूप में जिम्मेदारी सौंपी है. मोखबर को भी खामेनेई का करीबी बताया जाता है. वह सालों से उनके लिए काम कर रहे हैं. ऐसे में मोहम्मद मोखबर कोई भी फैसला खामेनेई के इच्छा के खिलाफ नहीं लेंगे. एक तरह से वह इब्राहिम रईसी की विरासत को ही आगे बढ़ाएंगे. कहा जा सकता है कि रईसी के निधन का ईरान-रूस संबंधों और युक्रेन युद्ध पर कुछ भी असर नहीं पड़ेगा.",
+        "source": {
+            "uri": "newsnationtv.com",
+            "dataType": "news",
+            "title": "News Nation",
+            "location": null
+        },
+        "authors": [],
+        "image": "https://cdn.newsnationtv.com/images/2024/05/20/ebrahim-raisi-and-vladimir-putin-95.jpg",
+        "eventUri": "hin-362909",
+        "sentiment": null,
+        "wgt": 2,
+        "relevance": 2,
+        "QnA": [
+            {
+                "Question": "Does the article indicate that the cause of the helicopter crash could be bad weather:",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not indicate that the cause of the helicopter crash could be bad weather. It focuses on the political implications of Ebrahim Raisi's death and its potential impact on the Ukraine war and Iran-Russia relations.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Does the article indicate that the cause of the helicopter crash could be maintenance challenges due to sanctions:",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not indicate that the cause of the helicopter crash could be maintenance challenges due to sanctions. It primarily discusses the geopolitical implications of Ebrahim Raisi's death and the relationship between Iran and Russia, especially in the context of the Ukraine war.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Does the article talk about people mourn the death of Raisi",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "A) Yes",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Does the article talk about people express joy over the death of Raisi",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not mention people expressing joy over the death of Ebrahim Raisi. Instead, it focuses on the reactions of world leaders, particularly Russian President Vladimir Putin, who expressed sadness over Raisi's death and referred to him as a \"true friend\" of Russia. The article also discusses the potential impact of Raisi's death on the Ukraine war and the relationship between Iran and Russia.",
+                "post_LLM_answer": "B"
+            }
+        ]
+    },
+    {
+        "uri": "8137332837",
+        "lang": "hin",
+        "isDuplicate": false,
+        "date": "2024-05-20",
+        "time": "19:24:44",
+        "dateTime": "2024-05-20T19:24:44Z",
+        "dateTimePub": "2024-05-20T19:24:02Z",
+        "dataType": "news",
+        "sim": 0.4549019634723663,
+        "url": "https://www.livehindustan.com/international/story-ibrahim-raisi-death-revives-talk-of-mossad-free-run-in-iran-like-thriller-film-10039926.html",
+        "title": "फिल्मी अंदाज में हत्या और गुप्त ऑपरेशन, रईसी की मौत पर मोसाद के क्यों चर्चे",
+        "body": "ईरान के राष्ट्रपति इब्राहिम रायसी की मौत को लेकर साजिश भरे सिद्धांतों की इंटरनेट पर भरमार है। लोग इसे लेकर तरह-तरह की बातें कर रहे हैं जिससे आशंकाओं को बल मिल रहा है। रईसी और ईरानी विदेश मंत्री को लेकर जा रहा हेलीकॉप्टर रविवार को घने कोहरे के बीच पहाड़ी इलाके में दुर्घटनाग्रस्त हो गया। मालूम हो कि रईसी ईरान के सर्वोच्च नेता अयातुल्ला अली खामेनेई के शिष्य थे। वह ईरान-इराक युद्ध के अंत में 1988 में हजारों राजनीतिक कैदियों को सामूहिक फांसी दिए जाने में शामिल रहे। राष्ट्रपति रईसी के नेतृत्व में ईरान ने हथियार बनाने के आवश्यक स्तर तक यूरेनियम संवर्धन किया। साथ ही, इसने इजरायल पर बड़े पैमाने पर ड्रोन और मिसाइल हमले किए।\n\n2023 में इजरायल और हमास के बीच युद्ध शुरू हुआ। ईरान समर्थित मिलिशिया ने इजरायल को निशाना बनाया। तेहरान ने अप्रैल में इजरायल पर असाधारण हमला किया जिसमें सैकड़ों ड्रोन, क्रूज मिसाइल और बैलिस्टिक मिसाइल दागी गईं। हालांकि, इजरायल, अमेरिका और उसके सहयोगियों ने इनमें से अधिकतर मिसाइलों को मार गिराया था। ध्यान रहे कि ईरान ने हेलीकॉप्टर दुर्घटना में किसी भी तरह की गड़बड़ी का संकेत नहीं दिया है। इसके बावजूद, कुछ लोग इसके पीछे इजरायल का हाथ होने का आरोप लगा रहे हैं। ऐसी थ्योरी को हवा देने का काम इजरायली जासूसी एजेंसी मोसाद करती है जिसके पास ईरान के अंदर हमला करने की असाधारण क्षमता है।\n\nईरानी परमाणु वैज्ञानिक मोहसिन फखरीजादेह की हत्या\n\nईरान के भीतर अहम ठिकानों के साथ ही मशहूर हस्तियों पर कई बार हमले हो चुके हैं जिसके पीछे इजरायल का हाथ बताया जाता है। ऐसे ही, 2020 में एक ऑपरेशन के तहत ईरानी परमाणु वैज्ञानिक मोहसिन फखरीजादेह की हत्या कर दी गई थी। तेहरान ने इसे एक तरह का जटिल ऑपरेशन बताया था। ईरान की सर्वोच्च राष्ट्रीय सुरक्षा परिषद के सचिव रियर-एडमिरल अली शामखानी ने बताया, 'ऑपरेशन में इलेक्ट्रॉनिक उपकरणों का इस्तेमाल किया गया और घटनास्थल पर कोई भी मौजूद नहीं था।' पिछले साल इजरायल ने ईरान के भीतर एक और नाटकीय ऑपरेशन को अंजाम देने का दावा किया था। कई लोगों को इजरायल के इस दावे से हैरानी हुई कि उसने ईरानी धरती पर इस्लामिक रिवोल्यूशनरी गार्ड्स कॉर्प्स के एक सदस्य से पूछताछ की थी। इस तरह, इजरायल की खुफिया एजेंसी मोसाद में कई सफल ऑपरेशन्स को अंजाम दे चुकी है।",
+        "source": {
+            "uri": "livehindustan.com",
+            "dataType": "news",
+            "title": "Hindustan",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "New Delhi"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "India"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://images1.livehindustan.com/uploadimage/library/2024/05/21/16_9/16_9_1/iraq_iran_politics_accident_7_jpg_1716232561.jpg",
+        "eventUri": "hin-362909",
+        "sentiment": null,
+        "wgt": 2,
+        "relevance": 2,
+        "QnA": [
+            {
+                "Question": "Does the article indicate that the cause of the helicopter crash could be bad weather:",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "A) Yes",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Does the article indicate that the cause of the helicopter crash could be maintenance challenges due to sanctions:",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not indicate that the cause of the helicopter crash could be maintenance challenges due to sanctions. It discusses various conspiracy theories and speculations surrounding the crash, including potential involvement by Israel's Mossad, but does not mention maintenance challenges or sanctions as a possible cause.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Does the article talk about people mourn the death of Raisi",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Does the article talk about people express joy over the death of Raisi",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not mention people expressing joy over the death of Raisi. It discusses the conspiracy theories surrounding his death, the involvement of Mossad, and past incidents involving Israeli operations in Iran.",
+                "post_LLM_answer": "B"
+            }
+        ]
+    },
+    {
+        "uri": "8137319341",
+        "lang": "hin",
+        "isDuplicate": false,
+        "date": "2024-05-20",
+        "time": "19:11:29",
+        "dateTime": "2024-05-20T19:11:29Z",
+        "dateTimePub": "2024-05-20T19:10:59Z",
+        "dataType": "news",
+        "sim": 0.7176470756530762,
+        "url": "https://www.punjabkesari.com/world-news/iran-president-died-turkey-announced-one-day-mourning-in-the-country-on-the-death-of-iranian-president/",
+        "title": "Iran President Died: ईरानी राष्ट्रपति की मौत पर तुर्की ने देश में एक दिन के शोक की घोषणा की - Latest News In Hindi, Breaking News In Hindi, ताजा ख़बरें, Daily News In Hindi",
+        "body": "Iran President Died: ईरान के राष्ट्रपति इब्राहिम रईसी हेलीकॉप्टर दुर्घटना में मारे गए है। उनकी मौत से पूरे ईरान में शोक की लहर। इस हादसे में ईरान के विदेश मंत्री अमीराब्दुल्लाहियन सहित हेलिकॉप्टर में सवार सभी 9 लोगों की मृत्यु हो गई। ऐसे में उपराष्ट्रपति मोहम्मद मुखबेर को अंतरिम राष्ट्रपति बनाया गया है। ईरान के सर्वोच्च धार्मिक नेता आयतुल्लाह खामेनेई ने सोमवार को इसकी घोषणा की है। दुखद दुर्घटना को देखते हुए ईरान का पड़ोसी देश तुर्की के राष्ट्रपति रेसेप तैयब एर्दोगन ने एक दिन का शोक दिवस मनाने का ऐलान किया।। एर्दोगन ने एक टेलीविजन भाषण के दौरान कहा, हमरी कैबिनेट बैठक के दौरान, हमने ईरानी लोगों के गहरे दर्द को साझा करने के लिए अपने देश में एक दिन का शोक घोषित करने का फैसला किया है।\n\nईरान के राष्ट्रपति इब्राहिम रईसी के काफिले का हेलीकॉप्टर उस समय क्रैश हुआ जब रईसी रविवार को अजरबैजान में एक बांध का उद्घाटन करने पहुंचे थे। वहां से वापस आते समय घने कोहरे में पहाड़ी इलाके को पार करते समय हेलीकॉप्टर दुर्घटनाग्रस्त हो गया था। रईसी की हेलिकॉप्टर अजरबैजान की सीमा के करीब ईरान के वरजेघन शहर के पास क्रैश हुआ। भारी बारिश, कोहरे और तेज सर्दी के बीच रातभर सर्च ऑपरेशन चलाया गया था। सोमवार सुबह अजरबैजान की पहाड़ियों में हेलिकॉप्टर का मलबा मिला।\n\nहेलिकॉप्टर में सवार ईरान के राष्ट्रपति इब्राहिम रईसी, विदेश मंत्री होसैन, पूर्वी अजरबैजान प्रांत के गवर्नर मलिक रहमती, तबरीज के हमाम मोहम्मद अली अलेहाशेम सवार थे। वहीं हेलिकॉप्टर के पायलट और को-पायलट के साथ क्रू चीफ, हेड ऑफ सिक्योरिटी और बॉडीगार्ड भी इसमें मौजूद थे। हादसे में सभी की जान चली गई है।",
+        "source": {
+            "uri": "punjabkesari.com",
+            "dataType": "news",
+            "title": "Punjab Kesari",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "New Delhi"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "India"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://www.punjabkesari.com/wp-content/uploads/2024/05/iran-2.jpg",
+        "eventUri": "hin-362909",
+        "sentiment": null,
+        "wgt": 2,
+        "relevance": 2,
+        "QnA": [
+            {
+                "Question": "Does the article indicate that the cause of the helicopter crash could be bad weather:",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "A) Yes",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Does the article indicate that the cause of the helicopter crash could be maintenance challenges due to sanctions:",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not indicate that the cause of the helicopter crash could be maintenance challenges due to sanctions. It primarily describes the incident, the people involved, and the reactions from neighboring countries.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Does the article talk about people mourn the death of Raisi",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "A) Yes",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Does the article talk about people express joy over the death of Raisi",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No",
+                "post_LLM_answer": "B"
+            }
+        ]
+    },
+    {
+        "uri": "8137307110",
+        "lang": "hin",
+        "isDuplicate": false,
+        "date": "2024-05-20",
+        "time": "19:01:48",
+        "dateTime": "2024-05-20T19:01:48Z",
+        "dateTimePub": "2024-05-20T19:00:52Z",
+        "dataType": "news",
+        "sim": 0.6196078658103943,
+        "url": "https://www.jagran.com/world/middle-east-israel-clarification-on-iran-president-ebrahim-raisi-death-mohammad-ali-rajai-died-in-a-bomb-blast-russia-said-we-will-investigation-23721896.html",
+        "title": "Ebrahim Raisi Death: बम विस्फोट में हुई थी मोहम्मद अली रजई की मौत, इब्राहिम रईसी के निधन पर इजरायल की सफाई; रूस बोला- हम करेंगे जांच में सहयोग - Israel clarification On Iran President Ebrahim Raisi Death, Mohammad Ali Rajai died in a bomb blast, Russia said we will investigation",
+        "body": "प्रथम उपराष्ट्रपति मोहम्मद मोखबर को देश का कार्यवाहक राष्ट्रपति नियुक्त किया गया है। ईरान के सर्वोच्च नेता अयातुल्लाह अली खामेनेई ने देश में पांच दिन के राष्ट्रीय शोक की घोषणा की है। इब्राहिम रईसी का निधन ऐसे समय हुआ है जब इजरायल-हमास युद्ध से मध्यपूर्व अस्थिर बना हुआ है और खामेनेई के तहत काम करते हुए 63 वर्षीय रईसी ने पिछले महीने इजरायल पर अभूतपूर्व ड्रोन और मिसाइल हमला किया था।\n\nदुर्घटना का शिकार हुए हेलीकॉप्टर में राष्ट्रपति रईसी और 60 वर्षीय विदेश मंत्री अमीरअब्दुल्लाहियन के साथ पूर्वी अजरबैजान प्रांत के गवर्नर, अन्य अधिकारी और सुरक्षाकर्मी भी सवार थे। सोमवार तड़के ईरान की समाचार एजेंसी आइआरएनए ने एक फुटेज जारी किया जिसमें दुर्घटनास्थल दिखाया गया था। यह हरी-भरी पर्वत श्रृंखला की एक खड़ी ढलान पर था। ईरान की ओर से इस बात की पुष्टि करने के बाद कि हेलीकॉप्टर दुर्घटना में कोई भी जीवित नहीं बचा है, पड़ोसी देशों और ईरान के मित्र देशों की ओर से शोक संदेश आने शुरू हो गए।\n\nईरान की ओर से इस अमेरिका निर्मित बेल-212 हेलीकॉप्टर की दुर्घटना का कोई कारण नहीं बताया गया, वहीं इजरायल के एक अधिकारी ने इसमें उनके देश का हाथ होने से इनकार किया। रूस ने दुर्घटना की जांच में सहयोग करने की पेशकश की है। रईसी ईरान के ऐसे दूसरे राष्ट्रपति हैं जिनकी पद पर रहते हुए मौत हुई है, इससे पहले 1981 में मोहम्मद अली रजई की बम विस्फोट में मौत हुई थी।\n\nरईसी के परिवार में पत्नी और दो बेटियां हैं। ईरान के संविधान के मुताबिक, राष्ट्रपति का निधन होने पर सर्वोच्च नेता की स्वीकृति से प्रथम उपराष्ट्रपति सत्ता संभालते हैं। लिहाजा अब मोखबर ने कार्यवाहक राष्ट्रपति का कार्यभार संभाल लिया है और अब उन्हें 50 दिनों के भीतर नए राष्ट्रपति का चुनाव कराना होगा। मोखबर को भी खामेनेई का करीबी माना जाता है। उप विदेश मंत्री अली बाघेरी कानी को कार्यवाहक विदेश मंत्री नियुक्त किया गया है।\n\nरईसी को 85 वर्षीय सर्वोच्च नेता खामेनेई का उत्तराधिकारी भी माना जाता था, लेकिन रईसी की मौत के बाद अब खामेनेई के 55 वर्षीय पुत्र मोज्ताबा खामेनेई को उनके उत्तराधिकारी के तौर पर देखा जा रहा है। अजरबैजान के राष्ट्रपति इल्हाम अलीयेव ने रईसी के निधन पर गहरा शोक व्यक्त किया है, दुर्घटना के समय रईसी एक बांध का उद्घाटन कर वहीं से लौट रहे थे। तुर्की के राष्ट्रपति रेसप तैयप एर्दोगन ने भी शोक संवेदन व्यक्त की।\n\nरूसी राष्ट्रपति व्लादिमीर पुतिन एवं चीन के राष्ट्रपति शी चिनफिंग ने रईसी को अपने देशों का सच्चा मित्र बताया। सऊदी अरब, सीरिया, मिस्त्र, यूएई, कतर, जार्डन और इराक ने भी शोक संवेदना संदेश भेजे हैं। पाकिस्तान ने एक दिन के राष्ट्रीय शोक की घोषणा की है। पश्चिमी देशों से शोक संदेश कम रहे और ईयू व जापान ने शोक प्रकट किया। ईरान समर्थित आतंकी समूह हमास, हिजबुल्लाह और हाउती ने भी बयान जारी कर शोक संवेदना व्यक्त की और रईसी की सराहना की।",
+        "source": {
+            "uri": "jagran.com",
+            "dataType": "news",
+            "title": "दैनिक जागरण (Dainik Jagran)",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "India"
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://www.jagranimages.com/images/newimg/21052024/21_05_2024-iran_president_ebrahim_raisi_death_23721896.jpg",
+        "eventUri": "hin-362909",
+        "sentiment": null,
+        "wgt": 2,
+        "relevance": 2,
+        "QnA": [
+            {
+                "Question": "Does the article indicate that the cause of the helicopter crash could be bad weather:",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not indicate that bad weather could be the cause of the helicopter crash. It mentions that the cause of the crash has not been provided by Iran and includes a denial from an Israeli official regarding their involvement.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Does the article indicate that the cause of the helicopter crash could be maintenance challenges due to sanctions:",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not indicate that the cause of the helicopter crash could be maintenance challenges due to sanctions. It mentions that the cause of the crash has not been provided by Iran and includes statements from various countries and officials, but it does not discuss maintenance challenges or sanctions as a potential cause.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Does the article talk about people mourn the death of Raisi",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "A) Yes",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Does the article talk about people express joy over the death of Raisi",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not mention people expressing joy over the death of Ebrahim Raisi. Instead, it focuses on the reactions of various countries and leaders expressing condolences and offering support following his death.",
+                "post_LLM_answer": "B"
+            }
+        ]
+    },
+    {
+        "uri": "2024-05-362470032",
+        "lang": "hin",
+        "isDuplicate": false,
+        "date": "2024-05-20",
+        "time": "17:47:29",
+        "dateTime": "2024-05-20T17:47:29Z",
+        "dateTimePub": "2024-05-20T17:44:31Z",
+        "dataType": "news",
+        "sim": 0.686274528503418,
+        "url": "https://www.abplive.com/videos/news/ebrahim-raisi-news-15-minute-crash-period-raisi-s-death-7-questions-helicopter-crash-iran-2694727",
+        "title": "Ebrahim Raisi News: 15 मिनट का क्रैश'काल'.. रईसी की मौत..7 सवाल! | helicopter crash | Iran",
+        "body": "ईरान के राष्ट्रपति इब्राहिम रईसी की मौत हो गई है. पूर्वी अजरबैजान प्रांत के पहाड़ी इलाके में हुए हेलीकॉप्टर हादसे के दौरान उनके साथ विदेश मंत्री और सात अन्य लोगों के मारे जाने की भी पुष्टि हुई.सवाल बस एक था कि ये हादसा है या फिर कोई साजिश ? प्रधानमंत्री नरेंद्र मोदी ने इब्राहिम रईसी की मौत पर शोक जताते हुए कहा कि दुख की इस घड़ी में भारत ईरान के साथ है...\n\nईरान वापस आने के लिए तीन हेलिकॉप्टरों ने एक साथ उड़ान भरी थी.. फिर ऐसा क्या हुआ कि सिर्फ एक हेलिकॉप्टर रास्ते में लापता हो गया?..तीन हेलिकॉप्टरों में से सबसे अच्छे हेलिकॉप्टर में ईऱान के राष्ट्रपति इब्राहिम रईसी सवार थे... फिर खराब मौसम में रईसी के हेलिकॉप्टर से ही संपर्क क्यों टूटा?..आखिरी 15 मिनट के भीतर ऐसा क्या हुआ कि ईरान को अपने राष्ट्रपति तक पहुंचने के लिए 12 घंटे से ज्यादा का वक्त लग गया.",
+        "source": {
+            "uri": "abplive.com",
+            "dataType": "news",
+            "title": "hindi",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "India"
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/05/20/1cce64dbbe52a5da7474d11d4aec92391716226882639159_original.JPG?impolicy=abp_cdn&imwidth=640",
+        "eventUri": "hin-362909",
+        "sentiment": null,
+        "wgt": 2,
+        "relevance": 2,
+        "QnA": [
+            {
+                "Question": "Does the article indicate that the cause of the helicopter crash could be bad weather:",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "A) Yes",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Does the article indicate that the cause of the helicopter crash could be maintenance challenges due to sanctions:",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not indicate that the cause of the helicopter crash could be maintenance challenges due to sanctions. It raises questions about whether the crash was an accident or a conspiracy and mentions the circumstances of the crash, such as the weather and the fact that the helicopter lost contact.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Does the article talk about people mourn the death of Raisi",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not talk about people mourning the death of Ebrahim Raisi. It focuses on the details of the helicopter crash, the questions surrounding the incident, and the confirmation of the deaths, including that of Ebrahim Raisi. It also mentions Prime Minister Narendra Modi expressing condolences.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Does the article talk about people express joy over the death of Raisi",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not mention people expressing joy over the death of Ebrahim Raisi. It focuses on the details of the helicopter crash, the questions surrounding the incident, and the expressions of condolences, including those from Indian Prime Minister Narendra Modi.",
+                "post_LLM_answer": "B"
+            }
+        ]
+    },
+    {
+        "uri": "8137287531",
+        "lang": "hin",
+        "isDuplicate": false,
+        "date": "2024-05-20",
+        "time": "18:43:33",
+        "dateTime": "2024-05-20T18:43:33Z",
+        "dateTimePub": "2024-05-20T18:42:31Z",
+        "dataType": "news",
+        "sim": 0.3176470696926117,
+        "url": "https://www.livehindustan.com/videos/international/iran-president-ebrahim-raisi-death-1-10039380",
+        "title": "Iran President Ebrahim Raisi Death से Israil और हमास की जंग पर क्या असर पड़ेगा?|Deen Duniya",
+        "body": "अब ईरान में अचानक इतना बड़ा सानेहा पेश आ गया..सद्र इब्राहिम रहीसी की अचानक मौत ने मुल्क को हिला दिया है..न सिर्फ ईरान को बल्कि ईरान की हिमायत से चल रही जंग और इसके जंगजुओं को भी..अब हालात ये बन सकते हैं कि अंदरूनी राजनीति में ईरान का उलझना गाजा जंग में हमास के लिए बड़ा नुकसान साबित हो सकता है क्यों कि. इजराइल और अमेरिका को चुनौती देने वाली तंजीमों हमास हिजबुल्लाह और यमन में हूती को सीधे तौर पर ईरान की हिमायत मानी जाती...",
+        "source": {
+            "uri": "livehindustan.com",
+            "dataType": "news",
+            "title": "Hindustan",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "New Delhi"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "India"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://images1.livehindustan.com/uploadimage/library/2024/05/20/16_9/16_9_1/sddefault_1716229651.jpg",
+        "eventUri": "hin-362909",
+        "sentiment": null,
+        "wgt": 2,
+        "relevance": 2,
+        "QnA": [
+            {
+                "Question": "Does the article indicate that the cause of the helicopter crash could be bad weather:",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No\n\nThe article does not indicate that the cause of the helicopter crash could be bad weather. It focuses on the impact of Iran President Ebrahim Raisi's death on Iran and its supported groups in the context of the Israel-Hamas conflict.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Does the article indicate that the cause of the helicopter crash could be maintenance challenges due to sanctions:",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Does the article talk about people mourn the death of Raisi",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "A) Yes",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Does the article talk about people express joy over the death of Raisi",
+                "Answers": "A) Yes B) No",
+                "LLM_answer": "B) No",
+                "post_LLM_answer": "B"
+            }
+        ]
+    }
+]
