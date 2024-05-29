@@ -48,6 +48,12 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not mention people expressing joy over the death of Raisi. It focuses on the confirmation of the deaths of President Raisi and Foreign Minister Abdollahian in a helicopter accident, the subsequent national mourning, and the appointments of the acting president and acting foreign minister.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "In which tone does the article discuss the future of Iran after Raisi's death:",
+                "Answers": "A) Positive B) Neutral C) Negative D) Not applicable",
+                "LLM_answer": "B) Neutral\n\nThe article presents factual information about the future of Iran's leadership following the death of President Raisi and Foreign Minister Abdollahian. It provides details about the interim appointments of First Vice President Mokhber and Deputy Foreign Minister Bagheri, their backgrounds, and their relationships with Iran's Supreme Leader Khamenei. The tone is objective and informative, without expressing a positive or negative opinion.",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -100,6 +106,12 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not mention people expressing joy over the death of Raisi. It focuses on the technical details and possible causes of the helicopter crash involving the Iranian President, including the type of helicopter, potential mechanical issues, and the impact of adverse weather conditions.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "In which tone does the article discuss the future of Iran after Raisi's death:",
+                "Answers": "A) Positive B) Neutral C) Negative D) Not applicable",
+                "LLM_answer": "D) Not applicable\n\nThe article does not discuss the future of Iran after Raisi's death. Instead, it focuses on the details and potential causes of the helicopter crash involving the Iranian President, including technical aspects of the helicopter, weather conditions, and the impact of U.S. sanctions on maintenance and parts availability.",
+                "post_LLM_answer": "D"
             }
         ]
     },
@@ -152,6 +164,12 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "In which tone does the article discuss the future of Iran after Raisi's death:",
+                "Answers": "A) Positive B) Neutral C) Negative D) Not applicable",
+                "LLM_answer": "B) Neutral\n\nThe article discusses the future of Iran after Raisi's death in a neutral tone. It provides a factual account of the events, the implications for Iran's domestic and foreign policy, and the need for restraint from various international actors. The article does not express a positive or negative opinion but rather focuses on the potential challenges and necessary actions to maintain stability.",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -203,6 +221,12 @@
                 "Question": "Does the article talk about people express joy over the death of Raisi",
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not mention people expressing joy over the death of Raisi. Instead, it focuses on the global reactions of shock and condolences from various world leaders and organizations, as well as the potential political implications for Iran and the Middle East.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "In which tone does the article discuss the future of Iran after Raisi's death:",
+                "Answers": "A) Positive B) Neutral C) Negative D) Not applicable",
+                "LLM_answer": "B) Neutral\n\nThe article presents a factual and balanced account of the events following the death of Iranian President Raisi in a helicopter crash. It includes reactions from various international leaders, details about the incident, and expert opinions on the potential impact on Iran's political stability and international relations. The tone is objective, providing information without expressing a positive or negative bias.",
                 "post_LLM_answer": "B"
             }
         ]
@@ -262,6 +286,12 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not mention people expressing joy over the death of Raisi. Instead, it focuses on the global reactions of shock and condolences from various world leaders and organizations, as well as the potential political implications for Iran and the Middle East.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "In which tone does the article discuss the future of Iran after Raisi's death:",
+                "Answers": "A) Positive B) Neutral C) Negative D) Not applicable",
+                "LLM_answer": "B) Neutral\n\nThe article presents a factual and balanced account of the events following the death of Iranian President Raisi in a helicopter crash. It reports on the international reactions, the implications for Iran's political stability, and the ongoing investigations without expressing a strong positive or negative bias. The tone is primarily informative, focusing on the details of the incident, the responses from various global leaders, and the potential impact on Iran and the broader Middle East region.",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -319,6 +349,12 @@
                 "Question": "Does the article talk about people express joy over the death of Raisi",
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not mention people expressing joy over the death of Raisi. It provides information about the upcoming presidential election in Iran, the confirmation of the election date, and details about the helicopter accident that resulted in the death of President Raisi and other officials.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "In which tone does the article discuss the future of Iran after Raisi's death:",
+                "Answers": "A) Positive B) Neutral C) Negative D) Not applicable",
+                "LLM_answer": "B) Neutral\n\nThe article provides factual information about the upcoming presidential election in Iran following the death of President Raisi. It details the procedural steps being taken, the roles of various officials, and the constitutional provisions without expressing any subjective opinions or emotional tones.",
                 "post_LLM_answer": "B"
             }
         ]
@@ -378,6 +414,12 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "In which tone does the article discuss the future of Iran after Raisi's death:",
+                "Answers": "A) Positive B) Neutral C) Negative D) Not applicable",
+                "LLM_answer": "B) Neutral\n\nThe article presents factual information about the events following the death of Iranian President Raisi, including details about his funeral, the reactions from various political and militant groups, and the impact on national activities. The tone is objective and does not express any positive or negative sentiment.",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -436,6 +478,12 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not mention people expressing joy over the death of Raisi. Instead, it describes the tragic event and the sorrow it has caused among Iranians, including people praying and crying in the streets and the Iranian cabinet holding an emergency meeting with a black cloth draped over Raisi's seat.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "In which tone does the article discuss the future of Iran after Raisi's death:",
+                "Answers": "A) Positive B) Neutral C) Negative D) Not applicable",
+                "LLM_answer": "C) Negative\n\nThe article discusses the future of Iran after Raisi's death in a negative tone. It describes the situation as a \"historical tragedy\" for Iran and suggests that the country, already facing numerous challenges, will become even more \"悲情\" (sorrowful or tragic). The article also highlights the potential for increased instability and negative impacts on both domestic and international fronts.",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -494,6 +542,12 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "In which tone does the article discuss the future of Iran after Raisi's death:",
+                "Answers": "A) Positive B) Neutral C) Negative D) Not applicable",
+                "LLM_answer": "B) Neutral\n\nThe article provides factual information about the upcoming presidential election in Iran, the temporary assumption of presidential duties by the First Vice President, and the circumstances surrounding President Raisi's death. It does not express any particular positive or negative sentiment, but rather reports the events in a straightforward manner.",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -551,6 +605,12 @@
                 "Question": "Does the article talk about people express joy over the death of Raisi",
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "In which tone does the article discuss the future of Iran after Raisi's death:",
+                "Answers": "A) Positive B) Neutral C) Negative D) Not applicable",
+                "LLM_answer": "B) Neutral\n\nThe article presents factual information about the incident involving the death of Iranian President Ebrahim Raisi in a helicopter crash. It reports on the cause of the crash, the reactions from international figures such as Chinese President Xi Jinping, and the national mourning declared by Iran's Supreme Leader. The tone remains objective and does not express any positive or negative sentiment.",
                 "post_LLM_answer": "B"
             }
         ]

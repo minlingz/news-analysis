@@ -36,9 +36,9 @@
         "sentiment": null,
         "wgt": 2,
         "relevance": 2,
-        "Question": "Does the article talk about people express joy over the death of Raisi",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not mention people expressing joy over the death of Raisi. It focuses on the details of the helicopter crash, the subsequent death of President Ebrahim Raisi and other officials, the appointment of an interim president, and the announcement of new presidential elections in Iran."
+        "Question": "In which tone does the article discuss the future of Iran after Raisi's death:",
+        "Answers": "A) Positive B) Neutral C) Negative D) Not applicable",
+        "LLM_answer": "B) Neutral\n\nThe article provides factual information about the events following the death of Iran's President Ebrahim Raisi, including the announcement of new presidential elections, the interim appointment of the Vice President, and the investigation into the helicopter crash. The tone is objective and informative, without expressing any positive or negative sentiments."
     },
     {
         "uri": "8137538329",
@@ -71,9 +71,9 @@
         "sentiment": null,
         "wgt": 2,
         "relevance": 2,
-        "Question": "Does the article talk about people express joy over the death of Raisi",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not mention people expressing joy over the death of Ebrahim Raisi. It focuses on his political career, controversies, and the potential political implications of his death in Iran."
+        "Question": "In which tone does the article discuss the future of Iran after Raisi's death:",
+        "Answers": "A) Positive B) Neutral C) Negative D) Not applicable",
+        "LLM_answer": "The tone of the article discussing the future of Iran after Ebrahim Raisi's death is:\n\nC) Negative\n\nThe article highlights the controversies and harsh decisions associated with Raisi's tenure, his role in the 1988 mass executions, and his support for attacks on Israel. It also mentions the potential political turmoil in Iran following his death, indicating a sense of instability and uncertainty."
     },
     {
         "uri": "8137487002",
@@ -106,9 +106,9 @@
         "sentiment": null,
         "wgt": 2,
         "relevance": 2,
-        "Question": "Does the article talk about people express joy over the death of Raisi",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not mention people expressing joy over the death of Ebrahim Raisi. It focuses on the procedures and implications following the death of the Iranian president, including the election process, the role of the Supreme Leader, and the responsibilities of the Guardian Council."
+        "Question": "In which tone does the article discuss the future of Iran after Raisi's death:",
+        "Answers": "A) Positive B) Neutral C) Negative D) Not applicable",
+        "LLM_answer": "B) Neutral\n\nThe article provides factual information about the process of electing a new president in Iran following the death of President Ebrahim Raisi. It explains the constitutional procedures, the role of the Supreme Leader, the responsibilities of the Guardian Council, and the timeline for the upcoming election without expressing any particular positive or negative sentiment."
     },
     {
         "uri": "8137402277",
@@ -141,9 +141,9 @@
         "sentiment": null,
         "wgt": 2,
         "relevance": 2,
-        "Question": "Does the article talk about people express joy over the death of Raisi",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not mention people expressing joy over the death of Raisi. It focuses on the details of the helicopter crash, the investigation, and the upcoming presidential election in Iran."
+        "Question": "In which tone does the article discuss the future of Iran after Raisi's death:",
+        "Answers": "A) Positive B) Neutral C) Negative D) Not applicable",
+        "LLM_answer": "B) Neutral\n\nThe article presents factual information about the future of Iran after the death of President Ebrahim Raisi, including details about the upcoming presidential election, the investigation into the helicopter crash, and statements from various officials. The tone is neutral, as it does not express any positive or negative opinions or emotions regarding the events."
     },
     {
         "uri": "2024-05-362501466",
@@ -170,9 +170,9 @@
         "sentiment": null,
         "wgt": 2,
         "relevance": 2,
-        "Question": "Does the article talk about people express joy over the death of Raisi",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not mention people expressing joy over the death of Ebrahim Raisi. Instead, it focuses on the reactions of world leaders, particularly Russian President Vladimir Putin, who expressed sadness over Raisi's death and referred to him as a \"true friend\" of Russia. The article also discusses the potential impact of Raisi's death on the Ukraine war and the relationship between Iran and Russia."
+        "Question": "In which tone does the article discuss the future of Iran after Raisi's death:",
+        "Answers": "A) Positive B) Neutral C) Negative D) Not applicable",
+        "LLM_answer": "B) Neutral\n\nThe article discusses the future of Iran after the death of President Ebrahim Raisi in a neutral tone. It provides factual information about the incident, the reactions of global leaders, and the potential impact on Iran-Russia relations and the Ukraine war. The article does not express a positive or negative opinion but rather presents an analysis based on the current political context and the roles of other key figures in Iran, such as Supreme Leader Ayatollah Ali Khamenei."
     },
     {
         "uri": "8137332837",
@@ -211,9 +211,9 @@
         "sentiment": null,
         "wgt": 2,
         "relevance": 2,
-        "Question": "Does the article talk about people express joy over the death of Raisi",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not mention people expressing joy over the death of Raisi. It discusses the conspiracy theories surrounding his death, the involvement of Mossad, and past incidents involving Israeli operations in Iran."
+        "Question": "In which tone does the article discuss the future of Iran after Raisi's death:",
+        "Answers": "A) Positive B) Neutral C) Negative D) Not applicable",
+        "LLM_answer": "C) Negative\n\nThe article discusses the future of Iran after Raisi's death in a negative tone. It highlights conspiracy theories, suspicions, and past incidents of violence and espionage, particularly involving Israel and its intelligence agency, Mossad. The language used conveys a sense of tension, conflict, and uncertainty, contributing to a negative portrayal of the situation."
     },
     {
         "uri": "8137319341",
@@ -252,9 +252,9 @@
         "sentiment": null,
         "wgt": 2,
         "relevance": 2,
-        "Question": "Does the article talk about people express joy over the death of Raisi",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No"
+        "Question": "In which tone does the article discuss the future of Iran after Raisi's death:",
+        "Answers": "A) Positive B) Neutral C) Negative D) Not applicable",
+        "LLM_answer": "The tone of the article discussing the future of Iran after Raisi's death is:\n\nB) Neutral\n\nThe article provides factual information about the helicopter crash, the death of Iran's President Ebrahim Raisi and other officials, and the subsequent actions taken, such as the appointment of an interim president and the declaration of a day of mourning by Turkey. It does not express any positive or negative opinions about the future of Iran."
     },
     {
         "uri": "8137307110",
@@ -287,9 +287,9 @@
         "sentiment": null,
         "wgt": 2,
         "relevance": 2,
-        "Question": "Does the article talk about people express joy over the death of Raisi",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not mention people expressing joy over the death of Ebrahim Raisi. Instead, it focuses on the reactions of various countries and leaders expressing condolences and offering support following his death."
+        "Question": "In which tone does the article discuss the future of Iran after Raisi's death:",
+        "Answers": "A) Positive B) Neutral C) Negative D) Not applicable",
+        "LLM_answer": "B) Neutral\n\nThe article presents factual information about the death of Ebrahim Raisi, the subsequent political developments, and the international reactions without expressing a subjective opinion or emotional tone. It provides details on the incident, the appointment of the acting president, and the responses from various countries and leaders in a straightforward manner."
     },
     {
         "uri": "2024-05-362470032",
@@ -322,9 +322,9 @@
         "sentiment": null,
         "wgt": 2,
         "relevance": 2,
-        "Question": "Does the article talk about people express joy over the death of Raisi",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not mention people expressing joy over the death of Ebrahim Raisi. It focuses on the details of the helicopter crash, the questions surrounding the incident, and the expressions of condolences, including those from Indian Prime Minister Narendra Modi."
+        "Question": "In which tone does the article discuss the future of Iran after Raisi's death:",
+        "Answers": "A) Positive B) Neutral C) Negative D) Not applicable",
+        "LLM_answer": "C) Negative\n\nThe article discusses the death of Iran's President Ebrahim Raisi in a helicopter crash with a tone that raises questions about the nature of the incident, suggesting the possibility of a conspiracy. The use of phrases like \"साजिश\" (conspiracy) and the detailed questioning of the circumstances surrounding the crash contribute to a negative tone."
     },
     {
         "uri": "8137287531",
@@ -363,8 +363,8 @@
         "sentiment": null,
         "wgt": 2,
         "relevance": 2,
-        "Question": "Does the article talk about people express joy over the death of Raisi",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No"
+        "Question": "In which tone does the article discuss the future of Iran after Raisi's death:",
+        "Answers": "A) Positive B) Neutral C) Negative D) Not applicable",
+        "LLM_answer": "C) Negative"
     }
 ]
