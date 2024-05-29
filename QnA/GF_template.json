@@ -1,0 +1,17 @@
+[
+    {
+        "type": "Section",
+        "title": "Personal Information",
+        "description": "Please fill in your personal details"
+    },
+    {
+        "type": "Text",
+        "title": "What is your name?",
+        "description": ""
+    },
+    {
+        "type": "Text",
+        "title": "What is email address?",
+        "description": ""
+    }
+]
