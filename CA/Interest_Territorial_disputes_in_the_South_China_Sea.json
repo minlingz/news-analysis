@@ -32,10 +32,22 @@
         "relevance": 26,
         "QnA": [
             {
-                "Question": "How does the article describe China's response to the Philippines' actions in the South China Sea:",
-                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the Philippines  D) China will impose economic sanctions on the Philippines",
+                "Question": "How does the article describe China's response to the other country' actions in the South China Sea:",
+                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the other country  D) China will impose economic sanctions on the other country",
                 "LLM_answer": "A) China seeks dialogue to handle maritime conflicts",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "On what basis does the article favor the territorial claims in the South China Sea?:",
+                "Answers": "A) Historical Claims B) 2016 international ruling by the Permanent Court of Arbitration  C) Exclusive economic zone (EEZ) under UNCLOS  D) Continental Shelf",
+                "LLM_answer": "The article does not explicitly state the basis on which it favors the territorial claims in the South China Sea. However, given the context and the nature of the statements made by the leaders, the most relevant basis would likely be:\n\nC) Exclusive economic zone (EEZ) under UNCLOS\n\nThis is inferred from the criticism of China's \"assertive\" actions in the disputed South China Sea and the ongoing maritime conflicts, which are often framed within the context of international maritime law, particularly the United Nations Convention on the Law of the Sea (UNCLOS). The Philippines has previously won a case at the Permanent Court of Arbitration in 2016, which ruled in favor of the Philippines' EEZ claims over China's historical claims.",
+                "post_LLM_answer": "C"
+            },
+            {
+                "Question": "What approach does the article prefer for resolving the territorial disputes in the South China Sea:",
+                "Answers": "A) Bilateral negotiations B) Multilateral talks  C) International law  D) Economic cooperation and maintaining stability",
+                "LLM_answer": "The article suggests a preference for **B) Multilateral talks** as the approach for resolving the territorial disputes in the South China Sea. This is indicated by the emphasis on the importance of Southeast Asian countries participating in the Ukraine summit in Switzerland and the call for unity against the occupation of independent countries. Additionally, the article mentions the Shangri-La Dialogue, a multilateral defense summit where leaders discussed critical issues, including China's actions in the South China Sea.",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -78,10 +90,22 @@
         "relevance": 100,
         "QnA": [
             {
-                "Question": "How does the article describe China's response to the Philippines' actions in the South China Sea:",
-                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the Philippines  D) China will impose economic sanctions on the Philippines",
-                "LLM_answer": "A) China seeks dialogue to handle maritime conflicts\n\nThe article describes China's response to the Philippines' actions in the South China Sea as emphasizing the importance of dialogue and communication. Chinese Defense Minister Dong Jun criticized certain countries for violating agreements and stirring up trouble but also highlighted that China has shown restraint and hopes that countries will return to dialogue and cooperation. This indicates that China seeks dialogue to handle maritime conflicts.",
+                "Question": "How does the article describe China's response to the other country' actions in the South China Sea:",
+                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the other country  D) China will impose economic sanctions on the other country",
+                "LLM_answer": "A) China seeks dialogue to handle maritime conflicts\n\nThe article describes China's response to the actions of other countries in the South China Sea as emphasizing the importance of dialogue and communication. Chinese Defense Minister Dong Jun highlighted the need for increased communication between the Chinese and American militaries due to existing differences. He also expressed a desire for countries to return to dialogue and consultation to maintain regional stability and build the South China Sea into a sea of peace, friendship, and cooperation.",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "On what basis does the article favor the territorial claims in the South China Sea?:",
+                "Answers": "A) Historical Claims B) 2016 international ruling by the Permanent Court of Arbitration  C) Exclusive economic zone (EEZ) under UNCLOS  D) Continental Shelf",
+                "LLM_answer": "The article does not explicitly favor any specific basis for territorial claims in the South China Sea. Instead, it presents various perspectives and statements from different stakeholders involved in the region's disputes. However, if we were to infer the basis from the content provided, it seems that the article leans towards presenting China's perspective, which often emphasizes **A) Historical Claims**. This is evident from the statements made by Chinese officials and the emphasis on regional stability and cooperation under China's influence, as well as criticism of external interference.\n\nTherefore, the most appropriate choice from the options provided would be:\n\nA) Historical Claims",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What approach does the article prefer for resolving the territorial disputes in the South China Sea:",
+                "Answers": "A) Bilateral negotiations B) Multilateral talks  C) International law  D) Economic cooperation and maintaining stability",
+                "LLM_answer": "The article discusses various perspectives and statements from different countries regarding the South China Sea disputes, but it does not explicitly endorse a single approach for resolving these disputes. However, it does highlight the importance of dialogue and communication mechanisms between the involved parties. Given the emphasis on dialogue and the involvement of multiple countries in discussions, the preferred approach inferred from the article would be:\n\nB) Multilateral talks\n\nThis is because the article mentions the importance of regional cooperation and dialogue, as well as the involvement of multiple countries in the discussions at the Shangri-La Dialogue.",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -118,10 +142,22 @@
         "relevance": 100,
         "QnA": [
             {
-                "Question": "How does the article describe China's response to the Philippines' actions in the South China Sea:",
-                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the Philippines  D) China will impose economic sanctions on the Philippines",
-                "LLM_answer": "The article describes China's response to the Philippines' actions in the South China Sea as one of taking necessary measures to defend its sovereignty and security interests, particularly in light of what it perceives as repeated provocations by the Philippines. The article mentions that China has already implemented measures such as regular patrols and the authority to arrest illegal entrants in its claimed territories. It also highlights that China has shown restraint but warns that this restraint has limits and that China will take stronger actions if the situation escalates.\n\nGiven this context, the most accurate option is:\n\nB) China plans to increase military presence in the region",
+                "Question": "How does the article describe China's response to the other country' actions in the South China Sea:",
+                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the other country  D) China will impose economic sanctions on the other country",
+                "LLM_answer": "The article describes China's response to the Philippines' actions in the South China Sea as one of increased assertiveness and potential military measures. It emphasizes that China has shown restraint but warns that this restraint has limits. The article mentions that China has the right to arrest and detain individuals who illegally enter its claimed territories and suggests that China may take stronger actions if provoked further.\n\nGiven the context and the details provided, the most accurate option is:\n\nB) China plans to increase military presence in the region",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "On what basis does the article favor the territorial claims in the South China Sea?:",
+                "Answers": "A) Historical Claims B) 2016 international ruling by the Permanent Court of Arbitration  C) Exclusive economic zone (EEZ) under UNCLOS  D) Continental Shelf",
+                "LLM_answer": "The article favors the territorial claims in the South China Sea on the basis of **A) Historical Claims**. \n\nThe text repeatedly emphasizes that \"仁爱礁是中国固有领土\" (Ren'ai Reef is China's inherent territory) and asserts China's \"无可争辩的主权\" (indisputable sovereignty) over the area. This language aligns with historical claims rather than international rulings, EEZ under UNCLOS, or continental shelf arguments.",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What approach does the article prefer for resolving the territorial disputes in the South China Sea:",
+                "Answers": "A) Bilateral negotiations B) Multilateral talks  C) International law  D) Economic cooperation and maintaining stability",
+                "LLM_answer": "The article clearly emphasizes a strong stance from China regarding the territorial disputes in the South China Sea, particularly in response to actions by the Philippines. It highlights China's assertion of sovereignty, the potential for taking necessary measures to defend its interests, and the limited patience for what it perceives as provocations. Given this context, the preferred approach for resolving the territorial disputes, as inferred from the article, is not explicitly about negotiations or cooperation but rather about asserting and defending sovereignty.\n\nTherefore, the most fitting option from the given choices would be:\n\nC) International law\n\nThis is because the article underscores China's legal claims and the potential enforcement of its laws in the disputed areas, indicating a preference for a legalistic and assertive approach to uphold its territorial claims.",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -158,10 +194,22 @@
         "relevance": 75,
         "QnA": [
             {
-                "Question": "How does the article describe China's response to the Philippines' actions in the South China Sea:",
-                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the Philippines  D) China will impose economic sanctions on the Philippines",
-                "LLM_answer": "The article describes China's response to the Philippines' actions in the South China Sea as follows:\n\nB) China plans to increase military presence in the region\n\nThe article discusses how China has already deployed significant military resources in the South China Sea, including advanced naval vessels and aircraft. It also mentions potential actions such as high-speed interception and encirclement of Philippine vessels, indicating a readiness to escalate military measures if necessary.",
+                "Question": "How does the article describe China's response to the other country' actions in the South China Sea:",
+                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the other country  D) China will impose economic sanctions on the other country",
+                "LLM_answer": "The article describes China's response to the Philippines' actions in the South China Sea as follows:\n\nB) China plans to increase military presence in the region\n\nThe article mentions that China has already deployed significant military forces in the South China Sea, including advanced naval vessels and aircraft. It also discusses potential actions such as high-speed interception and encirclement of Philippine vessels, indicating a readiness to use military means to counter the Philippines' provocations.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "On what basis does the article favor the territorial claims in the South China Sea?:",
+                "Answers": "A) Historical Claims B) 2016 international ruling by the Permanent Court of Arbitration  C) Exclusive economic zone (EEZ) under UNCLOS  D) Continental Shelf",
+                "LLM_answer": "The article favors the territorial claims in the South China Sea on the basis of **A) Historical Claims**. \n\nThe narrative emphasizes that the Nansha Islands (Spratly Islands), including the Xianbin Reef (Second Thomas Shoal), are \"China's inherent territory,\" which aligns with China's historical claims over the region. The article criticizes the Philippines' actions and portrays them as provocations against China's sovereignty, suggesting that China's territorial claims are justified and should be defended.",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What approach does the article prefer for resolving the territorial disputes in the South China Sea:",
+                "Answers": "A) Bilateral negotiations B) Multilateral talks  C) International law  D) Economic cooperation and maintaining stability",
+                "LLM_answer": "The article does not explicitly prefer any of the options provided (A) Bilateral negotiations, (B) Multilateral talks, (C) International law, or (D) Economic cooperation and maintaining stability for resolving the territorial disputes in the South China Sea. Instead, it emphasizes a more assertive stance by China, suggesting that China should take strong military actions if necessary to counter the provocations by the Philippines. The article mentions that China has the right to defend its territory and suggests measures such as high-speed interception and encirclement of Philippine vessels. It also highlights the importance of China's military readiness and the potential consequences for the Philippines if they continue their provocative actions.",
+                "post_LLM_answer": "A"
             }
         ]
     },
@@ -198,9 +246,21 @@
         "relevance": 100,
         "QnA": [
             {
-                "Question": "How does the article describe China's response to the Philippines' actions in the South China Sea:",
-                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the Philippines  D) China will impose economic sanctions on the Philippines",
-                "LLM_answer": "The article describes China's response to the Philippines' actions in the South China Sea as follows:\n\nA) China seeks dialogue to handle maritime conflicts\n\nThe article states that China will \"continue to firmly safeguard its territorial sovereignty and maritime rights and interests, while always adhering to resolving maritime disputes through negotiation and consultation with directly involved parties based on respecting historical facts.\" This indicates that China is advocating for dialogue and negotiation to handle the conflicts.",
+                "Question": "How does the article describe China's response to the other country' actions in the South China Sea:",
+                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the other country  D) China will impose economic sanctions on the other country",
+                "LLM_answer": "The article describes China's response to the other country's actions in the South China Sea as follows:\n\nA) China seeks dialogue to handle maritime conflicts\n\nThe article mentions that China will \"continue坚定维护自身领土主权和海洋权益，同时始终坚持同直接有关当事国在尊重历史事实的基础上，通过谈判协商妥处涉海矛盾分歧\" which translates to \"continue to firmly safeguard its territorial sovereignty and maritime rights and interests, while always adhering to resolving maritime disputes through negotiation and consultation with directly involved parties based on respecting historical facts.\" This indicates that China seeks dialogue to handle maritime conflicts.",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "On what basis does the article favor the territorial claims in the South China Sea?:",
+                "Answers": "A) Historical Claims B) 2016 international ruling by the Permanent Court of Arbitration  C) Exclusive economic zone (EEZ) under UNCLOS  D) Continental Shelf",
+                "LLM_answer": "The article favors the territorial claims in the South China Sea on the basis of:\n\nA) Historical Claims\n\nThe spokesperson mentions that China's sovereignty over the South China Sea islands and related maritime areas has \"full historical and legal basis,\" which aligns with the historical claims option.",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What approach does the article prefer for resolving the territorial disputes in the South China Sea:",
+                "Answers": "A) Bilateral negotiations B) Multilateral talks  C) International law  D) Economic cooperation and maintaining stability",
+                "LLM_answer": "The article prefers the approach of **A) Bilateral negotiations** for resolving the territorial disputes in the South China Sea. This is evident from the statement that China \"坚持同直接有关当事国在尊重历史事实的基础上，通过谈判协商妥处涉海矛盾分歧,\" which translates to \"China always insists on resolving maritime disputes through negotiations and consultations with the directly involved parties based on respecting historical facts.\"",
                 "post_LLM_answer": "A"
             }
         ]
@@ -251,10 +311,22 @@
         "relevance": 26,
         "QnA": [
             {
-                "Question": "How does the article describe China's response to the Philippines' actions in the South China Sea:",
-                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the Philippines  D) China will impose economic sanctions on the Philippines",
+                "Question": "How does the article describe China's response to the other country' actions in the South China Sea:",
+                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the other country  D) China will impose economic sanctions on the other country",
                 "LLM_answer": "A) China seeks dialogue to handle maritime conflicts",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "On what basis does the article favor the territorial claims in the South China Sea?:",
+                "Answers": "A) Historical Claims B) 2016 international ruling by the Permanent Court of Arbitration  C) Exclusive economic zone (EEZ) under UNCLOS  D) Continental Shelf",
+                "LLM_answer": "The article does not explicitly favor any territorial claims in the South China Sea based on historical claims, the 2016 international ruling by the Permanent Court of Arbitration, the Exclusive Economic Zone (EEZ) under UNCLOS, or the Continental Shelf. Instead, it focuses on the diplomatic interactions and statements made by Ukrainian President Volodymyr Zelenskyy and Philippine President Ferdinand Marcos Jr., particularly their criticisms of China's actions in the region and their calls for unity against the occupation of independent countries.\n\nHowever, if we infer from the context of the article, the criticism of China's \"assertive\" actions in the South China Sea by President Marcos and the reference to the maritime dispute could be indirectly related to the 2016 international ruling by the Permanent Court of Arbitration and the EEZ under UNCLOS. The 2016 ruling invalidated China's extensive claims in the South China Sea, supporting the Philippines' position based on its EEZ under UNCLOS. Therefore, the most relevant options from the given choices would be:\n\nB) 2016 international ruling by the Permanent Court of Arbitration\nC) Exclusive economic zone (EEZ) under UNCLOS\n\nThese options align with the broader context of the Philippines' stance on the South China Sea dispute as mentioned in the article.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What approach does the article prefer for resolving the territorial disputes in the South China Sea:",
+                "Answers": "A) Bilateral negotiations B) Multilateral talks  C) International law  D) Economic cooperation and maintaining stability",
+                "LLM_answer": "The article does not explicitly state a preferred approach for resolving the territorial disputes in the South China Sea. However, it does highlight the importance of multilateral engagement and international cooperation. Ukrainian President Volodymyr Zelenskyy emphasizes the significance of Southeast Asian countries participating in the Ukraine summit in Switzerland, which suggests a preference for multilateral talks (Option B). Additionally, the article mentions that China seeks dialogue to handle maritime conflicts, which also aligns with a multilateral approach. Therefore, the most fitting option based on the context provided would be:\n\nB) Multilateral talks",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -297,10 +369,22 @@
         "relevance": 26,
         "QnA": [
             {
-                "Question": "How does the article describe China's response to the Philippines' actions in the South China Sea:",
-                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the Philippines  D) China will impose economic sanctions on the Philippines",
+                "Question": "How does the article describe China's response to the other country' actions in the South China Sea:",
+                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the other country  D) China will impose economic sanctions on the other country",
                 "LLM_answer": "A) China seeks dialogue to handle maritime conflicts",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "On what basis does the article favor the territorial claims in the South China Sea?:",
+                "Answers": "A) Historical Claims B) 2016 international ruling by the Permanent Court of Arbitration  C) Exclusive economic zone (EEZ) under UNCLOS  D) Continental Shelf",
+                "LLM_answer": "The article does not explicitly favor any specific basis for the territorial claims in the South China Sea. However, it does mention the Philippines' criticism of China's \"assertive\" actions in the disputed South China Sea and the ongoing maritime conflicts between the two nations. Given the context, the most relevant basis for the Philippines' territorial claims would likely be:\n\nC) Exclusive economic zone (EEZ) under UNCLOS\n\nThis is because the Philippines has historically relied on the United Nations Convention on the Law of the Sea (UNCLOS) to assert its rights in the South China Sea, particularly following the 2016 international ruling by the Permanent Court of Arbitration, which invalidated China's expansive claims in the region.",
+                "post_LLM_answer": "C"
+            },
+            {
+                "Question": "What approach does the article prefer for resolving the territorial disputes in the South China Sea:",
+                "Answers": "A) Bilateral negotiations B) Multilateral talks  C) International law  D) Economic cooperation and maintaining stability",
+                "LLM_answer": "The article does not explicitly state a preferred approach for resolving the territorial disputes in the South China Sea. However, it does highlight the importance of multilateral engagement and international cooperation, as evidenced by the discussions about the Ukraine summit in Switzerland and the emphasis on unity against occupation. Therefore, the most fitting option based on the context provided would be:\n\nB) Multilateral talks",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -343,10 +427,22 @@
         "relevance": 26,
         "QnA": [
             {
-                "Question": "How does the article describe China's response to the Philippines' actions in the South China Sea:",
-                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the Philippines  D) China will impose economic sanctions on the Philippines",
+                "Question": "How does the article describe China's response to the other country' actions in the South China Sea:",
+                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the other country  D) China will impose economic sanctions on the other country",
                 "LLM_answer": "A) China seeks dialogue to handle maritime conflicts",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "On what basis does the article favor the territorial claims in the South China Sea?:",
+                "Answers": "A) Historical Claims B) 2016 international ruling by the Permanent Court of Arbitration  C) Exclusive economic zone (EEZ) under UNCLOS  D) Continental Shelf",
+                "LLM_answer": "The article does not explicitly favor any specific basis for the territorial claims in the South China Sea. Instead, it reports on the critical statements made by Ukrainian President Volodymyr Zelenskyy and Philippine President Ferdinand Marcos Jr. regarding China's actions in the region. However, if we were to infer from the context and the nature of the criticisms, the most relevant basis among the options provided would likely be:\n\nB) 2016 international ruling by the Permanent Court of Arbitration\n\nThis ruling is often cited by the Philippines and other countries to challenge China's expansive claims in the South China Sea. The article mentions the Philippines' criticism of China's \"assertive\" actions, which aligns with the Philippines' reliance on the 2016 ruling to assert its own claims and rights in the disputed waters.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What approach does the article prefer for resolving the territorial disputes in the South China Sea:",
+                "Answers": "A) Bilateral negotiations B) Multilateral talks  C) International law  D) Economic cooperation and maintaining stability",
+                "LLM_answer": "The article does not explicitly state a preferred approach for resolving the territorial disputes in the South China Sea. However, it does highlight the importance of multilateral engagement and international cooperation, as evidenced by the discussions about the Ukraine summit in Switzerland and the emphasis on unity against occupation. Therefore, the most fitting option based on the context provided would be:\n\nB) Multilateral talks",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -389,10 +485,22 @@
         "relevance": 26,
         "QnA": [
             {
-                "Question": "How does the article describe China's response to the Philippines' actions in the South China Sea:",
-                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the Philippines  D) China will impose economic sanctions on the Philippines",
+                "Question": "How does the article describe China's response to the other country' actions in the South China Sea:",
+                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the other country  D) China will impose economic sanctions on the other country",
                 "LLM_answer": "A) China seeks dialogue to handle maritime conflicts",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "On what basis does the article favor the territorial claims in the South China Sea?:",
+                "Answers": "A) Historical Claims B) 2016 international ruling by the Permanent Court of Arbitration  C) Exclusive economic zone (EEZ) under UNCLOS  D) Continental Shelf",
+                "LLM_answer": "The article does not explicitly favor any specific basis for the territorial claims in the South China Sea. Instead, it reports on the critical statements made by Ukrainian President Volodymyr Zelenskyy and Philippine President Ferdinand Marcos Jr. regarding China's actions in the region. However, if we were to infer from the context and the nature of the criticisms, the most relevant basis among the options provided would likely be:\n\nB) 2016 international ruling by the Permanent Court of Arbitration\n\nThis is because the 2016 ruling by the Permanent Court of Arbitration in The Hague rejected China's expansive claims in the South China Sea and ruled in favor of the Philippines. The article mentions the Philippines' criticism of China's \"assertive\" actions in the disputed South China Sea, which aligns with the context of the 2016 ruling.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What approach does the article prefer for resolving the territorial disputes in the South China Sea:",
+                "Answers": "A) Bilateral negotiations B) Multilateral talks  C) International law  D) Economic cooperation and maintaining stability",
+                "LLM_answer": "The article does not explicitly state a preferred approach for resolving the territorial disputes in the South China Sea. However, it does highlight the importance of multilateral engagement and international cooperation, as evidenced by the discussions about the Ukraine summit in Switzerland and the emphasis on Southeast Asian countries' participation. Therefore, the most fitting option based on the context provided would be:\n\nB) Multilateral talks",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -435,10 +543,22 @@
         "relevance": 26,
         "QnA": [
             {
-                "Question": "How does the article describe China's response to the Philippines' actions in the South China Sea:",
-                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the Philippines  D) China will impose economic sanctions on the Philippines",
+                "Question": "How does the article describe China's response to the other country' actions in the South China Sea:",
+                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the other country  D) China will impose economic sanctions on the other country",
                 "LLM_answer": "A) China seeks dialogue to handle maritime conflicts",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "On what basis does the article favor the territorial claims in the South China Sea?:",
+                "Answers": "A) Historical Claims B) 2016 international ruling by the Permanent Court of Arbitration  C) Exclusive economic zone (EEZ) under UNCLOS  D) Continental Shelf",
+                "LLM_answer": "The article does not explicitly favor any territorial claims in the South China Sea based on historical claims, the 2016 international ruling by the Permanent Court of Arbitration, the Exclusive Economic Zone (EEZ) under UNCLOS, or the Continental Shelf. Instead, it focuses on the diplomatic interactions and statements made by Ukrainian President Volodymyr Zelenskyy and Philippine President Ferdinand Marcos Jr. regarding their criticisms of China's actions in the region and their broader geopolitical concerns.\n\nHowever, if we were to infer the basis of the Philippines' position from the context provided, it would most likely align with option B) 2016 international ruling by the Permanent Court of Arbitration. This ruling rejected China's extensive claims in the South China Sea and affirmed the Philippines' rights within its EEZ under UNCLOS. The article mentions Marcos' criticism of Beijing's \"assertive\" actions in the disputed South China Sea, which aligns with the Philippines' stance supported by the 2016 ruling.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What approach does the article prefer for resolving the territorial disputes in the South China Sea:",
+                "Answers": "A) Bilateral negotiations B) Multilateral talks  C) International law  D) Economic cooperation and maintaining stability",
+                "LLM_answer": "The article does not explicitly state a preferred approach for resolving the territorial disputes in the South China Sea. However, it does highlight the importance of multilateral engagement and international cooperation, as evidenced by the discussions about the Ukraine summit in Switzerland and the emphasis on Southeast Asian countries' participation. Therefore, the most fitting option based on the context provided would be:\n\nB) Multilateral talks",
+                "post_LLM_answer": "B"
             }
         ]
     }
