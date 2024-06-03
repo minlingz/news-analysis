@@ -1,0 +1,445 @@
+[
+    {
+        "uri": "8159515044",
+        "lang": "eng",
+        "isDuplicate": true,
+        "date": "2024-06-03",
+        "time": "14:30:03",
+        "dateTime": "2024-06-03T14:30:03Z",
+        "dateTimePub": "2024-06-03T14:28:45Z",
+        "dataType": "news",
+        "sim": 0.7607843279838562,
+        "url": "https://www.arcamax.com/currentnews/newsheadlines/s-3272440",
+        "title": "Zelenskyy, Marcos to boost ties after slamming China at summit",
+        "body": "Ukrainian President Volodymyr Zelenskyy met his Philippine counterpart, President Ferdinand Marcos Jr., in Manila on Monday, a day after the conclusion of a security summit where the two leaders delivered statements sharply critical of China.\n\nThe two leaders discussed a Ukraine summit which will be held in Switzerland June 15-16, and Zelenskyy underscored the importance for Southeast Asian countries to be represented there.\n\n\"I am pleased that the Philippines will participate in the summit,\" he said in a post on X. Marcos' communications office confirmed that the Philippines is joining the event, but is still finalizing details.\n\n\"We will continue to do all that we can to promote peace and to bring an end to the fighting and to come to a political resolution of your country,\" Marcos told Zelenskyy during their meeting, according to the Philippine president's communications office.\n\nThe Ukraine leader's visit to the Philippines followed his attendance at the Shangri-La Dialogue in Singapore on Sunday, where both he and Marcos delivered statements critical of China during the three-day annual defense summit.\n\nZelenskyy made an appeal to countries across the Asia-Pacific on Sunday to join the summit in Switzerland, which he accused China and Russia of trying to sabotage. He said Moscow is doing \"everything\" to disrupt the conference by using Chinese influence and its diplomats.\n\nMarcos, for his part, criticized Beijing's \"assertive\" actions in the disputed South China Sea in his speech Friday at the defense forum. The Chinese delegation responded by condemning the Southeast Asian nation's moves to deepen military alliance with the U.S., saying it threatened peace and stability in the region.\n\nChina said it will continue to safeguard its sovereignty and rights, according to a statement from the foreign ministry on Monday, adding that it seeks dialogue to handle maritime conflicts. Both China and the Philippines continued to trade fresh accusations about the conduct of their security forces in disputed waters.\n\nZelenskyy said in a separate interview with Philippine media that he sees a lot of similarities between Russia's invasion of Ukraine and Beijing's maritime dispute with Manila. \"If Russia will occupy us totally, we will see this war in other continents,\" he said, as he called for unity against the occupation of independent countries.\n\nZelenskyy and Marcos vowed to strengthen their diplomatic ties, with Kyiv planning to open an embassy in the Philippines later this year. The Ukrainian leader also asked Marcos to send Filipino mental health workers to help Ukrainian soldiers at the frontline of the crisis.",
+        "source": {
+            "uri": "arcamax.com",
+            "dataType": "news",
+            "title": "ArcaMax",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "United States"
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": null,
+        "eventUri": null,
+        "sentiment": -0.01960784313725494,
+        "wgt": 455121003,
+        "relevance": 26,
+        "QnA": [
+            {
+                "Question": "How does the article describe China's response to the Philippines' actions in the South China Sea:",
+                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the Philippines  D) China will impose economic sanctions on the Philippines",
+                "LLM_answer": "A) China seeks dialogue to handle maritime conflicts",
+                "post_LLM_answer": "A"
+            }
+        ]
+    },
+    {
+        "uri": "8159498802",
+        "lang": "zho",
+        "isDuplicate": false,
+        "date": "2024-06-03",
+        "time": "14:18:15",
+        "dateTime": "2024-06-03T14:18:15Z",
+        "dateTimePub": "2024-06-03T14:17:47Z",
+        "dataType": "news",
+        "sim": 0.7607843279838562,
+        "url": "https://www.bbc.com/zhongwen/simp/world-69087330",
+        "title": "香格里拉对话：俄乌、南海、两岸 三大焦点对准中国 - BBC News 中文",
+        "body": "5月31日到6月2日，香格里拉对话，一个包括亚太28国参加的国防安全对话会在新加坡举行，备受瞩目的两个大国的国防部长 -- -- 美国的奥斯汀和中国的董军面对面会晤。\n\n这是两国防长时隔一年半后的首次会晤。此前，奥斯汀曾经表达过与他对等的中国高级官员是中央军委副主席，而非国防部长。\n\n中美防长会晤后，分别发表主旨演讲。奥斯汀说，印太地区的国家如今在安全上有了新的融合，这会形成一个更强大、更有韧性、更有能力的伙伴关系网络。\n\n中方代表团则在一场记者会上表示，美国的印太战略真正目的是把一个个小圈子融合成亚太版的北约这个大圈子，从而维持以美国为主导的霸权地位。\n\n同时，菲律宾总统小马科斯、乌克兰总统泽连斯基都出席对话，台湾没有代表出席，但各方在南海问题、台湾问题、俄乌问题上言辞交锋，且都有涉及中国。\n\n不过中美双方也强调建立沟通机制的重要性。董军说，中美两军之间正因为有分歧更要多交流；奥斯汀说，他告诉董军，如果情况紧急致电，他会接听；同时希望董军也能如此。\n\n董军讲话中，台湾问题是重点。他表示，现在的问题是民进党当局大搞渐进式\"台独\"，顽固地推行去中国化，妄图割裂两岸的社会、历史、文化联系。\n\n董军还表示，外部干涉势力正在以切香肠的方式，不断地虚化掏空\"一个中国\"原则，炮制涉台法案，执意对台售武、非法进行官方往来，\"这实际上就是在助长'台独'，图谋以台制华，这些险恶用心，正在把台湾引向险境\"。\n\n\"谁胆敢把台湾从中国分裂出去，必将粉身碎骨、自取灭亡！\"\n\n对比去年香格里拉对话，时任中国国防部长李尚福的表述是，\"如果有人胆敢把台湾从中国分裂出去，中国军队不会有丝毫迟疑，不畏惧任何对手。\"\n\n对于董军的表述，台湾总统府发言人表示，中国在香格里拉对话曲解台湾政府的立场，甚至威胁动武，却长期透过政治施压，不允许台湾派代表在香格里拉对话表达意见，此举透露中国缺乏自信与台湾政府对话，其非理性的言论无法获得国际认同。\n\n过去一年，台湾经历大选，民进党打破政党轮替，其候选人赖清德当选，5月20日正式就职，3天后，中国突然进行围台军演。\n\n台湾国防部智库\"国防安全研究院\"钟志东博士此前向BBC中文表示，随着中国频繁使用灰色冲突的军事演习，其威摄效益正不断递减中，所以未来不排除北京采小规模军事攻击外岛目标，以加大其军事恫吓的力道。\n\n除台湾外，南海问题也是各方隔空交锋的重要话题。\n\n董军说，当前南中国海的局势总体稳定，这得益于地区国家的共同努力。\n\n话锋一转，他又表示，有个别国家在外部势力的煽动下，毁弃双边的约定，违背自身的承诺，有预谋地挑起事端，制造假象，误导视听，甚至不顾地区国家的整体利益，违反东盟宪章精神，配合外部势力在本地区部署中程导弹。\n\n董军批评，这严重破坏了地区的安全稳定，\"这样的做法，终将会引火烧身\"。\n\n董军所指的是，今年4月消息，美国陆军的\"堤丰武器系统\"（Typhon Weapons System）的中程能力陆基飞弹发射系统在菲律宾北部部署，这是这套新型陆基飞弹系统首次在\"第一岛链\"亮相，中程飞弹的射程可达两千公里以上，因此被认为可达中国东南沿海地带及敏感的南海及台湾海峡区域。\n\n董军继续称，中国对侵权挑衅行径保持了足够的克制，但这也是有限的，希望个别国家认清利害关系，回归对话协商的正道，同地区国家一道，把南中国海建设成和平、友谊、合作之海。\n\n菲律宾总统小马科斯则更为直接。在他的主旨演讲后的一场问答环节，一位代表提出了一个假设：中国的水炮杀死了一名菲律宾士兵。有人问他是否认为这是一条红线，是否会援引美菲条约。\n\n小马科斯回答，\"如果菲律宾人 -- -- 不仅是军人，甚至是菲律宾公民 -- -- 被蓄意行为杀害......我认为这非常非常接近我们定义的战争行为，因此我们会做出相应的反应。我相信，我们的条约伙伴也持同样的标准。\"\n\n他指出，菲律宾人在最近的冲突中受伤，但还没有人丧生。\"一旦到了那一步，我们肯定就越过了卢比孔河。那是一条红线吗？几乎可以肯定，那将是一条红线。\"\n\n小马科斯所说的条约伙伴是指美国。1951年，两国签订《美菲共同防御条约》规定美菲在太平洋海域若领土及军队、船舶或飞机受到武装攻击，两国将采取共同军事行动应对。\n\n在会场，中国军方发言人在接受BBC采访时说，\"如果只有一个人在意外或冲突中丧生，就会引发战争，那么我真的认为这是一个好战的国家。\"\n\n他还对小马科斯在演讲中批评中国宣示主权的举动提出异议，并指责菲律宾\"将责任转嫁给中国\"。\n\n美国防长奥斯汀也就此回应，他一方面说，《美菲共同防御条约》\"坚定如铁（ironclad），没有疑问，没有例外\"；另一方面称，不会揣测任何假设性情况，\"我们正在做的，以及我们会继续做的，是通过增加大国之间的对话，确保这样的事不会发生\"。\n\n路透社援引一位不愿透露姓名的美国官员说，董军的讲话几乎没有涉及新的内容，\"三年来，每年都有新的中国国防部长来到香格里拉。每年，他们的演讲都与解放军在该地区的胁迫活动的现实完全不符。今年也不例外。\"\n\n乌克兰总统泽连斯基的名字并未出现在事先公布的会议议程中，但他还是出人意料地在上周日出现在新加坡。\n\n泽连斯基演讲称，希望争取亚洲国家领导人参加全球和平峰会。\n\n全球和平峰会由乌克兰倡议，6月15日至16日在瑞士举行，泽连斯基称目前已经有106个国家和国际组织同意参加这一会议。\n\n董军在新加坡对俄乌问题着墨不多。他表示，中国不会向俄乌战争任何一方提供武器，会严格管控军民两用物资出口。\n\n\"在乌克兰危机上，中方始终以负责任的态度，致力于劝和促谈，不向冲突任何一方提供武器，严格管控军民两用物资物项的出口。\"\n\n他还说，\"我们绝不干递刀拱火的事，坚定地站在和平一边，站在对话一边。\"\n\n几周前，习近平在访问欧洲时表示，他支持召开由俄罗斯和乌克兰参与的国际和平会议，当时他似乎对瑞士将于6月16日组织的和平会议持冷淡态度。\n\n莫斯科方面并未获邀请参加该会议。此后中国外交部曾表示，会议应该得到俄罗斯和乌克兰的承认，并且平等参与。否则，会议难以在恢复和平方面发挥实质性作用。\n\n泽连斯基先批评俄罗斯对峰会的破坏 -- -- \"俄罗斯正试图通过威胁封锁农产品、化学产品和能源，向各国施压，使其不参加峰会，从而破坏峰会。\"\n\n在随后的记者会上，他也点名了中国 -- -- 俄罗斯正在利用\"中国在该地区的影响力\"和外交官，\"竭尽全力破坏和平峰会\"。\n\n\"像中国这样一个独立、强大的大国成为普京手中的工具，这是不幸的\"。",
+        "source": {
+            "uri": "bbc.com",
+            "dataType": "news",
+            "title": "BBC",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "London"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United Kingdom"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/E547/production/_133359685_69087330.jpg",
+        "eventUri": "zho-1627552",
+        "sentiment": null,
+        "wgt": 455120295,
+        "relevance": 100,
+        "QnA": [
+            {
+                "Question": "How does the article describe China's response to the Philippines' actions in the South China Sea:",
+                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the Philippines  D) China will impose economic sanctions on the Philippines",
+                "LLM_answer": "A) China seeks dialogue to handle maritime conflicts\n\nThe article describes China's response to the Philippines' actions in the South China Sea as emphasizing the importance of dialogue and communication. Chinese Defense Minister Dong Jun criticized certain countries for violating agreements and stirring up trouble but also highlighted that China has shown restraint and hopes that countries will return to dialogue and cooperation. This indicates that China seeks dialogue to handle maritime conflicts.",
+                "post_LLM_answer": "A"
+            }
+        ]
+    },
+    {
+        "uri": "8159489526",
+        "lang": "zho",
+        "isDuplicate": false,
+        "date": "2024-06-03",
+        "time": "14:13:23",
+        "dateTime": "2024-06-03T14:13:23Z",
+        "dateTimePub": "2024-06-03T14:12:10Z",
+        "dataType": "news",
+        "sim": 0.8117647171020508,
+        "url": "https://mil.sohu.com/a/783487731_121470457?scm=thor.279_13-101000-0_922.0-0.10095.a2_5X162X1532",
+        "title": "中美防长香会交锋，美方颜面扫地_中国海_菲律宾_中方",
+        "body": "菲律宾又来碰瓷，炒作南海议题，甚至持枪指向中国海警，面对菲律宾一而再再而三的挑衅，中方不再忍耐。\n\n菲军动枪，中国防长表态\n\n香会召开期间，中方公布现场视频，菲律宾非法\"坐滩\"在仁爱礁的军舰上的人员用手枪指向中国海警。\n\n据悉，当时，\"马德雷拉\"号舰上至少有两名菲军人员持枪在甲板上活动，并且在注意到中国海警的活动时，采取了用手和枪指向中国海警的动作，表现出明显的恐吓意图。\n\n仁爱礁是中国固有领土，在中国领土上，菲律宾枪指中国海警，既是挑衅，也是威胁。\n\n对此，中方重申了对仁爱礁及其附近海域拥有无可争辩的主权，并强调尽管保持克制，不过这种克制是有限度的。\n\n此外，在新加坡参会的中国防长董军得知后，就南海问题明确表示，中方当前对南海挑衅行为已经足够克制，希望个别国家认清利害、回归正道。但如果局势升级，中方将会采取必要措施捍卫自身的主权和安全利益。\n\n毫无疑问，这是中方给菲律宾的警告，也是在劝菲方不要肆意消耗中方的好意。\n\n自菲律宾总统小马科斯上任以来，中方对菲律宾的善意，被菲方认为是软弱，菲律宾不光自己在南海挑衅中方主权，还拉拢外部势力美国等介入南海问题。\n\n中国海警已经在黄岩岛实现常态化巡航，且根据中国海警的新规，中方海警可以逮捕非法入国境的外国人。\n\n这条措施显示是针对菲律宾，如果菲律宾敢派军人或渔民来中方海域，如黄岩岛和仁爱礁，那么中方有权对其进行逮捕，逮捕后，中方将依法对其审查，最长可关押60天的时间。\n\n中方这么做，无疑给菲律宾在南海的行动的立下了规矩，之后，菲律宾不管是自己闯南海还是拉拢域外势力闯南海，中国海警都有法可依，依法严办。\n\n而菲律宾在明知有该律令的情况下，依然枪指中国海警，中国海警不得不采取更强硬的措施。\n\n事发24小时后，中方发布清除仁爱礁垃圾的视频。\n\n我们都知道，菲律宾非法坐滩军舰在仁爱礁非法搁浅25年之久，对仁爱礁及其周围海洋生态环境造成了重大破坏。\n\n\"马德雷山号\"源自二战时期，由于长期\"坐滩\"，船体严重受损且无法移动，导致其对周边海洋环境造成了持续的污染。专家警告，该舰可能对海洋生物造成长期且不可逆的伤害，成为南海的一个\"污点\"。\n\n菲律宾国防部曾承认\"马德雷山号\"的状况正在迅速恶化，存在大洞，面临彻底解体的风险。如果舰船最终解体，菲律宾可能不得不从仁爱礁撤出驻军。\n\n此外，菲律宾军警将排泄物全部倾倒在潟湖内，并将定期焚烧后的垃圾排入海洋，中方看了，深感心痛。\n\n如今，中国海警着手清理垃圾，很有可能意味着菲律宾的坐滩军舰被中国海警拖走，届时，菲律宾便失去了在仁爱礁继续搁浅的理由。\n\n南海问题，中方仍希望菲律宾走上正路\n\n其实，仁爱礁的坐滩军舰早该被移除，中方拖到现在，是因为还对菲律宾抱有忍耐力。\n\n从去年八月份仁爱礁的事件开始，菲律宾的动作接连不断，时而是大规模舰队向黄岩岛进发，时而是对\"中国海警使用水炮、武力\"事件的夸大报道。\n\n碍于中菲是近邻的关系，中国却为菲律宾提供了回旋余地，耐心劝导，同时，中方对南海权益的主张，并非独有，而是共享。\n\n可以说，在南海问题上，中国对菲律宾已经是仁至义尽。\n\n拿中菲仁爱礁争端为例，中国若果断行动，有能力在仁爱礁对菲律宾封锁，让菲律宾生活必需品无法运送到\"马德雷山\"号上，如此一来，破船上的菲军将在不到一个月内因缺水缺粮而面临生命危机，届时他们无疑无力再对中国海警持枪威胁。\n\n倘若中国海警决定不再保持克制，完全可以采取直接撞击的办法，面对中国海警的大型坚固船只，菲律宾的破船根本承受不起一击。\n\n可以说，拿回被菲律宾侵占的南海区域，对解放军来说易如反掌。\n\n菲律宾如果还执迷不悟，在仁爱礁上和中方起冲突，别怪中方不再忍耐，历史终将证明，中国过去、未来都是南海真正的主人。返回搜狐，查看更多",
+        "source": {
+            "uri": "mil.sohu.com",
+            "dataType": "news",
+            "title": "搜狐",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "China"
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://q0.itc.cn/images01/20240603/72239ea805064b5eb50cf8f9b87fc272.png",
+        "eventUri": "zho-1628095",
+        "sentiment": null,
+        "wgt": 455120003,
+        "relevance": 100,
+        "QnA": [
+            {
+                "Question": "How does the article describe China's response to the Philippines' actions in the South China Sea:",
+                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the Philippines  D) China will impose economic sanctions on the Philippines",
+                "LLM_answer": "The article describes China's response to the Philippines' actions in the South China Sea as one of taking necessary measures to defend its sovereignty and security interests, particularly in light of what it perceives as repeated provocations by the Philippines. The article mentions that China has already implemented measures such as regular patrols and the authority to arrest illegal entrants in its claimed territories. It also highlights that China has shown restraint but warns that this restraint has limits and that China will take stronger actions if the situation escalates.\n\nGiven this context, the most accurate option is:\n\nB) China plans to increase military presence in the region",
+                "post_LLM_answer": "B"
+            }
+        ]
+    },
+    {
+        "uri": "8159489524",
+        "lang": "zho",
+        "isDuplicate": false,
+        "date": "2024-06-03",
+        "time": "14:13:07",
+        "dateTime": "2024-06-03T14:13:07Z",
+        "dateTimePub": "2024-06-03T14:12:10Z",
+        "dataType": "news",
+        "sim": 0.7764706015586853,
+        "url": "https://mil.sohu.com/a/783485527_121469653?scm=thor.279_13-101000-0_922.0-0.10095.a2_5X162X1532",
+        "title": "菲律宾两艘巡逻船滞留仙宾礁超40天，企图形成军事化\"坐滩\"_中国_南海_马科斯",
+        "body": "局势持续升级！短短几天时间内，菲律宾在南海四处\"点火\"，侵闯中国岛礁。而这似乎只是开始，马科斯政府还有更大的野心。\n\n前言：\n\n如今的菲律宾俨然已经成为了美国在南海的\"反华急先锋\"。在本次香格里拉对话会上，菲总统马科斯在演讲中8次提到美国，一再渲染美国的存在对东南亚地区的重要作用，话里话外都将其当做了应对中国的\"靠山\"。\n\n现在看来，菲律宾已经变成了美国地缘战略的\"托\"，无论是对于菲律宾自身，还是南海稳定来说都不是一件好事。\n\n1.炒作中国填海造陆后，菲律宾獠牙露出来了\n\n前段时间，菲律宾海岸警卫队炒作中国在仙宾礁填海造陆。中国外交部发言人直接回怼，菲方的指责纯属造谣。\n\n事实上，这种无中生有的戏码上演了太多次，抹黑中国，误导国际社会只是最表面的原因。如今一则消息的曝光可谓是揭开了马科斯政府的险恶用心。\n\n据环球时报报道，菲律宾以中国\"填海造陆\"为借口，派遣巡逻船在仙宾礁潟湖内停留了超过40天之久，实际上是想借此形成对仙宾礁的军事化\"坐滩\"。\n\n这两艘菲律宾巡逻船长时间维持不动的场景，不由得让人想到了仁爱礁上非法坐滩的军舰。菲律宾现在显然是打算故技重施，在仙宾礁复刻与仁爱礁相同的场景。\n\n值得一提的是，这两艘巡逻船具备完整的通讯、侦察和直升机起降等能力，马科斯政府显然是想将其当成军事前哨，在必要时刻与中国海警\"硬碰硬\"。\n\n中国没有采取行动，反而是菲律宾以此为借口妄图控制仙宾礁，实现南海军事化。是可忍孰不可忍，包括仙宾礁在内的南沙群岛是中国的固有领土，菲律宾的举动显然触及了中方底线，接下来势必将遭到中方的强力回击。\n\n有分析称，仙宾礁的斗争已经发生质变，原本只是中国海警拦截菲船只，现在菲律宾的举动进一步升级，双方爆发冲突的可能性越来越大，南海局势或将出现新的升级。\n\n2.菲律宾举动愈发嚣张，南海出现危险一幕\n\n菲律宾的挑衅行动愈发激烈，想尽办法逼中国先动手，这样一来美国就有了插手的借口。\n\n除了菲律宾巡逻船长时间滞留在仙宾礁周围，仁爱礁非法滞留在\"马德雷山\"号上的菲军人更是直接将枪对准了中国海警。\n\n可以说，这是一个性质非常严重的动作，表明菲律宾军人很有可能对中国海警开火，即便中方舰艇的实力更强悍，但也不能掉以轻心。从种种迹象来看，菲律宾的挑衅行动正不断升级，甚至可以说是不计后果。\n\n菲律宾敢这么嚣张，自然是因为他们认为背后有美国撑腰，但不少明白人早就看到了菲律宾过度依赖美国潜藏的危机。菲律宾学者曾多次提醒称，马科斯政府的南海政策与其他东南亚国家出现了明显的不同，没有人愿意和菲律宾一样为美国冲锋陷阵，这也就导致了一个尴尬的局面，菲律宾在东盟国家中被孤立了。\n\n（CGTN公布视频展示菲方士兵用枪威胁我海警人员）\n\n除了菲律宾，其他东盟国家都很清楚，国家利益才是摆在第一位的，与中国的关系恶化并没有什么好处，美国画的大饼也不知道什么时候才能兑现，美国一旦插手南海问题，整个地区将永无宁日。\n\n如果有一天中国真的选择用军事手段解决南海问题，菲律宾将为此付出沉重的代价，远远不是马科斯能承担得起的，中方不止一次警告过菲律宾\"莫要逞强\"，但马科斯政府显然没有听进去。\n\n3.中国有必要先下手为强，两招粉碎菲企图\n\n现在的中国早已经不是以前的中国了，事关领土问题解放军更是不会后退一步。目前，解放军已经在南海布置了充足的军事力量，包括055万吨大驱、歼-11等军机，以及各种其他船舶。\n\n前段时间，有消息称，解放军出动无人机在多个方向对菲律宾进行了战略侦查。与此同时，中国也在不断搜集菲律宾破坏南海环境，威胁中方安全的种种证据。\n\n中国一直奉行先礼后兵，如果菲律宾一意孤行，解放军有的是手段，毕竟理在我们一方，无论采取什么行动，都是\"师出有名\"。\n\n菲律宾在南海\"耍赖皮\"，目的是为了得到美国更多的支持。军事专家分析称，中国可以采取两种方式应对。\n\n首先是高速拦截，菲律宾在仙宾礁潟湖内停留，一举一动都在中国海警和解放军的监视中，如果这些船只有再进一步的举动，中国舰艇可能会通过高速航行截断航线，建立\"铜墙铁壁\"，防止意外情况发生。\n\n其次是进行围困。如果局势进一步恶化，不排除中国海警采取\"强拖\"，或者强势驱离的方式。毕竟南沙群岛是中国的领土，在自己的领土内干什么都是合情合理的。有消息称，目前仙宾礁附近的中国船只越来越多，已经有几十艘船只现身，从数量来看，中方已占据绝对性的优势，包围菲律宾船只不是什么问题。\n\n接下来的局势如何发展，取决于菲律宾做出怎样的选择，虽然中方坚持通过平等协商解决分歧，但对于一味挑衅的行为绝不姑息。返回搜狐，查看更多",
+        "source": {
+            "uri": "mil.sohu.com",
+            "dataType": "news",
+            "title": "搜狐",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "China"
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://q9.itc.cn/images01/20240603/42c6024c3adc4444aa3292a23652c568.png",
+        "eventUri": "zho-1628095",
+        "sentiment": null,
+        "wgt": 455119987,
+        "relevance": 75,
+        "QnA": [
+            {
+                "Question": "How does the article describe China's response to the Philippines' actions in the South China Sea:",
+                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the Philippines  D) China will impose economic sanctions on the Philippines",
+                "LLM_answer": "The article describes China's response to the Philippines' actions in the South China Sea as follows:\n\nB) China plans to increase military presence in the region\n\nThe article discusses how China has already deployed significant military resources in the South China Sea, including advanced naval vessels and aircraft. It also mentions potential actions such as high-speed interception and encirclement of Philippine vessels, indicating a readiness to escalate military measures if necessary.",
+                "post_LLM_answer": "B"
+            }
+        ]
+    },
+    {
+        "uri": "8159455490",
+        "lang": "zho",
+        "isDuplicate": false,
+        "date": "2024-06-03",
+        "time": "13:52:06",
+        "dateTime": "2024-06-03T13:52:06Z",
+        "dateTimePub": "2024-06-03T13:50:47Z",
+        "dataType": "news",
+        "sim": 0.5960784554481506,
+        "url": "https://www.chinanews.com.cn/gj/2024/06-03/10228114.shtml",
+        "title": "中国驻韩使馆：敦促韩方在台湾、南海问题上谨言慎行",
+        "body": "中新社首尔6月3日电 (记者 刘旭)中国驻韩国大使馆发言人3日表示，5月31日和6月2日，韩国与美日分别举行副外长磋商和防长会晤，就台湾问题和南海问题接连发表错误言论，粗暴干涉中国内政，恶意抹黑攻击中国。中方对此表示强烈不满和坚决反对，已向韩方提出严正交涉。\n\n发言人表示，台湾是中国领土不可分割的一部分，台湾问题纯属中国内政，绝不允许任何外部势力干涉。一个中国原则是维护台海和平的定海神针，也是中国同所有国家建交和发展关系的前提和基础。\"台独\"与台海和平水火不容。口口声声称维护台海和平，却不提坚持一个中国原则和反对\"台独\"，实质是对\"台独\"分裂势力的纵容，其结果只会对台海和平稳定造成严重冲击。任何人都不要低估中国人民捍卫国家主权和领土完整的坚强决心，不要妄想在台湾问题上踩线而不用付出代价。\n\n发言人称，中国对南海诸岛拥有无可争辩的主权，对相关海域拥有主权权利和管辖权。这具有充分的历史和法理依据，符合有关国际法和国际实践。当前，在中国和东盟国家共同努力下，南海局势保持总体稳定。近期中国和菲律宾南海问题升温，其责任完全在于菲方出尔反尔、背信弃义，伙同外部势力蓄意制造事端。中方将继续坚定维护自身领土主权和海洋权益，同时始终坚持同直接有关当事国在尊重历史事实的基础上，通过谈判协商妥处涉海矛盾分歧。韩国和美日都不是南海问题当事方，不应介入中国同域内国家之间的涉海问题，更不应对中方指手画脚。\n\n发言人表示，韩方不顾中方坚决反对，反复伙同美日就台湾、南海问题说三道四，这与中韩战略合作伙伴关系精神不相符合，不利于中韩关系发展。我们敦促韩方在台湾、南海问题上谨言慎行，以实际行动维护中韩关系大局。(完)",
+        "source": {
+            "uri": "chinanews.com.cn",
+            "dataType": "news",
+            "title": "chinanews.com.cn",
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "United States"
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": null,
+        "eventUri": "zho-1628108",
+        "sentiment": null,
+        "wgt": 455118726,
+        "relevance": 100,
+        "QnA": [
+            {
+                "Question": "How does the article describe China's response to the Philippines' actions in the South China Sea:",
+                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the Philippines  D) China will impose economic sanctions on the Philippines",
+                "LLM_answer": "The article describes China's response to the Philippines' actions in the South China Sea as follows:\n\nA) China seeks dialogue to handle maritime conflicts\n\nThe article states that China will \"continue to firmly safeguard its territorial sovereignty and maritime rights and interests, while always adhering to resolving maritime disputes through negotiation and consultation with directly involved parties based on respecting historical facts.\" This indicates that China is advocating for dialogue and negotiation to handle the conflicts.",
+                "post_LLM_answer": "A"
+            }
+        ]
+    },
+    {
+        "uri": "8159449719",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-06-03",
+        "time": "13:48:20",
+        "dateTime": "2024-06-03T13:48:20Z",
+        "dateTimePub": "2024-06-03T13:46:47Z",
+        "dataType": "news",
+        "sim": 0.729411780834198,
+        "url": "https://gazette.com/ap/international/zelenskyy-marcos-to-boost-ties-after-slamming-china-at-summit/article_fc8532db-5def-5611-9185-e1814eee351d.html",
+        "title": "Zelenskyy, Marcos to boost ties after slamming China at summit",
+        "body": "Ukrainian President Volodymyr Zelenskyy met his Philippine counterpart, President Ferdinand Marcos Jr., in Manila on Monday, a day after the conclusion of a security summit where the two leaders delivered statements sharply critical of China.\n\nThe two leaders discussed a Ukraine summit which will be held in Switzerland June 15-16, and Zelenskyy underscored the importance for Southeast Asian countries to be represented there.\n\n\"I am pleased that the Philippines will participate in the summit,\" he said in a post on X. Marcos' communications office confirmed that the Philippines is joining the event, but is still finalizing details.\n\n\"We will continue to do all that we can to promote peace and to bring an end to the fighting and to come to a political resolution of your country,\" Marcos told Zelenskyy during their meeting, according to the Philippine president's communications office.\n\nThe Ukraine leader's visit to the Philippines followed his attendance at the Shangri-La Dialogue in Singapore on Sunday, where both he and Marcos delivered statements critical of China during the three-day annual defense summit.\n\nZelenskyy made an appeal to countries across the Asia-Pacific on Sunday to join the summit in Switzerland, which he accused China and Russia of trying to sabotage. He said Moscow is doing \"everything\" to disrupt the conference by using Chinese influence and its diplomats.\n\nMarcos, for his part, criticized Beijing's \"assertive\" actions in the disputed South China Sea in his speech Friday at the defense forum. The Chinese delegation responded by condemning the Southeast Asian nation's moves to deepen military alliance with the U.S., saying it threatened peace and stability in the region.\n\nFeatured Local Savings\n\nChina said it will continue to safeguard its sovereignty and rights, according to a statement from the foreign ministry on Monday, adding that it seeks dialogue to handle maritime conflicts. Both China and the Philippines continued to trade fresh accusations about the conduct of their security forces in disputed waters.\n\nZelenskyy said in a separate interview with Philippine media that he sees a lot of similarities between Russia's invasion of Ukraine and Beijing's maritime dispute with Manila. \"If Russia will occupy us totally, we will see this war in other continents,\" he said, as he called for unity against the occupation of independent countries.\n\nZelenskyy and Marcos vowed to strengthen their diplomatic ties, with Kyiv planning to open an embassy in the Philippines later this year. The Ukrainian leader also asked Marcos to send Filipino mental health workers to help Ukrainian soldiers at the frontline of the crisis.\n\n-------\n\n(With assistance from Clarissa Batino.)\n\n©2024 Bloomberg L.P. Visit bloomberg.com. Distributed by Tribune Content Agency, LLC.",
+        "source": {
+            "uri": "gazette.com",
+            "dataType": "news",
+            "title": "Colorado Springs Gazette",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Colorado Springs, Colorado"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [
+            {
+                "uri": "cliff_venzon@gazette.com",
+                "name": "Cliff Venzon",
+                "type": "author",
+                "isAgency": false
+            }
+        ],
+        "image": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/custom/image/3f755dae-418c-11e8-a244-53852639d709.png?crop=235%2C235%2C1%2C0&resize=200%2C200&order=crop%2Cresize",
+        "eventUri": "eng-9619331",
+        "sentiment": -0.01960784313725494,
+        "wgt": 455118500,
+        "relevance": 26,
+        "QnA": [
+            {
+                "Question": "How does the article describe China's response to the Philippines' actions in the South China Sea:",
+                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the Philippines  D) China will impose economic sanctions on the Philippines",
+                "LLM_answer": "A) China seeks dialogue to handle maritime conflicts",
+                "post_LLM_answer": "A"
+            }
+        ]
+    },
+    {
+        "uri": "2024-06-377263163",
+        "lang": "eng",
+        "isDuplicate": true,
+        "date": "2024-06-03",
+        "time": "13:43:45",
+        "dateTime": "2024-06-03T13:43:45Z",
+        "dateTimePub": "2024-06-03T13:39:06Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://www.heraldonline.com/news/nation-world/world/article288961265.html",
+        "title": "Zelenskyy, Marcos to boost ties after slamming China at summit",
+        "body": "By Cliff Venzon and Andreo Calonzo, Bloomberg News The Tribune Content Agency\n\nUkrainian President Volodymyr Zelenskyy met his Philippine counterpart, President Ferdinand Marcos Jr., in Manila on Monday, a day after the conclusion of a security summit where the two leaders delivered statements sharply critical of China.\n\nThe two leaders discussed a Ukraine summit which will be held in Switzerland June 15-16, and Zelenskyy underscored the importance for Southeast Asian countries to be represented there.\n\n\"I am pleased that the Philippines will participate in the summit,\" he said in a post on X. Marcos' communications office confirmed that the Philippines is joining the event, but is still finalizing details.\n\n\"We will continue to do all that we can to promote peace and to bring an end to the fighting and to come to a political resolution of your country,\" Marcos told Zelenskyy during their meeting, according to the Philippine president's communications office.\n\nThe Ukraine leader's visit to the Philippines followed his attendance at the Shangri-La Dialogue in Singapore on Sunday, where both he and Marcos delivered statements critical of China during the three-day annual defense summit.\n\nZelenskyy made an appeal to countries across the Asia-Pacific on Sunday to join the summit in Switzerland, which he accused China and Russia of trying to sabotage. He said Moscow is doing \"everything\" to disrupt the conference by using Chinese influence and its diplomats.\n\nMarcos, for his part, criticized Beijing's \"assertive\" actions in the disputed South China Sea in his speech Friday at the defense forum. The Chinese delegation responded by condemning the Southeast Asian nation's moves to deepen military alliance with the U.S., saying it threatened peace and stability in the region.\n\nChina said it will continue to safeguard its sovereignty and rights, according to a statement from the foreign ministry on Monday, adding that it seeks dialogue to handle maritime conflicts. Both China and the Philippines continued to trade fresh accusations about the conduct of their security forces in disputed waters.\n\nZelenskyy said in a separate interview with Philippine media that he sees a lot of similarities between Russia's invasion of Ukraine and Beijing's maritime dispute with Manila. \"If Russia will occupy us totally, we will see this war in other continents,\" he said, as he called for unity against the occupation of independent countries.\n\nZelenskyy and Marcos vowed to strengthen their diplomatic ties, with Kyiv planning to open an embassy in the Philippines later this year. The Ukrainian leader also asked Marcos to send Filipino mental health workers to help Ukrainian soldiers at the frontline of the crisis.",
+        "source": {
+            "uri": "heraldonline.com",
+            "dataType": "news",
+            "title": "The Herald",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Rock Hill, South Carolina"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://www.heraldonline.com/wps/build/images/heraldonline/facebook.jpg",
+        "eventUri": null,
+        "sentiment": 0.2627450980392156,
+        "wgt": 455118225,
+        "relevance": 26,
+        "QnA": [
+            {
+                "Question": "How does the article describe China's response to the Philippines' actions in the South China Sea:",
+                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the Philippines  D) China will impose economic sanctions on the Philippines",
+                "LLM_answer": "A) China seeks dialogue to handle maritime conflicts",
+                "post_LLM_answer": "A"
+            }
+        ]
+    },
+    {
+        "uri": "2024-06-377262281",
+        "lang": "eng",
+        "isDuplicate": true,
+        "date": "2024-06-03",
+        "time": "13:43:03",
+        "dateTime": "2024-06-03T13:43:03Z",
+        "dateTimePub": "2024-06-03T13:39:06Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://www.fresnobee.com/news/nation-world/world/article288961265.html",
+        "title": "Zelenskyy, Marcos to boost ties after slamming China at summit",
+        "body": "By Cliff Venzon and Andreo Calonzo, Bloomberg News The Tribune Content Agency\n\nUkrainian President Volodymyr Zelenskyy met his Philippine counterpart, President Ferdinand Marcos Jr., in Manila on Monday, a day after the conclusion of a security summit where the two leaders delivered statements sharply critical of China.\n\nThe two leaders discussed a Ukraine summit which will be held in Switzerland June 15-16, and Zelenskyy underscored the importance for Southeast Asian countries to be represented there.\n\n\"I am pleased that the Philippines will participate in the summit,\" he said in a post on X. Marcos' communications office confirmed that the Philippines is joining the event, but is still finalizing details.\n\n\"We will continue to do all that we can to promote peace and to bring an end to the fighting and to come to a political resolution of your country,\" Marcos told Zelenskyy during their meeting, according to the Philippine president's communications office.\n\nThe Ukraine leader's visit to the Philippines followed his attendance at the Shangri-La Dialogue in Singapore on Sunday, where both he and Marcos delivered statements critical of China during the three-day annual defense summit.\n\nZelenskyy made an appeal to countries across the Asia-Pacific on Sunday to join the summit in Switzerland, which he accused China and Russia of trying to sabotage. He said Moscow is doing \"everything\" to disrupt the conference by using Chinese influence and its diplomats.\n\nMarcos, for his part, criticized Beijing's \"assertive\" actions in the disputed South China Sea in his speech Friday at the defense forum. The Chinese delegation responded by condemning the Southeast Asian nation's moves to deepen military alliance with the U.S., saying it threatened peace and stability in the region.\n\nChina said it will continue to safeguard its sovereignty and rights, according to a statement from the foreign ministry on Monday, adding that it seeks dialogue to handle maritime conflicts. Both China and the Philippines continued to trade fresh accusations about the conduct of their security forces in disputed waters.\n\nZelenskyy said in a separate interview with Philippine media that he sees a lot of similarities between Russia's invasion of Ukraine and Beijing's maritime dispute with Manila. \"If Russia will occupy us totally, we will see this war in other continents,\" he said, as he called for unity against the occupation of independent countries.\n\nZelenskyy and Marcos vowed to strengthen their diplomatic ties, with Kyiv planning to open an embassy in the Philippines later this year. The Ukrainian leader also asked Marcos to send Filipino mental health workers to help Ukrainian soldiers at the frontline of the crisis.",
+        "source": {
+            "uri": "fresnobee.com",
+            "dataType": "news",
+            "title": "The Fresno Bee",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Fresno, California"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://www.fresnobee.com/wps/build/images/fresnobee/facebook.jpg",
+        "eventUri": null,
+        "sentiment": 0.2627450980392156,
+        "wgt": 455118183,
+        "relevance": 26,
+        "QnA": [
+            {
+                "Question": "How does the article describe China's response to the Philippines' actions in the South China Sea:",
+                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the Philippines  D) China will impose economic sanctions on the Philippines",
+                "LLM_answer": "A) China seeks dialogue to handle maritime conflicts",
+                "post_LLM_answer": "A"
+            }
+        ]
+    },
+    {
+        "uri": "2024-06-377261332",
+        "lang": "eng",
+        "isDuplicate": true,
+        "date": "2024-06-03",
+        "time": "13:42:01",
+        "dateTime": "2024-06-03T13:42:01Z",
+        "dateTimePub": "2024-06-03T13:39:06Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://www.sanluisobispo.com/news/nation-world/world/article288961265.html",
+        "title": "Zelenskyy, Marcos to boost ties after slamming China at summit",
+        "body": "By Cliff Venzon and Andreo Calonzo, Bloomberg News The Tribune Content Agency\n\nUkrainian President Volodymyr Zelenskyy met his Philippine counterpart, President Ferdinand Marcos Jr., in Manila on Monday, a day after the conclusion of a security summit where the two leaders delivered statements sharply critical of China.\n\nThe two leaders discussed a Ukraine summit which will be held in Switzerland June 15-16, and Zelenskyy underscored the importance for Southeast Asian countries to be represented there.\n\n\"I am pleased that the Philippines will participate in the summit,\" he said in a post on X. Marcos' communications office confirmed that the Philippines is joining the event, but is still finalizing details.\n\n\"We will continue to do all that we can to promote peace and to bring an end to the fighting and to come to a political resolution of your country,\" Marcos told Zelenskyy during their meeting, according to the Philippine president's communications office.\n\nThe Ukraine leader's visit to the Philippines followed his attendance at the Shangri-La Dialogue in Singapore on Sunday, where both he and Marcos delivered statements critical of China during the three-day annual defense summit.\n\nZelenskyy made an appeal to countries across the Asia-Pacific on Sunday to join the summit in Switzerland, which he accused China and Russia of trying to sabotage. He said Moscow is doing \"everything\" to disrupt the conference by using Chinese influence and its diplomats.\n\nMarcos, for his part, criticized Beijing's \"assertive\" actions in the disputed South China Sea in his speech Friday at the defense forum. The Chinese delegation responded by condemning the Southeast Asian nation's moves to deepen military alliance with the U.S., saying it threatened peace and stability in the region.\n\nChina said it will continue to safeguard its sovereignty and rights, according to a statement from the foreign ministry on Monday, adding that it seeks dialogue to handle maritime conflicts. Both China and the Philippines continued to trade fresh accusations about the conduct of their security forces in disputed waters.\n\nZelenskyy said in a separate interview with Philippine media that he sees a lot of similarities between Russia's invasion of Ukraine and Beijing's maritime dispute with Manila. \"If Russia will occupy us totally, we will see this war in other continents,\" he said, as he called for unity against the occupation of independent countries.\n\nZelenskyy and Marcos vowed to strengthen their diplomatic ties, with Kyiv planning to open an embassy in the Philippines later this year. The Ukrainian leader also asked Marcos to send Filipino mental health workers to help Ukrainian soldiers at the frontline of the crisis.",
+        "source": {
+            "uri": "sanluisobispo.com",
+            "dataType": "news",
+            "title": "The Tribune",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "San Luis Obispo, California"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://www.sanluisobispo.com/wps/build/images/sanluisobispo/facebook.jpg",
+        "eventUri": null,
+        "sentiment": 0.2627450980392156,
+        "wgt": 455118121,
+        "relevance": 26,
+        "QnA": [
+            {
+                "Question": "How does the article describe China's response to the Philippines' actions in the South China Sea:",
+                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the Philippines  D) China will impose economic sanctions on the Philippines",
+                "LLM_answer": "A) China seeks dialogue to handle maritime conflicts",
+                "post_LLM_answer": "A"
+            }
+        ]
+    },
+    {
+        "uri": "2024-06-377259840",
+        "lang": "eng",
+        "isDuplicate": true,
+        "date": "2024-06-03",
+        "time": "13:41:56",
+        "dateTime": "2024-06-03T13:41:56Z",
+        "dateTimePub": "2024-06-03T13:39:06Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://www.star-telegram.com/news/nation-world/world/article288961265.html",
+        "title": "Zelenskyy, Marcos to boost ties after slamming China at summit",
+        "body": "By Cliff Venzon and Andreo Calonzo, Bloomberg News The Tribune Content Agency\n\nUkrainian President Volodymyr Zelenskyy met his Philippine counterpart, President Ferdinand Marcos Jr., in Manila on Monday, a day after the conclusion of a security summit where the two leaders delivered statements sharply critical of China.\n\nThe two leaders discussed a Ukraine summit which will be held in Switzerland June 15-16, and Zelenskyy underscored the importance for Southeast Asian countries to be represented there.\n\n\"I am pleased that the Philippines will participate in the summit,\" he said in a post on X. Marcos' communications office confirmed that the Philippines is joining the event, but is still finalizing details.\n\n\"We will continue to do all that we can to promote peace and to bring an end to the fighting and to come to a political resolution of your country,\" Marcos told Zelenskyy during their meeting, according to the Philippine president's communications office.\n\nThe Ukraine leader's visit to the Philippines followed his attendance at the Shangri-La Dialogue in Singapore on Sunday, where both he and Marcos delivered statements critical of China during the three-day annual defense summit.\n\nZelenskyy made an appeal to countries across the Asia-Pacific on Sunday to join the summit in Switzerland, which he accused China and Russia of trying to sabotage. He said Moscow is doing \"everything\" to disrupt the conference by using Chinese influence and its diplomats.\n\nMarcos, for his part, criticized Beijing's \"assertive\" actions in the disputed South China Sea in his speech Friday at the defense forum. The Chinese delegation responded by condemning the Southeast Asian nation's moves to deepen military alliance with the U.S., saying it threatened peace and stability in the region.\n\nChina said it will continue to safeguard its sovereignty and rights, according to a statement from the foreign ministry on Monday, adding that it seeks dialogue to handle maritime conflicts. Both China and the Philippines continued to trade fresh accusations about the conduct of their security forces in disputed waters.\n\nZelenskyy said in a separate interview with Philippine media that he sees a lot of similarities between Russia's invasion of Ukraine and Beijing's maritime dispute with Manila. \"If Russia will occupy us totally, we will see this war in other continents,\" he said, as he called for unity against the occupation of independent countries.\n\nZelenskyy and Marcos vowed to strengthen their diplomatic ties, with Kyiv planning to open an embassy in the Philippines later this year. The Ukrainian leader also asked Marcos to send Filipino mental health workers to help Ukrainian soldiers at the frontline of the crisis.",
+        "source": {
+            "uri": "star-telegram.com",
+            "dataType": "news",
+            "title": "Fort Worth Star-Telegram",
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Fort Worth, Texas"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            },
+            "locationValidated": false
+        },
+        "authors": [],
+        "image": "https://www.star-telegram.com/wps/build/images/star-telegram/facebook.jpg",
+        "eventUri": null,
+        "sentiment": 0.2627450980392156,
+        "wgt": 455118116,
+        "relevance": 26,
+        "QnA": [
+            {
+                "Question": "How does the article describe China's response to the Philippines' actions in the South China Sea:",
+                "Answers": "A) China seeks dialogue to handle maritime conflicts B) China plans to increase military presence in the region  C) China will take legal action against the Philippines  D) China will impose economic sanctions on the Philippines",
+                "LLM_answer": "A) China seeks dialogue to handle maritime conflicts",
+                "post_LLM_answer": "A"
+            }
+        ]
+    }
+]
