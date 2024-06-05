@@ -36,9 +36,9 @@
         "sentiment": -0.3176470588235294,
         "wgt": 455227104,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. Instead, it focuses on the territorial disputes in the South China Sea, specifically an incident where the Chinese coast guard seized food supplies intended for Filipino forces. The article highlights the tensions and conflicts between China and the Philippines over territorial claims, as well as the potential for broader geopolitical implications involving the United States and other countries in the region."
     },
     {
         "uri": "8161681388",
@@ -84,9 +84,9 @@
         "sentiment": 0.3490196078431373,
         "wgt": 455224748,
         "relevance": 26,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No"
+        "LLM_answer": "A) Yes"
     },
     {
         "uri": "8161614588",
@@ -132,9 +132,9 @@
         "sentiment": 0.3960784313725489,
         "wgt": 455221192,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the collaboration between the Philippines, the United States, and Japan to ensure safety and freedom in the West Philippine Sea amid tensions with China. The emphasis is on maritime security, law enforcement, and strategic cooperation rather than economic matters."
     },
     {
         "uri": "8161573183",
@@ -167,7 +167,7 @@
         "sentiment": 0.4666666666666666,
         "wgt": 455219364,
         "relevance": 26,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
         "LLM_answer": "A) Yes"
     },
@@ -202,9 +202,9 @@
         "sentiment": -0.003921568627450966,
         "wgt": 455215925,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "2024-06-378665514",
@@ -243,9 +243,9 @@
         "sentiment": -0.2470588235294118,
         "wgt": 455214830,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the geopolitical tensions and military interactions between the Philippines and China in the South China Sea."
     },
     {
         "uri": "8161472186",
@@ -291,9 +291,9 @@
         "sentiment": -0.1764705882352942,
         "wgt": 455214644,
         "relevance": 26,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article primarily discusses the tensions between China and the Philippines due to China's aggressive actions in the West Philippine Sea, including the seizure of supplies meant for Filipino soldiers. It does not delve into aspects of economic cooperation between the two countries."
     },
     {
         "uri": "8161467158",
@@ -332,9 +332,9 @@
         "sentiment": 0.05882352941176472,
         "wgt": 455214452,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article primarily discusses the Philippines' commitment to peace, sovereignty, and adherence to international law in the context of the South China Sea disputes. It does not delve into economic cooperation."
     },
     {
         "uri": "8161446289",
@@ -380,9 +380,9 @@
         "sentiment": -0.2313725490196078,
         "wgt": 455213544,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8161424330",
@@ -421,9 +421,9 @@
         "sentiment": -0.2549019607843137,
         "wgt": 455212733,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8161374165",
@@ -475,9 +475,9 @@
         "sentiment": -0.3254901960784313,
         "wgt": 455210664,
         "relevance": 26,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "2024-06-378592724",
@@ -516,9 +516,9 @@
         "sentiment": -0.2627450980392156,
         "wgt": 455210641,
         "relevance": 26,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. Instead, it focuses on the territorial disputes in the South China Sea, specifically an incident involving the Chinese coast guard seizing food supplies intended for Filipino navy personnel. The article highlights the tensions and conflicts between the Philippines and China over territorial claims, as well as the potential for broader geopolitical implications involving the United States and other countries in the region."
     },
     {
         "uri": "8161364271",
@@ -557,9 +557,9 @@
         "sentiment": -0.3019607843137255,
         "wgt": 455210579,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. Instead, it focuses on a specific incident involving the Chinese coast guard seizing food supplies intended for Filipino navy personnel in the disputed waters of the South China Sea. The article highlights the territorial disputes, the actions taken by both the Chinese and Philippine forces, and the broader geopolitical implications involving other countries and the U.S.-China rivalry."
     },
     {
         "uri": "8161363312",
@@ -592,9 +592,9 @@
         "sentiment": -0.4509803921568627,
         "wgt": 455210181,
         "relevance": 26,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. Instead, it focuses on the territorial disputes in the South China Sea, specifically an incident involving the Chinese coast guard seizing food supplies intended for Filipino forces. The article also touches on the broader geopolitical tensions between China, the Philippines, and other countries involved in the territorial disputes, as well as the potential for military confrontation involving the United States."
     },
     {
         "uri": "2024-06-378580752",
@@ -621,9 +621,9 @@
         "sentiment": -0.3019607843137255,
         "wgt": 455210011,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "2024-06-378575494",
@@ -662,9 +662,9 @@
         "sentiment": -0.3176470588235294,
         "wgt": 455209743,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. Instead, it focuses on a specific incident involving the Chinese coast guard seizing food supplies intended for Filipino forces in the disputed South China Sea, the territorial disputes between China and the Philippines, and the broader geopolitical tensions in the region."
     },
     {
         "uri": "8161130083",
@@ -691,9 +691,9 @@
         "sentiment": 0.192156862745098,
         "wgt": 455201357,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article primarily discusses the restoration of military and defense relations between the US and Cambodia, including joint military exercises, military education programs, and defense policy dialogues. It does not delve into economic cooperation between the two countries."
     },
     {
         "uri": "8161061794",
@@ -726,9 +726,9 @@
         "sentiment": -0.3176470588235294,
         "wgt": 455198818,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "2024-06-378350517",
@@ -755,9 +755,9 @@
         "sentiment": 0.07450980392156858,
         "wgt": 455198058,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8160827887",
@@ -784,9 +784,9 @@
         "sentiment": 0.4901960784313726,
         "wgt": 455190393,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No"
+        "LLM_answer": "A) Yes"
     },
     {
         "uri": "8160813652",
@@ -825,9 +825,9 @@
         "sentiment": -0.3568627450980392,
         "wgt": 455189811,
         "relevance": 75,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8160810464",
@@ -866,9 +866,9 @@
         "sentiment": 0.3568627450980393,
         "wgt": 455189643,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "2024-06-378137396",
@@ -908,9 +908,9 @@
         "sentiment": -0.2705882352941177,
         "wgt": 455187229,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the tensions and disputes between the Philippines and China regarding the South China Sea, specifically an incident involving the Philippine military and the China Coast Guard."
     },
     {
         "uri": "8160696015",
@@ -956,9 +956,9 @@
         "sentiment": -0.0980392156862745,
         "wgt": 455185326,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. Instead, it focuses on a confrontation between Chinese agents and Filipino troops over supplies airdropped to the BRP Sierra Madre in Ayungin Shoal. The article details the maneuvers and actions taken by both sides, the proximity of the Chinese agents to the Filipino soldiers, and the broader territorial disputes in the South China Sea."
     },
     {
         "uri": "2024-06-378083462",
@@ -992,9 +992,9 @@
         "sentiment": -0.4431372549019608,
         "wgt": 455184444,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "2024-06-378076522",
@@ -1021,9 +1021,9 @@
         "sentiment": -0.1843137254901961,
         "wgt": 455184071,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the military and territorial dispute between the Philippines and China over the Second Thomas Shoal in the South China Sea."
     },
     {
         "uri": "8160553016",
@@ -1069,9 +1069,9 @@
         "sentiment": 0.003921568627450966,
         "wgt": 455179569,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "2024-06-377976624",
@@ -1098,9 +1098,9 @@
         "sentiment": -0.2627450980392156,
         "wgt": 455177961,
         "relevance": 75,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8160503394",
@@ -1139,9 +1139,9 @@
         "sentiment": -0.1686274509803921,
         "wgt": 455177273,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8160478186",
@@ -1180,9 +1180,9 @@
         "sentiment": -0.2627450980392156,
         "wgt": 455176199,
         "relevance": 100,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8160470120",
@@ -1215,9 +1215,9 @@
         "sentiment": -0.1372549019607843,
         "wgt": 455175686,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8160405128",
@@ -1250,9 +1250,9 @@
         "sentiment": 0.01960784313725483,
         "wgt": 455172177,
         "relevance": 26,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the Ministry of National Defence's call for a balanced solution to the South China Sea issue, emphasizing diplomatic approaches, dialogue, and consultation to avoid conflicts. The discussion is centered around security and international law rather than economic cooperation."
     },
     {
         "uri": "8160377925",
@@ -1285,9 +1285,9 @@
         "sentiment": -0.02745098039215688,
         "wgt": 455170626,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes\n\nThe article does discuss territorial disputes in the South China Sea. It mentions the confrontations between Chinese vessels and those of the Philippines, as well as the broader geopolitical tensions involving the US and its allies, particularly in the context of the South China Sea and East China Sea. The article highlights the provocative actions and statements made by various countries, including the Philippines and Australia, regarding China's activities in these regions."
+        "LLM_answer": "A) Yes\n\nThe article does discuss economic cooperation, particularly in the context of the relationship between China and Russia. It mentions how the growth of overall Chinese trade has provided an economic lifeline to Russia, with bilateral trade growing significantly. The article also touches on the US objections to this trade and the implications of \"dual use\" items being exported from China to Russia."
     },
     {
         "uri": "8160366864",
@@ -1320,9 +1320,9 @@
         "sentiment": -0.1372549019607843,
         "wgt": 455170076,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8160359469",
@@ -1361,9 +1361,9 @@
         "sentiment": -0.1372549019607843,
         "wgt": 455169966,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the military and territorial dispute between the Philippines and China over the Second Thomas Shoal in the South China Sea."
     },
     {
         "uri": "8160354972",
@@ -1402,9 +1402,9 @@
         "sentiment": -0.1294117647058823,
         "wgt": 455169499,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8160352372",
@@ -1443,9 +1443,9 @@
         "sentiment": -0.1372549019607843,
         "wgt": 455169245,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "2024-06-377864441",
@@ -1485,9 +1485,9 @@
         "sentiment": -0.09019607843137256,
         "wgt": 455168897,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article primarily discusses geopolitical and military issues, focusing on tensions and conflicts involving China, the United States, and other countries. It does not address economic cooperation."
     },
     {
         "uri": "2024-06-377843898",
@@ -1526,9 +1526,9 @@
         "sentiment": -0.2784313725490196,
         "wgt": 455166798,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8160315037",
@@ -1567,9 +1567,9 @@
         "sentiment": -0.1372549019607843,
         "wgt": 455166769,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8160302957",
@@ -1602,9 +1602,9 @@
         "sentiment": -0.01960784313725494,
         "wgt": 455166097,
         "relevance": 100,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "A) Yes\n\nThe article discusses economic cooperation, particularly in the context of Malaysia's trade relationships with China and the United States. It highlights the tension between prioritizing short-term trade benefits with China and addressing long-term strategic and territorial conflicts in the South China Sea."
     },
     {
         "uri": "2024-06-377834749",
@@ -1650,9 +1650,9 @@
         "sentiment": -0.04313725490196074,
         "wgt": 455165989,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "2024-06-377832646",
@@ -1686,9 +1686,9 @@
         "sentiment": -0.05098039215686279,
         "wgt": 455165825,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8160289653",
@@ -1727,9 +1727,9 @@
         "sentiment": -0.05098039215686279,
         "wgt": 455165303,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8160288991",
@@ -1768,9 +1768,9 @@
         "sentiment": -0.02745098039215688,
         "wgt": 455165137,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8160276090",
@@ -1809,9 +1809,9 @@
         "sentiment": 0.1294117647058823,
         "wgt": 455164252,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article primarily discusses the strategic and security implications of the United States' alliances with Japan and the Philippines in the context of Chinese expansionism in the East and South China Seas. It does not delve into economic cooperation between the countries. While it mentions the economic significance of the regions in terms of trade routes and the importance of freedom of navigation, the focus remains on military and security commitments rather than economic cooperation."
     },
     {
         "uri": "2024-06-377773910",
@@ -1838,9 +1838,9 @@
         "sentiment": 0.1372549019607843,
         "wgt": 455158855,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8160140482",
@@ -1873,9 +1873,9 @@
         "sentiment": 0.07450980392156858,
         "wgt": 455154309,
         "relevance": 26,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article primarily discusses the meeting between Ukrainian President Volodymyr Zelenskyy and Philippine President Ferdinand Marcos Jr, focusing on their discussions about the upcoming peace summit in Switzerland and the Philippines' support for Ukraine in its conflict with Russia. There is no mention of economic cooperation between the two countries in the article."
     },
     {
         "uri": "2024-06-377670803",
@@ -1902,9 +1902,9 @@
         "sentiment": -0.207843137254902,
         "wgt": 455146163,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the condemnation by Filipino senators of the actions of the China Coast Guard against Filipino soldiers, including the seizure of supplies and harassment of medical evacuation operations. The article highlights the senators' calls for international legal action and the protection of Philippine sovereignty, but it does not mention any aspects of economic cooperation between the countries."
     },
     {
         "uri": "2024-06-377639260",
@@ -1950,9 +1950,9 @@
         "sentiment": 0.3411764705882352,
         "wgt": 455143084,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on President Ferdinand Marcos Jr.'s recognition of historical treaties to reinforce the Philippines' territorial claims, particularly in the West Philippine Sea, and the implications of these claims in the context of international disputes with China."
     },
     {
         "uri": "8159708306",
@@ -1998,9 +1998,9 @@
         "sentiment": -0.1294117647058823,
         "wgt": 455128912,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article primarily discusses geopolitical tensions and security concerns between China, the United States, and other countries in the South China Sea region. It does not focus on economic cooperation."
     },
     {
         "uri": "8159688754",
@@ -2033,9 +2033,9 @@
         "sentiment": -0.1843137254901961,
         "wgt": 455128025,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article primarily discusses various economic indicators, central bank policies, geopolitical risks, and market reactions. It does not focus on economic cooperation."
     },
     {
         "uri": "8159681365",
@@ -2074,9 +2074,9 @@
         "sentiment": -0.4431372549019608,
         "wgt": 455127706,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article primarily discusses China's aggressive actions in the South China Sea, the issues surrounding Philippine Offshore Gaming Operators (POGOs), and the personal mourning of a friend. It does not delve into economic cooperation between China and the Philippines."
     },
     {
         "uri": "8159660661",
@@ -2116,9 +2116,9 @@
         "sentiment": 0.1137254901960785,
         "wgt": 455126892,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the comparison between King George VI's speech and President Ferdinand Marcos Jr.'s address at the IISS Shangri-la Dialogue, emphasizing themes of national sovereignty, geopolitical tensions, and military defense."
     },
     {
         "uri": "2024-06-377413161",
@@ -2164,7 +2164,7 @@
         "sentiment": 0.1372549019607843,
         "wgt": 455126519,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
         "LLM_answer": "A) Yes"
     },
@@ -2212,9 +2212,9 @@
         "sentiment": 0.02745098039215677,
         "wgt": 455126416,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article primarily discusses military and defense activities, including the deployment of Canadian navy ships to the Indo-Pacific region, participation in the RIMPAC exercise, and the geopolitical tensions in the area. It does not address economic cooperation."
     },
     {
         "uri": "8159449719",
@@ -2260,9 +2260,9 @@
         "sentiment": -0.01960784313725494,
         "wgt": 455118500,
         "relevance": 26,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article primarily focuses on the diplomatic and security-related discussions between Ukrainian President Volodymyr Zelenskyy and Philippine President Ferdinand Marcos Jr., particularly in the context of their criticisms of China and the upcoming Ukraine summit in Switzerland. There is no mention of economic cooperation between Ukraine and the Philippines in the article."
     },
     {
         "uri": "2024-06-377260270",
@@ -2301,9 +2301,9 @@
         "sentiment": 0.2627450980392156,
         "wgt": 455118060,
         "relevance": 26,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation between Ukraine and the Philippines. It focuses on their diplomatic and security-related discussions, criticisms of China, and plans for a Ukraine summit."
     },
     {
         "uri": "8159365375",
@@ -2342,9 +2342,9 @@
         "sentiment": -0.2,
         "wgt": 455115272,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the Armed Forces of the Philippines (AFP) denying accusations from China that personnel aboard the BRP Sierra Madre pointed guns at the Chinese Coast Guard (CCG). The article also mentions the Philippines' intention to file a diplomatic protest against China and provides context about territorial claims in the South China Sea."
     },
     {
         "uri": "8159266277",
@@ -2377,9 +2377,9 @@
         "sentiment": -0.2,
         "wgt": 455111566,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "A) Yes\n\nThe article does discuss economic cooperation, particularly in the context of China expressing its willingness to work with ASEAN members, including the Philippines, to manage differences at sea and deepen sea-related cooperation. This implies a form of economic cooperation related to maritime activities and trade."
     },
     {
         "uri": "8159236661",
@@ -2412,9 +2412,9 @@
         "sentiment": 0.06666666666666665,
         "wgt": 455110406,
         "relevance": 26,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article primarily discusses the Philippines' participation in a peace summit on the Ukraine war, the meeting between Ukrainian President Volodymyr Zelensky and Philippine President Ferdinand Marcos Jr, and their shared criticisms of China. It does not delve into economic cooperation between the two countries."
     },
     {
         "uri": "8159204165",
@@ -2453,9 +2453,9 @@
         "sentiment": 0.03529411764705892,
         "wgt": 455109196,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article primarily discusses China's expanding security and military presence in the Pacific, particularly through the activities of the China Coast Guard and its hybrid warfare tactics. It does not focus on economic cooperation."
     },
     {
         "uri": "2024-06-377086295",
@@ -2489,7 +2489,7 @@
         "sentiment": 0.0980392156862746,
         "wgt": 455108967,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
         "LLM_answer": "A) Yes"
     },
@@ -2524,9 +2524,9 @@
         "sentiment": 0.2078431372549019,
         "wgt": 455107810,
         "relevance": 100,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "A) Yes\n\nThe article does discuss economic cooperation, particularly in the context of China's willingness to continue cooperating with members of the Association of Southeast Asian Nations (Asean), including the Philippines, to manage differences and deepen maritime cooperation."
     },
     {
         "uri": "8159120460",
@@ -2553,7 +2553,7 @@
         "sentiment": 0.003921568627450966,
         "wgt": 455106190,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
         "LLM_answer": "B) No"
     },
@@ -2601,9 +2601,9 @@
         "sentiment": -0.08235294117647063,
         "wgt": 455101465,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes\n\nThe article does talk about territorial disputes in the South China Sea. It mentions that Chinese Minister of National Defense Dong Jun warned about the limits to Beijing's restraint in the South China Sea and criticized the Philippines for responding to Chinese vessels' activities in the disputed area."
+        "LLM_answer": "B) No\n\nThe article primarily focuses on Chinese Defense Minister Dong Jun's speech at the Shangri-La Dialogue security forum, where he criticizes \"outside forces\" and addresses issues related to the South China Sea, Taiwan Strait, and U.S. military actions in the region. It does not discuss economic cooperation."
     },
     {
         "uri": "8158946080",
@@ -2649,9 +2649,9 @@
         "sentiment": -0.192156862745098,
         "wgt": 455100901,
         "relevance": 26,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes\n\nThe article does talk about territorial disputes in the South China Sea. It mentions the long history of maritime territorial disputes between Manila (the Philippines) and Beijing (China) in the South China Sea, as well as the overlapping maritime claims of the Philippines, Malaysia, Vietnam, Brunei, and Taiwan with China's claim of sovereignty over almost the entire South China Sea."
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on military and geopolitical tensions between China, the United States, and the Philippines in the South China Sea, as well as issues related to Taiwan and the Ukraine conflict."
     },
     {
         "uri": "8158971005",
@@ -2697,9 +2697,9 @@
         "sentiment": 0.05098039215686279,
         "wgt": 455100590,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8158971006",
@@ -2745,9 +2745,9 @@
         "sentiment": -0.2862745098039216,
         "wgt": 455100579,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the Bureau of Fisheries and Aquatic Resources (BFAR) stating that there have been no reports of China stopping Filipino fishermen from fishing in the West Philippine Sea amid China's unilateral fishing ban. It also covers the Philippines' stance on the fishing ban, the presence of the Philippine Coast Guard and BFAR in the area, and the broader territorial disputes in the South China Sea."
     },
     {
         "uri": "8158946115",
@@ -2793,9 +2793,9 @@
         "sentiment": 0.4509803921568627,
         "wgt": 455100418,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes\n\nThe article does talk about territorial disputes in the South China Sea. It mentions that Chinese Defense Minister Dong Jun reiterated China's firm stance on the South China Sea issue, stating that the current situation is generally stable but warning against provocations, particularly from the Philippines under the instigation of the US. The article also discusses the need for countries to resolve disputes through peaceful talks and negotiations."
+        "LLM_answer": "B) No\n\nThe article primarily discusses China's approach to global security, its stances on the Taiwan question and the South China Sea issue, and the differences between China's and the US's security strategies. It does not delve into economic cooperation."
     },
     {
         "uri": "2024-06-376888596",
@@ -2828,9 +2828,9 @@
         "sentiment": 0.2627450980392156,
         "wgt": 455098555,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8158897539",
@@ -2863,7 +2863,7 @@
         "sentiment": 0.6392156862745098,
         "wgt": 455097727,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
         "LLM_answer": "A) Yes"
     },
@@ -2904,9 +2904,9 @@
         "sentiment": -0.3647058823529412,
         "wgt": 455094524,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8158794098",
@@ -2945,9 +2945,9 @@
         "sentiment": 0.08235294117647052,
         "wgt": 455093471,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "A) Yes\n\nThe article discusses economic cooperation in the context of climate finance and equity issues at COP29. It highlights the need for increased climate finance, the commitment from developed countries to mobilize funds for developing economies, and the importance of addressing the needs and priorities of vulnerable countries."
     },
     {
         "uri": "8158756993",
@@ -2980,9 +2980,9 @@
         "sentiment": -0.09019607843137256,
         "wgt": 455091763,
         "relevance": 26,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on geopolitical tensions and military interactions between China, the Philippines, and the United States in the South China Sea."
     },
     {
         "uri": "8158752763",
@@ -3016,7 +3016,7 @@
         "sentiment": 0.2470588235294118,
         "wgt": 455091605,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
         "LLM_answer": "A) Yes"
     },
@@ -3064,9 +3064,9 @@
         "sentiment": -0.5686274509803921,
         "wgt": 455090672,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8158722162",
@@ -3106,9 +3106,9 @@
         "sentiment": 0.06666666666666665,
         "wgt": 455090037,
         "relevance": 26,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8158697381",
@@ -3141,9 +3141,9 @@
         "sentiment": 0.411764705882353,
         "wgt": 455088716,
         "relevance": 26,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation between Ukraine and the Philippines. It focuses on the meeting between Ukrainian President Volodymyr Zelensky and Philippine President Ferdinand Marcos Jnr, their commitment to sovereignty and a global rules-based order, and the geopolitical implications of the Ukraine-Russia war and the South China Sea dispute."
     },
     {
         "uri": "8158695369",
@@ -3189,7 +3189,7 @@
         "sentiment": 0.2549019607843137,
         "wgt": 455088596,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
         "LLM_answer": "A) Yes"
     },
@@ -3230,9 +3230,9 @@
         "sentiment": -0.0117647058823529,
         "wgt": 455088197,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "A) Yes\n\nThe article does discuss economic cooperation, as it mentions that China is willing to continue to work with ASEAN countries, including the Philippines, to manage differences at sea and deepen sea-related cooperation."
     },
     {
         "uri": "8158655907",
@@ -3265,7 +3265,7 @@
         "sentiment": -0.08235294117647063,
         "wgt": 455086464,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
         "LLM_answer": "A) Yes"
     },
@@ -3306,9 +3306,9 @@
         "sentiment": 0.06666666666666665,
         "wgt": 455080953,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on geopolitical tensions and maritime issues in the South China Sea, particularly the roles and actions of China, the United States, and the Philippines."
     },
     {
         "uri": "8158562788",
@@ -3347,7 +3347,7 @@
         "sentiment": 0.06666666666666665,
         "wgt": 455080388,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
         "LLM_answer": "A) Yes"
     },
@@ -3388,9 +3388,9 @@
         "sentiment": -0.04313725490196074,
         "wgt": 455080243,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation between Ukrainian President Volodymyr Zelenskyy and Philippine President Ferdinand Marcos Jr. It focuses on their meeting and their shared criticisms of China, particularly in the context of the Shangri-La Dialogue defense summit."
     },
     {
         "uri": "8158555620",
@@ -3429,7 +3429,7 @@
         "sentiment": -0.0117647058823529,
         "wgt": 455079956,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
         "LLM_answer": "A) Yes"
     },
@@ -3477,9 +3477,9 @@
         "sentiment": 0.003921568627450966,
         "wgt": 455076981,
         "relevance": 26,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on a specific incident involving the Philippine personnel and the Chinese Coast Guard, as well as the broader context of territorial disputes and confrontations in the South China Sea."
     },
     {
         "uri": "8158507430",
@@ -3518,9 +3518,9 @@
         "sentiment": -0.04313725490196074,
         "wgt": 455076238,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation between Ukraine and the Philippines. It focuses on the meeting between Ukrainian President Volodymyr Zelenskiy and Philippine President Ferdinand Marcos Jr., their discussions on common issues, and their critical statements about China."
     },
     {
         "uri": "8158412648",
@@ -3559,9 +3559,9 @@
         "sentiment": -0.05098039215686279,
         "wgt": 455067943,
         "relevance": 75,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8158334866",
@@ -3607,9 +3607,9 @@
         "sentiment": 0.1372549019607843,
         "wgt": 455060791,
         "relevance": 75,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "A) Yes\n\nThe article does discuss economic cooperation, particularly in the context of Japan's long-standing economic engagement in Southeast Asia. It mentions that Japan has built \"strategic capital\" through pragmatic cooperation and economic engagement over decades in the region. This economic aspect is highlighted as a unique strength for Japan, which could be eroded if Japan is perceived as merely an extension of the United States in geopolitical matters. Additionally, the article touches on China's significant economic influence in the region and the importance of economic considerations in the broader geopolitical landscape."
     },
     {
         "uri": "2024-06-376485141",
@@ -3636,9 +3636,9 @@
         "sentiment": 0.1450980392156862,
         "wgt": 455056232,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article primarily discusses military and defense cooperation between Australia, China, and the Philippines. It does not mention economic cooperation."
     },
     {
         "uri": "8158223592",
@@ -3671,9 +3671,9 @@
         "sentiment": -0.07450980392156858,
         "wgt": 455052216,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "A) Yes\n\nThe article does discuss economic cooperation, particularly in the context of the United States, Japan, and South Korea pledging to work closely to boost economic security. This includes initiatives like the Minerals Security Partnership projects aimed at reducing reliance on China and Russia for critical resources needed in high-tech applications."
     },
     {
         "uri": "8158218311",
@@ -3706,9 +3706,9 @@
         "sentiment": -0.1686274509803921,
         "wgt": 455052082,
         "relevance": 51,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No"
     },
     {
         "uri": "8158199087",
@@ -3766,9 +3766,9 @@
         "sentiment": -0.2,
         "wgt": 455050503,
         "relevance": 75,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article primarily discusses geopolitical tensions and military issues related to the South China Sea, Taiwan, and the interactions between China, the Philippines, and the United States. It does not delve into economic cooperation."
     },
     {
         "uri": "8158199088",
@@ -3814,9 +3814,9 @@
         "sentiment": -0.05882352941176472,
         "wgt": 455050394,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article primarily discusses the use of water cannons by coast guards, particularly focusing on the Philippine Coast Guard's stance that water cannons should only be used for saving lives and not for aggressive actions. It also touches on territorial disputes in the South China Sea and the need for dialogue and cooperation under international law. However, it does not specifically discuss economic cooperation."
     },
     {
         "uri": "8158153256",
@@ -3855,9 +3855,9 @@
         "sentiment": 0.2156862745098038,
         "wgt": 455047288,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the territorial and geopolitical tensions between Vietnam and Cambodia over the construction of the Funan Techo Canal on the Mekong River. While it mentions the South China Sea in the context of Cambodia's canal project potentially reducing Cambodia's dependence on Vietnam's seaport and the broader geopolitical implications involving China, it does not specifically address territorial disputes in the South China Sea."
+        "LLM_answer": "A) Yes"
     },
     {
         "uri": "8158152008",
@@ -3890,9 +3890,9 @@
         "sentiment": -0.1686274509803921,
         "wgt": 455047213,
         "relevance": 26,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "A) Yes\n\nThe article does discuss economic cooperation, particularly in the context of regional cooperation through ASEAN. General Tea Seiha emphasizes the importance of promoting multilateral mechanisms and regional solidarity, which inherently includes economic cooperation among ASEAN member states and other countries in the Asia-Pacific region."
     },
     {
         "uri": "8158068731",
@@ -3925,9 +3925,9 @@
         "sentiment": -0.05098039215686279,
         "wgt": 455041829,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "A) Yes\n\nThe article does discuss economic cooperation, particularly in the context of the economic relationship and supply chain between China and the Philippines. It highlights how deeply intertwined these economies are, spanning various sectors such as manufacturing, infrastructure, real estate, energy, and technology. The article also touches on the potential impact of US sanctions on Chinese interests and how this could affect Philippine businesses, emphasizing the importance of compliance and risk management in this interconnected economic landscape."
     },
     {
         "uri": "8158058917",
@@ -3966,7 +3966,7 @@
         "sentiment": 0.3254901960784313,
         "wgt": 455041251,
         "relevance": 1,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
         "LLM_answer": "A) Yes"
     },
@@ -4007,8 +4007,8 @@
         "sentiment": 0.1843137254901961,
         "wgt": 455040242,
         "relevance": 26,
-        "Question": "Does the article talk about territorial disputes in the South China Sea:",
+        "Question": "Does the article discuss economic cooperation:",
         "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the geopolitical tensions and military confrontations between China, the Philippines, and the United States in the South China Sea. The article highlights issues related to territorial disputes, military deployments, and diplomatic stances, but it does not address any aspects of economic cooperation."
     }
 ]
