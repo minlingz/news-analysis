@@ -156,6 +156,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. Instead, it focuses on the territorial disputes in the South China Sea, specifically an incident where the Chinese coast guard seized food supplies intended for Filipino forces. The article highlights the tensions and conflicts between China and the Philippines over territorial claims, as well as the potential for broader geopolitical implications involving the United States and other countries in the region.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations\n\nThe article primarily focuses on a specific incident where the Chinese coast guard seized food supplies dropped by a plane for Filipino forces in the disputed South China Sea. It details the confrontation between the Chinese and Filipino personnel, the actions taken by both sides, and the broader context of territorial disputes in the region.",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces\n\nThe article emphasizes the direct encounters and clashes between the Chinese coast guard and Filipino navy personnel, particularly focusing on the incident where the Chinese coast guard seized food supplies intended for Filipino forces in the disputed South China Sea.",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -322,6 +334,18 @@
                 "Question": "Does the article discuss economic cooperation:",
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "C) Negotiations and Diplomatic Efforts\n\nThe article primarily focuses on the diplomatic visit of Turkish Foreign Minister Hakan Fidan to China, highlighting the discussions and agreements related to trade, security cooperation, and political support, particularly in the context of the Uyghur genocide and Turkey's stance on it.",
+                "post_LLM_answer": "C"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "A) Diplomatic meetings and agreements between countries\n\nThe article emphasizes the diplomatic visit of Turkish Foreign Minister Hakan Fidan to China, his meetings with Chinese officials, and the discussions on trade and cooperation between Turkey and China. It also highlights the lack of condemnation of the Uyghur genocide by Fidan and the concerns raised by Uyghur civil society groups regarding Turkey's stance on the issue.",
                 "post_LLM_answer": "A"
             }
         ]
@@ -490,6 +514,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the collaboration between the Philippines, the United States, and Japan to ensure safety and freedom in the West Philippine Sea amid tensions with China. The emphasis is on maritime security, law enforcement, and strategic cooperation rather than economic matters.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "D) Military Alliances and Exercises\n\nThe article focuses on the collaboration and strategic efforts between the Philippines, the United States, and Japan to ensure safety and freedom in the South China Sea (SCS) and the West Philippine Sea (WPS). It highlights the involvement of their coast guards in developing strategies, increasing presence, and conducting training and exercises to counter threats, particularly from China's maritime assertions.",
+                "post_LLM_answer": "D"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "A) Diplomatic meetings and agreements between countries",
+                "post_LLM_answer": "A"
             }
         ]
     },
@@ -643,6 +679,18 @@
                 "Question": "Does the article discuss economic cooperation:",
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "C) Negotiations and Diplomatic Efforts",
+                "post_LLM_answer": "C"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "A) Diplomatic meetings and agreements between countries\n\nThe article emphasizes the diplomatic meetings and agreements between Cambodia and the United States, focusing on the efforts to restart dialogue and military cooperation, as well as the discussions on various geopolitical issues and mutual interests.",
                 "post_LLM_answer": "A"
             }
         ]
@@ -798,6 +846,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "D) Military Alliances and Exercises",
+                "post_LLM_answer": "D"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes the deployment and operational use of US Marines Corps MQ-9A Reaper Drones in the Philippines, focusing on their role in reconnaissance, surveillance, and intelligence sharing amid rising tensions in the South China Sea. It does not focus on diplomatic meetings, direct naval clashes, political statements, or joint military exercises.",
+                "post_LLM_answer": "E"
             }
         ]
     },
@@ -957,6 +1017,18 @@
                 "Question": "Does the article discuss economic cooperation:",
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the geopolitical tensions and military interactions between the Philippines and China in the South China Sea.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations\n\nThe article primarily focuses on a specific incident involving allegations and confrontations between Filipino troops and Chinese coast guard personnel in the disputed South China Sea. It details the events, the responses from both sides, and the broader context of rising tensions in the region.",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces\n\nThe article emphasizes the direct encounters and clashes between the Philippine military personnel and the Chinese coast guard in the disputed South China Sea. It details the incident where Filipino troops allegedly pointed guns at Chinese coast guard personnel, the interception of supplies, and the broader context of rising tensions in the region.",
                 "post_LLM_answer": "B"
             }
         ]
@@ -1125,6 +1197,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article primarily discusses the tensions between China and the Philippines due to China's aggressive actions in the West Philippine Sea, including the seizure of supplies meant for Filipino soldiers. It does not delve into aspects of economic cooperation between the two countries.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on various opinions and statements made by different officials and groups regarding China's behavior and its impact on relations with the Philippines. It includes remarks from House Speaker Martin Romualdez, protesters, a think tank, and senators, all expressing their views on the situation and its implications.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders regarding China's behavior and its impact on relations with the Philippines. It includes remarks from House Speaker Martin Romualdez, Senator JV Ejercito, and Senate President Francis Escudero, among others, addressing the issue and expressing their views on the situation.",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -1285,6 +1369,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article primarily discusses the Philippines' commitment to peace, sovereignty, and adherence to international law in the context of the South China Sea disputes. It does not delve into economic cooperation.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "C) Negotiations and Diplomatic Efforts\n\nThe article primarily focuses on President Ferdinand Marcos Jr.'s commitment to addressing and managing the disputes in the South China Sea through dialogue and diplomacy. It highlights the importance of adhering to international law and working with ASEAN and China towards a code of conduct, emphasizing peaceful resolution and management of disputes.",
+                "post_LLM_answer": "C"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -1452,6 +1548,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -1611,6 +1719,18 @@
                 "Question": "Does the article discuss economic cooperation:",
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
                 "post_LLM_answer": "B"
             }
         ]
@@ -1785,6 +1905,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article emphasizes a specific incident involving the Chinese coast guard seizing food packages intended for Filipino navy personnel in the disputed South China Sea. It does not focus on diplomatic meetings, direct naval clashes, political leader statements, or joint military exercises.",
+                "post_LLM_answer": "E"
             }
         ]
     },
@@ -1944,6 +2076,18 @@
                 "Question": "Does the article discuss economic cooperation:",
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. Instead, it focuses on the territorial disputes in the South China Sea, specifically an incident involving the Chinese coast guard seizing food supplies intended for Filipino navy personnel. The article highlights the tensions and conflicts between the Philippines and China over territorial claims, as well as the potential for broader geopolitical implications involving the United States and other countries in the region.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces\n\nThe article emphasizes the direct encounters and clashes between the Chinese coast guard and Filipino navy personnel, particularly focusing on the incident where the Chinese coast guard seized food supplies intended for Filipino forces at a disputed territorial outpost in the South China Sea.",
                 "post_LLM_answer": "B"
             }
         ]
@@ -2105,6 +2249,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. Instead, it focuses on a specific incident involving the Chinese coast guard seizing food supplies intended for Filipino navy personnel in the disputed waters of the South China Sea. The article highlights the territorial disputes, the actions taken by both the Chinese and Philippine forces, and the broader geopolitical implications involving other countries and the U.S.-China rivalry.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations\n\nThe article primarily focuses on a specific incident where the Chinese coast guard seized food supplies dropped by a plane for Filipino navy personnel at a territorial outpost in the disputed South China Sea. It details the confrontation between the Chinese and Philippine forces, the actions taken by both sides, and the broader context of the territorial disputes in the region.",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces\n\nThe article emphasizes the direct encounters and clashes between the Chinese coast guard and the Filipino navy personnel, particularly focusing on the incident where the Chinese coast guard seized food supplies intended for Filipino navy personnel at a territorial outpost in the South China Sea.",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -2259,6 +2415,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. Instead, it focuses on the territorial disputes in the South China Sea, specifically an incident involving the Chinese coast guard seizing food supplies intended for Filipino forces. The article also touches on the broader geopolitical tensions between China, the Philippines, and other countries involved in the territorial disputes, as well as the potential for military confrontation involving the United States.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces\n\nThe article emphasizes the direct encounters and clashes between naval forces, specifically highlighting the incident where the China coast guard seized food dropped by plane for Filipino forces in the disputed sea. The description of motorboats maneuvering dangerously close to each other and the struggle to retrieve items floating at sea underscores the direct and tense interactions between the forces of the involved countries.",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -2407,6 +2575,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -2567,6 +2747,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. Instead, it focuses on a specific incident involving the Chinese coast guard seizing food supplies intended for Filipino forces in the disputed South China Sea, the territorial disputes between China and the Philippines, and the broader geopolitical tensions in the region.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -2715,6 +2907,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article primarily discusses the restoration of military and defense relations between the US and Cambodia, including joint military exercises, military education programs, and defense policy dialogues. It does not delve into economic cooperation between the two countries.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "C) Negotiations and Diplomatic Efforts\n\nThe article primarily focuses on the negotiations and diplomatic efforts between the US and Cambodia to restore and improve their bilateral relations, including the resumption of joint military exercises, educational exchanges, and other cooperative initiatives.",
+                "post_LLM_answer": "C"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "A) Diplomatic meetings and agreements between countries\n\nThe article primarily emphasizes the restoration of diplomatic relations and agreements between the US and Cambodia, including the resumption of joint military exercises, educational exchanges, and defense cooperation.",
+                "post_LLM_answer": "A"
             }
         ]
     },
@@ -2869,6 +3073,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations\n\nThe article primarily focuses on a specific incident involving a close encounter between Philippine troops and Chinese coast guard boats at a disputed shoal in the South China Sea. It details the actions taken by both sides during the confrontation and the differing accounts of what transpired.",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -3017,6 +3233,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the opinions and statements made by Senate President Pro Tempore Jinggoy Ejercito Estrada and Senate Majority Leader Francis Tolentino regarding President Marcos' demeanor at the Shangri-La Dialogue and the recent actions of the China Coast Guard in the West Philippine Sea.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article primarily emphasizes the statements and perspectives of political leaders, particularly Senate President Pro Tempore Jinggoy Ejercito Estrada and Senate Majority Leader Francis Tolentino, regarding President Marcos' demeanor at the Shangri-La Dialogue and the recent actions of China in the West Philippine Sea.",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -3165,6 +3393,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article focuses on Qualcomm's strategic business expansion and innovation efforts in Taiwan, particularly through the opening of a new innovation center in Kaohsiung. It highlights the company's commitment to supporting local startups, the 5G ecosystem, and the semiconductor supply chain, while also acknowledging the geopolitical risks in the region. This does not fall under incidents and confrontations, opinions and statements, negotiations and diplomatic efforts, or military alliances and exercises.",
+                "post_LLM_answer": "E"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article emphasizes Qualcomm's strategic move to deepen its ties with Taiwan by opening a new innovation center in Kaohsiung. It focuses on the company's commitment to supporting the local tech sector, startups, and the 5G ecosystem, as well as its efforts to navigate geopolitical risks and capitalize on Taiwan's technological potential.",
+                "post_LLM_answer": "E"
             }
         ]
     },
@@ -3324,6 +3564,18 @@
                 "Question": "Does the article discuss economic cooperation:",
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
                 "post_LLM_answer": "B"
             }
         ]
@@ -3485,6 +3737,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article emphasizes the historical and legal evidence supporting China's claims over the South China Sea islands, as presented in Professor Anthony Carty's latest book. It does not focus on diplomatic meetings, naval encounters, political statements, or military exercises.",
+                "post_LLM_answer": "E"
             }
         ]
     },
@@ -3645,6 +3909,18 @@
                 "Question": "Does the article discuss economic cooperation:",
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the tensions and disputes between the Philippines and China regarding the South China Sea, specifically an incident involving the Philippine military and the China Coast Guard.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces\n\nThe article emphasizes the direct encounters and clashes between the Philippine military and the China Coast Guard in the disputed South China Sea. It details specific incidents, such as the alleged pointing of guns, the interception of supply drops, and the seizing of supplies, highlighting the tensions and confrontations between the two forces.",
                 "post_LLM_answer": "B"
             }
         ]
@@ -3813,6 +4089,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. Instead, it focuses on a confrontation between Chinese agents and Filipino troops over supplies airdropped to the BRP Sierra Madre in Ayungin Shoal. The article details the maneuvers and actions taken by both sides, the proximity of the Chinese agents to the Filipino soldiers, and the broader territorial disputes in the South China Sea.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces\n\nThe article emphasizes the direct encounters and clashes between the Chinese agents and Filipino troops during the airdrop mission to BRP Sierra Madre. It details the maneuvers and actions taken by both sides, including the Chinese agents' attempts to seize the supplies and the close proximity of their vessels to the Filipino soldiers.",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -3968,6 +4256,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -4115,6 +4415,18 @@
                 "Question": "Does the article discuss economic cooperation:",
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the military and territorial dispute between the Philippines and China over the Second Thomas Shoal in the South China Sea.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
                 "post_LLM_answer": "B"
             }
         ]
@@ -4283,6 +4595,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -4430,6 +4754,18 @@
                 "Question": "Does the article discuss economic cooperation:",
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
                 "post_LLM_answer": "B"
             }
         ]
@@ -4591,6 +4927,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations\n\nThe article primarily focuses on a specific incident involving a confrontation between Philippine troops and the Chinese coast guard in the South China Sea. It details the actions taken by both sides during the encounter and the subsequent statements made by military officials.",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -4751,6 +5099,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -4904,6 +5264,18 @@
                 "Question": "Does the article discuss economic cooperation:",
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations\n\nThe article primarily focuses on the specific incident involving allegations of Filipino sailors pointing guns at China's coastguard and the broader context of confrontations between the Philippines and China over the Second Thomas Shoal in the South China Sea.",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
                 "post_LLM_answer": "B"
             }
         ]
@@ -5059,6 +5431,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the Ministry of National Defence's call for a balanced solution to the South China Sea issue, emphasizing diplomatic approaches, dialogue, and consultation to avoid conflicts. The discussion is centered around security and international law rather than economic cooperation.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "C) Negotiations and Diplomatic Efforts\n\nThe article focuses on the Ministry of National Defence's call for a \"balanced solution\" to the South China Sea issue, emphasizing diplomatic approaches, dialogue, and consultation to resolve disputes. It highlights Cambodia's commitment to avoiding conflict and supporting international law, as well as ASEAN's efforts towards peaceful resolutions and developing an effective code of conduct.",
+                "post_LLM_answer": "C"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -5213,6 +5597,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes\n\nThe article does discuss economic cooperation, particularly in the context of the relationship between China and Russia. It mentions how the growth of overall Chinese trade has provided an economic lifeline to Russia, with bilateral trade growing significantly. The article also touches on the US objections to this trade and the implications of \"dual use\" items being exported from China to Russia.",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article primarily focuses on the broader geopolitical implications of the US-NATO conflict with Russia over Ukraine, particularly highlighting Ukrainian President Volodymyr Zelensky's criticism of China and the escalating tensions between the US and China. It discusses the global character of the conflict, the economic and military dimensions, and the potential for a wider international confrontation. While it touches on incidents, opinions, negotiations, and military alliances, the main thrust is the overarching geopolitical dynamics and the potential for broader conflict.",
+                "post_LLM_answer": "E"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes the geopolitical tensions and criticisms exchanged between Ukraine, China, and the US, particularly focusing on Ukrainian President Volodymyr Zelensky's condemnation of China for not opposing Russia in the context of the ongoing conflict in Ukraine. It also highlights the broader implications of these tensions, including the US's military build-up in the Indo-Pacific and the potential for a wider global conflict. The article does not focus specifically on diplomatic meetings, direct naval clashes, statements from political leaders, or joint military exercises and defense partnerships, although these elements are mentioned in the broader context.",
+                "post_LLM_answer": "E"
             }
         ]
     },
@@ -5366,6 +5762,18 @@
                 "Question": "Does the article discuss economic cooperation:",
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
                 "post_LLM_answer": "B"
             }
         ]
@@ -5527,6 +5935,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the military and territorial dispute between the Philippines and China over the Second Thomas Shoal in the South China Sea.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations\n\nThe article primarily focuses on the incident where the Philippine military rejected Chinese allegations that its troops pointed guns at the Chinese coast guard. It details the confrontation at the Second Thomas Shoal and the ongoing disputes between the Philippines and China over the area.",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -5687,6 +6107,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations\n\nThe article primarily focuses on the incidents and confrontations between the Philippine military and China's coast guard over the Second Thomas Shoal in the South China Sea. It details the specific accusations, denials, and actions taken by both sides, highlighting the ongoing tensions and disputes in the region.",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -5846,6 +6278,18 @@
                 "Question": "Does the article discuss economic cooperation:",
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations\n\nThe article primarily focuses on the incident involving allegations by China that Philippine troops pointed guns at its coast guard, and the subsequent rejection of these allegations by the Philippine military. It details the specific confrontation at the Second Thomas Shoal and the broader context of repeated flare-ups between the two countries in the disputed South China Sea.",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
                 "post_LLM_answer": "B"
             }
         ]
@@ -6008,6 +6452,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article primarily discusses geopolitical and military issues, focusing on tensions and conflicts involving China, the United States, and other countries. It does not address economic cooperation.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article primarily focuses on the broader geopolitical tensions and the significant themes discussed at the Shangri-La Dialogue, including China's assertive behavior in the Asia-Pacific region, the ongoing conflicts in Ukraine and Gaza, and the potential implications of former US President Donald Trump's legal issues and possible return to office. While it touches on incidents, opinions, negotiations, and alliances, the overarching theme is the high-stakes geopolitical environment and the interactions between key global players at the defense summit.",
+                "post_LLM_answer": "E"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders, highlighting their speeches, warnings, and responses to questions during the Shangri-La Dialogue. It covers the interactions and viewpoints of leaders from various countries, including the Philippines, China, the United States, Ukraine, and Indonesia, among others.",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -6167,6 +6623,18 @@
                 "Question": "Does the article discuss economic cooperation:",
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations\n\nThe article primarily focuses on the incident where the Chinese state media claimed that Filipino troops pointed guns at the China Coast Guard, and the subsequent denial and explanation by the Armed Forces of the Philippines.",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
                 "post_LLM_answer": "B"
             }
         ]
@@ -6328,6 +6796,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -6482,6 +6962,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes\n\nThe article discusses economic cooperation, particularly in the context of Malaysia's trade relationships with China and the United States. It highlights the tension between prioritizing short-term trade benefits with China and addressing long-term strategic and territorial conflicts in the South China Sea.",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the opinions and statements made by Toshi Yoshihara, an American expert on China’s military, regarding Malaysia's approach to China's claims in the South China Sea. It also includes statements from former Malaysian prime minister Mahathir Mohamad, current Prime Minister Anwar Ibrahim, and Philippine President Ferdinand Marcos Jnr, among others.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article primarily emphasizes the statements and perspectives from political leaders and experts regarding Malaysia's stance on China's claims in the South China Sea. It highlights the views of Toshi Yoshihara, former Malaysian prime minister Mahathir Mohamad, and current Prime Minister Anwar Ibrahim, among others.",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -6649,6 +7141,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces\n\nThe article emphasizes the direct encounters and clashes between the Philippine military and Chinese Coast Guard vessels in the South China Sea, specifically addressing the allegations and responses related to these encounters.",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -6803,6 +7307,18 @@
                 "Question": "Does the article discuss economic cooperation:",
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
                 "post_LLM_answer": "B"
             }
         ]
@@ -6964,6 +7480,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article focuses on the statements made by the Philippine military denying Chinese allegations and asserting that their troops acted professionally.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -7123,6 +7651,18 @@
                 "Question": "Does the article discuss economic cooperation:",
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
                 "post_LLM_answer": "B"
             }
         ]
@@ -7284,6 +7824,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article primarily discusses the strategic and security implications of the United States' alliances with Japan and the Philippines in the context of Chinese expansionism in the East and South China Seas. It does not delve into economic cooperation between the countries. While it mentions the economic significance of the regions in terms of trade routes and the importance of freedom of navigation, the focus remains on military and security commitments rather than economic cooperation.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "D) Military Alliances and Exercises\n\nThe article primarily focuses on the importance of the United States' military alliances with Japan and the Philippines in the context of countering Chinese expansionism. It discusses the strategic significance of these alliances, the potential consequences of ambiguity in U.S. security commitments, and the broader implications for regional stability and U.S. national interests.",
+                "post_LLM_answer": "D"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes the strategic importance of defending Japan and the Philippines against Chinese expansionism, arguing that such defense is not entrapment but rather essential for upholding the rule of law, ensuring freedom of navigation, and protecting critical trade routes and strategic commons. It discusses the broader geopolitical implications and the necessity of clear security commitments from the United States to its allies in the region.",
+                "post_LLM_answer": "E"
             }
         ]
     },
@@ -7432,6 +7984,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -7586,6 +8150,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article primarily discusses the meeting between Ukrainian President Volodymyr Zelenskyy and Philippine President Ferdinand Marcos Jr, focusing on their discussions about the upcoming peace summit in Switzerland and the Philippines' support for Ukraine in its conflict with Russia. There is no mention of economic cooperation between the two countries in the article.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "C) Negotiations and Diplomatic Efforts\n\nThe article primarily focuses on the diplomatic efforts and negotiations between the Philippines and Ukraine, particularly in the context of the upcoming peace summit in Switzerland aimed at addressing the Ukraine war. It highlights the meeting between Ukrainian President Volodymyr Zelenskyy and Philippine President Ferdinand Marcos Jr, their discussions on peace initiatives, and the Philippines' support for Ukraine.",
+                "post_LLM_answer": "C"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "A) Diplomatic meetings and agreements between countries\n\nThe article emphasizes the diplomatic meetings and agreements between countries, specifically focusing on the meeting between Ukrainian President Volodymyr Zelenskyy and Philippine President Ferdinand Marcos Jr. It highlights their discussions about the upcoming peace summit in Switzerland, the Philippines' support for Ukraine, and the potential opening of a Ukrainian embassy in the Philippines.",
+                "post_LLM_answer": "A"
             }
         ]
     },
@@ -7734,6 +8310,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the condemnation by Filipino senators of the actions of the China Coast Guard against Filipino soldiers, including the seizure of supplies and harassment of medical evacuation operations. The article highlights the senators' calls for international legal action and the protection of Philippine sovereignty, but it does not mention any aspects of economic cooperation between the countries.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the opinions and statements of various Filipino senators condemning the actions of the China Coast Guard against Filipino soldiers at Ayungin Shoal. The senators express their outrage, cite international laws, and suggest possible actions in response to the incidents.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -7901,6 +8489,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on President Ferdinand Marcos Jr.'s recognition of historical treaties to reinforce the Philippines' territorial claims, particularly in the West Philippine Sea, and the implications of these claims in the context of international disputes with China.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the opinions and statements made by President Ferdinand Marcos Jr. and retired Supreme Court Senior Associate Justice Antonio Carpio regarding the historical treaties that define Philippine sovereignty and their implications for the country's territorial claims, particularly in the West Philippine Sea.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives of President Ferdinand Marcos Jr. and retired Supreme Court Senior Associate Justice Antonio Carpio regarding the historical treaties that define Philippine sovereignty and their implications for the country's territorial claims, particularly in the West Philippine Sea.",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -8068,6 +8668,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article primarily discusses geopolitical tensions and security concerns between China, the United States, and other countries in the South China Sea region. It does not focus on economic cooperation.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the opinions and statements made by Chinese and American officials regarding the geopolitical tensions in the South China Sea. It highlights the warnings, accusations, and responses from both sides, reflecting their respective stances and concerns.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -8222,6 +8834,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article primarily discusses various economic indicators, central bank policies, geopolitical risks, and market reactions. It does not focus on economic cooperation.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article primarily focuses on the pervasive nature of geopolitical risk and its impact on various economic indicators, financial markets, and central bank policies. It discusses how geopolitical events and uncertainties are influencing economic conditions, market reactions, and investment strategies, rather than focusing specifically on incidents, opinions, negotiations, military alliances, or exercises.",
+                "post_LLM_answer": "E"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article emphasizes the pervasive nature of geopolitical risk and its impact on various economic and financial aspects, including inflation, central bank policies, market reactions, and investment strategies. It discusses how geopolitical developments influence economic indicators, market behavior, and the creation of financial products like ETFs designed to hedge against such risks. The focus is on the broad and multifaceted implications of geopolitical risk rather than specific diplomatic meetings, naval encounters, political statements, or military exercises.",
+                "post_LLM_answer": "E"
             }
         ]
     },
@@ -8382,6 +9006,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article primarily discusses China's aggressive actions in the South China Sea, the issues surrounding Philippine Offshore Gaming Operators (POGOs), and the personal mourning of a friend. It does not delve into economic cooperation between China and the Philippines.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on expressing opinions and statements regarding China's actions in the South China Sea, the impact on Filipino fishermen, the Philippine government's response, and the issues surrounding Philippine Offshore Gaming Operators (POGOs). It includes personal viewpoints and concerns about the situation rather than detailing specific incidents, negotiations, or military alliances.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes China's aggressive actions and claims in the South China Sea, the impact on Filipino fishermen and the Philippine coast guard, and the issues surrounding Philippine Offshore Gaming Operators (POGOs) and their associated problems. It does not focus on diplomatic meetings, direct naval clashes, statements from political leaders, or joint military exercises and defense partnerships.",
+                "post_LLM_answer": "E"
             }
         ]
     },
@@ -8543,6 +9179,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the comparison between King George VI's speech and President Ferdinand Marcos Jr.'s address at the IISS Shangri-la Dialogue, emphasizing themes of national sovereignty, geopolitical tensions, and military defense.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article primarily focuses on drawing a parallel between King George VI's speech in the film \"The King's Speech\" and President Ferdinand Marcos Jr.'s keynote address at the IISS Shangri-la Dialogue. It highlights how both speeches served to galvanize their respective nations in the face of significant external threats. The article emphasizes the impact of President Marcos' speech on national unity and his stance on defending the Philippines' sovereignty against China's actions in the South China Sea.",
+                "post_LLM_answer": "E"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes the significance of President Ferdinand Marcos Jr.'s speech at the IISS Shangri-la Dialogue, drawing a parallel to King George VI's speech in \"The King's Speech.\" It highlights how both speeches served to galvanize their respective nations in the face of external threats and challenges. The focus is on the impact of the speech in uniting the Filipino people and asserting national sovereignty, rather than on diplomatic meetings, direct naval encounters, statements from other political leaders, or joint military exercises.",
+                "post_LLM_answer": "E"
             }
         ]
     },
@@ -8709,6 +9357,18 @@
                 "Question": "Does the article discuss economic cooperation:",
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "C) Negotiations and Diplomatic Efforts\n\nThe article primarily focuses on the diplomatic efforts and negotiations undertaken by Volodymyr Zelensky, the President of Ukraine, as well as the foreign policy stance of the Philippines under President Ferdinand R. Marcos. It highlights Zelensky's relentless diplomacy to garner international support for Ukraine and the Philippines' assertive foreign policy in response to regional tensions and global geopolitical dynamics.",
+                "post_LLM_answer": "C"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "A) Diplomatic meetings and agreements between countries\n\nThe article emphasizes the diplomatic efforts and meetings between countries, particularly focusing on Volodymyr Zelensky's relentless diplomacy and the Philippines' foreign policy stance. It highlights Zelensky's visits and speeches to garner international support for Ukraine, as well as the Philippines' diplomatic actions and alliances in response to regional tensions and global political dynamics.",
                 "post_LLM_answer": "A"
             }
         ]
@@ -8877,6 +9537,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article primarily discusses military and defense activities, including the deployment of Canadian navy ships to the Indo-Pacific region, participation in the RIMPAC exercise, and the geopolitical tensions in the area. It does not address economic cooperation.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "D) Military Alliances and Exercises",
+                "post_LLM_answer": "D"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "D) Joint military exercises and defense partnerships\n\nThe article emphasizes the deployment of Canadian navy ships to participate in the largest joint maritime exercise in the world, RIMPAC, and the broader context of defense partnerships and military presence in the Indo-Pacific region.",
+                "post_LLM_answer": "D"
             }
         ]
     },
@@ -9044,6 +9716,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article primarily focuses on the diplomatic and security-related discussions between Ukrainian President Volodymyr Zelenskyy and Philippine President Ferdinand Marcos Jr., particularly in the context of their criticisms of China and the upcoming Ukraine summit in Switzerland. There is no mention of economic cooperation between Ukraine and the Philippines in the article.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "C) Negotiations and Diplomatic Efforts\n\nThe article primarily focuses on the diplomatic efforts and negotiations between Ukrainian President Volodymyr Zelenskyy and Philippine President Ferdinand Marcos Jr. to strengthen their bilateral ties, discuss participation in an upcoming Ukraine summit, and address issues related to China's actions in the region.",
+                "post_LLM_answer": "C"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "A) Diplomatic meetings and agreements between countries",
+                "post_LLM_answer": "A"
             }
         ]
     },
@@ -9204,6 +9888,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation between Ukraine and the Philippines. It focuses on their diplomatic and security-related discussions, criticisms of China, and plans for a Ukraine summit.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "C) Negotiations and Diplomatic Efforts\n\nThe article primarily focuses on the diplomatic efforts and negotiations between Ukrainian President Volodymyr Zelenskyy and Philippine President Ferdinand Marcos Jr. to strengthen their bilateral ties, discuss participation in the upcoming Ukraine summit, and address their shared concerns regarding China's actions.",
+                "post_LLM_answer": "C"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "A) Diplomatic meetings and agreements between countries",
+                "post_LLM_answer": "A"
             }
         ]
     },
@@ -9364,6 +10060,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the Armed Forces of the Philippines (AFP) denying accusations from China that personnel aboard the BRP Sierra Madre pointed guns at the Chinese Coast Guard (CCG). The article also mentions the Philippines' intention to file a diplomatic protest against China and provides context about territorial claims in the South China Sea.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations\n\nThe article primarily focuses on the incident involving the Armed Forces of the Philippines (AFP) and the Chinese Coast Guard (CCG) in the West Philippine Sea, where the AFP denies accusations that their personnel pointed guns at the CCG. It details the confrontation, the actions taken by both sides, and the subsequent diplomatic response.",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces\n\nThe article emphasizes the direct encounters and clashes between the personnel aboard the BRP Sierra Madre and the Chinese Coast Guard (CCG). It discusses the accusations from China, the denial from the Armed Forces of the Philippines (AFP), and the specific incidents involving the two naval forces, such as the alleged pointing of guns and the confiscation of supply drops.",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -9518,6 +10226,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes\n\nThe article does discuss economic cooperation, particularly in the context of China expressing its willingness to work with ASEAN members, including the Philippines, to manage differences at sea and deepen sea-related cooperation. This implies a form of economic cooperation related to maritime activities and trade.",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the opinions and statements made by various officials from China, the Philippines, and the United States regarding the South China Sea dispute. It includes remarks from China's Foreign Ministry, Philippine President Ferdinand R. Marcos, Jr., Senator Emmanuel Joel J. Villanueva, and Senate President Francis \"Chiz\" G. Escudero, as well as a Chinese Major General.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -9672,6 +10392,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article primarily discusses the Philippines' participation in a peace summit on the Ukraine war, the meeting between Ukrainian President Volodymyr Zelensky and Philippine President Ferdinand Marcos Jr, and their shared criticisms of China. It does not delve into economic cooperation between the two countries.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "C) Negotiations and Diplomatic Efforts\n\nThe article primarily focuses on the diplomatic efforts and negotiations surrounding the Ukraine war, including the Philippines' participation in the upcoming peace summit in Switzerland, the meeting between Ukrainian President Volodymyr Zelensky and Philippine President Ferdinand Marcos Jr, and their discussions on promoting peace and resolving the conflict.",
+                "post_LLM_answer": "C"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "A) Diplomatic meetings and agreements between countries",
+                "post_LLM_answer": "A"
             }
         ]
     },
@@ -9832,6 +10564,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article primarily discusses China's expanding security and military presence in the Pacific, particularly through the activities of the China Coast Guard and its hybrid warfare tactics. It does not focus on economic cooperation.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article primarily focuses on China's strategic expansion and hybrid warfare tactics in the Pacific region, including the use of the China Coast Guard and other means to increase its military and intelligence presence. It discusses China's gray-zone activities, foreign interference, and the implications for regional security, rather than specific incidents, opinions, negotiations, or military alliances and exercises.",
+                "post_LLM_answer": "E"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes China's hybrid warfare strategy in the Pacific, focusing on the expansion and activities of the China Coast Guard and the broader implications for regional security. It discusses China's use of gray-zone tactics, dual-use military-civil activities, and the strategic challenges posed to the existing security order in the Pacific. The article does not focus on diplomatic meetings, direct naval clashes, statements from political leaders, or joint military exercises and defense partnerships.",
+                "post_LLM_answer": "E"
             }
         ]
     },
@@ -9987,6 +10731,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the opinions and statements made by China regarding the role of the United States in supporting the Philippines in the South China Sea, as well as the response from the Philippine president.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -10141,6 +10897,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes\n\nThe article does discuss economic cooperation, particularly in the context of China's willingness to continue cooperating with members of the Association of Southeast Asian Nations (Asean), including the Philippines, to manage differences and deepen maritime cooperation.",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the opinions and statements made by various parties, including the Chinese foreign ministry, the Philippine President Ferdinand Marcos Jnr, and US officials, regarding the geopolitical situation and territorial disputes in the South China Sea.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -10289,6 +11057,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes espionage activities and accusations between Britain and China, specifically focusing on the recruitment of Chinese government employees by Britain's MI6 and the subsequent claims and investigations by China's Ministry of State Security.",
+                "post_LLM_answer": "E"
             }
         ]
     },
@@ -10456,6 +11236,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article primarily focuses on Chinese Defense Minister Dong Jun's speech at the Shangri-La Dialogue security forum, where he criticizes \"outside forces\" and addresses issues related to the South China Sea, Taiwan Strait, and U.S. military actions in the region. It does not discuss economic cooperation.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the opinions and statements made by Chinese Minister of National Defense Dong Jun and other Chinese delegates at the Shangri-La Dialogue security forum. It highlights their denunciation of \"outside forces,\" particularly the United States and its allies, and their stance on issues related to the South China Sea, Taiwan, and regional security dynamics.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article primarily emphasizes the statements and perspectives of Chinese Defense Minister Dong Jun and other political leaders regarding tensions in the Asia-Pacific region, particularly focusing on China's stance towards the United States, Taiwan, and the South China Sea.",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -10623,6 +11415,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on military and geopolitical tensions between China, the United States, and the Philippines in the South China Sea, as well as issues related to Taiwan and the Ukraine conflict.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the opinions and statements made by China's defense minister, Dong Jun, regarding the US's actions in the South China Sea, Taiwan's independence, and China's stance on the Ukraine conflict.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article primarily emphasizes the statements and perspectives of China's defense minister, Dong Jun, regarding the US and Philippines' military activities in the South China Sea, Taiwan's independence, and China's stance on the Ukraine conflict.",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -10790,6 +11594,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the opinions and statements made by both President Ferdinand Marcos Jr. and the Chinese Foreign Ministry regarding the sovereignty and territorial claims over the West Philippine Sea (South China Sea).",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -10957,6 +11773,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the Bureau of Fisheries and Aquatic Resources (BFAR) stating that there have been no reports of China stopping Filipino fishermen from fishing in the West Philippine Sea amid China's unilateral fishing ban. It also covers the Philippines' stance on the fishing ban, the presence of the Philippine Coast Guard and BFAR in the area, and the broader territorial disputes in the South China Sea.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the statements and opinions of the Bureau of Fisheries and Aquatic Resources (BFAR) spokesperson Nazario Briguera regarding the lack of reports of China interrupting Filipino fishermen in the West Philippine Sea amid China's unilateral fishing ban. It also includes the position of the Department of Foreign Affairs and the actions taken by the Philippine Coast Guard and BFAR to ensure the safety and rights of Filipino fishermen.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes the Bureau of Fisheries and Aquatic Resources (BFAR) stating that there have been no reports of China stopping Filipino fishermen from fishing in the West Philippine Sea amid China's unilateral fishing ban. It also highlights the Philippines' stance of not recognizing China's fishing ban and the measures taken by the Philippine Coast Guard and BFAR to ensure Filipino fishermen can continue their activities.",
+                "post_LLM_answer": "E"
             }
         ]
     },
@@ -11124,6 +11952,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article primarily discusses China's approach to global security, its stances on the Taiwan question and the South China Sea issue, and the differences between China's and the US's security strategies. It does not delve into economic cooperation.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the opinions and statements made by Chinese Defense Minister Dong Jun regarding China's approach to global security, as well as the responses and interpretations of these statements by various experts and officials. The article also contrasts Dong's speech with that of US Secretary of Defense Lloyd Austin, highlighting differing perspectives on regional and global security.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article primarily emphasizes the statements and perspectives of Chinese Defense Minister Dong Jun and other political leaders regarding China's approach to global security, the Taiwan question, and the South China Sea issue. It also contrasts these perspectives with those of US Secretary of Defense Lloyd Austin and discusses the broader geopolitical implications.",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -11278,6 +12118,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -11432,6 +12284,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "C) Negotiations and Diplomatic Efforts\n\nThe article primarily focuses on the ongoing negotiations and diplomatic efforts between the Philippines and China to maintain and enhance their trade relations despite the tensions and confrontations in the South China Sea. It discusses the strategies and areas of cooperation that the Philippines is exploring to attract Chinese investment and boost trade, particularly in sectors like agriculture, renewable energy, and green metals manufacturing.",
+                "post_LLM_answer": "C"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes the economic and trade relations between the Philippines and China, despite the ongoing territorial disputes in the South China Sea. It focuses on the potential for robust and stable trade, particularly in areas like tropical agricultural products and green-energy sectors, and discusses the challenges and opportunities in maintaining and enhancing these economic ties.",
+                "post_LLM_answer": "E"
             }
         ]
     },
@@ -11592,6 +12456,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the opinions and statements made by the Chinese Ministry of Foreign Affairs regarding the role of the United States and the Philippines in escalating tensions in the South China Sea.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -11752,6 +12628,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes\n\nThe article discusses economic cooperation in the context of climate finance and equity issues at COP29. It highlights the need for increased climate finance, the commitment from developed countries to mobilize funds for developing economies, and the importance of addressing the needs and priorities of vulnerable countries.",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "C) Negotiations and Diplomatic Efforts\n\nThe article primarily focuses on the negotiations and diplomatic efforts surrounding climate action, finance, and equity at the upcoming COP29 talks. It discusses the need for increased climate finance, equity issues, and the geopolitical and socio-economic challenges that countries face in meeting climate goals.",
+                "post_LLM_answer": "C"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes the need for finance and equity to be the core focus of the COP29 talks, addressing climate finance, equity issues, and the challenges faced by vulnerable countries in the context of global climate negotiations. It does not focus on diplomatic meetings, direct encounters between naval forces, statements from political leaders, or military exercises.",
+                "post_LLM_answer": "E"
             }
         ]
     },
@@ -11906,6 +12794,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on geopolitical tensions and military interactions between China, the Philippines, and the United States in the South China Sea.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the opinions and statements made by various parties, including China's foreign ministry, the Philippine president, and the context provided by the news agencies. It highlights the differing perspectives and accusations regarding the situation in the South China Sea.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article primarily emphasizes the statements and perspectives from political leaders, including China's foreign ministry, the Philippine president Ferdinand Marcos Jr, and the broader context of US-Philippines relations in the South China Sea dispute.",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -12061,6 +12961,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article primarily focuses on the themes of finance and equity in the context of the upcoming COP29 climate talks. It discusses the need for increased climate finance, the importance of addressing equity issues, and the challenges posed by geopolitical tensions and socio-economic factors. While it touches on various aspects such as negotiations, statements, and diplomatic efforts, the core focus is on how finance and equity should be central to the discussions at COP29.",
+                "post_LLM_answer": "E"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article emphasizes the need for finance and equity to be the core focus of COP29 talks, particularly in facilitating adaptation in vulnerable countries. It discusses the challenges and issues related to climate finance, equity, and the role of various stakeholders in achieving climate goals. The options provided (A, B, C, D) do not accurately capture the main emphasis of the article.",
+                "post_LLM_answer": "E"
             }
         ]
     },
@@ -12228,6 +13140,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the opinions and statements made by Beijing and the Philippine President regarding the U.S. role in the South China Sea dispute.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -12389,6 +13313,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "C) Negotiations and Diplomatic Efforts",
+                "post_LLM_answer": "C"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "A) Diplomatic meetings and agreements between countries",
+                "post_LLM_answer": "A"
             }
         ]
     },
@@ -12543,6 +13479,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation between Ukraine and the Philippines. It focuses on the meeting between Ukrainian President Volodymyr Zelensky and Philippine President Ferdinand Marcos Jnr, their commitment to sovereignty and a global rules-based order, and the geopolitical implications of the Ukraine-Russia war and the South China Sea dispute.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "C) Negotiations and Diplomatic Efforts\n\nThe article primarily focuses on the diplomatic meeting between Ukrainian President Volodymyr Zelensky and Philippine President Ferdinand Marcos Jnr, highlighting their discussions on sovereignty, international rules-based order, and efforts to promote peace. It also touches on the broader geopolitical context and the Philippines' evolving stance on the Ukraine-Russia war.",
+                "post_LLM_answer": "C"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "A) Diplomatic meetings and agreements between countries\n\nThe article emphasizes the diplomatic meeting between Ukrainian President Volodymyr Zelensky and Philippine President Ferdinand Marcos Jnr, highlighting their discussions on sovereignty, international rules-based order, and the opening of a Ukrainian embassy in Manila.",
+                "post_LLM_answer": "A"
             }
         ]
     },
@@ -12710,6 +13658,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the opinions and statements made by various officials from China, the United States, and the Philippines regarding the situation in the South China Sea. It highlights China's criticism of the U.S. role, the U.S. Defense Secretary's comments on maritime freedom, and the Philippine President's remarks on the need for responsible management of U.S.-China rivalry.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -12870,6 +13830,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes\n\nThe article does discuss economic cooperation, as it mentions that China is willing to continue to work with ASEAN countries, including the Philippines, to manage differences at sea and deepen sea-related cooperation.",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the opinions and statements made by China regarding the role of the United States in supporting the Philippines in the South China Sea, as well as the response from the Philippine president.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -13024,6 +13996,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -13184,6 +14168,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on geopolitical tensions and maritime issues in the South China Sea, particularly the roles and actions of China, the United States, and the Philippines.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -13344,6 +14340,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -13504,6 +14512,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation between Ukrainian President Volodymyr Zelenskyy and Philippine President Ferdinand Marcos Jr. It focuses on their meeting and their shared criticisms of China, particularly in the context of the Shangri-La Dialogue defense summit.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "C) Negotiations and Diplomatic Efforts\n\nThe article focuses on the meeting between Ukrainian President Volodymyr Zelenskyy and Philippine President Ferdinand Marcos Jr., highlighting their discussions and efforts to address common issues, particularly in the context of their shared stance against China's actions. The article also mentions their participation in the Shangri-La Dialogue, where they both delivered statements critical of China, further emphasizing their diplomatic efforts.",
+                "post_LLM_answer": "C"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders, specifically focusing on the critical remarks made by Ukrainian President Volodymyr Zelenskyy and Philippine President Ferdinand Marcos Jr. against China during the Shangri-La Dialogue summit. It also highlights their subsequent meeting to discuss common issues and potential ways forward for their countries.",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -13664,6 +14684,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the opinions and statements made by Chinese officials regarding the U.S. support for the Philippines in the South China Sea disputes. It highlights China's criticism of the U.S. role and its willingness to work with ASEAN countries to manage maritime disputes.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -13831,6 +14863,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on a specific incident involving the Philippine personnel and the Chinese Coast Guard, as well as the broader context of territorial disputes and confrontations in the South China Sea.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations\n\nThe article primarily focuses on specific incidents and confrontations between the Philippines and China in the South China Sea, including the alleged pointing of guns by Philippine personnel at the Chinese Coast Guard and other recent tensions and confrontations in the region.",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -13991,6 +15035,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation between Ukraine and the Philippines. It focuses on the meeting between Ukrainian President Volodymyr Zelenskiy and Philippine President Ferdinand Marcos Jr., their discussions on common issues, and their critical statements about China.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "C) Negotiations and Diplomatic Efforts\n\nThe article focuses on the diplomatic meeting between Ukrainian President Volodymyr Zelenskiy and Philippine President Ferdinand Marcos Jr., discussing common issues and seeking ways to collaborate. It also highlights Zelenskiy's appeal to Asia-Pacific countries for support and Marcos's criticism of China's actions in the South China Sea, indicating ongoing diplomatic efforts and negotiations.",
+                "post_LLM_answer": "C"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -14150,6 +15206,18 @@
                 "Question": "Does the article discuss economic cooperation:",
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
                 "post_LLM_answer": "B"
             }
         ]
@@ -14318,6 +15386,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes\n\nThe article does discuss economic cooperation, particularly in the context of Japan's long-standing economic engagement in Southeast Asia. It mentions that Japan has built \"strategic capital\" through pragmatic cooperation and economic engagement over decades in the region. This economic aspect is highlighted as a unique strength for Japan, which could be eroded if Japan is perceived as merely an extension of the United States in geopolitical matters. Additionally, the article touches on China's significant economic influence in the region and the importance of economic considerations in the broader geopolitical landscape.",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the opinions and statements of various experts and officials regarding Japan's approach to the South China Sea tensions, its defense cooperation with the Philippines, and the broader geopolitical dynamics involving China and the United States.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes the need for Japan to take a cautious and balanced approach amid the tensions in the South China Sea, considering the complex geopolitical dynamics involving China, the United States, and Southeast Asian nations. It discusses the strategic considerations and potential consequences of Japan's actions in the region, rather than focusing solely on diplomatic meetings, direct encounters, statements from political leaders, or joint military exercises.",
+                "post_LLM_answer": "E"
             }
         ]
     },
@@ -14466,6 +15546,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article primarily discusses military and defense cooperation between Australia, China, and the Philippines. It does not mention economic cooperation.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "C) Negotiations and Diplomatic Efforts\n\nThe article primarily focuses on Australia's efforts to initiate and enhance military talks with China and to strengthen its strategic relationship with the Philippines. These actions are part of broader diplomatic and negotiation efforts to manage regional security dynamics and improve defense dialogues.",
+                "post_LLM_answer": "C"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "A) Diplomatic meetings and agreements between countries",
+                "post_LLM_answer": "A"
             }
         ]
     },
@@ -14620,6 +15712,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes\n\nThe article does discuss economic cooperation, particularly in the context of the United States, Japan, and South Korea pledging to work closely to boost economic security. This includes initiatives like the Minerals Security Partnership projects aimed at reducing reliance on China and Russia for critical resources needed in high-tech applications.",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "C) Negotiations and Diplomatic Efforts\n\nThe article primarily focuses on the diplomatic efforts and negotiations involving the United States, Japan, South Korea, and their collective stance on China's support for Russia in the context of the Ukraine war. It discusses the potential actions that could be taken against Chinese firms and financial institutions, the meetings between U.S. officials and their counterparts from Japan and South Korea, and the broader diplomatic context involving these nations.",
+                "post_LLM_answer": "C"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "A) Diplomatic meetings and agreements between countries\n\nThe article primarily emphasizes diplomatic meetings and agreements between countries, particularly focusing on the United States, Japan, and South Korea's cooperation in response to China's support for Russia in the Ukraine conflict. It also highlights discussions and statements made by political leaders during these diplomatic engagements.",
+                "post_LLM_answer": "A"
             }
         ]
     },
@@ -14773,6 +15877,18 @@
                 "Question": "Does the article discuss economic cooperation:",
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces",
                 "post_LLM_answer": "B"
             }
         ]
@@ -14953,6 +16069,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article primarily discusses geopolitical tensions and military issues related to the South China Sea, Taiwan, and the interactions between China, the Philippines, and the United States. It does not delve into economic cooperation.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the opinions and statements made by Chinese Defense Minister Dong Jun and Philippine President Ferdinand Marcos Jr. regarding the situation in the South China Sea, as well as the broader geopolitical tensions involving the United States, China, and other regional actors.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article primarily emphasizes the statements and perspectives from political leaders, particularly focusing on the warnings and comments made by China's Defense Minister Dong Jun and Philippine President Ferdinand Marcos Jr. regarding the South China Sea and related geopolitical tensions.",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -15120,6 +16248,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article primarily discusses the use of water cannons by coast guards, particularly focusing on the Philippine Coast Guard's stance that water cannons should only be used for saving lives and not for aggressive actions. It also touches on territorial disputes in the South China Sea and the need for dialogue and cooperation under international law. However, it does not specifically discuss economic cooperation.",
                 "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the opinions and statements made by Philippine Coast Guard (PCG) chief Admiral Ronnie Gil Gavan regarding the use of water cannons. It also includes statements from other officials, such as Ge Henwen from Beijing, on the same issue. The emphasis is on the viewpoints and declarations concerning the appropriate use of water cannons and the broader implications for maritime law enforcement and international relations.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces\n\nThe article emphasizes the use of water cannons by coast guards, particularly focusing on the confrontations between the Philippine Coast Guard (PCG) and other countries' coast guards, such as the China Coast Guard. It discusses the inappropriate use of water cannons in these encounters and the political and humanitarian implications of such actions.",
+                "post_LLM_answer": "B"
             }
         ]
     },
@@ -15280,6 +16420,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article primarily focuses on the geopolitical, environmental, and economic implications of Cambodia's new canal project on the Mekong River, particularly in relation to Vietnam. It discusses the potential benefits for Cambodia, the concerns raised by Vietnam, and the broader regional dynamics involving China and ASEAN. The article does not specifically center on incidents and confrontations, opinions and statements, negotiations and diplomatic efforts, or military alliances and exercises, although it touches on elements of these themes.",
+                "post_LLM_answer": "E"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes the geopolitical and environmental tensions arising from Cambodia's construction of the Funan Techo Canal, particularly focusing on the economic, environmental, and security concerns of Vietnam. It discusses the broader implications for regional dynamics and the influence of China in Southeast Asia, rather than focusing on diplomatic meetings, direct military encounters, political statements, or joint military exercises.",
+                "post_LLM_answer": "E"
             }
         ]
     },
@@ -15434,6 +16586,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes\n\nThe article does discuss economic cooperation, particularly in the context of regional cooperation through ASEAN. General Tea Seiha emphasizes the importance of promoting multilateral mechanisms and regional solidarity, which inherently includes economic cooperation among ASEAN member states and other countries in the Asia-Pacific region.",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "B) Opinions and Statements\n\nThe article primarily focuses on the opinions and statements made by Defence Minister General Tea Seiha regarding the security concerns and geopolitical issues in the Asia-Pacific region. It highlights his remarks at the Shangri-La Dialogue 2024 and his views on the importance of building cooperative security and regional cooperation through ASEAN.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "C) Statements and perspectives from political leaders",
+                "post_LLM_answer": "C"
             }
         ]
     },
@@ -15588,6 +16752,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes\n\nThe article does discuss economic cooperation, particularly in the context of the economic relationship and supply chain between China and the Philippines. It highlights how deeply intertwined these economies are, spanning various sectors such as manufacturing, infrastructure, real estate, energy, and technology. The article also touches on the potential impact of US sanctions on Chinese interests and how this could affect Philippine businesses, emphasizing the importance of compliance and risk management in this interconnected economic landscape.",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article primarily focuses on the implications of OFAC sanctions violations for businesses, particularly those based in the Philippines. It discusses the financial, legal, and operational challenges that can arise from non-compliance with these sanctions and provides recommendations for companies to mitigate these risks. The article does not center on incidents, confrontations, opinions, statements, negotiations, diplomatic efforts, or military alliances and exercises.",
+                "post_LLM_answer": "E"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes the importance of compliance with OFAC sanctions for companies in the Philippines, the potential financial and operational impacts of non-compliance, and the steps businesses can take to mitigate these risks. It does not focus on diplomatic meetings, direct military encounters, political statements, or joint military exercises.",
+                "post_LLM_answer": "E"
             }
         ]
     },
@@ -15748,6 +16924,18 @@
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "A) Yes",
                 "post_LLM_answer": "A"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article primarily focuses on the economic aspect of foreign direct investments (FDIs) in the Philippines, analyzing why the country is lagging behind its regional counterparts in attracting these investments and what opportunities exist to improve the situation. It discusses factors such as barriers to entry in the manufacturing sector, geopolitical tensions, and potential areas for investment like industrial parks and nickel mining.",
+                "post_LLM_answer": "E"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "E) None of the above\n\nThe article emphasizes the challenges and opportunities related to foreign direct investments (FDIs) in the Philippines, particularly in the context of regional competition and economic factors. It discusses the country's lagging position in attracting FDIs compared to other Southeast Asian nations, the barriers to entry in the local manufacturing sector, and the impact of geopolitical tensions with China. The article also highlights potential investment opportunities in industrial parks and nickel mining.",
+                "post_LLM_answer": "E"
             }
         ]
     },
@@ -15907,6 +17095,18 @@
                 "Question": "Does the article discuss economic cooperation:",
                 "Answers": "A) Yes B) No",
                 "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the geopolitical tensions and military confrontations between China, the Philippines, and the United States in the South China Sea. The article highlights issues related to territorial disputes, military deployments, and diplomatic stances, but it does not address any aspects of economic cooperation.",
+                "post_LLM_answer": "B"
+            },
+            {
+                "Question": "What aspect does the article focus on:",
+                "Answers": "A) Incidents and Confrontations B) Opinions and Statements C) Negotiations and Diplomatic Efforts D) Military Alliances and Exercises E) None of the above",
+                "LLM_answer": "A) Incidents and Confrontations\n\nThe article primarily focuses on the incidents and confrontations between China and the Philippines in the South China Sea, including the use of water cannons, collisions, and the pointing of guns. It also highlights the broader context of military tensions and the potential limits to China's restraint in response to these provocations.",
+                "post_LLM_answer": "A"
+            },
+            {
+                "Question": "Which aspect does the article emphasize:",
+                "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+                "LLM_answer": "B) Direct encounters and clashes between naval forces\n\nThe article emphasizes the direct encounters and clashes between Chinese and Philippine naval forces in the South China Sea. It highlights incidents such as the use of water cannons by China Coast Guard vessels against Philippine boats, collisions that injured Filipino troops, and the alleged pointing of guns by personnel on a Philippine ship at China's Coast Guard. These confrontations are central to the article's discussion of the escalating tensions in the region.",
                 "post_LLM_answer": "B"
             }
         ]

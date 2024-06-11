@@ -36,9 +36,9 @@
         "sentiment": null,
         "wgt": 455231397,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No"
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders"
     },
     {
         "uri": "8160846763",
@@ -77,9 +77,9 @@
         "sentiment": null,
         "wgt": 455190921,
         "relevance": 26,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No"
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "B) Direct encounters and clashes between naval forces"
     },
     {
         "uri": "8160845747",
@@ -118,9 +118,9 @@
         "sentiment": null,
         "wgt": 455190876,
         "relevance": 26,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the ongoing territorial disputes and conflicts between China and the Philippines in the South China Sea, specifically focusing on recent incidents involving military actions and diplomatic responses. There is no mention of economic cooperation between the two countries in the article."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "B) Direct encounters and clashes between naval forces"
     },
     {
         "uri": "8160843195",
@@ -153,9 +153,9 @@
         "sentiment": null,
         "wgt": 455190868,
         "relevance": 26,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the ongoing territorial disputes and military tensions between China and the Philippines in the South China Sea."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "B) Direct encounters and clashes between naval forces"
     },
     {
         "uri": "8160609175",
@@ -188,9 +188,9 @@
         "sentiment": null,
         "wgt": 455181874,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses diplomatic tensions and disagreements between China and South Korea regarding Taiwan and the South China Sea. It does not mention economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders regarding the Taiwan and South China Sea issues. It highlights the diplomatic exchanges and the positions taken by China, South Korea, and their respective allies (the U.S. and Japan) on these matters."
     },
     {
         "uri": "8160481764",
@@ -223,9 +223,9 @@
         "sentiment": null,
         "wgt": 455176260,
         "relevance": 26,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. Instead, it focuses on the political and strategic implications of the meeting between Ukrainian President Volodymyr Zelensky and Philippine President Ferdinand Marcos Jr., particularly in the context of geopolitical tensions and the South China Sea issue. The article also highlights the concerns raised by a Philippine political organization about the potential risks of aligning too closely with the United States and becoming involved in conflicts similar to the Russia-Ukraine war."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article emphasizes the political implications and potential risks of the meeting between Ukrainian President Zelensky and Philippine President Marcos, particularly in the context of geopolitical tensions involving China, the United States, and the South China Sea. It discusses the reactions and concerns within the Philippines regarding the country's stance and potential alignment with U.S. interests, as well as the criticism from local political groups."
     },
     {
         "uri": "8160414781",
@@ -258,9 +258,9 @@
         "sentiment": null,
         "wgt": 455172752,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses geopolitical and security issues, such as U.S.-China relations, the Taiwan issue, the South China Sea, the Russia-Ukraine conflict, and the Israel-Palestine conflict. It does not focus on economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article emphasizes the notion that the Shangri-La Dialogue has become a platform where the U.S. and its allies propagate their perspectives, particularly focusing on the perceived threat from China. It discusses how the event has turned into a venue for reinforcing a specific narrative rather than fostering genuine dialogue. The article also highlights the strategic competition between the U.S. and China, the pressures on Southeast Asian countries to choose sides, and the various geopolitical issues discussed at the event, such as the Taiwan issue, the South China Sea, and the Russia-Ukraine conflict."
     },
     {
         "uri": "8160401337",
@@ -293,9 +293,9 @@
         "sentiment": null,
         "wgt": 455172061,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes the complex and multifaceted relationship between the Philippines and China, particularly focusing on the economic and trade aspects amidst rising tensions in the South China Sea. It highlights the Philippines' desire to maintain and strengthen trade relations with China despite the geopolitical conflicts and diplomatic strains."
     },
     {
         "uri": "8160309242",
@@ -328,9 +328,9 @@
         "sentiment": null,
         "wgt": 455166668,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the tensions and confrontations between China and the Philippines over the Ren'ai Reef (Second Thomas Shoal) in the South China Sea. It focuses on the recent incidents involving the interception of Philippine vessels by the Chinese Coast Guard, the dumping of supplies into the sea, and the broader geopolitical implications of these actions. There is no mention of economic cooperation between the two countries in the article."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "B) Direct encounters and clashes between naval forces\n\nThe article emphasizes the direct encounters and clashes between Chinese and Philippine naval forces, particularly focusing on the interception of Philippine vessels by Chinese coast guards and the subsequent actions taken by both sides."
     },
     {
         "uri": "8160249731",
@@ -363,9 +363,9 @@
         "sentiment": null,
         "wgt": 455162210,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the tensions and disputes between China and the Philippines regarding the South China Sea, including accusations of provocation, violations of agreements, and involvement of external powers like the United States."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders, particularly focusing on the remarks made by the Philippine President Marcos at the Shangri-La Dialogue and the response from the Chinese Foreign Ministry spokesperson."
     },
     {
         "uri": "2024-06-377800162",
@@ -398,9 +398,9 @@
         "sentiment": null,
         "wgt": 455161969,
         "relevance": 26,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes\n\nThe article does discuss economic cooperation, particularly in the context of regional stability and development. It mentions that cooperation is seen as the only path to prosperity and harmony, and highlights the importance of peace and stability in the Asia-Pacific region for economic development. For instance, the Indonesian President-elect Prabowo's statement that \"cooperation is the only way to prosperity and harmony\" and the emphasis on the region's peace and stability being crucial for its economic vibrancy are indicative of the link between security and economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes China's global security initiative and the positive reception it received at the Shangri-La Dialogue. It discusses China's commitment to maintaining global security, promoting peace, and contributing constructive ideas and solutions for regional and global stability. The focus is on the principles of common, comprehensive, cooperative, and sustainable security, rather than on specific diplomatic meetings, direct military encounters, statements from political leaders, or joint military exercises."
     },
     {
         "uri": "8160243125",
@@ -433,9 +433,9 @@
         "sentiment": null,
         "wgt": 455161658,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the geopolitical and military dynamics surrounding the Shangri-La Dialogue, particularly the involvement of the Philippines and the absence of Russia."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article emphasizes the strategic and political maneuvering behind the scenes of the Shangri-La Dialogue, particularly highlighting how the event is influenced by Western interests and how the selection of speakers, such as the Philippine President, is a calculated move to serve those interests. It does not focus on direct encounters, military exercises, or specific diplomatic agreements."
     },
     {
         "uri": "8160233073",
@@ -468,9 +468,9 @@
         "sentiment": null,
         "wgt": 455161062,
         "relevance": 75,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes\n\nThe article does discuss economic cooperation, particularly in the context of broader bilateral relations between China and the United States. It mentions that the two countries have been engaging in various levels of interaction, including economic and trade exchanges, which contribute to the overall improvement of bilateral relations."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article emphasizes the unique temporal and spatial context of the recent high-level meeting between the Chinese and American defense ministers, highlighting the differences from past interactions. It discusses the broader geopolitical environment, including the U.S.'s \"Indo-Pacific strategy,\" the tense situation in the Taiwan Strait, and issues in the South China Sea. The focus is on the strategic communication and the efforts to manage differences to avoid direct conflict and confrontation."
     },
     {
         "uri": "8160232050",
@@ -503,9 +503,9 @@
         "sentiment": null,
         "wgt": 455160983,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the heightened tensions and military posturing related to the Taiwan Strait and the South China Sea, particularly in the context of the Shangri-La Dialogue. It focuses on the speeches and statements made by Chinese Defense Minister Dong Jun and the reactions from other countries, especially the United States and the Philippines. There is no mention of economic cooperation in the article."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "The article primarily emphasizes:\n\nC) Statements and perspectives from political leaders\n\nThe focus is on the statements made by China's new Defense Minister, Dong Jun, regarding Taiwan and the South China Sea, as well as the reactions and perspectives of other political leaders involved in the Shangri-La Dialogue."
     },
     {
         "uri": "8160193123",
@@ -538,9 +538,9 @@
         "sentiment": null,
         "wgt": 455158262,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses security issues in the Asia-Pacific region, focusing on China's stance against hegemonism, geopolitical conflicts, and external interference. It does not delve into economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders, particularly focusing on the speech by China's Defense Minister and the \"three not-alloweds\" he highlighted. It also discusses the positions and actions of leaders from the Philippines and the United States in relation to the South China Sea issue."
     },
     {
         "uri": "8160168009",
@@ -573,9 +573,9 @@
         "sentiment": null,
         "wgt": 455156289,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It covers a variety of topics including high school exams, lychee prices, tax payments, transportation, government services, insurance, digital invoices, construction projects, election results, social media, sports achievements, weather forecasts, and more, but it does not specifically mention economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article emphasizes a variety of local news and updates, including educational information, infrastructure developments, government services, employment policies, financial news, and weather forecasts. It does not focus on diplomatic meetings, naval encounters, political statements, or military exercises."
     },
     {
         "uri": "8160164328",
@@ -608,9 +608,9 @@
         "sentiment": null,
         "wgt": 455156120,
         "relevance": 75,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the geopolitical and security dynamics at the Shangri-La Dialogue, focusing on the interactions and tensions between China, the United States, and other countries regarding defense and security issues. It does not delve into economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "The article emphasizes:\n\nC) Statements and perspectives from political leaders\n\nThe article discusses the speeches and statements made by various political leaders, including the Chinese and American defense ministers, as well as the Philippine president, at the Shangri-La Dialogue. It highlights how these statements reflect the political dynamics and tensions in the region, particularly concerning China's role and the responses from other countries."
     },
     {
         "uri": "8160163935",
@@ -643,9 +643,9 @@
         "sentiment": null,
         "wgt": 455155977,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses military and security cooperation, particularly focusing on the interactions and dialogues between the Chinese and American defense ministers at the Shangri-La Dialogue. It does not delve into economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "A) Diplomatic meetings and agreements between countries"
     },
     {
         "uri": "8160150669",
@@ -678,9 +678,9 @@
         "sentiment": null,
         "wgt": 455155142,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses China's global security perspective and its reception at the Shangri-La Dialogue. It focuses on themes such as international security, regional stability, and defense cooperation, but does not delve into economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article emphasizes China's global security perspective and the resonance it received at the Shangri-La Dialogue. It discusses China's commitment to maintaining common security, sharing peace and prosperity, and contributing Chinese wisdom and solutions to global security and development. The focus is on China's global security initiatives and the positive reception and support these ideas garnered from various international representatives and analysts."
     },
     {
         "uri": "2024-06-377741694",
@@ -707,9 +707,9 @@
         "sentiment": null,
         "wgt": 455154666,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the geopolitical tensions and disputes between China and the Philippines over the South China Sea, including the involvement of external powers like the United States. It does not address economic cooperation between the two countries."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders, particularly focusing on the comments made by the Philippine President Marcos and the responses from Chinese officials and experts. It discusses the diplomatic tensions and accusations between the Philippines and China regarding the South China Sea issue, highlighting the political rhetoric and positions taken by both sides."
     },
     {
         "uri": "2024-06-377741692",
@@ -736,9 +736,9 @@
         "sentiment": null,
         "wgt": 455154666,
         "relevance": 26,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the geopolitical and security dynamics at the Shangri-La Dialogue, focusing on the interactions and tensions between China, the United States, and other countries regarding issues like the South China Sea and regional security. It does not delve into economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders, particularly focusing on the speeches and positions taken by various leaders at the Shangri-La Dialogue (香会). It highlights the speeches of the Chinese and American defense ministers, the Philippine president, and other political figures, as well as the reactions and interpretations of these statements by different parties."
     },
     {
         "uri": "8160123129",
@@ -771,9 +771,9 @@
         "sentiment": null,
         "wgt": 455153049,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses China's global security initiative and its reception at the Shangri-La Dialogue. It focuses on themes of security, peace, and international cooperation, but does not specifically address economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "The article emphasizes:\n\nC) Statements and perspectives from political leaders\n\nThe article discusses the global security perspective presented by China at the Shangri-La Dialogue, including statements from Chinese officials and reactions from political leaders of other countries. It highlights China's commitment to global security, cooperation, and peace, as well as the positive reception of these ideas by various international representatives."
     },
     {
         "uri": "2024-06-377728757",
@@ -812,9 +812,9 @@
         "sentiment": null,
         "wgt": 455152882,
         "relevance": 26,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses China's global security perspective and its reception at the Shangri-La Dialogue. It focuses on China's commitment to global and regional security, the principles of cooperation and mutual respect, and the reactions from various international representatives. Economic cooperation is not a central theme in this article."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "The article emphasizes:\n\nC) Statements and perspectives from political leaders\n\nThe article discusses the global security perspective presented by China at the Shangri-La Dialogue, including statements from Chinese officials and reactions from political leaders of other countries."
     },
     {
         "uri": "8160113691",
@@ -847,9 +847,9 @@
         "sentiment": null,
         "wgt": 455152043,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses territorial disputes and environmental issues related to the South China Sea, specifically focusing on the interactions between China and the Philippines. It does not address economic cooperation between the two countries."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "The article primarily emphasizes:\n\nC) Statements and perspectives from political leaders\n\nThe article discusses the statements and perspectives of Chinese and Filipino political leaders regarding the South China Sea dispute, particularly focusing on the warnings and positions expressed by China's Defense Minister and the actions and rhetoric of the Filipino President."
     },
     {
         "uri": "8160098442",
@@ -882,9 +882,9 @@
         "sentiment": null,
         "wgt": 455151021,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the South China Sea territorial disputes between China and the Philippines, including historical and legal claims, recent tensions, and the stance of the Chinese government. It does not address economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders"
     },
     {
         "uri": "8160098450",
@@ -917,9 +917,9 @@
         "sentiment": null,
         "wgt": 455150821,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article emphasizes the need for the Philippine government to abandon its confrontational policies in the South China Sea and instead engage in friendly negotiations with China to promote regional peace and stability. It critiques the Philippines' current alignment with external powers and military actions, suggesting that these approaches harm regional cooperation and stability. The focus is on advocating for diplomatic resolution and cooperation rather than confrontation."
     },
     {
         "uri": "2024-06-377709719",
@@ -952,9 +952,9 @@
         "sentiment": null,
         "wgt": 455150426,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the South China Sea territorial disputes between China and the Philippines, including historical and legal claims, responses to the South China Sea arbitration, and recent tensions. It does not address economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "The article emphasizes:\n\nC) Statements and perspectives from political leaders\n\nThe article primarily focuses on the statements made by the Chinese Foreign Ministry spokesperson in response to the speech by the President of the Philippines, Marcos, at the Shangri-La Dialogue regarding the South China Sea issue. It outlines China's position and perspective on the matter, addressing various points raised by the Philippines."
     },
     {
         "uri": "2024-06-377709717",
@@ -987,9 +987,9 @@
         "sentiment": null,
         "wgt": 455150424,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes the need for the Philippines to abandon its confrontational policies in the South China Sea and instead engage in friendly negotiations with China to promote regional peace and stability. It critiques the Philippines' current alignment with external powers and military actions, suggesting that these actions are detrimental to regional harmony and the Philippines' own interests. The focus is on advocating for a diplomatic and cooperative approach rather than military or confrontational strategies."
     },
     {
         "uri": "8159878579",
@@ -1028,9 +1028,9 @@
         "sentiment": null,
         "wgt": 455137213,
         "relevance": 26,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "A) Diplomatic meetings and agreements between countries"
     },
     {
         "uri": "8159826280",
@@ -1063,9 +1063,9 @@
         "sentiment": null,
         "wgt": 455134555,
         "relevance": 75,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the tensions and confrontations between China and the Philippines in the South China Sea, particularly focusing on a specific incident involving the Philippines air-dropping supplies to a grounded military ship and the subsequent reactions from both sides. It does not delve into economic cooperation between the two countries."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "B) Direct encounters and clashes between naval forces\n\nThe article emphasizes the direct encounters and clashes between naval forces, particularly focusing on the incident where Filipino soldiers pointed guns at Chinese coast guard personnel during a supply drop to a grounded Philippine ship in the South China Sea. The article also discusses the broader context of tensions and provocations in the region."
     },
     {
         "uri": "2024-06-377357998",
@@ -1098,9 +1098,9 @@
         "sentiment": null,
         "wgt": 455123322,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses diplomatic tensions and issues related to Taiwan and the South China Sea, as well as China's response to South Korea's involvement in these matters. It does not address economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes China's strong disapproval and opposition to recent statements made by South Korea, the United States, and Japan regarding Taiwan and the South China Sea. It focuses on China's stance on these issues, urging South Korea to be cautious in its remarks and actions to maintain the overall relationship between China and South Korea. The article does not primarily focus on diplomatic meetings, direct naval encounters, statements from political leaders, or joint military exercises."
     },
     {
         "uri": "8159498802",
@@ -1139,9 +1139,9 @@
         "sentiment": null,
         "wgt": 455120295,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses defense and security issues, including the Russia-Ukraine conflict, the South China Sea disputes, and Taiwan-China relations. It does not focus on economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders regarding various geopolitical issues, including the South China Sea, Taiwan, and the Russia-Ukraine conflict. It highlights the speeches and comments made by defense ministers, presidents, and other officials during the Shangri-La Dialogue."
     },
     {
         "uri": "8159489526",
@@ -1174,9 +1174,9 @@
         "sentiment": null,
         "wgt": 455120003,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the geopolitical tensions and military confrontations between China and the Philippines in the South China Sea, particularly focusing on the incident involving the Philippines' military actions and China's response. It does not discuss economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "B) Direct encounters and clashes between naval forces\n\nThe article emphasizes the direct encounters and clashes between Chinese and Philippine naval forces, particularly focusing on the incident where Philippine military personnel pointed guns at Chinese coast guards and the subsequent actions and statements from the Chinese side."
     },
     {
         "uri": "8159489524",
@@ -1209,9 +1209,9 @@
         "sentiment": null,
         "wgt": 455119987,
         "relevance": 75,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the escalating tensions and military actions between the Philippines and China in the South China Sea. It does not address economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "B) Direct encounters and clashes between naval forces\n\nThe article emphasizes the direct encounters and clashes between the naval forces of China and the Philippines in the South China Sea, particularly focusing on the prolonged presence of Philippine patrol ships at the Sembin Reef and the potential for military conflict."
     },
     {
         "uri": "8159360034",
@@ -1244,9 +1244,9 @@
         "sentiment": null,
         "wgt": 455115086,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses military and geopolitical issues, particularly focusing on the interactions between Chinese and American defense officials, the South China Sea and Taiwan issues, and the involvement of other countries like the Philippines and Cambodia. It does not discuss economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes the strong stance and concerns of Chinese Defense Minister Dong Jun regarding the South China Sea and Taiwan issues, as well as the broader geopolitical tensions and interactions between China and the United States. It highlights Dong Jun's firm responses and the implications of these interactions for regional security and international relations."
     },
     {
         "uri": "8159259157",
@@ -1279,9 +1279,9 @@
         "sentiment": null,
         "wgt": 455111295,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the political and military tensions between the United States and China, particularly focusing on issues related to the Taiwan Strait, the South China Sea, and the broader security dynamics in the Indo-Pacific region. It does not address economic cooperation between the two countries."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders, particularly focusing on the speeches and positions taken by the defense ministers of the United States and China, as well as other international leaders, during the Shangri-La Dialogue."
     },
     {
         "uri": "8159151460",
@@ -1314,9 +1314,9 @@
         "sentiment": null,
         "wgt": 455107267,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the Chinese Embassy in South Korea's response to South Korea's statements on the Taiwan and South China Sea issues, urging South Korea to be cautious in its remarks and actions regarding these matters."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "The article emphasizes:\n\nC) Statements and perspectives from political leaders"
     },
     {
         "uri": "8159141068",
@@ -1355,9 +1355,9 @@
         "sentiment": null,
         "wgt": 455106880,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the Chinese Embassy in South Korea's response to statements made by South Korea, the United States, and Japan regarding Taiwan and the South China Sea. The article emphasizes China's stance on these territorial and sovereignty issues and urges South Korea to be cautious in its actions and statements concerning these matters."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes China's strong disapproval and stern stance regarding the statements made by South Korea, the United States, and Japan on the Taiwan and South China Sea issues. It focuses on urging South Korea to be cautious in its remarks and actions concerning these matters, highlighting China's position on its sovereignty and core interests."
     },
     {
         "uri": "8159094481",
@@ -1390,9 +1390,9 @@
         "sentiment": null,
         "wgt": 455105264,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the military and strategic cooperation between the United States and the Philippines, particularly in the context of the South China Sea tensions and the Shangri-La Dialogue. It does not address economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes the geopolitical dynamics and strategic maneuvers involving the United States and the Philippines, particularly in the context of their interactions and tensions with China in the South China Sea. It discusses the implications of the Philippines' alignment with the U.S., the strategic use of military bases, and the broader regional security architecture influenced by U.S. interests. The article also critiques the perceived motivations and consequences of these actions, suggesting that the U.S. is acting out of insecurity."
     },
     {
         "uri": "8159034462",
@@ -1425,9 +1425,9 @@
         "sentiment": null,
         "wgt": 455102905,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the South China Sea dispute, the historical and legal context surrounding it, and the need for Asian countries to unite and engage in direct dialogue to resolve the issue. It does not discuss economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "The article emphasizes the importance of direct dialogue and unity among Asian countries to address the South China Sea disputes and the lingering effects of colonialism. It highlights the need for historical context and international law in resolving these issues, and it mentions specific interactions between Chinese and Filipino representatives at the Shangri-La Dialogue.\n\nGiven the options, the most fitting choice is:\n\nA) Diplomatic meetings and agreements between countries"
     },
     {
         "uri": "8158960933",
@@ -1454,9 +1454,9 @@
         "sentiment": null,
         "wgt": 455100086,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes\n\nThe article does discuss economic cooperation, particularly in the context of managing maritime disputes and promoting stability in the South China Sea. The spokesperson mentions that China is willing to work with ASEAN countries, including the Philippines, to manage maritime differences, deepen maritime cooperation, and fully and effectively implement the Declaration on the Conduct of Parties in the South China Sea. This indicates a willingness to engage in cooperative economic activities to maintain peace and stability in the region."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article primarily emphasizes the statements and perspectives from political leaders, specifically the response from the Chinese Foreign Ministry spokesperson to the speech made by Philippine President Marcos at the Shangri-La Dialogue regarding the South China Sea issue."
     },
     {
         "uri": "2024-06-376862389",
@@ -1489,9 +1489,9 @@
         "sentiment": null,
         "wgt": 455097224,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses China's stance on territorial integrity, regional security issues, and military dialogue, particularly in the context of the Shangri-La Dialogue. It does not mention economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders, particularly focusing on the speech by China's Defense Minister Dong Jun at the Shangri-La Dialogue. The article highlights how various international media outlets have responded to and interpreted his statements on issues such as the Taiwan Strait, the South China Sea, and the broader strategic environment in the Asia-Pacific region."
     },
     {
         "uri": "8158795658",
@@ -1524,9 +1524,9 @@
         "sentiment": null,
         "wgt": 455093479,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses military and geopolitical issues, particularly focusing on China's stance on Taiwan, the South China Sea, and other international hotspots. It does not mention economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives of Chinese Defense Minister Dong Jun, particularly regarding Taiwan and other international issues, during the Shangri-La Dialogue. It highlights his responses to interruptions and his firm stance on China's core interests."
     },
     {
         "uri": "8158717490",
@@ -1559,9 +1559,9 @@
         "sentiment": null,
         "wgt": 455089941,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes"
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders, specifically focusing on the declarations made by the Philippine President Ferdinand Marcos Jr. and the response from the Chinese Ministry of Foreign Affairs regarding the South China Sea dispute."
     },
     {
         "uri": "8158690705",
@@ -1594,9 +1594,9 @@
         "sentiment": null,
         "wgt": 455088455,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the geopolitical dynamics and military interactions between China, the United States, and other countries, particularly in the context of the Shangri-La Dialogue in Singapore. It does not focus on economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders, particularly focusing on the interactions and speeches of defense ministers and other political figures during the Shangri-La Dialogue in Singapore. It highlights the diplomatic language, strategic intentions, and the political stances of various countries, especially in the context of U.S.-China relations and regional security issues."
     },
     {
         "uri": "8158651995",
@@ -1629,9 +1629,9 @@
         "sentiment": null,
         "wgt": 455086178,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the South China Sea territorial disputes between China and the Philippines, including historical and legal arguments, and responses to recent statements by the Philippine President. It does not focus on economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders, specifically the response from the Chinese Foreign Ministry spokesperson to the speech made by the President of the Philippines regarding the South China Sea issue."
     },
     {
         "uri": "8158650854",
@@ -1664,9 +1664,9 @@
         "sentiment": null,
         "wgt": 455086168,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses territorial disputes and legal positions regarding the South China Sea, as well as the diplomatic and geopolitical tensions between China and the Philippines. It does not address economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders, specifically the response from the Chinese Foreign Ministry spokesperson to the speech made by Philippine President Marcos at the Shangri-La Dialogue regarding the South China Sea issue."
     },
     {
         "uri": "8158619573",
@@ -1705,9 +1705,9 @@
         "sentiment": null,
         "wgt": 455084173,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes\n\nThe article does discuss economic cooperation, particularly in the fifth point of Beijing's six-point stance on the South China Sea dispute. It mentions that China is willing to continue working with ASEAN countries, including the Philippines, to manage maritime differences and deepen maritime cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders"
     },
     {
         "uri": "8158611568",
@@ -1740,9 +1740,9 @@
         "sentiment": null,
         "wgt": 455083731,
         "relevance": 26,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the South China Sea arbitration case, the legal principles involved, and the actions of the Philippines in relation to international law. It does not address economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes the legal and procedural aspects of the South China Sea arbitration case, critiquing the Philippines' approach and the arbitration tribunal's decisions. It discusses the perceived misuse of international legal procedures by the Philippines and argues against the validity and fairness of the arbitration tribunal's rulings. The focus is on legal arguments and interpretations rather than on diplomatic meetings, direct naval encounters, political statements, or military exercises."
     },
     {
         "uri": "8158611569",
@@ -1775,9 +1775,9 @@
         "sentiment": null,
         "wgt": 455083719,
         "relevance": 75,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses geopolitical tensions and territorial disputes in the South China Sea, particularly focusing on the actions and positions of the Philippines and the involvement of the United States. It does not address economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "The article emphasizes:\n\nC) Statements and perspectives from political leaders\n\nThe article discusses the statements and actions of the Philippine President Marcos regarding the South China Sea issue, as well as China's perspective on the matter. It highlights the political discourse and the positions taken by the leaders of the involved countries."
     },
     {
         "uri": "8158607218",
@@ -1804,9 +1804,9 @@
         "sentiment": null,
         "wgt": 455083561,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It covers a variety of topics including disciplinary actions, cultural initiatives, infrastructure projects, international relations, technological advancements, natural disasters, and political events, but none of these specifically address economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article emphasizes the disciplinary review and investigation of Zhan Xiliang, the former Deputy Secretary of the Party Committee and Secretary of the Discipline Inspection Commission of the Shandong Rural Credit Cooperative Union. This topic does not fall under any of the provided options related to diplomatic meetings, naval encounters, political statements, or military exercises."
     },
     {
         "uri": "8158607222",
@@ -1833,9 +1833,9 @@
         "sentiment": null,
         "wgt": 455083545,
         "relevance": 75,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses territorial disputes and sovereignty issues related to the South China Sea, particularly between China and the Philippines. It does not focus on economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders, specifically the response from the Chinese Foreign Ministry spokesperson regarding the speech made by the President of the Philippines at the Shangri-La Dialogue concerning the South China Sea issue."
     },
     {
         "uri": "2024-06-376666214",
@@ -1868,9 +1868,9 @@
         "sentiment": null,
         "wgt": 455082426,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the territorial disputes between China and the Philippines over the South China Sea, the legal and historical basis for China's claims, and the recent tensions and actions taken by both countries. While it mentions the desire to maintain peace and stability in the region and to manage maritime differences, it does not specifically discuss economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article primarily emphasizes the statements and perspectives from political leaders, specifically the response from the Chinese Foreign Ministry spokesperson to the speech made by the President of the Philippines regarding the South China Sea issue."
     },
     {
         "uri": "8158590240",
@@ -1909,9 +1909,9 @@
         "sentiment": null,
         "wgt": 455082252,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the territorial disputes between the Philippines and China over the South China Sea, including the legal and geopolitical stances of both countries. It does not focus on economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders"
     },
     {
         "uri": "8158589051",
@@ -1944,9 +1944,9 @@
         "sentiment": null,
         "wgt": 455082195,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the South China Sea issue, specifically addressing the Chinese Foreign Ministry's response to the Philippine President's statements on the matter. The article outlines China's stance on sovereignty, territorial rights, and the recent escalation of tensions between China and the Philippines."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders"
     },
     {
         "uri": "8158570922",
@@ -1979,9 +1979,9 @@
         "sentiment": null,
         "wgt": 455081028,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the political and military tensions between the Philippines and China regarding the South China Sea, particularly criticizing Philippine President Marcos Jr.'s stance and actions."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "The article emphasizes:\n\nC) Statements and perspectives from political leaders\n\nThe article primarily focuses on the statements made by Philippine President Marcos Jr. regarding the South China Sea issue, his stance towards China, and the perceived influence of the United States on his actions. It also discusses the reactions and perspectives on these statements, highlighting the political dynamics and implications."
     },
     {
         "uri": "8158548957",
@@ -2014,9 +2014,9 @@
         "sentiment": null,
         "wgt": 455079443,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the South China Sea territorial disputes between China and the Philippines, including historical and legal arguments, recent tensions, and the positions of both countries. It does not address economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders, specifically focusing on the response from the Chinese Foreign Ministry to the speech made by Philippine President Marcos regarding the South China Sea issue."
     },
     {
         "uri": "8158548308",
@@ -2049,9 +2049,9 @@
         "sentiment": null,
         "wgt": 455079406,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the territorial disputes between China and the Philippines over the South China Sea, including historical and legal arguments, the South China Sea arbitration, and recent tensions. It does not focus on economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders, specifically the response from the Chinese Ministry of Foreign Affairs to the speech made by the President of the Philippines regarding the South China Sea issue."
     },
     {
         "uri": "2024-06-376638142",
@@ -2078,9 +2078,9 @@
         "sentiment": null,
         "wgt": 455079378,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses territorial disputes and legal positions regarding the South China Sea, as well as the diplomatic responses and stances of China and the Philippines. It does not focus on economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders, specifically the speech by the President of the Philippines, Marcos, at the Shangri-La Dialogue, and the response from the Chinese Foreign Ministry spokesperson."
     },
     {
         "uri": "8158545187",
@@ -2113,9 +2113,9 @@
         "sentiment": null,
         "wgt": 455079142,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the South China Sea territorial disputes between China and the Philippines, including historical and legal claims, the South China Sea arbitration, and recent tensions. It does not address economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders"
     },
     {
         "uri": "8158544713",
@@ -2148,9 +2148,9 @@
         "sentiment": null,
         "wgt": 455079129,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the South China Sea territorial disputes between the Philippines and China, including the legal and historical claims, the South China Sea arbitration, and the recent tensions. It does not focus on economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders"
     },
     {
         "uri": "8158540733",
@@ -2183,9 +2183,9 @@
         "sentiment": null,
         "wgt": 455078857,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses territorial disputes and legal arguments related to the South China Sea between China and the Philippines. It does not focus on economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders"
     },
     {
         "uri": "8158536595",
@@ -2218,9 +2218,9 @@
         "sentiment": null,
         "wgt": 455078470,
         "relevance": 75,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses territorial disputes and legal positions regarding the South China Sea, as well as the historical and legal basis for China's claims. It does not focus on economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article primarily emphasizes the statements and perspectives from political leaders, specifically the response from the Chinese Foreign Ministry spokesperson to the speech made by the President of the Philippines regarding the South China Sea issue at the Shangri-La Dialogue."
     },
     {
         "uri": "8158494970",
@@ -2253,9 +2253,9 @@
         "sentiment": null,
         "wgt": 455075239,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses geopolitical tensions and conflicts between China and the Philippines in the South China Sea, particularly around the Ren'ai Reef. It does not address economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders"
     },
     {
         "uri": "8158481798",
@@ -2288,9 +2288,9 @@
         "sentiment": null,
         "wgt": 455074229,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses China's stance on security issues in the Asia-Pacific region, including its opposition to hegemonism, geopolitical conflicts, and external interference, particularly in relation to Taiwan. It does not specifically address economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives of Chinese Defense Minister Dong Jun, particularly regarding China's stance on global security, regional stability in the Asia-Pacific, and specific issues such as Taiwan, the South China Sea, and other international conflicts."
     },
     {
         "uri": "8158481803",
@@ -2323,9 +2323,9 @@
         "sentiment": null,
         "wgt": 455074145,
         "relevance": 75,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the tensions and confrontations between China and the Philippines over the Ren'ai Reef (Second Thomas Shoal) in the South China Sea. It mentions specific incidents involving the Chinese Coast Guard and the Philippine military, as well as statements from Chinese officials regarding the situation. The focus is on territorial disputes, maritime security, and diplomatic interactions rather than economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "B) Direct encounters and clashes between naval forces\n\nThe article emphasizes the direct encounters and clashes between the Chinese Coast Guard and the Philippine naval forces at Ren'ai Reef, highlighting specific incidents such as the Philippines' air-dropping supplies to an illegally grounded ship and the Chinese Coast Guard's response, including being threatened with firearms by Philippine personnel."
     },
     {
         "uri": "8158481805",
@@ -2358,9 +2358,9 @@
         "sentiment": null,
         "wgt": 455074112,
         "relevance": 75,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the South China Sea disputes, particularly the tensions between China and the Philippines, and questions raised by a Chinese military official regarding the actions and policies of the Philippines and other countries involved in the region."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article emphasizes the questioning and criticism by Chinese experts towards the Philippines' actions and statements regarding the South China Sea disputes. It focuses on the Chinese perspective that the Philippines' approach, including international arbitration and military alliances, violates existing agreements and exacerbates tensions."
     },
     {
         "uri": "2024-06-376561704",
@@ -2387,9 +2387,9 @@
         "sentiment": null,
         "wgt": 455067692,
         "relevance": 1,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes\n\nThe article does discuss economic cooperation, particularly in the context of regional security and stability. For instance, it mentions that economic development and regional security are inseparable and highlights China's role as an important cooperation partner. This is evident in the statement by Dr. Hashim from Brunei University, who emphasizes the necessity of dialogue and communication from a global perspective and acknowledges China's significant role in economic development and regional security."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders, particularly focusing on the speech by China's Defense Minister at the Shangri-La Dialogue, the reactions from other political figures, and the broader geopolitical implications of these statements."
     },
     {
         "uri": "8157966937",
@@ -2428,9 +2428,9 @@
         "sentiment": null,
         "wgt": 455035822,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the geopolitical and security dynamics between China, the United States, and other countries in the context of the Shangri-La Dialogue. It focuses on military and strategic issues, particularly in the Taiwan Strait, South China Sea, and the broader Asia-Pacific region. There is no mention of economic cooperation in the provided text."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders, particularly focusing on the speeches and comments made by the U.S. Secretary of Defense Lloyd Austin, China's Defense Minister Li Shangfu, and other experts and representatives at the Shangri-La Dialogue. The article discusses how these leaders portray their countries' positions on various security issues, including the Taiwan Strait, the South China Sea, and the Russia-Ukraine conflict."
     },
     {
         "uri": "8157952454",
@@ -2463,9 +2463,9 @@
         "sentiment": null,
         "wgt": 455034961,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses security issues, military relations, and geopolitical tensions, particularly between China and the United States, as well as China's stance on Taiwan, the South China Sea, and the Ukraine conflict. It does not focus on economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "The article emphasizes:\n\nC) Statements and perspectives from political leaders\n\nThe article discusses various statements and perspectives from political leaders, including the speeches and comments made by the U.S. Secretary of Defense Lloyd Austin, China's Defense Minister Li Shangfu, and Ukraine's President Volodymyr Zelenskyy, among others. It highlights their views on regional security issues, military communication, and international relations, particularly focusing on the tensions between China and the U.S., as well as China's stance on Taiwan and the South China Sea."
     },
     {
         "uri": "8157844279",
@@ -2504,9 +2504,9 @@
         "sentiment": null,
         "wgt": 455028679,
         "relevance": 75,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No"
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article emphasizes various social, economic, and political issues affecting ordinary people in mainland China, such as price hikes, building collapses, censorship, and other significant events. It does not focus on diplomatic meetings, naval encounters, political leader statements, or military exercises."
     },
     {
         "uri": "8157790384",
@@ -2533,9 +2533,9 @@
         "sentiment": null,
         "wgt": 455025706,
         "relevance": 75,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the speech given by China's Defense Minister at the Shangri-La Dialogue, focusing on security issues, China's global security perspective, and the importance of cooperation in defense and military relations. It does not discuss economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "The article emphasizes:\n\nC) Statements and perspectives from political leaders\n\nThe article discusses the statements made by China's Defense Minister at the Shangri-La Dialogue, including his perspectives on various security issues and the responses from military experts."
     },
     {
         "uri": "8157773693",
@@ -2568,9 +2568,9 @@
         "sentiment": null,
         "wgt": 455024832,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the response from the Chinese side to comments made by the U.S. Secretary of Defense regarding the South China Sea, emphasizing the stability of the region and the presence of commercial and military vessels."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders, specifically the response from the Chinese side to the comments made by the U.S. Secretary of Defense regarding the South China Sea issue."
     },
     {
         "uri": "8157771782",
@@ -2603,9 +2603,9 @@
         "sentiment": null,
         "wgt": 455024634,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. Instead, it focuses on the tensions and confrontations between the Philippines and China in the South China Sea, particularly involving the actions of the Philippine personnel and the Chinese Coast Guard. The article highlights the political and military aspects of the situation, including historical references and the potential consequences of the Philippines' actions."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "B) Direct encounters and clashes between naval forces\n\nThe article emphasizes the direct encounters and clashes between Chinese and Filipino naval forces, particularly focusing on an incident where Filipino personnel pointed guns at Chinese coast guard officers. It also references historical clashes, such as the 1988 conflict between China and Vietnam, to highlight the potential consequences of such actions."
     },
     {
         "uri": "8157691156",
@@ -2638,9 +2638,9 @@
         "sentiment": null,
         "wgt": 455020178,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the geopolitical and military aspects of the United States' \"freedom of navigation\" operations in the South China Sea, contrasting it with the principles outlined in the United Nations Convention on the Law of the Sea (UNCLOS). It does not delve into economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes the critique of the United States' interpretation and actions under the guise of \"freedom of navigation\" in the South China Sea. It contrasts the U.S. version of \"freedom of navigation\" with the principles outlined in the United Nations Convention on the Law of the Sea (UNCLOS) and argues that the U.S. uses this concept to maintain its maritime hegemony and strategic interests rather than genuinely ensuring maritime safety and commercial prosperity. The article also discusses the U.S.'s military actions, diplomatic maneuvers, and media strategies to influence perceptions and justify its stance."
     },
     {
         "uri": "8157679578",
@@ -2673,9 +2673,9 @@
         "sentiment": null,
         "wgt": 455019440,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the tensions and incidents between the Philippines and China regarding the South China Sea, specifically around the Ren'ai Reef. It mentions the actions of the Chinese Coast Guard, the presence of armed personnel on a Philippine ship, and the broader geopolitical context involving ASEAN and external countries. There is no discussion of economic cooperation in the article."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "B) Direct encounters and clashes between naval forces\n\nThe article emphasizes the direct encounters and clashes between the naval forces of the Philippines and China, particularly focusing on the incident where personnel from a Philippine ship pointed guns at the Chinese coast guard."
     },
     {
         "uri": "8157571921",
@@ -2708,9 +2708,9 @@
         "sentiment": null,
         "wgt": 455013480,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses military and geopolitical issues, including China's warnings to the U.S. and Taiwan, the security situation in the Indo-Pacific region, and the Ukraine conflict. It does not focus on economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders"
     },
     {
         "uri": "8157560544",
@@ -2737,9 +2737,9 @@
         "sentiment": null,
         "wgt": 455012849,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on a military and territorial dispute between the Philippines and China in the South China Sea, specifically involving armed Filipino soldiers on a grounded ship aiming their weapons at Chinese coast guard personnel."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "B) Direct encounters and clashes between naval forces"
     },
     {
         "uri": "8157551475",
@@ -2772,9 +2772,9 @@
         "sentiment": null,
         "wgt": 455012275,
         "relevance": 75,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the ongoing territorial disputes between China and the Philippines in the South China Sea, specifically focusing on incidents involving military and coast guard activities around the Ren'ai Reef (Second Thomas Shoal) and Sabina Shoal. It does not address economic cooperation between the two countries."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "B) Direct encounters and clashes between naval forces\n\nThe article emphasizes the direct encounters and clashes between Chinese and Philippine naval forces in the South China Sea, particularly focusing on incidents involving the BRP Sierra Madre and the actions of the Chinese Coast Guard."
     },
     {
         "uri": "8157434843",
@@ -2807,9 +2807,9 @@
         "sentiment": null,
         "wgt": 455005266,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the South China Sea disputes and the related geopolitical tensions between China and the Philippines. It does not address economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "The article emphasizes the statements and perspectives from political leaders, particularly focusing on the Chinese perspective regarding the South China Sea disputes and the questions posed to the Philippines. Therefore, the correct option is:\n\nC) Statements and perspectives from political leaders"
     },
     {
         "uri": "8157422871",
@@ -2842,9 +2842,9 @@
         "sentiment": null,
         "wgt": 455004526,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the South China Sea issue and the stance of the Chinese Defense Minister on provocations by certain countries. It does not mention economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders"
     },
     {
         "uri": "8157330875",
@@ -2877,9 +2877,9 @@
         "sentiment": null,
         "wgt": 454997579,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the statements made by China's Defense Minister regarding the South China Sea issue, emphasizing regional security and stability, and addressing provocations by certain countries."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders"
     },
     {
         "uri": "8157094516",
@@ -2918,9 +2918,9 @@
         "sentiment": null,
         "wgt": 454975230,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the South China Sea issue and the confrontation between the Philippine President Ferdinand Marcos Jr. and Chinese Major General Xu Hui at the Shangri-La Dialogue. It does not delve into topics related to economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders"
     },
     {
         "uri": "8156879782",
@@ -2953,9 +2953,9 @@
         "sentiment": null,
         "wgt": 454958760,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the military relations between China and the United States, focusing on the recent interactions and statements made by the defense ministers of both countries during the Shangri-La Dialogue. It does not mention economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "The article emphasizes:\n\nA) Diplomatic meetings and agreements between countries\n\nThe article discusses the significance of the meeting between the defense ministers of China and the United States during the Shangri-La Dialogue, highlighting the importance of maintaining stable military relations and the need for both sides to adhere to agreements and avoid conflict."
     },
     {
         "uri": "8156722233",
@@ -2988,9 +2988,9 @@
         "sentiment": null,
         "wgt": 454948987,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the criticism by Chinese experts of the statements made by the Philippine President at the Shangri-La Dialogue, particularly regarding the South China Sea disputes and military alliances."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders"
     },
     {
         "uri": "2024-06-375531768",
@@ -3023,9 +3023,9 @@
         "sentiment": null,
         "wgt": 454948813,
         "relevance": 1,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the criticism by Chinese experts of the statements made by the Philippine President at the Shangri-La Dialogue, particularly regarding the South China Sea disputes and related military alliances and activities."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders, particularly focusing on the criticism by Chinese experts of the speech made by the Philippine President Marcos at the Shangri-La Dialogue. The article details the Chinese experts' rebuttals to Marcos' claims and their views on the South China Sea disputes and international rules."
     },
     {
         "uri": "2024-06-375510869",
@@ -3064,9 +3064,9 @@
         "sentiment": null,
         "wgt": 454946926,
         "relevance": 26,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes\n\nThe article does discuss economic cooperation, particularly in the context of U.S.-China relations. It mentions that the talks between Chinese Vice Foreign Minister Ma Zhaoxu and U.S. officials, including Deputy Secretary of State Kurt Campbell, were constructive and focused on stabilizing U.S.-China relations. The discussions aimed to implement the consensus reached during the November 2023 Biden-Xi meeting, which includes strengthening dialogue mechanisms to avoid misjudgments and escalating conflicts, and re-establishing military dialogue and crisis management mechanisms. This indicates a level of economic and diplomatic cooperation between the two countries."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "A) Diplomatic meetings and agreements between countries\n\nThe article emphasizes the diplomatic interactions and negotiations between China and the United States, particularly in the context of the recent military exercises around Taiwan and the subsequent diplomatic efforts to manage the situation. It highlights the dual approach of China, with military pressure on Taiwan and diplomatic engagement with the U.S., and the differing tones in public statements versus private diplomatic discussions."
     },
     {
         "uri": "8156629505",
@@ -3099,9 +3099,9 @@
         "sentiment": null,
         "wgt": 454943558,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the military and strategic interactions between China and the United States, focusing on issues such as Taiwan, the South China Sea, and military communication. It does not delve into topics related to economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "A) Diplomatic meetings and agreements between countries\n\nThe article emphasizes the diplomatic meetings and discussions between the defense ministers of China and the United States, focusing on the details of their face-to-face talks, the issues addressed, and the broader context of military and diplomatic relations between the two countries."
     },
     {
         "uri": "8156610389",
@@ -3134,9 +3134,9 @@
         "sentiment": null,
         "wgt": 454942503,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses military and security issues between China and the United States, including topics such as Taiwan, the South China Sea, and military communication. It does not address economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes the detailed discussions and underlying issues addressed during the face-to-face meeting between the Chinese and American defense ministers at the \"Shangri-La Dialogue\" (香会). It delves into the specific errors China urged the U.S. to correct, the broader context of U.S.-China military relations, and the strategic and diplomatic nuances surrounding Taiwan and the South China Sea. The focus is on the intricacies of the diplomatic exchange and the strategic implications rather than any single aspect like diplomatic agreements, direct naval clashes, political statements, or joint military exercises."
     },
     {
         "uri": "2024-06-375421184",
@@ -3163,9 +3163,9 @@
         "sentiment": null,
         "wgt": 454939246,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses military and geopolitical issues, particularly focusing on the Taiwan issue, U.S. \"Indo-Pacific Strategy,\" and the South China Sea situation. It does not discuss economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders"
     },
     {
         "uri": "8156537816",
@@ -3198,9 +3198,9 @@
         "sentiment": null,
         "wgt": 454938349,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the military and political tensions between China and the United States regarding Taiwan and the South China Sea. It does not address economic cooperation between the two countries."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders, particularly focusing on the remarks made by 景建峰 (Jing Jianfeng) and the responses from the U.S. Defense Secretary Austin regarding the Taiwan issue and the broader context of U.S.-China relations."
     },
     {
         "uri": "8156509281",
@@ -3233,9 +3233,9 @@
         "sentiment": null,
         "wgt": 454936798,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses military and security issues between China and the United States, including the Taiwan issue, South China Sea disputes, and the overall state of military communication and relations between the two countries. It does not mention economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "A) Diplomatic meetings and agreements between countries\n\nThe article emphasizes the details and outcomes of the diplomatic meeting between the Chinese and American defense ministers, including the discussions, the issues addressed, and the broader implications for international relations and military communication between the two countries."
     },
     {
         "uri": "8156496155",
@@ -3268,9 +3268,9 @@
         "sentiment": null,
         "wgt": 454936085,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses military actions, geopolitical tensions, and international relations involving China, Taiwan, and other global players. It does not focus on economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article emphasizes the broader geopolitical implications of China's actions, particularly its attempts to disrupt the existing international order and its strategic maneuvers in the Taiwan Strait and beyond. It discusses China's military activities, diplomatic engagements, and the perspectives of various experts on China's role as a destabilizing force in global politics."
     },
     {
         "uri": "8156443021",
@@ -3303,9 +3303,9 @@
         "sentiment": null,
         "wgt": 454933209,
         "relevance": 26,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the recent high-level dialogues between China and the United States, focusing on defense and diplomatic interactions. It highlights the sensitive nature of the discussions, particularly around the Taiwan issue and the broader geopolitical tensions. There is no mention of economic cooperation in the provided text."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "A) Diplomatic meetings and agreements between countries\n\nThe article emphasizes the diplomatic meetings and exchanges between high-level officials from China and the United States, focusing on the discussions and the strategic communication that took place during these encounters."
     },
     {
         "uri": "8156443030",
@@ -3338,9 +3338,9 @@
         "sentiment": null,
         "wgt": 454933160,
         "relevance": 26,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the importance of communication between the U.S. and China, particularly in the context of military relations and regional security. It does not address economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "A) Diplomatic meetings and agreements between countries"
     },
     {
         "uri": "8156292729",
@@ -3373,9 +3373,9 @@
         "sentiment": null,
         "wgt": 454925241,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It primarily focuses on diplomatic consultations between Chinese Vice Foreign Minister Ma Zhaoxu and U.S. Deputy Secretary of State Campbell, covering topics such as U.S.-China relations, Taiwan, the South China Sea, and various international and regional issues. While it mentions economic issues like tariffs and sanctions, it does not delve into specific economic cooperation initiatives."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "A) Diplomatic meetings and agreements between countries"
     },
     {
         "uri": "2024-06-375254063",
@@ -3408,9 +3408,9 @@
         "sentiment": null,
         "wgt": 454925152,
         "relevance": 1,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It primarily focuses on diplomatic consultations between Chinese Vice Foreign Minister Ma Zhaoxu and U.S. Deputy Secretary of State Campbell, covering topics such as U.S.-China relations, Taiwan, the South China Sea, and various international and regional issues. While it mentions economic issues like tariffs and sanctions, it does not delve into economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "A) Diplomatic meetings and agreements between countries"
     },
     {
         "uri": "8156280624",
@@ -3443,9 +3443,9 @@
         "sentiment": null,
         "wgt": 454924635,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article primarily discusses the Chinese experts' rebuttal to the statements made by the Philippine President at the Shangri-La Dialogue, focusing on issues related to the South China Sea disputes, international arbitration, and military alliances. It does not discuss economic cooperation."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "C) Statements and perspectives from political leaders\n\nThe article emphasizes the statements and perspectives from political leaders, particularly focusing on the Chinese experts' rebuttal of the Philippine President's speech at the Shangri-La Dialogue. The article highlights the Chinese experts' arguments against the Philippines' actions and statements regarding the South China Sea dispute."
     },
     {
         "uri": "8156242358",
@@ -3478,9 +3478,9 @@
         "sentiment": null,
         "wgt": 454922277,
         "relevance": 100,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "B) No\n\nThe article does not discuss economic cooperation. It focuses on the South China Sea disputes, specifically addressing the Philippines' statements and actions, and China's response to them. The article raises questions about rule violations, the instigation of disputes, the formation of alliances outside ASEAN, and the involvement of non-regional countries in the South China Sea issue."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article emphasizes the Chinese perspective on the South China Sea dispute, particularly focusing on the questions raised by Chinese military expert He Lei regarding the actions and policies of the Philippines and other involved parties. It does not primarily focus on diplomatic meetings, direct naval encounters, statements from political leaders, or joint military exercises, but rather on the critique and questions posed by China about the Philippines' actions and the involvement of external countries in the South China Sea issue."
     },
     {
         "uri": "8156226359",
@@ -3513,8 +3513,8 @@
         "sentiment": null,
         "wgt": 454921628,
         "relevance": 51,
-        "Question": "Does the article discuss economic cooperation:",
-        "Answers": "A) Yes B) No",
-        "LLM_answer": "A) Yes\n\nThe article discusses economic cooperation extensively, particularly focusing on the investments and trade relations between the United States and the Philippines. It highlights the visit of the U.S. Commerce Secretary Gina Raimondo to Manila, where she announced significant investments from American companies in the Philippines. The article also touches on the broader geopolitical context, including the strained relations between the Philippines and China, and how the Philippines is seeking economic partnerships with other countries like Japan, South Korea, and India."
+        "Question": "Which aspect does the article emphasize:",
+        "Answers": "A) Diplomatic meetings and agreements between countries B) Direct encounters and clashes between naval forces C) Statements and perspectives from political leaders D) Joint military exercises and defense partnerships E) None of the above",
+        "LLM_answer": "E) None of the above\n\nThe article primarily emphasizes the economic and geopolitical strategies involving the United States, the Philippines, and China, particularly focusing on the U.S. high-tech investments in the Philippines and the broader context of the South China Sea territorial disputes. It discusses the economic investments, the geopolitical tensions, and the strategic alliances formed to counter China's influence in the region."
     }
 ]
