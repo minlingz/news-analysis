@@ -1,0 +1,660 @@
+{
+    "Q1": {
+        "question": "What is the primary focus of the article?",
+        "choices": {
+            "A": "Military actions and attacks",
+            "B": "Political statements and negotiations",
+            "C": "Humanitarian impact and casualties",
+            "D": "Protests and public reactions",
+            "E": "None of the above"
+        }
+    },
+    "Q2": {
+        "question": "Which international organization is prominently mentioned in the article?",
+        "choices": {
+            "A": "United Nations",
+            "B": "NATO",
+            "C": "European Union",
+            "D": "African Union",
+            "E": "None of the above"
+        }
+    },
+    "Q3": {
+        "question": "What is the main geographical area discussed in the article?",
+        "choices": {
+            "A": "Gaza Strip",
+            "B": "West Bank",
+            "C": "Israel",
+            "D": "International (e.g. U.S. Europe)",
+            "E": "None of the above"
+        }
+    },
+    "Q4": {
+        "question": "What type of event is the article primarily reporting on?",
+        "choices": {
+            "A": "Israeli military actions",
+            "B": "Palestinian civilian life",
+            "C": "U.S. involvement in Gaza",
+            "D": "United Nations' stance on Palestine",
+            "E": "None of the above"
+        }
+    },
+    "Q5": {
+        "question": "Which country's actions are being criticized or analyzed in the article?",
+        "choices": {
+            "A": "Israel",
+            "B": "United States",
+            "C": "Palestine",
+            "D": "Egypt",
+            "E": "None of the above"
+        }
+    },
+    "Q6": {
+        "question": "What is the main outcome or resolution discussed in the article?",
+        "choices": {
+            "A": "Ceasefire agreement",
+            "B": "Recognition of statehood",
+            "C": "Infrastructure damage",
+            "D": "Humanitarian aid delivery",
+            "E": "None of the above"
+        }
+    },
+    "Q7": {
+        "question": "Who are the primary actors or entities involved in the article?",
+        "choices": {
+            "A": "United Nations experts",
+            "B": "U.S. government officials",
+            "C": "Israeli government officials",
+            "D": "Palestinian authorities",
+            "E": "None of the above"
+        }
+    },
+    "Q8": {
+        "question": "What is the primary issue being addressed in the article?",
+        "choices": {
+            "A": "State recognition",
+            "B": "Military strategy",
+            "C": "Humanitarian crisis",
+            "D": "Diplomatic negotiations",
+            "E": "None of the above"
+        }
+    },
+    "Q9": {
+        "question": "What type of sources or statements are primarily used in the article?",
+        "choices": {
+            "A": "Official government statements",
+            "B": "Reports from humanitarian organizations",
+            "C": "Eyewitness accounts and local reports",
+            "D": "Analysis and opinions from experts",
+            "E": "None of the above"
+        }
+    },
+    "Q10": {
+        "question": "What is the primary economic impact discussed in the article?",
+        "choices": {
+            "A": "Blockades affecting Gaza's economy",
+            "B": "Foreign aid reduction to Gaza",
+            "C": "Costs of rebuilding infrastructure in Gaza",
+            "D": "Loss of tourism revenue in Israel",
+            "E": "None of the above"
+        }
+    },
+    "Q11": {
+        "question": "What is the primary focus of public reaction in the article?",
+        "choices": {
+            "A": "Protests in support of Gaza worldwide",
+            "B": "Protests against Israeli military actions",
+            "C": "Fundraising for humanitarian aid to Gaza",
+            "D": "Social media campaigns advocating for Gaza",
+            "E": "None of the above"
+        }
+    },
+    "Q12": {
+        "question": "What kind of diplomatic action is discussed in the article?",
+        "choices": {
+            "A": "Peace talks between Hamas and Israel",
+            "B": "Sanctions on Israel by the UN",
+            "C": "Arms embargoes on Israel",
+            "D": "Human rights investigations in Gaza",
+            "E": "None of the above"
+        }
+    },
+    "Q13": {
+        "question": "What is the primary source of tension mentioned in the article?",
+        "choices": {
+            "A": "Religious differences between Israelis and Palestinians",
+            "B": "Historical grievances from past conflicts",
+            "C": "Economic disparity between Gaza and Israel",
+            "D": "Territorial claims over Gaza",
+            "E": "None of the above"
+        }
+    },
+    "Q14": {
+        "question": "What kind of support is described in the article?",
+        "choices": {
+            "A": "Military aid from the US to Israel",
+            "B": "Humanitarian aid from NGOs to Gaza",
+            "C": "Diplomatic backing from international bodies for Gaza",
+            "D": "Financial aid from foreign governments to Gaza",
+            "E": "None of the above"
+        }
+    },
+    "Q15": {
+        "question": "Is Benjamin Netanyahu mentioned prominently in the article?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q16": {
+        "question": "Is Joe Biden mentioned prominently in the article?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q17": {
+        "question": "Is Emmanuel Macron mentioned prominently in the article?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q18": {
+        "question": "Is Abdel Fattah el-Sisi mentioned prominently in the article?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q19": {
+        "question": "Is UNRWA (United Nations Relief and Works Agency) frequently mentioned in the article?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q20": {
+        "question": "Is Red Cross frequently mentioned in the article?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q21": {
+        "question": "Is Amnesty International frequently mentioned in the article?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q22": {
+        "question": "Is Doctors Without Borders frequently mentioned in the article?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q23": {
+        "question": "Are calls for a ceasefire mentioned prominently in the article?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q24": {
+        "question": "Is military support for either side mentioned prominently in the article?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q25": {
+        "question": "Are economic sanctions mentioned prominently in the article?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q26": {
+        "question": "Is diplomatic isolation of one or more of the combatants highlighted?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q27": {
+        "question": "Are condemnation statements against Israel or Hamas mentioned prominently in the article?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q28": {
+        "question": "Is a two-state solution discussed prominently in the article?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q29": {
+        "question": "Is a one-state solution discussed prominently in the article?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q30": {
+        "question": "Does the article mention any specific military operations or attacks by Israel?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q31": {
+        "question": "Does the article mention any specific rocket launches or attacks by Hamas?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q32": {
+        "question": "Does the article mention any political statements or negotiations involving international leaders?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q33": {
+        "question": "Does the article mention any humanitarian crises or casualties?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q34": {
+        "question": "Does the article mention armed resistance by Hamas?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q35": {
+        "question": "Does the article mention peaceful protests in Gaza?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q36": {
+        "question": "Does the article mention international lobbying by Palestinian Authority?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q37": {
+        "question": "Does the article mention cyber attacks by Palestinian groups?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q38": {
+        "question": "What is the primary focus of the article?",
+        "choices": {
+            "A": "Political alliances and election results",
+            "B": "Sports and celebrity involvement in politics",
+            "C": "Economic policies and stock market",
+            "D": "Social issues and public welfare",
+            "E": "None of above"
+        }
+    },
+    "Q39": {
+        "question": "Which region or state is prominently mentioned in the article?",
+        "choices": {
+            "A": "North India States",
+            "B": "West India States",
+            "C": "South India States",
+            "D": "East India States",
+            "E": "None of above"
+        }
+    },
+    "Q40": {
+        "question": "Which country or region is predominantly discussed in the article?",
+        "choices": {
+            "A": "India",
+            "B": "United States",
+            "C": "Europe",
+            "D": "None of above"
+        }
+    },
+    "Q41": {
+        "question": "Which political party is frequently mentioned in the article?",
+        "choices": {
+            "A": "Bharatiya Janata Party (BJP)",
+            "B": "Indian National Congress (INC)",
+            "C": "Aam Aadmi Party (AAP)",
+            "D": "Other(s)",
+            "E": "None of above"
+        }
+    },
+    "Q42": {
+        "question": "Who is the central figure or main personality discussed in the article?",
+        "choices": {
+            "A": "Narendra Modi",
+            "B": "Rahul Gandhi",
+            "C": "A regional political leader",
+            "D": "Other(s)",
+            "E": "None of above"
+        }
+    },
+    "Q43": {
+        "question": "What is the outcome or result mentioned in the article?",
+        "choices": {
+            "A": "Victory in a specific constituency",
+            "B": "Formation of a new political alliance",
+            "C": "A significant policy change",
+            "D": "None of above"
+        }
+    },
+    "Q44": {
+        "question": "What type of election coverage is provided?",
+        "choices": {
+            "A": "Pre-election analysis",
+            "B": "Live election updates",
+            "C": "Post-election analysis",
+            "D": "Voter opinion",
+            "E": "None of above"
+        }
+    },
+    "Q45": {
+        "question": "Which demographic is the article focused on?",
+        "choices": {
+            "A": "Youth",
+            "B": "Women",
+            "C": "Minority communities",
+            "D": "General population"
+        }
+    },
+    "Q46": {
+        "question": "What kind of data or statistics are mentioned?",
+        "choices": {
+            "A": "Opinion polls",
+            "B": "Exit polls",
+            "C": "Election results",
+            "D": "Voter demographics",
+            "E": "None of above"
+        }
+    },
+    "Q47": {
+        "question": "Which government institution is prominently mentioned?",
+        "choices": {
+            "A": "Election Commission of India",
+            "B": "Parliament",
+            "C": "Supreme Court",
+            "D": "Other",
+            "E": "None of above"
+        }
+    },
+    "Q48": {
+        "question": "What is the article's primary source of information?",
+        "choices": {
+            "A": "Official statements and reports",
+            "B": "Expert opinions and analysis",
+            "C": "Personal experiences and anecdotes",
+            "D": "Statistical data and research",
+            "E": "None of above"
+        }
+    },
+    "Q49": {
+        "question": "What is the publication date of the article?",
+        "choices": {
+            "A": "Before the elections",
+            "B": "During the elections",
+            "C": "After the elections",
+            "D": "Not mentioned"
+        }
+    },
+    "Q50": {
+        "question": "Which community or group is mentioned in the context of voting patterns?",
+        "choices": {
+            "A": "Religious groups",
+            "B": "Caste groups",
+            "C": "Regional groups",
+            "D": "None"
+        }
+    },
+    "Q51": {
+        "question": "What type of analysis does the article provide?",
+        "choices": {
+            "A": "Political analysis",
+            "B": "Economic analysis",
+            "C": "Social analysis",
+            "D": "None"
+        }
+    },
+    "Q52": {
+        "question": "What economic indicators are mentioned in relation to the elections?",
+        "choices": {
+            "A": "GDP growth",
+            "B": "Inflation",
+            "C": "Employment rates",
+            "D": "None"
+        }
+    },
+    "Q53": {
+        "question": "Which bill or policy is mentioned in the article?",
+        "choices": {
+            "A": "Citizenship Amendment Act (CAA)",
+            "B": "Goods and Services Tax (GST)",
+            "C": "Farmers' Produce Trade and Commerce Act",
+            "D": "None"
+        }
+    },
+    "Q54": {
+        "question": "Does this article favor any of the following parties?",
+        "choices": {
+            "A": "Bharatiya Janata Party (BJP)",
+            "B": "Indian National Congress (INC)",
+            "C": "Aam Aadmi Party (AAP)",
+            "D": "None"
+        }
+    },
+    "Q55": {
+        "question": "Which key election strategy is discussed in the article?",
+        "choices": {
+            "A": "Public rallies",
+            "B": "Social media advertising",
+            "C": "Celebrity endorsements",
+            "D": "None"
+        }
+    },
+    "Q56": {
+        "question": "Which minority group's voting patterns are discussed in the article?",
+        "choices": {
+            "A": "Muslim community",
+            "B": "Christian community",
+            "C": "Dalit community",
+            "D": "None"
+        }
+    },
+    "Q57": {
+        "question": "What is the outcome or result mentioned in the article?",
+        "choices": {
+            "A": "Victory in a specific constituency",
+            "B": "Formation of a new political alliance",
+            "C": "A significant policy change",
+            "D": "None of above"
+        }
+    },
+    "Q58": {
+        "question": "Which of the following is most prominently highlighted in the article?",
+        "choices": {
+            "A": "Corruption",
+            "B": "Money distribution",
+            "C": "Electoral violence",
+            "D": "Fake news and misinformation",
+            "E": "None of above"
+        }
+    },
+    "Q59": {
+        "question": "Does the article mention any alliance group?",
+        "choices": {
+            "A": "National Democratic Alliance (NDA)",
+            "B": "United Progressive Alliance (UPA)",
+            "C": "Indian National Developmental Inclusive Alliance (INDIA)",
+            "D": "None"
+        }
+    },
+    "Q60": {
+        "question": "Does the article talk about territorial disputes in the South China Sea?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q61": {
+        "question": "Does the article mention the involvement and stance of non-claimant countries, like the United States, Japan, Australia, India, UK, France?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q62": {
+        "question": "Does the article mention the involvement and stance of claimant country of China?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q63": {
+        "question": "Does the article mention the involvement and stance of claimant countries other than China, like Brunei, Malaysia, Philippines, Vietnam, and Indonesia?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q64": {
+        "question": "Does the article discuss the exploration and extraction of oil and natural gas?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q65": {
+        "question": "Does the article discuss the fishing rights and incidents involving fishing vessels?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q66": {
+        "question": "Does the article discuss the control and security of major shipping routes?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q67": {
+        "question": "Does the article discuss the military presence and activities by claimant countries, like China, Brunei, Malaysia, Philippines, Vietnam, and Indonesia?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q68": {
+        "question": "Does the article discuss the military presence and activities by non-claimant countries, like the United States, Japan, Australia, India, UK, France?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q69": {
+        "question": "Does the article discuss the effects of construction and militarization on marine ecosystems?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q70": {
+        "question": "Does the article discuss the environmental concerns related to overfishing and habitat destruction?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q71": {
+        "question": "Does the article discuss the impact of disputes on international trade?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q72": {
+        "question": "Does the article discuss the economic sanctions or trade restrictions related to the disputes?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q73": {
+        "question": "Does the article discuss the national policies and official government statements regarding sovereignty?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q74": {
+        "question": "Does the article discuss the geopolitical strategies and alliances?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q75": {
+        "question": "Does the article discuss the historical basis for claims by different countries?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q76": {
+        "question": "Does the article discuss the application and interpretation of United Nations Convention on the Law of the Sea (UNCLOS)?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q77": {
+        "question": "Does the article discuss the decisions by international bodies such as the Permanent Court of Arbitration?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q78": {
+        "question": "Does the article discuss bilateral and multilateral negotiations?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q79": {
+        "question": "Does the article discuss economic cooperation?",
+        "choices": {
+            "A": "Yes",
+            "B": "No"
+        }
+    },
+    "Q80": {
+        "question": "What aspect does the article focus on",
+        "choices": {
+            "A": "Incidents and Confrontations",
+            "B": "Opinions and Statements",
+            "C": "Negotiations and Diplomatic Efforts",
+            "D": "Military Alliances and Exercises",
+            "E": "None of the above"
+        }
+    }
+}
