@@ -1,0 +1,522 @@
+{
+    "Q1": {
+        "question": "What is the primary focus of the article?",
+        "choices": {
+            "A": "Election results and political shifts",
+            "B": "Military conflicts and hostilities",
+            "C": "International summits and diplomatic meetings",
+            "D": "Economic policies and trade agreements",
+            "E": "None of the above"
+        }
+    },
+    "Q2": {
+        "question": "Who are the primary actors mentioned in the article?",
+        "choices": {
+            "A": "Narendra Modi and Rahul Gandhi",
+            "B": "Cyril Ramaphosa and the ANC",
+            "C": "U.S. Defense Secretary Lloyd Austin and Chinese Defense Minister Dong Jun",
+            "D": "Hamas and Israeli military forces",
+            "E": "None of the above"
+        }
+    },
+    "Q3": {
+        "question": "Which geographical area is primarily discussed in the article?",
+        "choices": {
+            "A": "South China Sea",
+            "B": "Gaza Strip",
+            "C": "Uttar Pradesh, India",
+            "D": "South Africa",
+            "E": "None of the above"
+        }
+    },
+    "Q4": {
+        "question": "What is the outcome highlighted in the article?",
+        "choices": {
+            "A": "Formation of a coalition government",
+            "B": "Successful rescue of hostages",
+            "C": "Significant electoral victories and losses",
+            "D": "Implementation of a ceasefire agreement",
+            "E": "None of the above"
+        }
+    },
+    "Q5": {
+        "question": "How did the public react according to the article?",
+        "choices": {
+            "A": "Protests and demonstrations",
+            "B": "Celebrations and expressions of gratitude",
+            "C": "Criticism and condemnation",
+            "D": "Mixed reactions and debates",
+            "E": "None of the above"
+        }
+    },
+    "Q6": {
+        "question": "Which organizations or events are specifically mentioned in the article?",
+        "choices": {
+            "A": "G7 Summit",
+            "B": "Shangri-La Dialogue",
+            "C": "Election Commission of India",
+            "D": "United Nations Security Council",
+            "E": "None of the above"
+        }
+    },
+    "Q7": {
+        "question": "What significant political shift is discussed in the article?",
+        "choices": {
+            "A": "The rise of the INDIA alliance in Indian politics",
+            "B": "The formation of South Africa's first national coalition government",
+            "C": "The shift in U.S. foreign policy towards the Philippines",
+            "D": "The change in leadership within the BJP in India",
+            "E": "None of the above"
+        }
+    },
+    "Q8": {
+        "question": "What major conflict or tension is highlighted in the article?",
+        "choices": {
+            "A": "Israel-Hezbollah hostilities",
+            "B": "South China Sea territorial disputes",
+            "C": "Gaza conflict and humanitarian crisis",
+            "D": "U.S.-China military relations",
+            "E": "None of the above"
+        }
+    },
+    "Q9": {
+        "question": "What is a key issue discussed in the article related to international relations?",
+        "choices": {
+            "A": "Economic sanctions and trade policies",
+            "B": "Military alliances and defense agreements",
+            "C": "Diplomatic negotiations and peace talks",
+            "D": "Humanitarian aid and relief efforts",
+            "E": "None of the above"
+        }
+    },
+    "Q10": {
+        "question": "What significant event involving a global leader is mentioned in the article?",
+        "choices": {
+            "A": "Narendra Modi's re-election as Prime Minister of India",
+            "B": "Cyril Ramaphosa's re-election in South Africa",
+            "C": "Volodymyr Zelensky's visit to the Philippines",
+            "D": "Joe Biden's announcement of a Gaza ceasefire",
+            "E": "None of the above"
+        }
+    },
+    "Q11": {
+        "question": "What is the primary focus of the article regarding economic policies?",
+        "choices": {
+            "A": "Trade agreements and investments",
+            "B": "Financial aid and loans",
+            "C": "Economic reforms and fiscal policies",
+            "D": "Industrial development and infrastructure projects",
+            "E": "None of the above"
+        }
+    },
+    "Q12": {
+        "question": "What is the main theme of the article related to humanitarian issues?",
+        "choices": {
+            "A": "Delivery of humanitarian aid",
+            "B": "Protection of civilians in conflict zones",
+            "C": "Addressing food and water shortages",
+            "D": "Support for refugees and displaced persons",
+            "E": "None of the above"
+        }
+    },
+    "Q13": {
+        "question": "What significant electoral outcome is discussed in the article?",
+        "choices": {
+            "A": "BJP's performance in the 2024 Lok Sabha elections",
+            "B": "TMC's success in West Bengal",
+            "C": "ANC's coalition government in South Africa",
+            "D": "Congress's gains in Uttar Pradesh",
+            "E": "None of the above"
+        }
+    },
+    "Q14": {
+        "question": "What major international summit is highlighted in the article?",
+        "choices": {
+            "A": "G7 Summit in Italy",
+            "B": "Shangri-La Dialogue in Singapore",
+            "C": "United Nations General Assembly",
+            "D": "ASEAN Summit",
+            "E": "None of the above"
+        }
+    },
+    "Q15": {
+        "question": "What is the primary focus of the article regarding military actions?",
+        "choices": {
+            "A": "Airstrikes and rocket attacks",
+            "B": "Rescue operations and hostage situations",
+            "C": "Joint military exercises and maneuvers",
+            "D": "Deployment of missile systems",
+            "E": "None of the above"
+        }
+    },
+    "Q16": {
+        "question": "What significant political development is mentioned in the article?",
+        "choices": {
+            "A": "Formation of a new political coalition",
+            "B": "Resignation of a key political leader",
+            "C": "Implementation of new government policies",
+            "D": "Announcement of election results",
+            "E": "None of the above"
+        }
+    },
+    "Q17": {
+        "question": "What is the primary focus of the article regarding public demonstrations?",
+        "choices": {
+            "A": "Protests against government policies",
+            "B": "Support for a political leader",
+            "C": "Advocacy for human rights",
+            "D": "Opposition to military actions",
+            "E": "None of the above"
+        }
+    },
+    "Q18": {
+        "question": "What significant diplomatic interaction is discussed in the article?",
+        "choices": {
+            "A": "Bilateral meetings between world leaders",
+            "B": "Multilateral negotiations at an international summit",
+            "C": "Diplomatic protests and condemnations",
+            "D": "Signing of international agreements",
+            "E": "None of the above"
+        }
+    },
+    "Q19": {
+        "question": "What is the primary focus of the article regarding environmental issues?",
+        "choices": {
+            "A": "Climate change and global warming",
+            "B": "Conservation and biodiversity",
+            "C": "Pollution and waste management",
+            "D": "Renewable energy and sustainability",
+            "E": "None of the above"
+        }
+    },
+    "Q20": {
+        "question": "What significant legal or judicial action is mentioned in the article?",
+        "choices": {
+            "A": "International arbitration rulings",
+            "B": "Sanctions and blacklisting",
+            "C": "Legal reforms and policy changes",
+            "D": "Court rulings and legal disputes",
+            "E": "None of the above"
+        }
+    },
+    "Q21": {
+        "question": "What is the outcome or resolution mentioned in the article?",
+        "choices": {
+            "A": "A ceasefire agreement",
+            "B": "Strengthened diplomatic ties",
+            "C": "Economic sanctions",
+            "D": "Public protests",
+            "E": "None of the above"
+        }
+    },
+    "Q22": {
+        "question": "How did the public or international community react according to the article?",
+        "choices": {
+            "A": "With widespread protests",
+            "B": "By issuing statements of support or condemnation",
+            "C": "Through humanitarian aid efforts",
+            "D": "By organizing summits and meetings",
+            "E": "None of the above"
+        }
+    },
+    "Q23": {
+        "question": "What is the main issue or conflict highlighted in the article?",
+        "choices": {
+            "A": "Territorial disputes",
+            "B": "Economic instability",
+            "C": "Human rights violations",
+            "D": "Environmental concerns",
+            "E": "None of the above"
+        }
+    },
+    "Q24": {
+        "question": "What type of actions or measures are discussed in the article?",
+        "choices": {
+            "A": "Military interventions",
+            "B": "Diplomatic negotiations",
+            "C": "Economic sanctions",
+            "D": "Humanitarian aid",
+            "E": "None of the above"
+        }
+    },
+    "Q25": {
+        "question": "Which countries are prominently featured in the article?",
+        "choices": {
+            "A": "United States and China",
+            "B": "India and Pakistan",
+            "C": "Russia and Ukraine",
+            "D": "Israel and Palestine",
+            "E": "None of the above"
+        }
+    },
+    "Q26": {
+        "question": "What is the central theme of the article?",
+        "choices": {
+            "A": "Geopolitical tensions",
+            "B": "Economic development",
+            "C": "Social justice movements",
+            "D": "Environmental sustainability",
+            "E": "None of the above"
+        }
+    },
+    "Q27": {
+        "question": "What kind of international relations are discussed in the article?",
+        "choices": {
+            "A": "Alliances and partnerships",
+            "B": "Trade agreements",
+            "C": "Military conflicts",
+            "D": "Diplomatic disputes",
+            "E": "None of the above"
+        }
+    },
+    "Q28": {
+        "question": "What specific incidents or events are mentioned in the article?",
+        "choices": {
+            "A": "Military confrontations",
+            "B": "Diplomatic meetings",
+            "C": "Humanitarian crises",
+            "D": "Public demonstrations",
+            "E": "None of the above"
+        }
+    },
+    "Q29": {
+        "question": "What is the stance or position of the primary actors in the article?",
+        "choices": {
+            "A": "Supportive and cooperative",
+            "B": "Condemnatory and critical",
+            "C": "Neutral and observational",
+            "D": "Aggressive and confrontational",
+            "E": "None of the above"
+        }
+    },
+    "Q30": {
+        "question": "What future actions or plans are discussed in the article?",
+        "choices": {
+            "A": "Upcoming summits and meetings",
+            "B": "Military deployments",
+            "C": "Economic reforms",
+            "D": "Humanitarian missions",
+            "E": "None of the above"
+        }
+    },
+    "Q31": {
+        "question": "What are the key challenges or issues highlighted in the article?",
+        "choices": {
+            "A": "Political instability",
+            "B": "Economic downturns",
+            "C": "Human rights abuses",
+            "D": "Environmental degradation",
+            "E": "None of the above"
+        }
+    },
+    "Q32": {
+        "question": "What kind of resolutions or agreements are mentioned in the article?",
+        "choices": {
+            "A": "Ceasefire agreements",
+            "B": "Trade deals",
+            "C": "Diplomatic treaties",
+            "D": "Environmental accords",
+            "E": "None of the above"
+        }
+    },
+    "Q33": {
+        "question": "What is the tone or perspective of the article?",
+        "choices": {
+            "A": "Optimistic and hopeful",
+            "B": "Pessimistic and critical",
+            "C": "Neutral and factual",
+            "D": "Alarmist and urgent",
+            "E": "None of the above"
+        }
+    },
+    "Q34": {
+        "question": "What are the implications or consequences discussed in the article?",
+        "choices": {
+            "A": "Increased geopolitical tensions",
+            "B": "Economic growth and stability",
+            "C": "Social unrest and protests",
+            "D": "Environmental improvements",
+            "E": "None of the above"
+        }
+    },
+    "Q35": {
+        "question": "What kind of support or opposition is mentioned in the article?",
+        "choices": {
+            "A": "International alliances",
+            "B": "Economic sanctions",
+            "C": "Military aid",
+            "D": "Humanitarian assistance",
+            "E": "None of the above"
+        }
+    },
+    "Q36": {
+        "question": "What are the main goals or objectives of the primary actors in the article?",
+        "choices": {
+            "A": "Achieving peace and stability",
+            "B": "Expanding economic influence",
+            "C": "Promoting human rights",
+            "D": "Addressing environmental issues",
+            "E": "None of the above"
+        }
+    },
+    "Q37": {
+        "question": "What is the main outcome or resolution mentioned in the article?",
+        "choices": {
+            "A": "A ceasefire agreement",
+            "B": "A new policy implementation",
+            "C": "An economic aid package",
+            "D": "A military escalation",
+            "E": "None of the above"
+        }
+    },
+    "Q38": {
+        "question": "How did the public or specific groups react to the events described in the article?",
+        "choices": {
+            "A": "With widespread protests",
+            "B": "By supporting the government's actions",
+            "C": "By criticizing the lack of action",
+            "D": "By calling for international intervention",
+            "E": "None of the above"
+        }
+    },
+    "Q39": {
+        "question": "What specific issue or topic is highlighted in the article?",
+        "choices": {
+            "A": "Migration and refugee crisis",
+            "B": "Territorial disputes and sovereignty",
+            "C": "Economic development and trade",
+            "D": "Climate change and environmental policies",
+            "E": "None of the above"
+        }
+    },
+    "Q40": {
+        "question": "What stance or position did a key figure take in the article?",
+        "choices": {
+            "A": "Advocating for peace and diplomacy",
+            "B": "Supporting military intervention",
+            "C": "Criticizing international organizations",
+            "D": "Promoting economic sanctions",
+            "E": "None of the above"
+        }
+    },
+    "Q41": {
+        "question": "What significant event or action took place according to the article?",
+        "choices": {
+            "A": "A high-level diplomatic meeting",
+            "B": "A major military operation",
+            "C": "A humanitarian aid delivery",
+            "D": "A political election result",
+            "E": "None of the above"
+        }
+    },
+    "Q42": {
+        "question": "What was a major point of contention or disagreement in the article?",
+        "choices": {
+            "A": "The legality of territorial claims",
+            "B": "The effectiveness of economic policies",
+            "C": "The response to a humanitarian crisis",
+            "D": "The outcome of a political negotiation",
+            "E": "None of the above"
+        }
+    },
+    "Q43": {
+        "question": "Which country's actions or policies are prominently discussed in the article?",
+        "choices": {
+            "A": "United States",
+            "B": "China",
+            "C": "Russia",
+            "D": "India",
+            "E": "None of the above"
+        }
+    },
+    "Q44": {
+        "question": "What was a notable criticism or concern raised in the article?",
+        "choices": {
+            "A": "Lack of international support",
+            "B": "Human rights violations",
+            "C": "Economic instability",
+            "D": "Environmental degradation",
+            "E": "None of the above"
+        }
+    },
+    "Q45": {
+        "question": "What type of international cooperation or alliance is mentioned in the article?",
+        "choices": {
+            "A": "Military alliance",
+            "B": "Economic partnership",
+            "C": "Humanitarian coalition",
+            "D": "Environmental agreement",
+            "E": "None of the above"
+        }
+    },
+    "Q46": {
+        "question": "What was a significant political development mentioned in the article?",
+        "choices": {
+            "A": "Formation of a new government",
+            "B": "Signing of a peace treaty",
+            "C": "Implementation of new sanctions",
+            "D": "Announcement of a major policy shift",
+            "E": "None of the above"
+        }
+    },
+    "Q47": {
+        "question": "What was the reaction of a specific country or leader to the events described in the article?",
+        "choices": {
+            "A": "Condemnation and criticism",
+            "B": "Support and endorsement",
+            "C": "Neutral and non-committal",
+            "D": "Call for further negotiations",
+            "E": "None of the above"
+        }
+    },
+    "Q48": {
+        "question": "What was a key challenge or issue faced by the actors in the article?",
+        "choices": {
+            "A": "Managing public opinion",
+            "B": "Securing international funding",
+            "C": "Navigating diplomatic tensions",
+            "D": "Addressing humanitarian needs",
+            "E": "None of the above"
+        }
+    },
+    "Q49": {
+        "question": "What was a significant achievement or milestone mentioned in the article?",
+        "choices": {
+            "A": "Successful negotiation of a treaty",
+            "B": "Major economic investment",
+            "C": "Breakthrough in scientific research",
+            "D": "Historic political victory",
+            "E": "None of the above"
+        }
+    },
+    "Q50": {
+        "question": "What was a major policy or strategy discussed in the article?",
+        "choices": {
+            "A": "Economic sanctions",
+            "B": "Military intervention",
+            "C": "Diplomatic engagement",
+            "D": "Humanitarian aid",
+            "E": "None of the above"
+        }
+    },
+    "Q51": {
+        "question": "What was the primary focus of the international summit or meeting mentioned in the article?",
+        "choices": {
+            "A": "Security and defense",
+            "B": "Economic development",
+            "C": "Environmental sustainability",
+            "D": "Human rights and social justice",
+            "E": "None of the above"
+        }
+    },
+    "Q52": {
+        "question": "What was a notable outcome of the international summit or meeting mentioned in the article?",
+        "choices": {
+            "A": "Agreement on a joint declaration",
+            "B": "Pledge of financial support",
+            "C": "Establishment of a new coalition",
+            "D": "Resolution of a major dispute",
+            "E": "None of the above"
+        }
+    }
+}

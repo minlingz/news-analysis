@@ -1,0 +1,1192 @@
+{
+    "Q1": {
+        "question": "What is the primary focus of the article?",
+        "choices": {
+            "A": "Military actions and attacks",
+            "B": "Political statements and negotiations",
+            "C": "Humanitarian impact and casualties",
+            "D": "Protests and public reactions",
+            "E": "None of the above"
+        }
+    },
+    "Q2": {
+        "question": "Which international organization is prominently mentioned in the article?",
+        "choices": {
+            "A": "United Nations",
+            "B": "NATO",
+            "C": "European Union",
+            "D": "African Union",
+            "E": "None of the above"
+        }
+    },
+    "Q3": {
+        "question": "What is the main geographical area discussed in the article?",
+        "choices": {
+            "A": "Gaza Strip",
+            "B": "West Bank",
+            "C": "Israel",
+            "D": "International (e.g. U.S. Europe)",
+            "E": "None of the above"
+        }
+    },
+    "Q4": {
+        "question": "Who is a key political figure mentioned in the article?",
+        "choices": {
+            "A": "Joe Biden",
+            "B": "Vladimir Putin",
+            "C": "Recep Tayyip Erdo\u011fan",
+            "D": "Benjamin Netanyahu",
+            "E": "None of the above"
+        }
+    },
+    "Q5": {
+        "question": "What type of event is highlighted in the article?",
+        "choices": {
+            "A": "Summit or conference",
+            "B": "Military operation",
+            "C": "Natural disaster",
+            "D": "Economic crisis",
+            "E": "None of the above"
+        }
+    },
+    "Q6": {
+        "question": "What is the primary outcome or resolution discussed in the article?",
+        "choices": {
+            "A": "Ceasefire agreement",
+            "B": "Economic sanctions",
+            "C": "Humanitarian aid delivery",
+            "D": "Political coalition formation",
+            "E": "None of the above"
+        }
+    },
+    "Q7": {
+        "question": "Which country's internal politics are a significant focus in the article?",
+        "choices": {
+            "A": "Israel",
+            "B": "Turkey",
+            "C": "South Africa",
+            "D": "United States",
+            "E": "None of the above"
+        }
+    },
+    "Q8": {
+        "question": "What is the main cause of the conflict or issue discussed in the article?",
+        "choices": {
+            "A": "Territorial disputes",
+            "B": "Political corruption",
+            "C": "Economic inequality",
+            "D": "Religious differences",
+            "E": "None of the above"
+        }
+    },
+    "Q9": {
+        "question": "Which sector or industry is notably impacted according to the article?",
+        "choices": {
+            "A": "Healthcare",
+            "B": "Education",
+            "C": "Defense",
+            "D": "Technology",
+            "E": "None of the above"
+        }
+    },
+    "Q10": {
+        "question": "What is the public's reaction to the events described in the article?",
+        "choices": {
+            "A": "Protests and demonstrations",
+            "B": "Support and solidarity",
+            "C": "Indifference",
+            "D": "Outrage and condemnation",
+            "E": "None of the above"
+        }
+    },
+    "Q11": {
+        "question": "Which humanitarian issue is prominently mentioned in the article?",
+        "choices": {
+            "A": "Famine and hunger",
+            "B": "Refugee crisis",
+            "C": "Disease outbreak",
+            "D": "Child labor",
+            "E": "None of the above"
+        }
+    },
+    "Q12": {
+        "question": "What type of international response is discussed in the article?",
+        "choices": {
+            "A": "Military intervention",
+            "B": "Diplomatic negotiations",
+            "C": "Economic aid",
+            "D": "Trade embargo",
+            "E": "None of the above"
+        }
+    },
+    "Q13": {
+        "question": "Which group or organization is accused of committing human rights violations in the article?",
+        "choices": {
+            "A": "Hamas",
+            "B": "Israeli Defense Forces",
+            "C": "Houthi rebels",
+            "D": "Rapid Support Forces (RSF)",
+            "E": "None of the above"
+        }
+    },
+    "Q14": {
+        "question": "What is the primary environmental concern mentioned in the article?",
+        "choices": {
+            "A": "Climate change",
+            "B": "Deforestation",
+            "C": "Water pollution",
+            "D": "Air quality",
+            "E": "None of the above"
+        }
+    },
+    "Q15": {
+        "question": "What is the main economic issue discussed in the article?",
+        "choices": {
+            "A": "Inflation",
+            "B": "Unemployment",
+            "C": "Trade deficits",
+            "D": "Currency devaluation",
+            "E": "None of the above"
+        }
+    },
+    "Q16": {
+        "question": "Which country's foreign policy is a significant focus in the article?",
+        "choices": {
+            "A": "United States",
+            "B": "Russia",
+            "C": "China",
+            "D": "France",
+            "E": "None of the above"
+        }
+    },
+    "Q17": {
+        "question": "What is the primary legal or judicial issue mentioned in the article?",
+        "choices": {
+            "A": "War crimes",
+            "B": "Corruption charges",
+            "C": "Election fraud",
+            "D": "Human trafficking",
+            "E": "None of the above"
+        }
+    },
+    "Q18": {
+        "question": "What is the main technological advancement or issue discussed in the article?",
+        "choices": {
+            "A": "Artificial intelligence",
+            "B": "Cybersecurity",
+            "C": "Space exploration",
+            "D": "Renewable energy",
+            "E": "None of the above"
+        }
+    },
+    "Q19": {
+        "question": "Which social issue is prominently mentioned in the article?",
+        "choices": {
+            "A": "Gender equality",
+            "B": "Racial discrimination",
+            "C": "LGBTQ+ rights",
+            "D": "Education reform",
+            "E": "None of the above"
+        }
+    },
+    "Q20": {
+        "question": "What is the primary diplomatic action taken according to the article?",
+        "choices": {
+            "A": "Signing of a peace treaty",
+            "B": "Imposition of sanctions",
+            "C": "Withdrawal of ambassadors",
+            "D": "Formation of an alliance",
+            "E": "None of the above"
+        }
+    },
+    "Q21": {
+        "question": "Which political party is prominently mentioned in the article?",
+        "choices": {
+            "A": "Bharatiya Janata Party (BJP)",
+            "B": "Indian National Congress (INC)",
+            "C": "Trinamool Congress (TMC)",
+            "D": "Samajwadi Party (SP)",
+            "E": "None of the above"
+        }
+    },
+    "Q22": {
+        "question": "What is the outcome highlighted in the article?",
+        "choices": {
+            "A": "Election victory",
+            "B": "Economic downturn",
+            "C": "Diplomatic agreement",
+            "D": "Environmental achievement",
+            "E": "None of the above"
+        }
+    },
+    "Q23": {
+        "question": "Which international leader is mentioned in the article?",
+        "choices": {
+            "A": "Joe Biden",
+            "B": "Vladimir Putin",
+            "C": "Rishi Sunak",
+            "D": "Emmanuel Macron",
+            "E": "None of the above"
+        }
+    },
+    "Q24": {
+        "question": "What is the main issue addressed by the political party in the article?",
+        "choices": {
+            "A": "Economic development",
+            "B": "Social justice",
+            "C": "Electoral strategy",
+            "D": "Environmental protection",
+            "E": "None of the above"
+        }
+    },
+    "Q25": {
+        "question": "Which organization or alliance is prominently mentioned in the article?",
+        "choices": {
+            "A": "National Democratic Alliance (NDA)",
+            "B": "United Nations (UN)",
+            "C": "European Union (EU)",
+            "D": "North Atlantic Treaty Organization (NATO)",
+            "E": "None of the above"
+        }
+    },
+    "Q26": {
+        "question": "What is the significant event discussed in the article?",
+        "choices": {
+            "A": "Election results announcement",
+            "B": "International summit",
+            "C": "Economic policy change",
+            "D": "Environmental campaign launch",
+            "E": "None of the above"
+        }
+    },
+    "Q27": {
+        "question": "Which demographic or community is highlighted in the article?",
+        "choices": {
+            "A": "Scheduled Castes (SCs)",
+            "B": "Women",
+            "C": "Youth",
+            "D": "Farmers",
+            "E": "None of the above"
+        }
+    },
+    "Q28": {
+        "question": "What is the main reaction or response mentioned in the article?",
+        "choices": {
+            "A": "Public protests",
+            "B": "International congratulations",
+            "C": "Market crash",
+            "D": "Policy endorsement",
+            "E": "None of the above"
+        }
+    },
+    "Q29": {
+        "question": "Which state in India is specifically mentioned in the article?",
+        "choices": {
+            "A": "Assam",
+            "B": "Karnataka",
+            "C": "Rajasthan",
+            "D": "Telangana",
+            "E": "None of the above"
+        }
+    },
+    "Q30": {
+        "question": "What is the primary challenge or issue faced by the political party in the article?",
+        "choices": {
+            "A": "Decline in support",
+            "B": "Economic crisis",
+            "C": "Environmental disaster",
+            "D": "Diplomatic tension",
+            "E": "None of the above"
+        }
+    },
+    "Q31": {
+        "question": "Which election year is prominently mentioned in the article?",
+        "choices": {
+            "A": "2019",
+            "B": "2024",
+            "C": "2026",
+            "D": "2029",
+            "E": "None of the above"
+        }
+    },
+    "Q32": {
+        "question": "What is the main strategy discussed by the political party in the article?",
+        "choices": {
+            "A": "Seat-sharing and alliances",
+            "B": "Economic reforms",
+            "C": "Environmental policies",
+            "D": "Military actions",
+            "E": "None of the above"
+        }
+    },
+    "Q33": {
+        "question": "Which specific constituency is mentioned in the article?",
+        "choices": {
+            "A": "Dhubri",
+            "B": "Varanasi",
+            "C": "Rae Bareli",
+            "D": "Belgaum",
+            "E": "None of the above"
+        }
+    },
+    "Q34": {
+        "question": "What is the main focus of the international leaders' messages in the article?",
+        "choices": {
+            "A": "Congratulating election victory",
+            "B": "Criticizing economic policies",
+            "C": "Discussing climate change",
+            "D": "Addressing humanitarian issues",
+            "E": "None of the above"
+        }
+    },
+    "Q35": {
+        "question": "Which political figure is prominently mentioned in the article?",
+        "choices": {
+            "A": "Narendra Modi",
+            "B": "Rahul Gandhi",
+            "C": "Mamata Banerjee",
+            "D": "Chandrababu Naidu",
+            "E": "None of the above"
+        }
+    },
+    "Q36": {
+        "question": "What is the main theme of the article?",
+        "choices": {
+            "A": "Political dynamics and election outcomes",
+            "B": "Economic challenges and market reactions",
+            "C": "Environmental initiatives and climate action",
+            "D": "International diplomatic relations",
+            "E": "None of the above"
+        }
+    },
+    "Q37": {
+        "question": "Which specific policy or initiative is mentioned in the article?",
+        "choices": {
+            "A": "Special Category Status (SCS)",
+            "B": "Make in India",
+            "C": "Digital India",
+            "D": "Swachh Bharat",
+            "E": "None of the above"
+        }
+    },
+    "Q38": {
+        "question": "What is the main sentiment expressed by the political party in the article?",
+        "choices": {
+            "A": "Gratitude and optimism",
+            "B": "Criticism and opposition",
+            "C": "Concern and caution",
+            "D": "Celebration and victory",
+            "E": "None of the above"
+        }
+    },
+    "Q39": {
+        "question": "Who is the primary actor or country involved in the article?",
+        "choices": {
+            "A": "United States",
+            "B": "China",
+            "C": "Russia",
+            "D": "European Union",
+            "E": "None of the above"
+        }
+    },
+    "Q40": {
+        "question": "What is the main outcome or resolution discussed in the article?",
+        "choices": {
+            "A": "Peace agreement",
+            "B": "Trade deal",
+            "C": "Military alliance",
+            "D": "Legal ruling",
+            "E": "None of the above"
+        }
+    },
+    "Q41": {
+        "question": "Which country's military actions are a central theme in the article?",
+        "choices": {
+            "A": "United States",
+            "B": "China",
+            "C": "Russia",
+            "D": "India",
+            "E": "None of the above"
+        }
+    },
+    "Q42": {
+        "question": "What is the primary concern raised in the article?",
+        "choices": {
+            "A": "Environmental impact",
+            "B": "Human rights violations",
+            "C": "Territorial disputes",
+            "D": "Economic sanctions",
+            "E": "None of the above"
+        }
+    },
+    "Q43": {
+        "question": "Which regional organization is mentioned in the article?",
+        "choices": {
+            "A": "African Union",
+            "B": "European Union",
+            "C": "ASEAN",
+            "D": "MERCOSUR",
+            "E": "None of the above"
+        }
+    },
+    "Q44": {
+        "question": "What is the main type of conflict discussed in the article?",
+        "choices": {
+            "A": "Cyber warfare",
+            "B": "Naval confrontations",
+            "C": "Air strikes",
+            "D": "Ground battles",
+            "E": "None of the above"
+        }
+    },
+    "Q45": {
+        "question": "What is the primary diplomatic stance taken by the country in focus?",
+        "choices": {
+            "A": "Aggressive",
+            "B": "Defensive",
+            "C": "Neutral",
+            "D": "Cooperative",
+            "E": "None of the above"
+        }
+    },
+    "Q46": {
+        "question": "Which international law or convention is referenced in the article?",
+        "choices": {
+            "A": "Geneva Conventions",
+            "B": "United Nations Convention on the Law of the Sea (UNCLOS)",
+            "C": "Paris Agreement",
+            "D": "Rome Statute",
+            "E": "None of the above"
+        }
+    },
+    "Q47": {
+        "question": "What is the main economic activity discussed in the article?",
+        "choices": {
+            "A": "Trade negotiations",
+            "B": "Investment deals",
+            "C": "Sanctions",
+            "D": "Resource extraction",
+            "E": "None of the above"
+        }
+    },
+    "Q48": {
+        "question": "Which country's leader is prominently mentioned in the article?",
+        "choices": {
+            "A": "United States",
+            "B": "China",
+            "C": "Philippines",
+            "D": "Russia",
+            "E": "None of the above"
+        }
+    },
+    "Q49": {
+        "question": "What is the primary reaction of the public or civil society in the article?",
+        "choices": {
+            "A": "Protests",
+            "B": "Support rallies",
+            "C": "Indifference",
+            "D": "Humanitarian aid",
+            "E": "None of the above"
+        }
+    },
+    "Q50": {
+        "question": "What is the main legal or judicial action discussed in the article?",
+        "choices": {
+            "A": "International arbitration",
+            "B": "Domestic court ruling",
+            "C": "United Nations resolution",
+            "D": "Sanctions imposition",
+            "E": "None of the above"
+        }
+    },
+    "Q51": {
+        "question": "Which bilateral relationship is a key focus in the article?",
+        "choices": {
+            "A": "US-China",
+            "B": "China-Philippines",
+            "C": "Russia-Ukraine",
+            "D": "US-Russia",
+            "E": "None of the above"
+        }
+    },
+    "Q52": {
+        "question": "What is the primary security concern highlighted in the article?",
+        "choices": {
+            "A": "Cybersecurity threats",
+            "B": "Maritime security",
+            "C": "Airspace violations",
+            "D": "Border incursions",
+            "E": "None of the above"
+        }
+    },
+    "Q53": {
+        "question": "Which country's defense policy is a central theme in the article?",
+        "choices": {
+            "A": "United States",
+            "B": "China",
+            "C": "Japan",
+            "D": "India",
+            "E": "None of the above"
+        }
+    },
+    "Q54": {
+        "question": "What is the main international response discussed in the article?",
+        "choices": {
+            "A": "Sanctions",
+            "B": "Diplomatic protests",
+            "C": "Military intervention",
+            "D": "Humanitarian aid",
+            "E": "None of the above"
+        }
+    },
+    "Q55": {
+        "question": "Which political alliance is prominently mentioned in the article?",
+        "choices": {
+            "A": "NDA",
+            "B": "UPA",
+            "C": "AAP",
+            "D": "BSP",
+            "E": "None of the above"
+        }
+    },
+    "Q56": {
+        "question": "What significant event is highlighted in the article?",
+        "choices": {
+            "A": "Election results announcement",
+            "B": "Sports tournament",
+            "C": "Economic summit",
+            "D": "Natural disaster",
+            "E": "None of the above"
+        }
+    },
+    "Q57": {
+        "question": "What is the outcome of the event discussed in the article?",
+        "choices": {
+            "A": "Formation of a new government",
+            "B": "Victory in a sports match",
+            "C": "Economic policy implementation",
+            "D": "Public health initiative",
+            "E": "None of the above"
+        }
+    },
+    "Q58": {
+        "question": "Which political party is mentioned as having a significant performance in the article?",
+        "choices": {
+            "A": "BJP",
+            "B": "Congress",
+            "C": "TMC",
+            "D": "SP",
+            "E": "None of the above"
+        }
+    },
+    "Q59": {
+        "question": "What challenge is highlighted in the article?",
+        "choices": {
+            "A": "Coalition dynamics",
+            "B": "Sports team performance",
+            "C": "Economic downturn",
+            "D": "Public health crisis",
+            "E": "None of the above"
+        }
+    },
+    "Q60": {
+        "question": "Which state is mentioned as having a notable election result in the article?",
+        "choices": {
+            "A": "Uttar Pradesh",
+            "B": "Maharashtra",
+            "C": "West Bengal",
+            "D": "Bihar",
+            "E": "None of the above"
+        }
+    },
+    "Q61": {
+        "question": "What is a key implication of the event discussed in the article?",
+        "choices": {
+            "A": "Political realignment",
+            "B": "Sports team strategy change",
+            "C": "Economic policy shift",
+            "D": "Public health measure",
+            "E": "None of the above"
+        }
+    },
+    "Q62": {
+        "question": "Which international organization is mentioned in the article?",
+        "choices": {
+            "A": "United Nations",
+            "B": "NATO",
+            "C": "European Union",
+            "D": "African Union",
+            "E": "None of the above"
+        }
+    },
+    "Q63": {
+        "question": "What is the public reaction mentioned in the article?",
+        "choices": {
+            "A": "Celebrations and rallies",
+            "B": "Protests and demonstrations",
+            "C": "Market fluctuations",
+            "D": "Health advisories",
+            "E": "None of the above"
+        }
+    },
+    "Q64": {
+        "question": "Which sports event is discussed in the article?",
+        "choices": {
+            "A": "ICC T20 World Cup",
+            "B": "FIFA World Cup",
+            "C": "Olympic Games",
+            "D": "Wimbledon",
+            "E": "None of the above"
+        }
+    },
+    "Q65": {
+        "question": "What is the main issue addressed by a key figure in the article?",
+        "choices": {
+            "A": "Election strategy",
+            "B": "Sports performance",
+            "C": "Economic policy",
+            "D": "Public health",
+            "E": "None of the above"
+        }
+    },
+    "Q66": {
+        "question": "Which political strategy is highlighted in the article?",
+        "choices": {
+            "A": "Coalition formation",
+            "B": "Election campaign",
+            "C": "Policy reform",
+            "D": "Public health initiative",
+            "E": "None of the above"
+        }
+    },
+    "Q67": {
+        "question": "What is the significant outcome for a political party mentioned in the article?",
+        "choices": {
+            "A": "Increase in seat count",
+            "B": "Victory in a sports match",
+            "C": "Economic growth",
+            "D": "Public health improvement",
+            "E": "None of the above"
+        }
+    },
+    "Q68": {
+        "question": "Which key event is mentioned in the article?",
+        "choices": {
+            "A": "Election results announcement",
+            "B": "Sports tournament",
+            "C": "Economic summit",
+            "D": "Natural disaster",
+            "E": "None of the above"
+        }
+    },
+    "Q69": {
+        "question": "What is the main focus of the article regarding political alliances?",
+        "choices": {
+            "A": "Coalition dynamics",
+            "B": "Election campaign",
+            "C": "Policy reform",
+            "D": "Public health initiative",
+            "E": "None of the above"
+        }
+    },
+    "Q70": {
+        "question": "Which key figure's actions are highlighted in the article?",
+        "choices": {
+            "A": "Narendra Modi",
+            "B": "Rahul Gandhi",
+            "C": "Mamata Banerjee",
+            "D": "Nitish Kumar",
+            "E": "None of the above"
+        }
+    },
+    "Q71": {
+        "question": "What is the significant challenge mentioned in the article?",
+        "choices": {
+            "A": "Coalition dynamics",
+            "B": "Sports team performance",
+            "C": "Economic downturn",
+            "D": "Public health crisis",
+            "E": "None of the above"
+        }
+    },
+    "Q72": {
+        "question": "Who are the primary actors involved in the events described in the article?",
+        "choices": {
+            "A": "U.S. and Israeli officials",
+            "B": "Hezbollah and Israeli forces",
+            "C": "Hamas and Israeli forces",
+            "D": "International humanitarian organizations",
+            "E": "None of the above"
+        }
+    },
+    "Q73": {
+        "question": "What type of event is central to the article?",
+        "choices": {
+            "A": "Military conflict",
+            "B": "Political negotiation",
+            "C": "Humanitarian crisis",
+            "D": "Public protest",
+            "E": "None of the above"
+        }
+    },
+    "Q74": {
+        "question": "What is the outcome or result mentioned in the article?",
+        "choices": {
+            "A": "Ceasefire agreement",
+            "B": "Rescue operation",
+            "C": "Airstrike retaliation",
+            "D": "Diplomatic condemnation",
+            "E": "None of the above"
+        }
+    },
+    "Q75": {
+        "question": "Which country's actions are criticized in the article?",
+        "choices": {
+            "A": "United States",
+            "B": "Israel",
+            "C": "Both A and B",
+            "D": "Russia",
+            "E": "None of the above"
+        }
+    },
+    "Q76": {
+        "question": "What historical event is referenced in the article?",
+        "choices": {
+            "A": "Hiroshima and Nagasaki bombings",
+            "B": "Battle of the Alamo",
+            "C": "World War II",
+            "D": "Cold War",
+            "E": "None of the above"
+        }
+    },
+    "Q77": {
+        "question": "What is the public reaction or media response mentioned in the article?",
+        "choices": {
+            "A": "Support for aggressive actions",
+            "B": "Condemnation of nuclear rhetoric",
+            "C": "Mixed reactions to protests",
+            "D": "Criticism of humanitarian aid delays",
+            "E": "None of the above"
+        }
+    },
+    "Q78": {
+        "question": "What specific type of weapon or military tactic is discussed in the article?",
+        "choices": {
+            "A": "Nuclear weapons",
+            "B": "Drones and rockets",
+            "C": "Ground invasion",
+            "D": "Cyber warfare",
+            "E": "None of the above"
+        }
+    },
+    "Q79": {
+        "question": "What is the main criticism highlighted in the article?",
+        "choices": {
+            "A": "Double standards in international condemnation",
+            "B": "Delays in humanitarian aid",
+            "C": "Use of civilian areas for military purposes",
+            "D": "Lack of political negotiations",
+            "E": "None of the above"
+        }
+    },
+    "Q80": {
+        "question": "Which specific event triggered the actions described in the article?",
+        "choices": {
+            "A": "Attack on Israel by Hamas",
+            "B": "Assassination of a military commander",
+            "C": "Hostage-taking incident",
+            "D": "International diplomatic meeting",
+            "E": "None of the above"
+        }
+    },
+    "Q81": {
+        "question": "What is the stance of the international community as mentioned in the article?",
+        "choices": {
+            "A": "Support for a ceasefire",
+            "B": "Condemnation of military actions",
+            "C": "Calls for humanitarian aid",
+            "D": "Diplomatic isolation",
+            "E": "None of the above"
+        }
+    },
+    "Q82": {
+        "question": "What is the primary ethical or moral issue discussed in the article?",
+        "choices": {
+            "A": "Use of nuclear weapons",
+            "B": "Civilian casualties",
+            "C": "Human rights violations",
+            "D": "Political hypocrisy",
+            "E": "None of the above"
+        }
+    },
+    "Q83": {
+        "question": "What is the role of the media as described in the article?",
+        "choices": {
+            "A": "Highlighting double standards",
+            "B": "Reporting on humanitarian crises",
+            "C": "Covering military operations",
+            "D": "Broadcasting public protests",
+            "E": "None of the above"
+        }
+    },
+    "Q84": {
+        "question": "What is the main humanitarian concern mentioned in the article?",
+        "choices": {
+            "A": "Civilian casualties",
+            "B": "Displacement of residents",
+            "C": "Lack of medical supplies",
+            "D": "Food and water shortages",
+            "E": "None of the above"
+        }
+    },
+    "Q85": {
+        "question": "What is the reaction of local authorities or governments in the article?",
+        "choices": {
+            "A": "Vowing to respond firmly",
+            "B": "Criticizing international bodies",
+            "C": "Implementing rescue operations",
+            "D": "Seeking diplomatic solutions",
+            "E": "None of the above"
+        }
+    },
+    "Q86": {
+        "question": "What specific group or organization is held responsible for the actions described in the article?",
+        "choices": {
+            "A": "Hamas",
+            "B": "Hezbollah",
+            "C": "Israeli military",
+            "D": "U.S. government",
+            "E": "None of the above"
+        }
+    },
+    "Q87": {
+        "question": "What is the historical context provided in the article?",
+        "choices": {
+            "A": "Previous use of nuclear weapons",
+            "B": "Past military conflicts",
+            "C": "Historical peace agreements",
+            "D": "Long-standing political tensions",
+            "E": "None of the above"
+        }
+    },
+    "Q88": {
+        "question": "What is the proposed solution or action mentioned in the article?",
+        "choices": {
+            "A": "Ceasefire and negotiations",
+            "B": "Increased humanitarian aid",
+            "C": "Military retaliation",
+            "D": "International sanctions",
+            "E": "None of the above"
+        }
+    },
+    "Q89": {
+        "question": "What is the primary issue causing tension in the article?",
+        "choices": {
+            "A": "Territorial disputes",
+            "B": "Trade imbalances",
+            "C": "Climate change policies",
+            "D": "Human rights violations",
+            "E": "None of the above"
+        }
+    },
+    "Q90": {
+        "question": "What is the stance of the article towards the actions of the Philippines?",
+        "choices": {
+            "A": "Supportive",
+            "B": "Critical",
+            "C": "Neutral",
+            "D": "Indifferent",
+            "E": "None of the above"
+        }
+    },
+    "Q91": {
+        "question": "What is a significant outcome mentioned in the article?",
+        "choices": {
+            "A": "Signing of a peace treaty",
+            "B": "Escalation of military tensions",
+            "C": "Economic sanctions",
+            "D": "Environmental agreement",
+            "E": "None of the above"
+        }
+    },
+    "Q92": {
+        "question": "Which regional security issue is highlighted in the article?",
+        "choices": {
+            "A": "North Korean nuclear threat",
+            "B": "South China Sea disputes",
+            "C": "Middle Eastern conflicts",
+            "D": "European border security",
+            "E": "None of the above"
+        }
+    },
+    "Q93": {
+        "question": "What is the reaction of the international community as described in the article?",
+        "choices": {
+            "A": "Condemnation",
+            "B": "Support",
+            "C": "Indifference",
+            "D": "Applause",
+            "E": "None of the above"
+        }
+    },
+    "Q94": {
+        "question": "What is the role of the United States in the article?",
+        "choices": {
+            "A": "Mediator",
+            "B": "Aggressor",
+            "C": "Supporter of an ally",
+            "D": "Neutral observer",
+            "E": "None of the above"
+        }
+    },
+    "Q95": {
+        "question": "What is the primary method of conflict resolution suggested in the article?",
+        "choices": {
+            "A": "Military intervention",
+            "B": "Diplomatic dialogue",
+            "C": "Economic sanctions",
+            "D": "Legal arbitration",
+            "E": "None of the above"
+        }
+    },
+    "Q96": {
+        "question": "Which country's defense policy is prominently discussed in the article?",
+        "choices": {
+            "A": "United States",
+            "B": "China",
+            "C": "Russia",
+            "D": "Japan",
+            "E": "None of the above"
+        }
+    },
+    "Q97": {
+        "question": "What is the main criticism against the Philippines in the article?",
+        "choices": {
+            "A": "Economic mismanagement",
+            "B": "Environmental degradation",
+            "C": "Provocative military actions",
+            "D": "Human rights abuses",
+            "E": "None of the above"
+        }
+    },
+    "Q98": {
+        "question": "What is the stance of China as described in the article?",
+        "choices": {
+            "A": "Defensive and protective",
+            "B": "Aggressive and expansionist",
+            "C": "Neutral and indifferent",
+            "D": "Supportive and cooperative",
+            "E": "None of the above"
+        }
+    },
+    "Q99": {
+        "question": "What is the primary concern of the Philippines in the article?",
+        "choices": {
+            "A": "Economic development",
+            "B": "Territorial sovereignty",
+            "C": "Environmental protection",
+            "D": "Humanitarian aid",
+            "E": "None of the above"
+        }
+    },
+    "Q100": {
+        "question": "What is the historical context mentioned in the article?",
+        "choices": {
+            "A": "Colonial legacies",
+            "B": "Cold War dynamics",
+            "C": "World War II aftermath",
+            "D": "Ancient territorial claims",
+            "E": "None of the above"
+        }
+    },
+    "Q101": {
+        "question": "What is the suggested approach for resolving disputes in the article?",
+        "choices": {
+            "A": "Military confrontation",
+            "B": "Diplomatic negotiations",
+            "C": "Economic incentives",
+            "D": "Legal proceedings",
+            "E": "None of the above"
+        }
+    },
+    "Q102": {
+        "question": "What is the impact of external forces as described in the article?",
+        "choices": {
+            "A": "Stabilizing influence",
+            "B": "Escalating tensions",
+            "C": "Neutral impact",
+            "D": "Economic support",
+            "E": "None of the above"
+        }
+    },
+    "Q103": {
+        "question": "Who is the primary actor or spokesperson mentioned in the article?",
+        "choices": {
+            "A": "Chinese Foreign Ministry",
+            "B": "U.S. Defense Secretary",
+            "C": "Philippine President",
+            "D": "Chinese Defense Minister",
+            "E": "None of the above"
+        }
+    },
+    "Q104": {
+        "question": "What is the main issue or conflict highlighted in the article?",
+        "choices": {
+            "A": "Territorial disputes",
+            "B": "Trade agreements",
+            "C": "Human rights violations",
+            "D": "Environmental concerns",
+            "E": "None of the above"
+        }
+    },
+    "Q105": {
+        "question": "What is the stance of China regarding the South China Sea arbitration ruling?",
+        "choices": {
+            "A": "Accepts it as valid",
+            "B": "Rejects it as illegal and invalid",
+            "C": "Seeks to renegotiate it",
+            "D": "Ignores it completely",
+            "E": "None of the above"
+        }
+    },
+    "Q106": {
+        "question": "What is the response of the Philippines to China's claims in the South China Sea?",
+        "choices": {
+            "A": "Supports China's claims",
+            "B": "Rejects China's claims",
+            "C": "Seeks international arbitration",
+            "D": "Remains neutral",
+            "E": "None of the above"
+        }
+    },
+    "Q107": {
+        "question": "What is the role of the United States in the South China Sea issue according to the article?",
+        "choices": {
+            "A": "Mediator",
+            "B": "Provocateur",
+            "C": "Neutral observer",
+            "D": "Supporter of China",
+            "E": "None of the above"
+        }
+    },
+    "Q108": {
+        "question": "What is the primary concern of ASEAN countries in the South China Sea?",
+        "choices": {
+            "A": "Environmental protection",
+            "B": "Regional stability",
+            "C": "Economic development",
+            "D": "Humanitarian aid",
+            "E": "None of the above"
+        }
+    },
+    "Q109": {
+        "question": "What is the main outcome expected from the investigation mentioned in the article?",
+        "choices": {
+            "A": "Improved governance and integrity",
+            "B": "Increased military presence",
+            "C": "Enhanced trade relations",
+            "D": "Humanitarian aid distribution",
+            "E": "None of the above"
+        }
+    },
+    "Q110": {
+        "question": "What is the primary accusation made by China against the Philippines?",
+        "choices": {
+            "A": "Ignoring historical facts",
+            "B": "Violating human rights",
+            "C": "Engaging in illegal trade",
+            "D": "Environmental degradation",
+            "E": "None of the above"
+        }
+    },
+    "Q111": {
+        "question": "What is the main action taken by the Chinese Coast Guard as mentioned in the article?",
+        "choices": {
+            "A": "Conducting routine patrols",
+            "B": "Engaging in military exercises",
+            "C": "Providing humanitarian aid",
+            "D": "Negotiating trade deals",
+            "E": "None of the above"
+        }
+    },
+    "Q112": {
+        "question": "What is the primary focus of the Shangri-La Dialogue as discussed in the article?",
+        "choices": {
+            "A": "Regional security and stability",
+            "B": "Economic cooperation",
+            "C": "Environmental issues",
+            "D": "Humanitarian aid",
+            "E": "None of the above"
+        }
+    },
+    "Q113": {
+        "question": "What is the stance of the U.S. regarding Taiwan according to the article?",
+        "choices": {
+            "A": "Supports Taiwan independence",
+            "B": "Opposes Taiwan independence",
+            "C": "Remains neutral",
+            "D": "Seeks to annex Taiwan",
+            "E": "None of the above"
+        }
+    },
+    "Q114": {
+        "question": "What is the main criticism of the U.S. by China in the article?",
+        "choices": {
+            "A": "Military provocations",
+            "B": "Trade restrictions",
+            "C": "Human rights violations",
+            "D": "Environmental policies",
+            "E": "None of the above"
+        }
+    },
+    "Q115": {
+        "question": "What is the primary focus of the Chinese military exercises mentioned in the article?",
+        "choices": {
+            "A": "Countering Taiwan independence",
+            "B": "Humanitarian aid",
+            "C": "Environmental protection",
+            "D": "Trade negotiations",
+            "E": "None of the above"
+        }
+    },
+    "Q116": {
+        "question": "What is the main accusation made by the Philippines against China?",
+        "choices": {
+            "A": "Illegal territorial claims",
+            "B": "Trade violations",
+            "C": "Human rights abuses",
+            "D": "Environmental damage",
+            "E": "None of the above"
+        }
+    },
+    "Q117": {
+        "question": "What is the primary goal of the U.S. investments in the Philippines as mentioned in the article?",
+        "choices": {
+            "A": "Strengthening economic ties",
+            "B": "Military expansion",
+            "C": "Humanitarian aid",
+            "D": "Environmental protection",
+            "E": "None of the above"
+        }
+    },
+    "Q118": {
+        "question": "What is the main focus of the Chinese Vice Foreign Minister's visit to the U.S.?",
+        "choices": {
+            "A": "Stabilizing bilateral relations",
+            "B": "Military cooperation",
+            "C": "Humanitarian aid",
+            "D": "Environmental agreements",
+            "E": "None of the above"
+        }
+    },
+    "Q119": {
+        "question": "What is the primary concern of the international community regarding the U.S.-China relations as mentioned in the article?",
+        "choices": {
+            "A": "Regional stability",
+            "B": "Trade agreements",
+            "C": "Human rights",
+            "D": "Environmental issues",
+            "E": "None of the above"
+        }
+    }
+}
