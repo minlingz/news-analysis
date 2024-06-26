@@ -1,0 +1,152 @@
+{
+    "Q1": {
+        "question": "What was the primary action taken by President Biden during the G7 summit in Italy?",
+        "choices": {
+            "A": "He snapped at a reporter for asking about the Israel-Gaza conflict instead of Ukraine.",
+            "B": "He announced a new trade agreement with China.",
+            "C": "He proposed a new climate change initiative.",
+            "D": "He signed a security agreement with Ukraine.",
+            "E": "None of the above"
+        }
+    },
+    "Q2": {
+        "question": "Who is the main actor involved in the incident at the Second Thomas Shoal?",
+        "choices": {
+            "A": "Philippine military personnel",
+            "B": "Canadian Navy personnel",
+            "C": "Turkish Foreign Minister",
+            "D": "South African President",
+            "E": "None of the above"
+        }
+    },
+    "Q3": {
+        "question": "What was the setting for the meeting between Chinese Defense Minister Dong Jun and U.S. Defense Secretary Lloyd Austin?",
+        "choices": {
+            "A": "The United Nations General Assembly",
+            "B": "The Shangri-La Dialogue in Singapore",
+            "C": "The G7 summit in Italy",
+            "D": "The ASEAN summit in Cambodia",
+            "E": "None of the above"
+        }
+    },
+    "Q4": {
+        "question": "What was the primary purpose of the Canadian Navy's deployment to the Indo-Pacific region?",
+        "choices": {
+            "A": "To participate in Exercise Rim of the Pacific 2024 (RIMPAC)",
+            "B": "To conduct a humanitarian mission in Gaza",
+            "C": "To engage in joint military exercises with the Philippines",
+            "D": "To support NATO operations in Europe",
+            "E": "None of the above"
+        }
+    },
+    "Q5": {
+        "question": "What was the main issue addressed by Philippine President Ferdinand Marcos Jr. at the Shangri-La Dialogue?",
+        "choices": {
+            "A": "The South China Sea territorial disputes",
+            "B": "The Israel-Palestine conflict",
+            "C": "Climate change and environmental policies",
+            "D": "Economic cooperation with ASEAN countries",
+            "E": "None of the above"
+        }
+    },
+    "Q6": {
+        "question": "What was the outcome of the 2024 Lok Sabha elections for the BJP?",
+        "choices": {
+            "A": "The BJP secured a majority on its own.",
+            "B": "The BJP fell short of a majority but the NDA secured enough seats to form the government.",
+            "C": "The BJP lost all its seats to the opposition.",
+            "D": "The BJP formed a coalition with the Congress party.",
+            "E": "None of the above"
+        }
+    },
+    "Q7": {
+        "question": "What was the main action taken by the Chinese coast guard at the Second Thomas Shoal?",
+        "choices": {
+            "A": "They seized and dumped food supplies intended for Filipino forces.",
+            "B": "They conducted joint exercises with the Philippine Navy.",
+            "C": "They provided humanitarian aid to the Philippines.",
+            "D": "They signed a peace agreement with the Philippines.",
+            "E": "None of the above"
+        }
+    },
+    "Q8": {
+        "question": "What was the primary focus of the G7 summit in Italy?",
+        "choices": {
+            "A": "Migration, artificial intelligence, economic security, and financial support for Ukraine",
+            "B": "Climate change and environmental policies",
+            "C": "Trade agreements with China",
+            "D": "Military cooperation with NATO",
+            "E": "None of the above"
+        }
+    },
+    "Q9": {
+        "question": "What was the main action taken by Hezbollah following the killing of their commander by an Israeli airstrike?",
+        "choices": {
+            "A": "They launched multiple rocket and drone attacks on Israeli military targets.",
+            "B": "They signed a peace agreement with Israel.",
+            "C": "They withdrew their forces from the conflict zone.",
+            "D": "They provided humanitarian aid to Gaza.",
+            "E": "None of the above"
+        }
+    },
+    "Q10": {
+        "question": "What was the primary concern addressed by the United Nations Security Council resolution proposed by the United States?",
+        "choices": {
+            "A": "An immediate ceasefire between Israel and Hamas and the release of hostages",
+            "B": "Economic sanctions on North Korea",
+            "C": "Climate change and environmental policies",
+            "D": "Trade agreements with China",
+            "E": "None of the above"
+        }
+    },
+    "Q11": {
+        "question": "What was the main action taken by the Philippine military in response to Chinese claims at the Second Thomas Shoal?",
+        "choices": {
+            "A": "They denied pointing guns at the Chinese coast guard.",
+            "B": "They signed a peace agreement with China.",
+            "C": "They withdrew their forces from the area.",
+            "D": "They conducted joint exercises with the Chinese military.",
+            "E": "None of the above"
+        }
+    },
+    "Q12": {
+        "question": "What was the primary focus of the Shangri-La Dialogue attended by Chinese and U.S. defense officials?",
+        "choices": {
+            "A": "U.S.-China relations, the Taiwan issue, the South China Sea, the Russia-Ukraine conflict, and the Israel-Palestine conflict",
+            "B": "Climate change and environmental policies",
+            "C": "Trade agreements with ASEAN countries",
+            "D": "Military cooperation with NATO",
+            "E": "None of the above"
+        }
+    },
+    "Q13": {
+        "question": "What was the main action taken by the U.S. military in Gaza?",
+        "choices": {
+            "A": "Reopening a temporary pier to resume the delivery of humanitarian aid",
+            "B": "Conducting joint exercises with the Israeli military",
+            "C": "Providing military support to Hamas",
+            "D": "Signing a peace agreement with Israel",
+            "E": "None of the above"
+        }
+    },
+    "Q14": {
+        "question": "What was the primary concern addressed by Philippine President Marcos Jr. in his speech at the Shangri-La Dialogue?",
+        "choices": {
+            "A": "The South China Sea territorial disputes",
+            "B": "Climate change and environmental policies",
+            "C": "Economic cooperation with ASEAN countries",
+            "D": "Trade agreements with China",
+            "E": "None of the above"
+        }
+    },
+    "Q15": {
+        "question": "What was the main action taken by the Chinese Foreign Ministry in response to Philippine President Marcos' speech at the Shangri-La Dialogue?",
+        "choices": {
+            "A": "They criticized Marcos for ignoring historical facts and promoting incorrect maritime positions.",
+            "B": "They signed a peace agreement with the Philippines.",
+            "C": "They provided humanitarian aid to the Philippines.",
+            "D": "They conducted joint exercises with the Philippine military.",
+            "E": "None of the above"
+        }
+    }
+}
