@@ -2,100 +2,100 @@
     "Q1": {
         "question": "What was done?",
         "choices": {
-            "A": "The BJP incorporated several leaders from other parties in an attempt to strengthen their position in the 2024 Lok Sabha elections in Uttar Pradesh.",
-            "B": "U.S. Commerce Secretary Gina Raimondo led a high-level trade and investment delegation to the Philippines, announcing over $1 billion in investments.",
-            "C": "The crew of the MV Tutor was evacuated after the vessel was struck by a sea drone and an aerial projectile by Yemen's Huthi rebels.",
-            "D": "The Philippine military denied Chinese allegations that Filipino troops pointed guns at China's coastguard during a confrontation at Second Thomas Shoal.",
+            "A": "The Chinese coast guard seized one of four food packages dropped by a plane for Filipino navy personnel at a territorial outpost in the South China Sea and dumped the food into the sea.",
+            "B": "Turkish Foreign Minister Hakan Fidan visited China to bolster support for Hamas and increase trade, without condemning the Uyghur genocide.",
+            "C": "The US Marines deployed MQ-9A Reaper drones to the Philippines for reconnaissance and surveillance in the South China Sea.",
+            "D": "Philippine President Ferdinand Marcos Jr. reaffirmed the Philippines' commitment to peace amid rising tensions in the South China Sea.",
             "E": "None of the above"
         }
     },
     "Q2": {
         "question": "Who was involved?",
         "choices": {
-            "A": "BJP leaders and defectors from the Samajwadi Party in Uttar Pradesh.",
-            "B": "U.S. Commerce Secretary Gina Raimondo and 22 U.S. companies.",
-            "C": "The crew of the MV Tutor and Yemen's Huthi rebels.",
-            "D": "Philippine military personnel and Chinese coastguard.",
+            "A": "The Chinese coast guard and Filipino navy personnel.",
+            "B": "Turkish Foreign Minister Hakan Fidan and Chinese officials.",
+            "C": "US Marines and the Philippine military.",
+            "D": "Philippine President Ferdinand Marcos Jr. and ASEAN leaders.",
             "E": "None of the above"
         }
     },
     "Q3": {
         "question": "Where did the event take place?",
         "choices": {
-            "A": "Uttar Pradesh, India.",
-            "B": "The Philippines.",
-            "C": "The Red Sea.",
-            "D": "Second Thomas Shoal in the South China Sea.",
+            "A": "Second Thomas Shoal in the South China Sea.",
+            "B": "East Turkistan in China.",
+            "C": "Various locations in the Philippines.",
+            "D": "Shangri-La Dialogue in Singapore.",
             "E": "None of the above"
         }
     },
     "Q4": {
         "question": "When did the event occur?",
         "choices": {
-            "A": "During the 2024 Lok Sabha elections.",
-            "B": "Amid ongoing South China Sea territorial disputes.",
-            "C": "After the Israel-Hamas war began.",
-            "D": "During a recent confrontation at Second Thomas Shoal.",
+            "A": "May 19.",
+            "B": "Since 2017.",
+            "C": "In the spring.",
+            "D": "During the Shangri-La Dialogue.",
             "E": "None of the above"
         }
     },
     "Q5": {
         "question": "Why did the event happen?",
         "choices": {
-            "A": "To strengthen BJP's position in the 2024 Lok Sabha elections.",
-            "B": "To support the Philippines' semiconductor industry and tourism sector.",
-            "C": "As part of a series of Huthi assaults disrupting maritime routes.",
-            "D": "To assert the Philippines' territorial claims and defend against Chinese aggression.",
+            "A": "The Chinese coast guard suspected the packages contained construction materials.",
+            "B": "To support Hamas and increase trade with China.",
+            "C": "To enhance military presence and intelligence sharing between the US and the Philippines.",
+            "D": "To reaffirm the Philippines' commitment to peace and international law.",
             "E": "None of the above"
         }
     },
     "Q6": {
         "question": "How was the event carried out?",
         "choices": {
-            "A": "By incorporating leaders from other parties and fielding former Congress members.",
-            "B": "By leading a high-level trade and investment delegation and announcing investments.",
-            "C": "By evacuating the crew after the vessel was struck by a sea drone and an aerial projectile.",
-            "D": "By denying allegations and emphasizing adherence to rules of engagement.",
+            "A": "By seizing and dumping food packages into the sea.",
+            "B": "Through diplomatic visits and meetings.",
+            "C": "By deploying drones for reconnaissance and surveillance.",
+            "D": "Through a keynote address at an international forum.",
             "E": "None of the above"
         }
     },
     "Q7": {
         "question": "What was the outcome?",
         "choices": {
-            "A": "BJP's poor performance in Uttar Pradesh despite their strategies.",
-            "B": "Over $1 billion in U.S. investments announced for the Philippines.",
-            "C": "Disruption of vital maritime routes and evacuation of the MV Tutor crew.",
-            "D": "Continued tensions and disputes over the Second Thomas Shoal.",
+            "A": "Heightened tensions between China and the Philippines.",
+            "B": "Alarm among Uyghur civil society groups.",
+            "C": "Enhanced military presence in the South China Sea.",
+            "D": "Reaffirmation of the Philippines' commitment to peace.",
             "E": "None of the above"
         }
     },
     "Q8": {
         "question": "What was the primary motive behind the actions?",
         "choices": {
-            "A": "To replicate BJP's previous electoral successes in Uttar Pradesh.",
-            "B": "To support allies in the Indo-Pacific region against China's expansionist actions.",
-            "C": "To disrupt maritime routes as part of the Huthi rebels' strategy.",
-            "D": "To assert territorial claims and defend against perceived aggression.",
+            "A": "To prevent the construction of facilities at the outpost.",
+            "B": "To support Hamas and increase trade with China.",
+            "C": "To assist the Philippines in the South China Sea.",
+            "D": "To emphasize the importance of dialogue and diplomacy.",
             "E": "None of the above"
         }
     },
     "Q9": {
         "question": "What was the reaction of the involved parties?",
         "choices": {
-            "A": "BJP faced a significant setback despite their efforts.",
-            "B": "The Philippines welcomed the U.S. investments and shift in international alliances.",
-            "C": "The crew of the MV Tutor was successfully evacuated.",
-            "D": "The Philippine military denied the allegations and emphasized their professionalism.",
+            "A": "The Philippines condemned the Chinese coast guard's actions.",
+            "B": "Uyghur groups expressed concern over Turkey's position.",
+            "C": "The US pledged support for the Philippines.",
+            "D": "ASEAN leaders supported the Philippines' stance.",
             "E": "None of the above"
         }
     },
     "Q10": {
         "question": "What was the broader context of the event?",
         "choices": {
-            "A": "The 2024 Lok Sabha elections in India.",
-            "B": "Ongoing South China Sea territorial disputes.",
-            "C": "The Israel-Hamas war and its impact on maritime routes.",
-            "D": "Longstanding territorial disputes in the South China Sea.",
+            "A": "Territorial disputes in the South China Sea involving multiple countries.",
+            "B": "Genocide accusations against China in East Turkistan.",
+            "C": "US-Philippine military cooperation under a mutual defense treaty.",
+            "D": "Rising tensions and the need for peaceful dispute resolution in the South China Sea.",
             "E": "None of the above"
         }
     }

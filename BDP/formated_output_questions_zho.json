@@ -2,100 +2,100 @@
     "Q1": {
         "question": "What was done?",
         "choices": {
-            "A": "The G7 summit in Italy concluded with leaders addressing key global issues such as migration, artificial intelligence, economic security, and financial support for Ukraine.",
-            "B": "The U.S. Consulate in Sydney was vandalized, with nine windows smashed and pro-Palestinian graffiti sprayed on the door.",
-            "C": "The United States has a strong interest in defending Japan and the Philippines against Chinese expansionism in the East and South China Seas.",
-            "D": "Barclays suspended its sponsorship of Live Nation's U.K. festivals following protests from artists over the bank's links to defense firms supplying arms to Israel and fossil fuel companies.",
+            "A": "Chinese Defense Minister Dong Jun delivered a keynote speech at the Shangri-La Dialogue, emphasizing China's stance on global security.",
+            "B": "Philippine President Ferdinand Marcos Jr. asserted the Philippines' sovereignty over disputed South China Sea waters during a speech at the Shangri-La Dialogue.",
+            "C": "Chinese Coast Guard intercepted and dumped supplies from Philippine boats attempting to deliver goods to the grounded BRP Sierra Madre.",
+            "D": "U.S. Defense Secretary Lloyd Austin met with Chinese Defense Minister Dong Jun to discuss U.S.-China military relations.",
             "E": "None of the above"
         }
     },
     "Q2": {
         "question": "Who was involved?",
         "choices": {
-            "A": "Leaders from the G7 countries, including Italian Premier Giorgia Meloni and French President Emmanuel Macron.",
-            "B": "Australian Prime Minister Anthony Albanese and New South Wales Premier Chris Minns.",
-            "C": "U.S. President Joe Biden and Indian Prime Minister Narendra Modi.",
-            "D": "Chinese Defense Minister Dong Jun and U.S. Defense Secretary Lloyd Austin.",
+            "A": "Chinese Defense Minister Dong Jun and U.S. Defense Secretary Lloyd Austin",
+            "B": "Philippine President Ferdinand Marcos Jr. and Chinese Major General Xu Hui",
+            "C": "Chinese Coast Guard and Filipino soldiers",
+            "D": "All of the above",
             "E": "None of the above"
         }
     },
     "Q3": {
         "question": "Where did the event take place?",
         "choices": {
-            "A": "Italy, during the G7 summit.",
-            "B": "Sydney, at the U.S. Consulate.",
-            "C": "The South China Sea, involving territorial disputes.",
-            "D": "The Shangri-La Dialogue in Singapore.",
+            "A": "Ren'ai Reef in the South China Sea",
+            "B": "Shangri-La Dialogue in Singapore",
+            "C": "Washington, D.C.",
+            "D": "Kinmen, Taiwan Strait",
             "E": "None of the above"
         }
     },
     "Q4": {
-        "question": "Why was the event significant?",
+        "question": "When did the event occur?",
         "choices": {
-            "A": "The G7 summit addressed critical global issues and showcased international solidarity on various fronts.",
-            "B": "The vandalism at the U.S. Consulate highlighted ongoing tensions and political activism related to the Israel-Palestine conflict.",
-            "C": "The U.S. interest in defending Japan and the Philippines underscores the strategic importance of the East and South China Seas.",
-            "D": "Barclays' suspension of sponsorship reflects the impact of activist pressure on corporate decisions.",
+            "A": "May 19, during a supply drop mission",
+            "B": "May 31 to June 2, during the Shangri-La Dialogue",
+            "C": "June 3, during a speech by Chinese Defense Minister Dong Jun",
+            "D": "May 30, during consultations between Chinese Vice Foreign Minister Ma Zhaoxu and U.S. Deputy Secretary of State Kurt Campbell",
             "E": "None of the above"
         }
     },
     "Q5": {
-        "question": "How did the event unfold?",
+        "question": "Why did the event happen?",
         "choices": {
-            "A": "The G7 summit concluded with agreements on various global issues despite some disagreements.",
-            "B": "Surveillance footage captured the vandalism at the U.S. Consulate, leading to police investigations.",
-            "C": "The article argued for the U.S. defense commitments to Japan and the Philippines against Chinese aggression.",
-            "D": "Artists' protests led to Barclays suspending its sponsorship of Live Nation's U.K. festivals.",
+            "A": "To assert territorial claims and sovereignty in the South China Sea",
+            "B": "To discuss and manage U.S.-China military relations",
+            "C": "To address regional security and geopolitical tensions",
+            "D": "To promote economic investments and alliances",
             "E": "None of the above"
         }
     },
     "Q6": {
-        "question": "What was the outcome?",
+        "question": "How was the event carried out?",
         "choices": {
-            "A": "The G7 leaders emphasized their solidarity with Ukraine and commitments to climate change and migration.",
-            "B": "The Australian Prime Minister condemned the vandalism and emphasized the need for respectful political debate.",
-            "C": "The article concluded that explicit U.S. support for its Pacific allies is crucial for deterring China.",
-            "D": "Barclays' suspension of sponsorship was welcomed by the campaign group Bands Boycott Barclays.",
+            "A": "Through speeches and discussions at the Shangri-La Dialogue",
+            "B": "By conducting military exercises and patrols",
+            "C": "Through diplomatic meetings and consultations",
+            "D": "By releasing videos and media statements",
             "E": "None of the above"
         }
     },
     "Q7": {
-        "question": "What was the main issue discussed?",
+        "question": "What was the outcome?",
         "choices": {
-            "A": "Migration, artificial intelligence, economic security, and financial support for Ukraine at the G7 summit.",
-            "B": "Vandalism and political activism related to the Israel-Palestine conflict.",
-            "C": "U.S. defense commitments to Japan and the Philippines against Chinese expansionism.",
-            "D": "Corporate sponsorship and activist pressure in the context of Barclays and Live Nation.",
+            "A": "Heightened tensions and potential for conflict in the South China Sea",
+            "B": "Reaffirmation of defense commitments and alliances",
+            "C": "Calls for dialogue and peaceful resolution of disputes",
+            "D": "Increased economic investments and trade agreements",
             "E": "None of the above"
         }
     },
     "Q8": {
-        "question": "What was the reaction of the involved parties?",
+        "question": "What was the primary motive behind the actions?",
         "choices": {
-            "A": "French President Emmanuel Macron lamented the absence of a reference to abortion in the G7 summit's final declaration.",
-            "B": "Australian Prime Minister Anthony Albanese condemned the vandalism at the U.S. Consulate.",
-            "C": "The article criticized the U.S. policy of strategic ambiguity regarding its defense commitments.",
-            "D": "Barclays and Live Nation confirmed the suspension of sponsorship following artist protests.",
+            "A": "To assert national sovereignty and territorial claims",
+            "B": "To strengthen military and diplomatic relations",
+            "C": "To address and manage regional security concerns",
+            "D": "To counter external influences and provocations",
             "E": "None of the above"
         }
     },
     "Q9": {
-        "question": "What was the context of the event?",
+        "question": "What was the reaction of the involved parties?",
         "choices": {
-            "A": "The G7 summit aimed to address pressing global challenges collaboratively.",
-            "B": "The vandalism at the U.S. Consulate occurred amid ongoing tensions related to the Israel-Palestine conflict.",
-            "C": "The article discussed the strategic importance of the East and South China Seas for U.S. defense policy.",
-            "D": "Barclays faced pressure from activists over its links to defense firms and fossil fuel companies.",
+            "A": "Criticism and accusations of provocations",
+            "B": "Calls for dialogue and cooperation",
+            "C": "Strengthening of military alliances and commitments",
+            "D": "Diplomatic responses and media statements",
             "E": "None of the above"
         }
     },
     "Q10": {
-        "question": "What was the broader impact of the event?",
+        "question": "What was the broader context of the event?",
         "choices": {
-            "A": "The G7 summit's discussions and agreements have implications for global policy on migration, climate change, and economic security.",
-            "B": "The vandalism at the U.S. Consulate highlights the intensity of political activism and its potential impact on diplomatic relations.",
-            "C": "The article's arguments underscore the importance of clear U.S. defense commitments for regional stability in East Asia.",
-            "D": "Barclays' decision to suspend sponsorship reflects the growing influence of activist movements on corporate behavior.",
+            "A": "Ongoing territorial disputes and geopolitical tensions in the South China Sea",
+            "B": "Strategic rivalry and military competition between the U.S. and China",
+            "C": "Efforts to maintain regional stability and security through dialogue",
+            "D": "Economic and diplomatic initiatives to counter China's influence",
             "E": "None of the above"
         }
     }

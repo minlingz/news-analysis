@@ -1,0 +1,102 @@
+{
+    "Q1": {
+        "question": "What was done?",
+        "choices": {
+            "A": "The Chinese coast guard seized one of four food packages dropped by a plane for Filipino navy personnel at a territorial outpost in the South China Sea and dumped the food into the sea.",
+            "B": "Turkish Foreign Minister Hakan Fidan visited China to bolster support for Hamas and increase trade, without condemning the Uyghur genocide.",
+            "C": "The Philippines collaborated with the United States and Japan to ensure the West Philippine Sea remains safe and free amid tensions with China.",
+            "D": "Senate President Hun Sen called on the United States to exclude Cambodia from its geopolitical rivalry and restore military cooperation.",
+            "E": "None of the above"
+        }
+    },
+    "Q2": {
+        "question": "Who was involved?",
+        "choices": {
+            "A": "Philippine military chief Gen. Romeo Brawner and the Chinese coast guard.",
+            "B": "Turkish Foreign Minister Hakan Fidan and Chinese officials.",
+            "C": "Philippine Coast Guard Commandant Admiral Ronnie Gil Gavan, Japan Coast Guard, and United States Coast Guard.",
+            "D": "Senate President Hun Sen and US Secretary of Defense Lloyd J. Austin III.",
+            "E": "None of the above"
+        }
+    },
+    "Q3": {
+        "question": "Where did the event take place?",
+        "choices": {
+            "A": "Second Thomas Shoal in the South China Sea.",
+            "B": "East Turkistan in China.",
+            "C": "Shangri-La Dialogue in Singapore.",
+            "D": "Cambodia.",
+            "E": "None of the above"
+        }
+    },
+    "Q4": {
+        "question": "When did the event occur?",
+        "choices": {
+            "A": "May 19.",
+            "B": "Since 2017.",
+            "C": "During the recent Shangri-La Dialogue.",
+            "D": "During a visit by US Secretary of Defense Lloyd J. Austin III.",
+            "E": "None of the above"
+        }
+    },
+    "Q5": {
+        "question": "Why did the event happen?",
+        "choices": {
+            "A": "The Chinese coast guard suspected the packages contained construction materials.",
+            "B": "To bolster support for Hamas and increase trade with China.",
+            "C": "To ensure the West Philippine Sea remains safe and free amid tensions with China.",
+            "D": "To exclude Cambodia from US geopolitical rivalry and restore military cooperation.",
+            "E": "None of the above"
+        }
+    },
+    "Q6": {
+        "question": "How was the event carried out?",
+        "choices": {
+            "A": "The Chinese coast guard seized and dumped food packages into the sea.",
+            "B": "Turkish Foreign Minister Hakan Fidan visited China.",
+            "C": "Philippine Coast Guard Commandant urged Japan and US coast guards to develop strategies.",
+            "D": "Senate President Hun Sen called for improved relations through dialogue and cooperation.",
+            "E": "None of the above"
+        }
+    },
+    "Q7": {
+        "question": "What was the outcome?",
+        "choices": {
+            "A": "Heightened tensions between the Philippines and China.",
+            "B": "Alarm among Uyghur civil society groups.",
+            "C": "Commitment from Japan and US coast guards to support the Philippines.",
+            "D": "Agreement to rebuild trust and continue dialogues between the US and Cambodia.",
+            "E": "None of the above"
+        }
+    },
+    "Q8": {
+        "question": "What was the primary motive behind the actions?",
+        "choices": {
+            "A": "To prevent the construction of facilities on the disputed shoal.",
+            "B": "To support Hamas and increase trade with China.",
+            "C": "To counter China's maritime claims and protect Filipino fishermen.",
+            "D": "To improve US-Cambodia relations and exclude Cambodia from geopolitical rivalry.",
+            "E": "None of the above"
+        }
+    },
+    "Q9": {
+        "question": "What was the reaction of the involved parties?",
+        "choices": {
+            "A": "The Philippines condemned the Chinese coast guard's actions as illegal.",
+            "B": "Uyghur civil society groups were alarmed.",
+            "C": "Japan Coast Guard praised the Philippines' stance.",
+            "D": "US Secretary of Defense praised Cambodia's commitment to improving defense relations.",
+            "E": "None of the above"
+        }
+    },
+    "Q10": {
+        "question": "What was the broader context of the event?",
+        "choices": {
+            "A": "Ongoing territorial disputes in the South China Sea involving multiple countries.",
+            "B": "Turkey's softened stance on Uyghur rights since joining China's Belt and Road Initiative.",
+            "C": "Tensions in the West Philippine Sea and the need for international law enforcement.",
+            "D": "Regional security issues including the South China Sea dispute, Russia-Ukraine war, and Israeli-Palestinian conflict.",
+            "E": "None of the above"
+        }
+    }
+}
