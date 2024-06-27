@@ -1,0 +1,62 @@
+{
+    "Q1": {
+        "question": "Why did the event happen?",
+        "choices": {
+            "A": "To assert territorial claims and sovereignty in the South China Sea.",
+            "B": "To strengthen economic and military ties between the Philippines and the United States.",
+            "C": "To address and condemn human rights violations and geopolitical tensions.",
+            "D": "To promote regional stability and cooperation through dialogue and negotiation.",
+            "E": "None of the above"
+        }
+    },
+    "Q2": {
+        "question": "How was the event carried out?",
+        "choices": {
+            "A": "Through military exercises and patrols in disputed waters.",
+            "B": "By conducting high-level diplomatic meetings and dialogues.",
+            "C": "Via public speeches and international forums addressing security issues.",
+            "D": "Through economic investments and trade agreements.",
+            "E": "None of the above"
+        }
+    },
+    "Q3": {
+        "question": "What was the outcome?",
+        "choices": {
+            "A": "Increased tensions and confrontations in the South China Sea.",
+            "B": "Strengthened alliances and commitments between the Philippines and the United States.",
+            "C": "Public condemnation and criticism of aggressive actions by involved parties.",
+            "D": "Calls for peaceful resolution and adherence to international law.",
+            "E": "None of the above"
+        }
+    },
+    "Q4": {
+        "question": "What was the primary motive behind the actions?",
+        "choices": {
+            "A": "To defend national sovereignty and territorial integrity.",
+            "B": "To enhance regional security and stability.",
+            "C": "To gain international support and strengthen alliances.",
+            "D": "To promote economic growth and development.",
+            "E": "None of the above"
+        }
+    },
+    "Q5": {
+        "question": "What was the reaction of the involved parties?",
+        "choices": {
+            "A": "Condemnation and criticism of aggressive actions.",
+            "B": "Calls for dialogue and peaceful resolution of disputes.",
+            "C": "Strengthening of military and economic alliances.",
+            "D": "Public speeches and statements asserting territorial claims.",
+            "E": "None of the above"
+        }
+    },
+    "Q6": {
+        "question": "What was the broader context of the event?",
+        "choices": {
+            "A": "Ongoing territorial disputes and geopolitical tensions in the South China Sea.",
+            "B": "Efforts to counter China's influence and assert dominance in the region.",
+            "C": "International forums and dialogues addressing global security issues.",
+            "D": "Economic and military strategies to strengthen regional alliances.",
+            "E": "None of the above"
+        }
+    }
+}

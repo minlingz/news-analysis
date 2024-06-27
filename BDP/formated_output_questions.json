@@ -4,8 +4,8 @@
         "choices": {
             "A": "The annual Shangri-La Dialogue in Singapore brought together global military leaders and defense ministers to discuss pressing security issues.",
             "B": "The Philippine government was urged to abandon its confrontational policies in the South China Sea and engage in friendly negotiations with China.",
-            "C": "The Chinese coast guard seized and dumped food supplies intended for Filipino forces stationed at Second Thomas Shoal.",
-            "D": "The Bureau of Fisheries and Aquatic Resources (BFAR) reported no incidents of China preventing Filipino fishermen from fishing in the West Philippine Sea.",
+            "C": "Philippine soldiers were reported to have pointed guns at Chinese coast guard personnel during a resupply mission to the grounded Sierra Madre ship.",
+            "D": "The Chinese coast guard seized one of four food packs dropped by a plane for Filipino navy personnel at a territorial outpost in the South China Sea",
             "E": "None of the above"
         }
     },
@@ -42,60 +42,90 @@
     "Q5": {
         "question": "Why did the event happen?",
         "choices": {
-            "A": "To discuss pressing security issues and geopolitical tensions.",
-            "B": "To promote regional peace and prosperity through friendly negotiations.",
-            "C": "Due to a misunderstanding about the contents of the food packages.",
-            "D": "To support local fishermen amid China's unilateral fishing ban.",
+            "A": "To assert territorial claims and sovereignty in the South China Sea.",
+            "B": "To strengthen economic and military ties between the Philippines and the United States.",
+            "C": "To address and condemn human rights violations and geopolitical tensions.",
+            "D": "To promote regional stability and cooperation through dialogue and negotiation.",
             "E": "None of the above"
         }
     },
     "Q6": {
         "question": "How was the event carried out?",
         "choices": {
-            "A": "Through a high-level security forum with speeches and discussions.",
-            "B": "By urging the Philippine government to change its policies.",
-            "C": "By seizing and dumping food supplies during an airdrop.",
-            "D": "By increasing the presence of the Philippine Coast Guard and BFAR in disputed areas.",
+            "A": "Through military exercises and patrols in disputed waters.",
+            "B": "By conducting high-level diplomatic meetings and dialogues.",
+            "C": "Via public speeches and international forums addressing security issues.",
+            "D": "Through economic investments and trade agreements.",
             "E": "None of the above"
         }
     },
     "Q7": {
         "question": "What was the outcome?",
         "choices": {
-            "A": "Heightened tensions and potential implications for U.S.-China relations.",
-            "B": "A call for the Philippine government to value regional independence and stability.",
-            "C": "Condemnation of China's actions as illegal by the Philippines.",
-            "D": "No incidents of China preventing Filipino fishermen from fishing.",
+            "A": "Increased tensions and confrontations in the South China Sea.",
+            "B": "Strengthened alliances and commitments between the Philippines and the United States.",
+            "C": "Public condemnation and criticism of aggressive actions by involved parties.",
+            "D": "Calls for peaceful resolution and adherence to international law.",
             "E": "None of the above"
         }
     },
     "Q8": {
         "question": "What was the primary motive behind the actions?",
         "choices": {
-            "A": "To address pressing security issues and geopolitical tensions.",
-            "B": "To promote regional peace and prosperity through friendly negotiations.",
-            "C": "To prevent the reinforcement of a grounded Philippine navy ship.",
-            "D": "To support local fishermen amid China's unilateral fishing ban.",
+            "A": "To defend national sovereignty and territorial integrity.",
+            "B": "To enhance regional security and stability.",
+            "C": "To gain international support and strengthen alliances.",
+            "D": "To promote economic growth and development.",
             "E": "None of the above"
         }
     },
     "Q9": {
         "question": "What was the reaction of the involved parties?",
         "choices": {
-            "A": "Sharp remarks exchanged between Philippine President Ferdinand Marcos Jr. and China's Defense Minister Adm Dong Jun.",
-            "B": "Urging the Philippine government to change its confrontational policies.",
-            "C": "Condemnation of the Chinese coast guard's actions by the Philippines.",
-            "D": "Emphasis on the importance of continuing fishing activities by BFAR.",
+            "A": "Condemnation and criticism of aggressive actions.",
+            "B": "Calls for dialogue and peaceful resolution of disputes.",
+            "C": "Strengthening of military and economic alliances.",
+            "D": "Public speeches and statements asserting territorial claims.",
             "E": "None of the above"
         }
     },
     "Q10": {
         "question": "What was the broader context of the event?",
         "choices": {
-            "A": "The annual Shangri-La Dialogue focusing on global security issues.",
-            "B": "The need for regional peace and stability in the South China Sea.",
-            "C": "Ongoing territorial disputes and heightened tensions in the South China Sea.",
-            "D": "The impact of China's unilateral fishing ban on local fishermen.",
+            "A": "Ongoing territorial disputes and geopolitical tensions in the South China Sea.",
+            "B": "Efforts to counter China's influence and assert dominance in the region.",
+            "C": "International forums and dialogues addressing global security issues.",
+            "D": "Economic and military strategies to strengthen regional alliances.",
+            "E": "None of the above"
+        }
+    },
+    "Q11": {
+        "question": "How does the article describe China's response to the other country' actions in the South China Sea?",
+        "choices": {
+            "A": "China seeks dialogue to handle maritime conflicts.",
+            "B": "China plans to increase military presence in the region.",
+            "C": "China will take legal action against the other country.",
+            "D": "China will impose economic sanctions on the other country.",
+            "E": "None of the above"
+        }
+    },
+    "Q12": {
+        "question": "On what basis does the article favor the territorial claims in the South China Sea?",
+        "choices": {
+            "A": "Historical Claims.",
+            "B": "2016 international ruling by the Permanent Court of Arbitration.",
+            "C": "Exclusive economic zone (EEZ) under UNCLOS.",
+            "D": "Continental Shelf.",
+            "E": "None of the above"
+        }
+    },
+    "Q13": {
+        "question": "What approach does the article prefer for resolving the territorial disputes in the South China Sea?",
+        "choices": {
+            "A": "Bilateral negotiations.",
+            "B": "Multilateral talks.",
+            "C": "International law.",
+            "D": "Economic cooperation and maintaining stability",
             "E": "None of the above"
         }
     }
