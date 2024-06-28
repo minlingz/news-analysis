@@ -3,15 +3,13 @@ import pandas as pd
 import json
 
 v_2d_df = pd.read_csv(
-    "v_2d.csv",
+    "FMCD/v_2d.csv",
 )
 
 v_2d_df["language"] = ["English"] * 100 + ["Chinese"] * 100
 
 # read the summary from json file
-with open(
-    "../CA/summary_combined_Territorial_disputes_in_the_South_China_Sea.json"
-) as f:
+with open("CA/summary_combined_Territorial_disputes_in_the_South_China_Sea.json") as f:
     data = json.load(f)
 summary = []
 for item in data:
@@ -27,13 +25,70 @@ def format_summary(text):
 
 v_2d_df["formatted_summary"] = v_2d_df["summary"].apply(format_summary)
 
+t_list = [
+    0,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14,
+    15,
+    17,
+    18,
+    20,
+    22,
+    23,
+    24,
+    25,
+    27,
+    28,
+    30,
+    33,
+    34,
+    35,
+    36,
+    38,
+    39,
+    41,
+    42,
+    43,
+    44,
+    46,
+    48,
+    58,
+    71,
+    86,
+    88,
+    92,
+    99,
+    101,
+    102,
+    103,
+    107,
+    108,
+    129,
+    132,
+    133,
+    163,
+    165,
+    173,
+    175,
+    177,
+    178,
+]
+# set cluster true if the index is in t_list
+v_2d_df["topic"] = "Other Topics"
+v_2d_df.loc[t_list, "topic"] = "Same Topic"
 # Plot using Plotly
-# Create a color mapping for languages
+# Create a color mapping for topics
 color_map = {
-    "English": "blue",
-    "Chinese": "red",
+    "Same Topic": "blue",
+    "Other Topics": "red",
 }
-v_2d_df["color"] = v_2d_df["language"].map(color_map)
+v_2d_df["color"] = v_2d_df["topic"].map(color_map)
 
 # Create a symbol mapping for languages
 symbol_map = {
@@ -44,19 +99,20 @@ v_2d_df["symbol"] = v_2d_df["language"].map(symbol_map)
 
 # Create traces for each language
 traces = []
-for language in v_2d_df["language"].unique():
-    df = v_2d_df[v_2d_df["language"] == language]
-    trace = go.Scatter(
-        x=df["x"],
-        y=df["y"],
-        mode="markers",
-        name=language,
-        marker=dict(color=color_map[language], symbol=symbol_map[language], size=8),
-        customdata=df[["formatted_summary"]],
-        # hovertemplate="<b>%{customdata[0]}</b><extra></extra>",
-        hoverinfo="none",
-    )
-    traces.append(trace)
+for topic in v_2d_df["topic"].unique():
+    df = v_2d_df[v_2d_df["topic"] == topic]
+    for language in df["language"].unique():
+        df_language = df[df["language"] == language]
+        trace = go.Scatter(
+            x=df_language["x"],
+            y=df_language["y"],
+            mode="markers",
+            name=f"{topic} ({language})",
+            marker=dict(color=color_map[topic], symbol=symbol_map[language], size=8),
+            customdata=df_language[["formatted_summary"]],
+            hoverinfo="none",
+        )
+        traces.append(trace)
 
 # Create the layout
 layout = go.Layout(
@@ -125,5 +181,5 @@ html_content = f"""
 """
 
 # Save the HTML content to a file
-with open("interactive_plot_200.html", "w") as f:
+with open("n_interactive_plot_200.html", "w") as f:
     f.write(html_content)
