@@ -1,0 +1,10 @@
+{
+    "Q1": {
+        "question": "Which event occurred first?",
+        "choices": {
+            "A": "Philippine soldiers were reported to have pointed guns at Chinese coast guard personnel during a resupply mission to the grounded Sierra Madre ship.",
+            "B": "The Chinese coast guard seized one of four food packs dropped by a plane for Filipino navy personnel at a territorial outpost in the South China Sea.",
+            "C": "None of the above"
+        }
+    }
+}
