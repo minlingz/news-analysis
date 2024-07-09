@@ -1,0 +1,82 @@
+{
+    "Q1": {
+        "question": "What is the main theme of the article?",
+        "choices": {
+            "A": "Geopolitical and International Relations",
+            "B": "The ongoing Russia-Ukraine war and its various developments.",
+            "C": "Political Events and Elections",
+            "D": "Market and Economic Reports",
+            "E": "None of the above"
+        }
+    },
+    "Q2": {
+        "question": "What are the primary keywords or phrases in this article?",
+        "choices": {
+            "A": "China, US, Taiwan, Philippines",
+            "B": "Russia-Ukraine war, military developments, international relations, military aid.",
+            "C": "China, Russia.",
+            "D": "Election, campaign",
+            "E": "None of the above"
+        }
+    },
+    "Q3": {
+        "question": "What event or issue is the article centered around?",
+        "choices": {
+            "A": "Shanghai Cooperation Organization (SCO) and Central Asia",
+            "B": "The latest updates and dynamics of the Russia-Ukraine war.",
+            "C": "Elections and Political Campaigns",
+            "D": "Geopolitical Tensions and Military Actions",
+            "E": "None of the above"
+        }
+    },
+    "Q4": {
+        "question": "Which region or country is primarily discussed in the article?",
+        "choices": {
+            "A": "United States",
+            "B": "Ukraine",
+            "C": "China",
+            "D": "Russia",
+            "E": "None of the above"
+        }
+    },
+    "Q5": {
+        "question": "Who is most affected by the issues discussed in the article?",
+        "choices": {
+            "A": "Political Leaders and Diplomats",
+            "B": "Ukrainian civilians and military personnel",
+            "C": "International Alliances and Organizations",
+            "D": "Economic Sectors",
+            "E": "None of the above"
+        }
+    },
+    "Q6": {
+        "question": "What type of sources does the article cite?",
+        "choices": {
+            "A": "Disinformation Sources",
+            "B": "Military reports and international relations experts",
+            "C": "Financial Regulatory Statements",
+            "D": "Geopolitical Discussions",
+            "E": "None of the above"
+        }
+    },
+    "Q7": {
+        "question": "What is the geopolitical significance of the article's content?",
+        "choices": {
+            "A": "It highlights the geopolitical tensions and potential conflict involved China.",
+            "B": "It underscores the shifting dynamics and international relations due to the Russia-Ukraine war.",
+            "C": "It examines the strengthening of strategic ties between China and Russia",
+            "D": "It analyzes the impact of new financial regulatory measures globally",
+            "E": "None of the above"
+        }
+    },
+    "Q8": {
+        "question": "What are the potential future implications mentioned in the article?",
+        "choices": {
+            "A": "The outcome of election and its impact on international relations.",
+            "B": "The prolonged conflict in Ukraine and its effects on global security.",
+            "C": "The effectiveness of diplomatic efforts.",
+            "D": "Economic and Trade trend.",
+            "E": "None of the above"
+        }
+    }
+}

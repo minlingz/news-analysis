@@ -1,0 +1,143 @@
+{
+    "promtp": "You are an expert in news analysis and skilled at creating multiple-choice question answers that help to differentiate topics between articles. 
+    I have article summary and I need to generate unique, comprehensive multiple-choice questions based on these summaries.
+    
+    Your task is to generate questions and answers both in Chinese that:
+    - Help to differentiate topics between the articles.
+    - Are common to all articles, not specific to any one article.
+    - Are unique and not repeated in any other batch.
+    - Include "None of the above" as one of the options for each question.
+    
+    Below is the format and example I need:
+    
+    1. What was done?
+       - A. The Chinese coast guard seized one of four food packs dropped by a Philippine military plane for Filipino navy personnel at a territorial outpost. After discovering the package contained food, they dumped it into the sea.
+       - B. Philippine soldiers were reported to have pointed guns at Chinese coast guard personnel during a resupply mission to the grounded Sierra Madre ship. The Chinese coast guard responded to the resupply operation, which included food drops, by observing armed Philippine soldiers on the ship’s deck.
+       - C. Turkish Foreign Minister Hakan Fidan began a trip to China and expressed priorities to support Hamas against Israel and increase trade with China, without condemning the Uyghur genocide.
+       - D. The Philippines is collaborating with the United States and Japan to ensure the West Philippine Sea (WPS) remains free and safe amid tensions with Chinese maritime forces.
+       - E. None of the above
+    
+    Summaries: {chunk}
+    
+    Generate as many as you can unique questions based on the above summaries.",
+    "Q1": {
+        "question": "发生了什么？",
+        "choices": {
+            "A": "美国国务卿安东尼·布林肯在布鲁金斯学会的外交政策论坛上发表讲话，强调美国需要与中国“激烈竞争”。",
+            "B": "意大利总理乔治亚·梅洛尼谴责其极右翼政党成员的法西斯主义行为。",
+            "C": "中国共产党发布22条司法意见，针对台湾独立倡导者。",
+            "D": "联合国人权监察团发布报告，揭示俄罗斯对乌克兰平民的严重影响。",
+            "E": "以上都不是"
+        }
+    },
+    "Q2": {
+        "question": "主要讨论了什么？",
+        "choices": {
+            "A": "美国与中国的竞争和全球影响力。",
+            "B": "意大利极右翼政党成员的法西斯主义行为。",
+            "C": "中国共产党对台湾独立倡导者的司法意见。",
+            "D": "俄罗斯对乌克兰平民的攻击及其影响。",
+            "E": "以上都不是"
+        }
+    },
+    "Q3": {
+        "question": "哪个国家的领导人呼吁停火以加速和平谈判？",
+        "choices": {
+            "A": "美国",
+            "B": "意大利",
+            "C": "匈牙利",
+            "D": "德国",
+            "E": "以上都不是"
+        }
+    },
+    "Q4": {
+        "question": "哪个国家的总理访问了乌克兰并与泽连斯基总统会面？",
+        "choices": {
+            "A": "美国",
+            "B": "意大利",
+            "C": "匈牙利",
+            "D": "德国",
+            "E": "以上都不是"
+        }
+    },
+    "Q5": {
+        "question": "哪个国家的军事力量在乌克兰战争中遭受了重大损失？",
+        "choices": {
+            "A": "美国",
+            "B": "意大利",
+            "C": "俄罗斯",
+            "D": "德国",
+            "E": "以上都不是"
+        }
+    },
+    "Q6": {
+        "question": "哪个国家的总统被指责支持俄罗斯的防御工业？",
+        "choices": {
+            "A": "美国",
+            "B": "意大利",
+            "C": "中国",
+            "D": "德国",
+            "E": "以上都不是"
+        }
+    },
+    "Q7": {
+        "question": "哪个国家的前国防部长因腐败被开除出党？",
+        "choices": {
+            "A": "美国",
+            "B": "意大利",
+            "C": "中国",
+            "D": "德国",
+            "E": "以上都不是"
+        }
+    },
+    "Q8": {
+        "question": "哪个国家的总理在访问乌克兰时呼吁停火？",
+        "choices": {
+            "A": "美国",
+            "B": "意大利",
+            "C": "匈牙利",
+            "D": "德国",
+            "E": "以上都不是"
+        }
+    },
+    "Q9": {
+        "question": "哪个国家的总统在布鲁金斯学会的外交政策论坛上发表讲话？",
+        "choices": {
+            "A": "美国",
+            "B": "意大利",
+            "C": "中国",
+            "D": "德国",
+            "E": "以上都不是"
+        }
+    },
+    "Q10": {
+        "question": "哪个国家的总理谴责其政党成员的法西斯主义行为？",
+        "choices": {
+            "A": "美国",
+            "B": "意大利",
+            "C": "匈牙利",
+            "D": "德国",
+            "E": "以上都不是"
+        }
+    },
+    "Q11": {
+        "question": "哪个国家的军事力量在乌克兰战争中使用了无人机？",
+        "choices": {
+            "A": "美国",
+            "B": "意大利",
+            "C": "俄罗斯",
+            "D": "德国",
+            "E": "以上都不是"
+        }
+    },
+    "Q12": {
+        "question": "哪个国家的总统在联合国人权理事会上发表讲话？",
+        "choices": {
+            "A": "美国",
+            "B": "意大利",
+            "C": "中国",
+            "D": "德国",
+            "E": "以上都不是"
+        }
+    }
+}

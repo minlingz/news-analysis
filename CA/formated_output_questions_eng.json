@@ -1,0 +1,62 @@
+{
+    "Q1": {
+        "question": "What is the main theme of the article?",
+        "choices": {
+            "A": "Military aid and support for Ukraine.",
+            "B": "Economic development in the Gulf Cooperation Council (GCC) countries.",
+            "C": "Technological advancements in the electric toothbrush market.",
+            "D": "Political dynamics within the European Union.",
+            "E": "None of the above"
+        }
+    },
+    "Q2": {
+        "question": "What are the primary keywords or phrases in this article?",
+        "choices": {
+            "A": "Military aid, NATO, Ukraine.",
+            "B": "Real estate, tourism, oil prices.",
+            "C": "Oral hygiene, smart toothbrushes, e-commerce.",
+            "D": "Sanctions, EU, Dr. Moshe Kantor.",
+            "E": "None of the above"
+        }
+    },
+    "Q3": {
+        "question": "What event or issue is the article centered around?",
+        "choices": {
+            "A": "The Russia-Ukraine conflict and international responses.",
+            "B": "The economic growth forecast for GCC countries.",
+            "C": "The market growth of electric toothbrushes.",
+            "D": "The EU's sanctions regime and its flaws.",
+            "E": "None of the above"
+        }
+    },
+    "Q4": {
+        "question": "Which region or country is primarily discussed in the article?",
+        "choices": {
+            "A": "Ukraine and its international allies.",
+            "B": "Gulf Cooperation Council (GCC) countries.",
+            "C": "North America and Asia-Pacific.",
+            "D": "European Union member states.",
+            "E": "None of the above"
+        }
+    },
+    "Q5": {
+        "question": "Who is most affected by the issues discussed in the article?",
+        "choices": {
+            "A": "Ukrainian civilians and military forces.",
+            "B": "Investors and businesses in the GCC region.",
+            "C": "Consumers and manufacturers of electric toothbrushes.",
+            "D": "Individuals and entities on the EU sanctions list.",
+            "E": "None of the above"
+        }
+    },
+    "Q6": {
+        "question": "What type of sources does the article cite?",
+        "choices": {
+            "A": "Government announcements and military reports.",
+            "B": "Economic forecasts and market analysis reports.",
+            "C": "Industry reports and market research studies.",
+            "D": "Legal documents and court hearings.",
+            "E": "None of the above"
+        }
+    }
+}

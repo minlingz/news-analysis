@@ -1,0 +1,102 @@
+{
+    "Q1": {
+        "question": "What is the primary focus of the Shanghai Cooperation Organization (SCO) summit attended by Chinese President Xi Jinping?",
+        "choices": {
+            "A": "Economic and energy issues, as well as the Russia-Ukraine war",
+            "B": "Climate change and environmental policies",
+            "C": "Global trade agreements and tariffs",
+            "D": "Space exploration and technology advancements",
+            "E": "None of the above"
+        }
+    },
+    "Q2": {
+        "question": "What significant geopolitical shift is highlighted by the article regarding Japan's defense strategy?",
+        "choices": {
+            "A": "Japan's acquisition of U.S.-made Tomahawk cruise missiles",
+            "B": "Japan's withdrawal from the United Nations",
+            "C": "Japan's decision to dismantle its military forces",
+            "D": "Japan's alliance with North Korea",
+            "E": "None of the above"
+        }
+    },
+    "Q3": {
+        "question": "What is the main reason for the recent increase in Germany's arms exports?",
+        "choices": {
+            "A": "The Russian invasion of Ukraine",
+            "B": "Increased demand from South American countries",
+            "C": "Expansion of Germany's domestic military forces",
+            "D": "New trade agreements with African nations",
+            "E": "None of the above"
+        }
+    },
+    "Q4": {
+        "question": "What is the primary concern of the European Council on Foreign Relations' recent report regarding the Russia-Ukraine war?",
+        "choices": {
+            "A": "The need for increased defense spending and troop deployments",
+            "B": "The impact of the war on global oil prices",
+            "C": "The potential for a negotiated settlement versus a military victory",
+            "D": "The role of social media in spreading misinformation",
+            "E": "None of the above"
+        }
+    },
+    "Q5": {
+        "question": "What is the main topic of the article discussing the political crisis in Nepal?",
+        "choices": {
+            "A": "The collapse of the government led by Prime Minister Pushpa Kamal Dahal",
+            "B": "The introduction of new economic reforms",
+            "C": "The signing of a peace treaty with neighboring countries",
+            "D": "The establishment of a new national holiday",
+            "E": "None of the above"
+        }
+    },
+    "Q6": {
+        "question": "What is the primary focus of the article discussing the recent developments in the U.S. defense industry?",
+        "choices": {
+            "A": "Delays and cost overruns in major defense projects like the Sentinel ICBM and NGAD fighter jet",
+            "B": "The expansion of the U.S. Navy's fleet",
+            "C": "The development of new space exploration technologies",
+            "D": "The increase in U.S. military presence in the Middle East",
+            "E": "None of the above"
+        }
+    },
+    "Q7": {
+        "question": "What is the main reason for the recent political tensions between Poland and the European Union?",
+        "choices": {
+            "A": "Poland's opposition to the EU's reformed Immigration and Asylum Seekers Law",
+            "B": "Poland's decision to leave the EU",
+            "C": "Poland's new trade agreements with Russia",
+            "D": "Poland's withdrawal from NATO",
+            "E": "None of the above"
+        }
+    },
+    "Q8": {
+        "question": "What is the primary focus of the article discussing the recent survey by the Korea Economic Research Institute?",
+        "choices": {
+            "A": "The expected increase in South Korean exports in the second half of 2024",
+            "B": "The decline in South Korean domestic consumption",
+            "C": "The rise in South Korean unemployment rates",
+            "D": "The impact of new environmental regulations on South Korean industries",
+            "E": "None of the above"
+        }
+    },
+    "Q9": {
+        "question": "What is the main topic of the article discussing the recent actions of the Chinese Communist Party (CCP) against Taiwan independence advocates?",
+        "choices": {
+            "A": "The issuance of 22 judicial opinions targeting Taiwan independence advocates",
+            "B": "The signing of a new trade agreement with Taiwan",
+            "C": "The establishment of a new military base in Taiwan",
+            "D": "The introduction of new educational reforms in Taiwan",
+            "E": "None of the above"
+        }
+    },
+    "Q10": {
+        "question": "What is the primary focus of the article discussing the recent developments in the Russia-Ukraine war?",
+        "choices": {
+            "A": "The use of American-supplied missiles by Ukrainian forces to attack Russian civilians",
+            "B": "The signing of a peace treaty between Russia and Ukraine",
+            "C": "The withdrawal of Russian troops from Ukraine",
+            "D": "The establishment of a new Ukrainian government",
+            "E": "None of the above"
+        }
+    }
+}

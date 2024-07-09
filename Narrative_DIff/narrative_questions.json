@@ -1,0 +1,90 @@
+{
+    "Q1": {
+        "question": "Which of the two perspectives are most aligned with the article?",
+        "choices": {
+            "A": "The article highlights the continued and substantial support from Western countries, including detailed descriptions of military aid packages and the strategic importance of this support for Ukraine's defense.",
+            "B": "The article questions the effectiveness and sustainability of Western support. They emphasize delays in aid delivery, internal disagreements among Western allies, and the potential for reduced support in the future.",
+            "C": "Not relevant to the article."
+        }
+    },
+    "Q2": {
+        "question": "Which of the two narratives are most aligned with the article?",
+        "choices": {
+            "A": "The narrative is generally supportive of Ukraine's military efforts, highlighting successes and the resilience of Ukrainian forces. There is an emphasis on the strategic importance of continued Western support to ensure Ukraine's success.",
+            "B": "The narrative often portrays Ukraine's military situation as dire, with significant challenges and setbacks. There is a focus on the difficulties faced by Ukrainian forces and the potential for a prolonged and unresolved conflict.",
+            "C": "Not relevant to the article."
+        }
+    },
+    "Q3": {
+        "question": "Which of the two tones and perspectives are most aligned with the article?",
+        "choices": {
+            "A": "The article highlights the continued and substantial support from Western countries, including detailed descriptions of military aid packages and the strategic importance of this support for Ukraine's defense.",
+            "B": "The article questions the effectiveness and sustainability of Western support. They emphasize delays in aid delivery, internal disagreements among Western allies, and the potential for reduced support in the future.",
+            "C": "Not relevant to the article."
+        }
+    },
+    "Q4": {
+        "question": "Which of the two narratives are most aligned with the article?",
+        "choices": {
+            "A": "The article discusses the political dynamics within NATO and the EU, including the challenges of maintaining unity and the strategic decisions being made to support Ukraine. They also cover the political implications of the conflict for Western leaders.",
+            "B": "The article highlights the political divisions and disagreements within NATO and the EU. They suggest that these divisions undermine the effectiveness of Western support for Ukraine and question the leadership and decision-making of Western countries.",
+            "C": "Not relevant to the article."
+        }
+    },
+    "Q5": {
+        "question": "Which of the two focus are most aligned with the article?",
+        "choices": {
+            "A": "The focus is primarily on the actions and decisions of Western countries and their impact on the conflict. There is less emphasis on the role of non-Western actors such as China or North Korea.",
+            "B": "There is a significant emphasis on the role of non-Western actors, particularly China and North Korea. These articles often suggest that these countries could play a decisive role in the conflict and highlight their potential support for Russia.",
+            "C": "Not relevant to the article."
+        }
+    },
+    "Q6": {
+        "question": "Which of the two future outook are most aligned with the article?",
+        "choices": {
+            "A": "The outlook is cautiously optimistic, with an emphasis on the importance of continued Western support and the potential for Ukraine to achieve its strategic objectives.",
+            "B": "The outlook is more pessimistic, suggesting that the conflict is likely to be prolonged and that Western support may wane over time. There is a focus on the potential for further escalation and the challenges faced by Ukraine and its allies",
+            "C": "Not relevant to the article."
+        }
+    },
+    "Q7": {
+        "question": "Which of the two level of detail are most aligned with the article??",
+        "choices": {
+            "A": "The article provides more detailed background information and data.",
+            "B": "The article omits specific details, focusing more on conveying the overall viewpoint and sentiment.",
+            "C": "Not relevant to the article."
+        }
+    },
+    "Q8": {
+        "question": "Which of the two type of citations and sources are most aligned with the article??",
+        "choices": {
+            "A": "The article cites official statements, expert opinions, and specific data, with diverse and authoritative sources.",
+            "B": "The article cites statements from domestic media and government officials, with sources relatively concentrated.",
+            "C": "Not relevant to the article."
+        }
+    },
+    "Q9": {
+        "question": "Which of the two type of narrative structure are most aligned with the article??",
+        "choices": {
+            "A": "The article has a more rigorous structure, usually reporting in chronological or logical order, with clear information hierarchy.",
+            "B": "The article has a relatively flexible structure, possibly interspersing commentary and viewpoints in the reports, presenting information in a more diverse manner",
+            "C": "Not relevant to the article."
+        }
+    },
+    "Q10": {
+        "question": "Which of the two type of narrative perspective are most aligned with the article??",
+        "choices": {
+            "A": "The article analyzes from the perspective of international relations and policies, emphasizing the positions and actions of governments and international organizations. ",
+            "B": "The article approaches from the perspective of national sentiment and political stance, emphasizing national interests and the international situation.",
+            "C": "Not relevant to the article."
+        }
+    },
+    "Q11": {
+        "question": "Which of the two focus and tone are most aligned with the article??",
+        "choices": {
+            "A": "The article focuses more on reporting facts and events with a neutral tone.",
+            "B": "The article tends to express opinions and emotions, and the tone may be more intense.",
+            "C": "Not relevant to the article."
+        }
+    }
+}

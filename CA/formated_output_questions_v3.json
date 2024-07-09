@@ -1,0 +1,82 @@
+{
+    "Q1": {
+        "question": "What is the main theme of the article?",
+        "choices": {
+            "A": "International diplomatic efforts and military aid related to the Russia-Ukraine war.",
+            "B": "The ongoing Russia-Ukraine conflict and its geopolitical implications",
+            "C": "The role of major global powers (e.g., the U.S., China, NATO) in the conflict.",
+            "D": "Political and economic impacts of the war on various countries and regions.",
+            "E": "None of the above"
+        }
+    },
+    "Q2": {
+        "question": "What are the primary keywords or phrases in this article?",
+        "choices": {
+            "A": "Geopolitical tensions.",
+            "B": "Russia-Ukraine war, military aid.",
+            "C": "Diplomatic efforts",
+            "D": "NATO.",
+            "E": "None of the above"
+        }
+    },
+    "Q3": {
+        "question": "What event or issue is the article centered around?",
+        "choices": {
+            "A": "Military aid packages and defense strategies.",
+            "B": "The Russia-Ukraine war and its various military, political, and economic dimensions",
+            "C": "Diplomatic visits and meetings related to the conflict.",
+            "D": "International reactions and alliances forming in response to the war.",
+            "E": "None of the above"
+        }
+    },
+    "Q4": {
+        "question": "Which region or country is primarily discussed in the article?",
+        "choices": {
+            "A": "United States",
+            "B": "Ukraine",
+            "C": "European Union",
+            "D": "Russia",
+            "E": "None of the above"
+        }
+    },
+    "Q5": {
+        "question": "Who is most affected by the issues discussed in the article?",
+        "choices": {
+            "A": "Russian military and political leadership",
+            "B": "Ukrainian civilians and military personnel",
+            "C": "International allies and partners of Ukraine (e.g., NATO countries)",
+            "D": "Global economic and political stakeholders",
+            "E": "None of the above"
+        }
+    },
+    "Q6": {
+        "question": "What type of sources does the article cite?",
+        "choices": {
+            "A": "Official government statements and press releases.",
+            "B": "Military and defense analysis from experts and think tanks.",
+            "C": "Reports from international organizations (e.g., NATO, UN)",
+            "D": "Statements from political leaders and diplomats.",
+            "E": "None of the above"
+        }
+    },
+    "Q7": {
+        "question": "What is the geopolitical significance of the article's content?",
+        "choices": {
+            "A": "The shifting balance of power in Eastern Europe and its global implications",
+            "B": "The role of international alliances and partnerships in the conflict.",
+            "C": "The impact of military aid and sanctions on the war's progression.",
+            "D": "The broader strategic interests of major powers like the U.S., China, and Russia.",
+            "E": "None of the above"
+        }
+    },
+    "Q8": {
+        "question": "What are the potential future implications mentioned in the article?",
+        "choices": {
+            "A": "Prolonged conflict and continued military engagements.",
+            "B": "Changes in international alliances and defense strategies.",
+            "C": "Potential for escalated tensions or peace negotiations.",
+            "D": "Economic and political shifts resulting from the war and international responses.",
+            "E": "None of the above"
+        }
+    }
+}

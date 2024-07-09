@@ -1,0 +1,82 @@
+{
+    "Q1": {
+        "question": "What is the main theme of the article?",
+        "choices": {
+            "A": "The role of Vice President Kamala Harris in President Joe Biden's re-election campaign.",
+            "B": "The ongoing Russia-Ukraine war and its various developments.",
+            "C": "Corruption within the Chinese military and its implications.",
+            "D": "The economic outlook and pricing competitiveness of crude palm oil.",
+            "E": "None of the above"
+        }
+    },
+    "Q2": {
+        "question": "What are the primary keywords or phrases in this article?",
+        "choices": {
+            "A": "Re-election, Kamala Harris, Biden, Trump, reproductive rights.",
+            "B": "Russia-Ukraine war, military developments, international relations, military aid.",
+            "C": "Chinese military, corruption, anti-corruption campaign, Xi Jinping, Taiwan.",
+            "D": "Crude palm oil, pricing competitiveness, weather conditions, geopolitical tensions.",
+            "E": "None of the above"
+        }
+    },
+    "Q3": {
+        "question": "What event or issue is the article centered around?",
+        "choices": {
+            "A": "Kamala Harris supporting Joe Biden's re-election campaign.",
+            "B": "The latest updates and dynamics of the Russia-Ukraine war.",
+            "C": "The expulsion of Chinese Defense Ministers due to corruption.",
+            "D": "The expected pricing competitiveness of crude palm oil in 2024.",
+            "E": "None of the above"
+        }
+    },
+    "Q4": {
+        "question": "Which region or country is primarily discussed in the article?",
+        "choices": {
+            "A": "United States",
+            "B": "Ukraine",
+            "C": "China",
+            "D": "Russia",
+            "E": "None of the above"
+        }
+    },
+    "Q5": {
+        "question": "Who is most affected by the issues discussed in the article?",
+        "choices": {
+            "A": "U.S. political figures and voters",
+            "B": "Ukrainian civilians and military personnel",
+            "C": "Chinese military officials and the general public",
+            "D": "Crude palm oil producers and importers",
+            "E": "None of the above"
+        }
+    },
+    "Q6": {
+        "question": "What type of sources does the article cite?",
+        "choices": {
+            "A": "Political analysts and campaign advisors",
+            "B": "Military reports and international relations experts",
+            "C": "Former military officers and anti-corruption analysts",
+            "D": "Economic forecasts and market analysts",
+            "E": "None of the above"
+        }
+    },
+    "Q7": {
+        "question": "What is the geopolitical significance of the article's content?",
+        "choices": {
+            "A": "It highlights the internal political dynamics of the U.S. re-election campaign.",
+            "B": "It underscores the shifting dynamics and international relations due to the Russia-Ukraine war.",
+            "C": "It reveals the deep-rooted corruption within the Chinese military and its impact on regional stability.",
+            "D": "It discusses the economic factors influencing the pricing of crude palm oil.",
+            "E": "None of the above"
+        }
+    },
+    "Q8": {
+        "question": "What are the potential future implications mentioned in the article?",
+        "choices": {
+            "A": "The outcome of the U.S. presidential election and its impact on international relations.",
+            "B": "The prolonged conflict in Ukraine and its effects on global security.",
+            "C": "The effectiveness of anti-corruption measures in China and their impact on military readiness.",
+            "D": "The expected rise in crude palm oil prices and its effect on global markets.",
+            "E": "None of the above"
+        }
+    }
+}
